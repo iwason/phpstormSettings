@@ -32,6 +32,11 @@
       <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
         <mark key="'" line="55" column="4" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/eryui.php" timestamp="1477041247876">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="748" column="22" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
@@ -136,8 +141,8 @@
       <jump line="87" column="27" filename="C:/xampp/htdocs/gibson/protected/components/common/reservation/RJ_TeacherDataManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQ3JlOWExZmE4MmJjODU5MzQxMzYwOWIxZWU4OWJhMjcxNjFlNmE2OWJmNmF0ZWQgYnkgUGhwU3Rvcm0uCiAqIERhdGU6IDIwMTYvMTAvMjEKICogVXNlcjoganVucGVpLml3YW11cmEKICogVGk5YTFmYTgyYmM4NTkzNDEzNjA5YjFlZTg5YmEyNzE2MWU2YTY5YmY2bWU6IDE4OjExCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -148,38 +153,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibWF4RnJhbWVSYXRlIjogMjUK</text>
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">ICogQ3JlOWExZmE4MmJjODU5MzQxMzYwOWIxZWU4OWJhMjcxNjFlNmE2OWJmNmF0ZWQgYnkgUGhwU3Rvcm0uCiAqIERhdGU6IDIwMTYvMTAvMjEKICogVXNlcjoganVucGVpLml3YW11cmEKICogVGk5YTFmYTgyYmM4NTkzNDEzNjA5YjFlZTg5YmEyNzE2MWU2YTY5YmY2bWU6IDE4OjExCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>[</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogVXNlcjoganVucGVpLml3YW11cmEK</text>
       </register>
       <register name="3" type="4">
-        <text>{\&quot;tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>tutor\&quot;:1,\&quot;score\&quot;:3.6994,\&quot;vacant_slot_count\&quot;:8},{\&quot;tutor_id\&quot;:126073,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6553,\&quot;vacant_slot_count\&quot;:14},{\&quot;tutor_id\&quot;:215840,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6013,\&quot;vacant_slot_count\&quot;:6},{\&quot;tutor_id\&quot;:13034,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.5641,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:37316,\&quot;is_matching_tutor</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11},{\&quot;tutor_id\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_count\&quot;:12},{\&quot;tutor_id\&quot;:100134,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0727,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:67615,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0498,\&quot;vacant_slot_count\&quot;:13},{\&quot;tutor_id\&quot;:483,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0101,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:73478,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0043,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:49340,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.8195,\&quot;vacant_slot_count\&quot;:7},{\&quot;tutor_id\&quot;:71875,\&quot;is_matching_</text>
+        <text>{\&quot;tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11</text>
       </register>
       <register name="6" type="4">
-        <text>unt\&quot;:12},{\&quot;tutor</text>
+        <text>tutor\&quot;:1,\&quot;score\&quot;:3.6994,\&quot;vacant_slot_count\&quot;:8},{\&quot;tutor_id\&quot;:126073,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6553,\&quot;vacant_slot_count\&quot;:14},{\&quot;tutor_id\&quot;:215840,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6013,\&quot;vacant_slot_count\&quot;:6},{\&quot;tutor_id\&quot;:13034,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.5641,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:37316,\&quot;is_matching_tutor</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
+        <text>tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11},{\&quot;tutor_id\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_count\&quot;:12},{\&quot;tutor_id\&quot;:100134,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0727,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:67615,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0498,\&quot;vacant_slot_count\&quot;:13},{\&quot;tutor_id\&quot;:483,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0101,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:73478,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0043,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:49340,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.8195,\&quot;vacant_slot_count\&quot;:7},{\&quot;tutor_id\&quot;:71875,\&quot;is_matching_</text>
+      </register>
+      <register name="8" type="4">
+        <text>unt\&quot;:12},{\&quot;tutor</text>
+      </register>
+      <register name="9" type="4">
         <text>d\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_co</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdW5zZXQoJHRlYWNoZXJMaXN0WyRrZXldKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIHVuc2V0KCR0ZWFjaGVyTGlzdFska2V5XSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICB1bnNldCgkdGVhY2hlckxpc3RbJGtleV0pOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgdW5zZXQoJHRlYWNoZXJMaXN0WyRrZXldKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIHVuc2V0KCR0ZWFjaGVyTGlzdFska2V5XSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlICRjaGFyYWN0ZXIgPT09IFJKX0NvbnN0YW50czo6VEVBQ0hFUl9DSEFSQUNURVJfU0JTICYmICR0ZWFjaGVyLT5pc1NpZGVCeVNpZGVUZWFjaGVyID09PSBmYWxzZSA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -270,6 +275,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
