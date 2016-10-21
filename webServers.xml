@@ -1,0 +1,51 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bed1590d-4b8c-44d8-b371-dae2f85901cb" name="ASWEB01" url="http://yiiwa.rarejob.com">
+        <fileTransfer host="172.16.110.51" port="22" rootFolder="/home/iwamura" accessType="SFTP" password="dfd8dfcbdfd8dfcfdfc0dfc5dfc8df9adf9b" username="iwamura">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2a56b8f8-4020-4c82-815f-af1df7662160" name="ALWEB01" url="http://iwamuraweb.shibuya.vm">
+        <fileTransfer host="172.16.111.51" port="22" rootFolder="/home/iwamura" accessType="SFTP" password="dfd8dfcbdfd8dfcfdfc0dfc5dfc8df9adf9b" username="iwamura">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5b3ef65b-c70c-440c-b75f-9978654d4c6f" name="ASWEB.iwamura" url="http://iwamura.rarejob.com">
+        <fileTransfer host="172.16.110.133" port="22" rootFolder="/var/www/app/current/rarejob" accessType="SFTP" password="dfd8dfcbdfd8dfcfdfc0dfc5dfc8" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d69bd20-8c62-436b-82b0-3f36cfdc65cb" name="shibuya2" url="http://133.242.22.19">
+        <fileTransfer host="133.242.22.19" port="22" rootFolder="/var/www/app/current" accessType="SFTP" password="dfc3dfc9df93df98dfccdfdedfdddfdc" username="rarejob">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="938f3ac7-2393-42d6-a2d1-5e86d03b2d5f" name="shibuya2Batch" url="http://133.242.18.88">
+        <fileTransfer host="133.242.18.88" port="22" rootFolder="/var/www/app/current" accessType="SFTP" password="dfc3dfc9df93df98dfccdfdedfdddfdc" username="rarejob">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="395742ed-f77a-497f-be05-202a6949b710" name="sampleProject" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\yii-basic\basic" accessType="MOUNT" />
+      </webServer>
+      <webServer id="f02f6697-47a0-467e-b19a-2cd2f440c8c8" name="AAAPI.iwamura" url="http://172.16.110.172">
+        <fileTransfer host="172.16.110.172" port="22" rootFolder="/var/www/app/current" accessType="SFTP" password="dfd8dfcbdfd8dfcfdfc0dfc5dfc8" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

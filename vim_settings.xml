@@ -1,0 +1,275 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1475572858135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
+        <mark key="'" line="1457" column="26" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" timestamp="1475651239295">
+        <mark key="'" line="222" column="55" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1475654796475">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1475572858196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1475654791244">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" timestamp="1475652501930">
+        <mark key="'" line="69" column="20" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
+        <mark key="'" line="55" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="748" column="22" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="739" column="18" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="732" column="49" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="2272" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/composer.lock" />
+      <jump line="298" column="9" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_d.php" />
+      <jump line="46" column="55" filename="C:/xampp/htdocs/gibson/protected/config/base.php" />
+      <jump line="222" column="1" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="3" column="16" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="210" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="12" column="17" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="24" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="27" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="33" column="35" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="44" column="22" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="39" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="46" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="52" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="58" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="64" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="70" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="77" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="82" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="88" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="95" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="100" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="111" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="106" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="117" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="112" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="119" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="125" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="131" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="137" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="142" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="148" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="154" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="160" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="166" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="172" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="178" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="184" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="190" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="196" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="202" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="208" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="214" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="220" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="226" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="232" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="161" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="23" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="55" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.css" />
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/config.rb" />
+      <jump line="1452" column="9" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/homenew1511.css" />
+      <jump line="53" column="41" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="83" column="10" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="107" column="35" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="98" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="60" column="66" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="2172" column="17" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="128" column="48" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
+      <jump line="116" column="12" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="135" column="46" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
+      <jump line="27" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="34" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="130" column="42" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
+      <jump line="25" column="8" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
+      <jump line="51" column="83" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="487" column="47" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="22" column="8" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="48" column="5" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="18" column="0" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="491" column="29" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="36" column="25" filename="C:/xampp/htdocs/gibson/protected/components/widgets/tag/views/header_information.php" />
+      <jump line="513" column="0" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="530" column="71" filename="C:/xampp/htdocs/gibson/protected/views/homeJp/index.php" />
+      <jump line="58" column="15" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="52" column="13" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="6" column="35" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="57" column="14" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="4" column="10" filename="$USER_HOME$/PhpstormProjects/peerjs-master/examples/mysample/videochat.js" />
+      <jump line="812" column="20" filename="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" />
+      <jump line="1457" column="26" filename="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" />
+      <jump line="55" column="4" filename="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" />
+      <jump line="624" column="16" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
+      <jump line="48" column="21" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
+      <jump line="170" column="49" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
+      <jump line="178" column="49" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
+      <jump line="266" column="25" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="73" column="31" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="260" column="4" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="259" column="21" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="9" column="49" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="55" column="27" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="69" column="20" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
+      <jump line="222" column="55" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
+      <jump line="87" column="27" filename="C:/xampp/htdocs/gibson/protected/components/common/reservation/RJ_TeacherDataManager.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAibWF4RnJhbWVSYXRlIjogMjUK</text>
+      </register>
+      <register name="1" type="4">
+        <text />
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>[</text>
+      </register>
+      <register name="3" type="4">
+        <text>{\&quot;tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11</text>
+      </register>
+      <register name="4" type="4">
+        <text>tutor\&quot;:1,\&quot;score\&quot;:3.6994,\&quot;vacant_slot_count\&quot;:8},{\&quot;tutor_id\&quot;:126073,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6553,\&quot;vacant_slot_count\&quot;:14},{\&quot;tutor_id\&quot;:215840,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6013,\&quot;vacant_slot_count\&quot;:6},{\&quot;tutor_id\&quot;:13034,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.5641,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:37316,\&quot;is_matching_tutor</text>
+      </register>
+      <register name="5" type="4">
+        <text>tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11},{\&quot;tutor_id\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_count\&quot;:12},{\&quot;tutor_id\&quot;:100134,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0727,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:67615,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0498,\&quot;vacant_slot_count\&quot;:13},{\&quot;tutor_id\&quot;:483,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0101,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:73478,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0043,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:49340,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.8195,\&quot;vacant_slot_count\&quot;:7},{\&quot;tutor_id\&quot;:71875,\&quot;is_matching_</text>
+      </register>
+      <register name="6" type="4">
+        <text>unt\&quot;:12},{\&quot;tutor</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
+        <text>d\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_co</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdW5zZXQoJHRlYWNoZXJMaXN0WyRrZXldKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIHVuc2V0KCR0ZWFjaGVyTGlzdFska2V5XSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICB1bnNldCgkdGVhY2hlckxpc3RbJGtleV0pOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgdW5zZXQoJHRlYWNoZXJMaXN0WyRrZXldKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIHVuc2V0KCR0ZWFjaGVyTGlzdFska2V5XSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlICRjaGFyYWN0ZXIgPT09IFJKX0NvbnN0YW50czo6VEVBQ0hFUl9DSEFSQUNURVJfU0JTICYmICR0ZWFjaGVyLT5pc1NpZGVCeVNpZGVUZWFjaGVyID09PSBmYWxzZSA6Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>guide</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Ba</entry>
+        <entry>where</entry>
+        <entry>laravel</entry>
+        <entry>rj4b</entry>
+        <entry encoding="base64">XDxzcHJpdGVQb3NpdGlvblw+</entry>
+        <entry>sprite</entry>
+        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
+        <entry>スライドバナー</entry>
+        <entry>dlpo</entry>
+        <entry>typesquare</entry>
+        <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
+        <entry>Teacher</entry>
+        <entry>TeacherMatch</entry>
+        <entry encoding="base64">XDxDQU5fVVNFX1RVVE9SX1RPX1RVVE9SX01BVENIXD4=</entry>
+        <entry>Match</entry>
+        <entry>teacherMa</entry>
+        <entry encoding="base64">XDx0ZWFjaGVyTWF0Y2hcPg==</entry>
+        <entry>TeacherMa</entry>
+        <entry encoding="base64">XDxtYWtlQVBJUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>1225</entry>
+        <entry>123</entry>
+        <entry>66</entry>
+        <entry>140</entry>
+        <entry>120</entry>
+        <entry>480</entry>
+        <entry>485</entry>
+        <entry>130</entry>
+        <entry>144</entry>
+        <entry>290</entry>
+        <entry>640</entry>
+        <entry>610</entry>
+        <entry>600</entry>
+        <entry>104</entry>
+        <entry>990</entry>
+        <entry>161</entry>
+        <entry>:q</entry>
+        <entry>131</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

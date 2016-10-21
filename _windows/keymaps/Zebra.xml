@@ -1,0 +1,5 @@
+<keymap version="1" name="Zebra" parent="$default">
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+</keymap>
