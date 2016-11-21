@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1475572858135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/ApplicationServices/LessonService.php" timestamp="1479721410456" />
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
@@ -21,8 +20,6 @@
       <file name="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" timestamp="1475652501930">
         <mark key="'" line="69" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/Service/LessonDistributionService.php" timestamp="1479722876315" />
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1479719410336" />
       <file name="$USER_HOME$/PhpstormProjects/untitled/eryui.php" timestamp="1477041247876">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
