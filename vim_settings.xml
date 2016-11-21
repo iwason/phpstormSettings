@@ -10,15 +10,6 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
-      <file name="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" timestamp="1475651239295">
-        <mark key="'" line="222" column="55" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1475654796475">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1475572858196">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,26 +21,30 @@
       <file name="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" timestamp="1475652501930">
         <mark key="'" line="69" column="20" />
       </file>
-      <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
-        <mark key="'" line="55" column="4" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/Service/LessonDistributionService.php" timestamp="1479722876315" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1479719410336" />
       <file name="$USER_HOME$/PhpstormProjects/untitled/eryui.php" timestamp="1477041247876">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" timestamp="1479722863355">
+        <mark key="'" line="73" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" timestamp="1475651239295">
+        <mark key="'" line="222" column="55" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1475654796475">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
+        <mark key="'" line="55" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="748" column="22" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="739" column="18" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="732" column="49" filename="$USER_HOME$/PhpstormProjects/zebra/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="2272" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/composer.lock" />
-      <jump line="298" column="9" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_d.php" />
-      <jump line="46" column="55" filename="C:/xampp/htdocs/gibson/protected/config/base.php" />
-      <jump line="222" column="1" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="3" column="16" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="210" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="12" column="17" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="24" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
@@ -141,6 +136,15 @@
       <jump line="69" column="20" filename="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" />
       <jump line="222" column="55" filename="C:/xampp/htdocs/gibson/protected/modules/publicApi/controllers/ReservationSearchController.php" />
       <jump line="87" column="27" filename="C:/xampp/htdocs/gibson/protected/components/common/reservation/RJ_TeacherDataManager.php" />
+      <jump line="61" column="4" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="74" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="91" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="189" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="198" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="221" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="1116" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -150,7 +154,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</text>
+        <text>retrieveLessonSlots</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibWF4RnJhbWVSYXRlIjogMjUK</text>
@@ -193,9 +197,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</last-search>
+      <last-search>retrieveLessonSlots</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</last-pattern>
+      <last-pattern>retrieveLessonSlots</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -203,8 +207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ba</entry>
-        <entry>where</entry>
         <entry>laravel</entry>
         <entry>rj4b</entry>
         <entry encoding="base64">XDxzcHJpdGVQb3NpdGlvblw+</entry>
@@ -223,6 +225,8 @@
         <entry>TeacherMa</entry>
         <entry encoding="base64">XDxtYWtlQVBJUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</entry>
+        <entry>retrieve</entry>
+        <entry>retrieveLessonSlots</entry>
       </history-search>
       <history-cmd>
         <entry>1225</entry>
