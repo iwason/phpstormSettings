@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/models/AutomaticTransfer.php" timestamp="1485409248211">
+        <mark key="'" line="337" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1475572858135">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,9 +45,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="12" column="17" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="24" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="27" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="33" column="35" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="44" column="22" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
@@ -142,6 +142,9 @@
       <jump line="1116" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
       <jump line="73" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" />
+      <jump line="361" column="20" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/models/AutomaticTransfer.php" />
+      <jump line="314" column="26" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/models/AutomaticTransfer.php" />
+      <jump line="337" column="20" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/models/AutomaticTransfer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -151,7 +154,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>retrieveLessonSlots</text>
+        <text encoding="base64">XDxpc1RyYW5zZmVyZWRTdWJMZXNzb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibWF4RnJhbWVSYXRlIjogMjUK</text>
@@ -194,9 +197,9 @@
       </register>
     </registers>
     <search>
-      <last-search>retrieveLessonSlots</last-search>
+      <last-search encoding="base64">XDxpc1RyYW5zZmVyZWRTdWJMZXNzb25cPg==</last-search>
       <last-offset />
-      <last-pattern>retrieveLessonSlots</last-pattern>
+      <last-pattern encoding="base64">XDxpc1RyYW5zZmVyZWRTdWJMZXNzb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -204,8 +207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>laravel</entry>
-        <entry>rj4b</entry>
         <entry encoding="base64">XDxzcHJpdGVQb3NpdGlvblw+</entry>
         <entry>sprite</entry>
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
@@ -224,6 +225,8 @@
         <entry encoding="base64">XDxmaW5kU3R1ZGVudE1hdGNoZXNcPg==</entry>
         <entry>retrieve</entry>
         <entry>retrieveLessonSlots</entry>
+        <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
+        <entry encoding="base64">XDxpc1RyYW5zZmVyZWRTdWJMZXNzb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1225</entry>
