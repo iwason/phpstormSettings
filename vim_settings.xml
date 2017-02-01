@@ -42,6 +42,9 @@
       <file name="/PHP Console" timestamp="1475654796475">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" timestamp="1485934107443">
+        <mark key="'" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1485915149781">
         <mark key="'" line="865" column="0" />
         <mark key="[" line="211" column="13" />
@@ -54,8 +57,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="142" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="148" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="154" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="160" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
@@ -154,6 +155,8 @@
       <jump line="163" column="5" filename="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" />
       <jump line="159" column="115" filename="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" />
       <jump line="865" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
