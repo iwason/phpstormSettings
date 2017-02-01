@@ -10,6 +10,7 @@
         <mark key="'" line="1457" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1485914667170" />
+      <file name="$USER_HOME$/PhpstormProjects/zebra/config/app.php" timestamp="1485935177684" />
       <file name="/a.dummy" timestamp="1475572858196">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,7 +43,7 @@
       <file name="/PHP Console" timestamp="1475654796475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" timestamp="1485934107443">
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" timestamp="1485935217549">
         <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1485915149781">
