@@ -9,6 +9,7 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/Controllers/TeacherController.php" timestamp="1485943808333" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1485914667170" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/config/app.php" timestamp="1485941207044" />
       <file name="/a.dummy" timestamp="1475572858196">
@@ -21,6 +22,9 @@
       </file>
       <file name="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" timestamp="1475652501930">
         <mark key="'" line="69" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" timestamp="1485944007841">
+        <mark key="'" line="62" column="31" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php" timestamp="1485914794113" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1485940856389">
@@ -46,7 +50,7 @@
       <file name="/PHP Console" timestamp="1475654796475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" timestamp="1485935217549">
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" timestamp="1485943606861">
         <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1485915149781">
@@ -61,13 +65,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="160" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="166" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="172" column="11" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="178" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="184" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="190" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="196" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="202" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
       <jump line="208" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
@@ -161,6 +158,13 @@
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" />
       <jump line="43" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/app/Utilities/ErrorLogging.php" />
       <jump line="63" column="21" filename="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" />
+      <jump line="79" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="56" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="69" column="23" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="127" column="35" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="133" column="35" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="110" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="62" column="31" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -170,7 +174,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dFcnJvclw+</text>
+        <text encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibWF4RnJhbWVSYXRlIjogMjUK</text>
@@ -213,9 +217,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dFcnJvclw+</last-search>
+      <last-search encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dFcnJvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -223,10 +227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dlpo</entry>
-        <entry>typesquare</entry>
-        <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
-        <entry>Teacher</entry>
         <entry>TeacherMatch</entry>
         <entry encoding="base64">XDxDQU5fVVNFX1RVVE9SX1RPX1RVVE9SX01BVENIXD4=</entry>
         <entry>Match</entry>
@@ -243,6 +243,10 @@
         <entry encoding="base64">XDx0aW1lX3N0YXJ0XD4=</entry>
         <entry encoding="base64">XDxyeWVhclw+</entry>
         <entry encoding="base64">XDxsb2dFcnJvclw+</entry>
+        <entry encoding="base64">XDxnZXRSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxzdGF0dXNUZXh0c1w+</entry>
+        <entry encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>
