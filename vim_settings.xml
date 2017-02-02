@@ -36,7 +36,7 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" timestamp="1485944007841">
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" timestamp="1486003345532">
         <mark key="'" line="62" column="31" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php" timestamp="1485914794113" />
