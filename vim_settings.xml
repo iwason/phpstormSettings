@@ -33,12 +33,7 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" timestamp="1486003345532">
         <mark key="'" line="62" column="31" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions_sendemail.php" timestamp="1487124494988">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions_sendemail.php" timestamp="1487142524226" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1485940856389">
         <mark key="'" line="63" column="21" />
       </file>
