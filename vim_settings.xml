@@ -6,8 +6,12 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1489031412767">
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1489044643766">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="1301" column="58" />
+        <mark key="]" line="1301" column="58" />
+        <mark key="^" line="1301" column="58" />
+        <mark key="." line="1301" column="58" />
       </file>
       <file name="/fragment.php" timestamp="1475654791244">
         <mark key="[" line="0" column="0" />
@@ -148,49 +152,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ID8gRkFMU0UgOiBUUlVF</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ID8gRkFMU0UgOiBUUlVF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXNzb25fZGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>stamp</text>
+        <text>===1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8kcGhfdGltZSAgICAgICAgICA9IGRhdGUoJ1ktbS1kIEg6aTpzJywgc3RydG90aW1lKGRhdGUoJzIwMTItMTAtMDMgMDk6NTA6MDAnKSkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAkdGltZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRpbWUgPSAnMDA6MDAnOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICAkdGltZSA9ICR0aW1lLic6MDAnOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9pZiB3ZWVrZW5kcwovKgppZihkYXRlKCdOJyxzdHJ0b3RpbWUoJHllYXIuJy0nLiRtb250aC4nLScuJGRheSkpPjUpewogICAgZXhpdCgpOwp9Ki8K</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICAgICAkdGltZSA9IGludHZhbCgkcnRpbWUpIC8gMjsKICAgICAgICBpZihpbnR2YWwoJHRpbWUpPT09MjQpCiAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50dmFsKCkK</text>
+        <text encoding="base64">ICAgIGlmKCRydGltZSAlMiA9PT0xKQogICAgewogICAgICAgIAogICAgICAgICRydGltZSA9IGludHZhbCgkcnRpbWUpIC0gMTsKICAgICAgICAkdGltZSAgPSBpbnR2YWwoJHJ0aW1lKSAvIDI7CiAgICAgICAgaWYoaW50dmFsKCR0aW1lKT09PTI0KQogICAgICAgIHsKICAgICAgICAgICAgJHRpbWUgPSAnMDA6MzAnOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICAkdGltZSA9ICR0aW1lLic6MzAnOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllY2hvICRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaG91ciA9ICgkcnRpbWUgLyAyICkgJSAyNDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlOWExZmE4MmJjODU5MzQxMzYwOWIxZWU4OWJhMjcxNjFlNmE2OWJmNmF0ZWQgYnkgUGhwU3Rvcm0uCiAqIERhdGU6IDIwMTYvMTAvMjEKICogVXNlcjoganVucGVpLml3YW11cmEKICogVGk5YTFmYTgyYmM4NTkzNDEzNjA5YjFlZTg5YmEyNzE2MWU2YTY5YmY2bWU6IDE4OjExCg==</text>
+        <text encoding="base64">Ly8kcGhfdGltZSAgICAgICAgICA9IGRhdGUoJ1ktbS1kIEg6aTpzJywgc3RydG90aW1lKGRhdGUoJzIwMTItMTAtMDMgMDk6NTA6MDAnKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVXNlcjoganVucGVpLml3YW11cmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>438</text>
