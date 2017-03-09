@@ -6,6 +6,9 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1489029925292">
+        <mark key="'" line="234" column="20" />
+      </file>
       <file name="/fragment.php" timestamp="1475654791244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -25,7 +28,7 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/models/AutomaticTransfer.php" timestamp="1485412058927">
         <mark key="'" line="337" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/sch/pro/scheduler/sch_teacher.php" timestamp="1489028651651" />
+      <file name="$USER_HOME$/PhpstormProjects/kraken/sch/pro/scheduler/sch_teacher.php" timestamp="1489028836288" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1489028394040">
         <mark key="'" line="865" column="0" />
         <mark key="[" line="211" column="13" />
@@ -39,34 +42,14 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" timestamp="1489028375017" />
+      <file name="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" timestamp="1489029995585">
+        <mark key="'" line="715" column="9" />
+      </file>
       <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
         <mark key="'" line="55" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="202" column="37" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="208" column="39" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="214" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="220" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="226" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="232" column="40" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="161" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="23" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="55" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/_sprite_logo.css" />
-      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/sass/responsive/config.rb" />
-      <jump line="1452" column="9" filename="$USER_HOME$/PhpstormProjects/sass/responsive/sass/homenew1511.css" />
-      <jump line="53" column="41" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="83" column="10" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="107" column="35" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="98" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="60" column="66" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="2172" column="17" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="128" column="48" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
-      <jump line="116" column="12" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
-      <jump line="135" column="46" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
       <jump line="27" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
       <jump line="34" column="29" filename="C:/xampp/htdocs/gibson/protected/components/helpers/RJ_InstantAccountCreator.php" />
       <jump line="130" column="42" filename="C:/xampp/htdocs/gibson/protected/commands/DevHackCommand.php" />
@@ -145,61 +128,83 @@
       <jump line="133" column="35" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
       <jump line="110" column="20" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
       <jump line="62" column="31" filename="$USER_HOME$/PhpstormProjects/zebra/app/Exceptions/Handler.php" />
+      <jump line="390" column="35" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="449" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="454" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="480" column="32" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="482" column="46" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="495" column="47" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="505" column="37" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="506" column="36" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="538" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="543" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="546" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="570" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="592" column="27" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="595" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="604" column="35" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="607" column="31" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="670" column="9" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
+      <jump line="234" column="20" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
+      <jump line="718" column="38" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="685" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="697" column="25" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
+      <jump line="715" column="9" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>description_text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW50dmFsKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>description_text</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkZmxhZyA9ICcxJzsKCQllY2hvICRmbGFnID09ICcxJyA/CgkJCQknbWFsZScgOiAoKCRmbGFnID09ICcyJykgPyAnZmVtYWxlJyA6ICd1bmRlZmluZWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQllY2hvICRhOwo=</text>
+        <text encoding="base64">aW50dmFsKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlOWExZmE4MmJjODU5MzQxMzYwOWIxZWU4OWJhMjcxNjFlNmE2OWJmNmF0ZWQgYnkgUGhwU3Rvcm0uCiAqIERhdGU6IDIwMTYvMTAvMjEKICogVXNlcjoganVucGVpLml3YW11cmEKICogVGk5YTFmYTgyYmM4NTkzNDEzNjA5YjFlZTg5YmEyNzE2MWU2YTY5YmY2bWU6IDE4OjExCg==</text>
+        <text encoding="base64">CQllY2hvICRhOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICogQ3JlOWExZmE4MmJjODU5MzQxMzYwOWIxZWU4OWJhMjcxNjFlNmE2OWJmNmF0ZWQgYnkgUGhwU3Rvcm0uCiAqIERhdGU6IDIwMTYvMTAvMjEKICogVXNlcjoganVucGVpLml3YW11cmEKICogVGk5YTFmYTgyYmM4NTkzNDEzNjA5YjFlZTg5YmEyNzE2MWU2YTY5YmY2bWU6IDE4OjExCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICogVXNlcjoganVucGVpLml3YW11cmEK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text />
       </register>
-      <register name="5" type="4">
-        <text>[</text>
-      </register>
       <register name="6" type="4">
-        <text>{\&quot;tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11</text>
+        <text>[</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>tutor\&quot;:1,\&quot;score\&quot;:3.6994,\&quot;vacant_slot_count\&quot;:8},{\&quot;tutor_id\&quot;:126073,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6553,\&quot;vacant_slot_count\&quot;:14},{\&quot;tutor_id\&quot;:215840,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6013,\&quot;vacant_slot_count\&quot;:6},{\&quot;tutor_id\&quot;:13034,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.5641,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:37316,\&quot;is_matching_tutor</text>
+        <text>{\&quot;tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11</text>
       </register>
       <register name="8" type="4">
-        <text>tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11},{\&quot;tutor_id\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_count\&quot;:12},{\&quot;tutor_id\&quot;:100134,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0727,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:67615,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0498,\&quot;vacant_slot_count\&quot;:13},{\&quot;tutor_id\&quot;:483,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0101,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:73478,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0043,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:49340,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.8195,\&quot;vacant_slot_count\&quot;:7},{\&quot;tutor_id\&quot;:71875,\&quot;is_matching_</text>
+        <text>tutor\&quot;:1,\&quot;score\&quot;:3.6994,\&quot;vacant_slot_count\&quot;:8},{\&quot;tutor_id\&quot;:126073,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6553,\&quot;vacant_slot_count\&quot;:14},{\&quot;tutor_id\&quot;:215840,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.6013,\&quot;vacant_slot_count\&quot;:6},{\&quot;tutor_id\&quot;:13034,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.5641,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:37316,\&quot;is_matching_tutor</text>
       </register>
       <register name="9" type="4">
-        <text>unt\&quot;:12},{\&quot;tutor</text>
+        <text>tutor_id\&quot;:69497,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.0534,\&quot;vacant_slot_count\&quot;:11},{\&quot;tutor_id\&quot;:33069,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.8281,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:96739,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.1013,\&quot;vacant_slot_count\&quot;:12},{\&quot;tutor_id\&quot;:100134,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0727,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:67615,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0498,\&quot;vacant_slot_count\&quot;:13},{\&quot;tutor_id\&quot;:483,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0101,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:73478,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:4.0043,\&quot;vacant_slot_count\&quot;:0},{\&quot;tutor_id\&quot;:49340,\&quot;is_matching_tutor\&quot;:1,\&quot;score\&quot;:3.8195,\&quot;vacant_slot_count\&quot;:7},{\&quot;tutor_id\&quot;:71875,\&quot;is_matching_</text>
       </register>
       <register name=":" type="4">
         <text>405</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -207,8 +212,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TeacherMatch</entry>
-        <entry encoding="base64">XDxDQU5fVVNFX1RVVE9SX1RPX1RVVE9SX01BVENIXD4=</entry>
         <entry>Match</entry>
         <entry>teacherMa</entry>
         <entry encoding="base64">XDx0ZWFjaGVyTWF0Y2hcPg==</entry>
@@ -219,7 +222,6 @@
         <entry>retrieveLessonSlots</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
         <entry encoding="base64">XDxpc1RyYW5zZmVyZWRTdWJMZXNzb25cPg==</entry>
-        <entry encoding="base64">XDxteXNxbF9xdWVyeVw+</entry>
         <entry encoding="base64">XDx0aW1lX3N0YXJ0XD4=</entry>
         <entry encoding="base64">XDxyeWVhclw+</entry>
         <entry encoding="base64">XDxsb2dFcnJvclw+</entry>
@@ -227,6 +229,9 @@
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxzdGF0dXNUZXh0c1w+</entry>
         <entry encoding="base64">XDxnZXRBcGlSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxteXNxbF9xdWVyeVw+</entry>
+        <entry encoding="base64">XDxsb2NrUmVnaXN0cmF0aW9uUm93XD4=</entry>
+        <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>
