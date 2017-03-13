@@ -51,18 +51,18 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489394861798">
-        <mark key="[" line="443" column="120" />
-        <mark key="]" line="443" column="120" />
-        <mark key="^" line="444" column="7" />
-        <mark key="." line="443" column="120" />
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489395824255">
+        <mark key="'" line="686" column="23" />
+        <mark key="[" line="152" column="30" />
+        <mark key="]" line="152" column="30" />
+        <mark key="^" line="154" column="32" />
+        <mark key="." line="152" column="30" />
       </file>
       <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
         <mark key="'" line="55" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="9" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="599" column="26" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="273" column="28" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="290" column="20" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -162,46 +162,47 @@
       <jump line="33" column="4" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
       <jump line="798" column="25" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
       <jump line="879" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
+      <jump line="686" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICE9PSBhcnJheSg=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICE9PSBhcnJheSg=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</text>
       </register>
       <register name="0" type="4">
         <text>!empty(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlQ3N2Rmlyc3RSb3dJc0hlYWRlcigpLAogICAgICAgICAgICAgICAgJHRoaXMtPnZhbGlkYXRlQ3N2SGFzQXRMZWFzdE9uZURhdGEoKSwKICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkRhdGFDb3VudElzV2l0aGluVGhlTWF4aW11bUFsbG93YWJsZURhdGEoKQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkZpcnN0Um93SXNIZWFkZXIoKSwKICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkhhc0F0TGVhc3RPbmVEYXRhKCksCiAgICAgICAgICAgICAgICAkdGhpcy0+dmFsaWRhdGVDc3ZEYXRhQ291bnRJc1dpdGhpblRoZU1heGltdW1BbGxvd2FibGVEYXRhKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCR2YWxpZGF0ZWRUdXRvcklkcykpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRlZFR1dG9ySWRzLAogICAgICAgICAgICAgICAgICAgICAgICAkdHV0b3JJZHNGcm9tQ3N2RGF0YSwKICAgICAgICAgICAgICAgICAgICAgICAgJGNzdkRhdGFMaXN0CiAgICAgICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJHZhbGlkYXRlZFR1dG9ySWRzKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCR2YWxpZGF0ZWRUdXRvcklkcykpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdGVkVHV0b3JJZHMsCiAgICAgICAgICAgICAgICAgICAgJHR1dG9ySWRzRnJvbUNzdkRhdGEsCiAgICAgICAgICAgICAgICAgICAgJGNzdkRhdGFMaXN0CiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRlZFR1dG9ySWRzLAogICAgICAgICAgICAgICAgICAgICAgICAkdHV0b3JJZHNGcm9tQ3N2RGF0YSwKICAgICAgICAgICAgICAgICAgICAgICAgJGNzdkRhdGFMaXN0CiAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJHZhbGlkYXRlZFR1dG9ySWRzKSkgewo=</text>
@@ -214,9 +215,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -224,7 +225,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NrUmVnaXN0cmF0aW9uUm93XD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</entry>
         <entry encoding="base64">XDxpbnNlcnRUb0xlc3NvbkNhbmNlbFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVUb0NhbmNlbFdpdGhTdHVkZW50XD4=</entry>
@@ -244,6 +244,7 @@
         <entry encoding="base64">XDxkZWxldGVNZW1iZXJQb2ludFJlc2VydmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRJbmZvXD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
