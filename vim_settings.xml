@@ -51,59 +51,18 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489395824255">
-        <mark key="'" line="686" column="23" />
-        <mark key="[" line="152" column="30" />
-        <mark key="]" line="152" column="30" />
-        <mark key="^" line="154" column="32" />
-        <mark key="." line="152" column="30" />
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489398579807">
+        <mark key="'" line="1144" column="21" />
+        <mark key="[" line="1136" column="14" />
+        <mark key="]" line="1136" column="14" />
+        <mark key="^" line="1127" column="13" />
+        <mark key="." line="1136" column="14" />
       </file>
       <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
         <mark key="'" line="55" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="26" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="273" column="28" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="290" column="20" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="370" column="32" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="385" column="24" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="110" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="96" column="1" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="95" column="1" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="98" column="16" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="169" column="191" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="217" column="1" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="218" column="103" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="238" column="107" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="247" column="91" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="263" column="83" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="307" column="108" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="328" column="112" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="335" column="96" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="348" column="88" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="366" column="28" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="372" column="92" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="421" column="43" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="424" column="47" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="426" column="47" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="454" column="43" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="457" column="47" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="459" column="47" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="489" column="51" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="492" column="51" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="510" column="51" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="522" column="49" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="527" column="49" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="545" column="192" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="679" column="29" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="682" column="49" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="741" column="76" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="746" column="35" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="749" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="751" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="775" column="35" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="778" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="780" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="794" column="44" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="818" column="14" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -163,61 +122,104 @@
       <jump line="798" column="25" filename="$USER_HOME$/PhpstormProjects/kraken/common_ph/schedule/sch_functions.php" />
       <jump line="879" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="686" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="476" column="38" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="477" column="30" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="694" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="685" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="673" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="474" column="34" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1140" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="478" column="13" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="483" column="13" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1141" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="672" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="671" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="690" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="681" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="873" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="898" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="523" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="620" column="27" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="705" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="712" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="875" column="32" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="914" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="479" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="915" column="15" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1143" column="19" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="499" column="25" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="510" column="25" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="515" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="519" column="17" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="527" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="546" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1144" column="19" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="54" column="15" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="482" column="27" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="484" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="899" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="639" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="630" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1148" column="26" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="503" column="37" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="1146" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</text>
+        <text encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>!empty(</text>
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlQ3N2Rmlyc3RSb3dJc0hlYWRlcigpLAogICAgICAgICAgICAgICAgJHRoaXMtPnZhbGlkYXRlQ3N2SGFzQXRMZWFzdE9uZURhdGEoKSwKICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkRhdGFDb3VudElzV2l0aGluVGhlTWF4aW11bUFsbG93YWJsZURhdGEoKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkZpcnN0Um93SXNIZWFkZXIoKSwKICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZUNzdkhhc0F0TGVhc3RPbmVEYXRhKCksCiAgICAgICAgICAgICAgICAkdGhpcy0+dmFsaWRhdGVDc3ZEYXRhQ291bnRJc1dpdGhpblRoZU1heGltdW1BbGxvd2FibGVEYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgICAkZXJyb3JNZXNzYWdlID0gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRpbWVJc1ZhbGlkID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlVGltZUV4aXN0cygkdGltZUZyb21Dc3YpCiAgICAgICAgICAgICAgICAmJiAkdGhpcy0+dmFsaWRhdGVUaW1lSGFzVmFsaWRGb3JtYXQoJHRpbWVGcm9tQ3N2KQogICAgICAgICAgICAgICAgJiYgJHRoaXMtPnZhbGlkYXRlVGltZUlzV2l0aGluVGhlQWxsb3dlZExlc3NvblRpbWUoJHRpbWVGcm9tQ3N2KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCR2YWxpZGF0ZWRUdXRvcklkcykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgICAgICAkdGltZUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRlZFR1dG9ySWRzLAogICAgICAgICAgICAgICAgICAgICAgICAkdHV0b3JJZHNGcm9tQ3N2RGF0YSwKICAgICAgICAgICAgICAgICAgICAgICAgJGNzdkRhdGFMaXN0CiAgICAgICAgICAgICAgICAgICAgKTsK</text>
+      <register name="7" type="4">
+        <text>else {
+                $errorMessage = 'Time is required';
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJHZhbGlkYXRlZFR1dG9ySWRzKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVycm9yTWVzc2FnZSA9ICAnRGF0ZSBpcyByZXF1aXJlZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdGVkVHV0b3JJZHMsCiAgICAgICAgICAgICAgICAgICAgJHR1dG9ySWRzRnJvbUNzdkRhdGEsCiAgICAgICAgICAgICAgICAgICAgJGNzdkRhdGFMaXN0CiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAkY3N2SGFzQVRpbWVWYWx1ZSA9ICFlbXB0eSgkdGltZUZyb21Dc3YpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>438</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -225,14 +227,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRcPg==</entry>
-        <entry encoding="base64">XDxpbnNlcnRUb0xlc3NvbkNhbmNlbFw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVUb0NhbmNlbFdpdGhTdHVkZW50XD4=</entry>
-        <entry encoding="base64">XDxsZXNzb25fZGF5XD4=</entry>
-        <entry encoding="base64">XDxsZXNzb25fZGF0ZVw+</entry>
-        <entry encoding="base64">XDxDT01NT05fQVBJX0VSUk9SXD4=</entry>
-        <entry encoding="base64">XDxfaXNPS1w+</entry>
-        <entry encoding="base64">XDxBUElfRkFJTEVEX1JFU1VMVFw+</entry>
         <entry encoding="base64">XDxyZWFzb25JZFw+</entry>
         <entry encoding="base64">XDxtaW51dGVcPg==</entry>
         <entry encoding="base64">XDxob3VyXD4=</entry>
@@ -244,7 +238,15 @@
         <entry encoding="base64">XDxkZWxldGVNZW1iZXJQb2ludFJlc2VydmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRJbmZvXD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVFeGlzdHNcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0xlc3NUaGFuT3JFcXVhbFRvVGhlTWF4QWxsb3dhYmxlWWVhclw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</entry>
+        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxhZGRJbnZhbGlkRGF0YUluUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVJc1dpdGhpblRoZUFsbG93ZWRMZXNzb25UaW1lXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVIYXNWYWxpZEZvcm1hdFw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
