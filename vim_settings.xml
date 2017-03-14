@@ -58,10 +58,10 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489470135479">
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489474167687">
         <mark key="'" line="663" column="23" />
-        <mark key="[" line="1136" column="14" />
-        <mark key="]" line="1136" column="14" />
+        <mark key="[" line="554" column="0" />
+        <mark key="]" line="554" column="54" />
         <mark key="^" line="1127" column="13" />
         <mark key="." line="1136" column="14" />
       </file>
@@ -176,8 +176,8 @@
       <jump line="16" column="46" filename="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uSW5mb3JtYXRpb25Jc1ZhbGlkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -185,8 +185,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uSW5mb3JtYXRpb25Jc1ZhbGlkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
