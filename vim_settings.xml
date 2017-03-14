@@ -51,8 +51,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489398579807">
-        <mark key="'" line="1144" column="21" />
+      <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1489470135479">
+        <mark key="'" line="663" column="23" />
         <mark key="[" line="1136" column="14" />
         <mark key="]" line="1136" column="14" />
         <mark key="^" line="1127" column="13" />
@@ -63,7 +63,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="780" column="39" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="794" column="44" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="818" column="14" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="862" column="44" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -163,6 +162,7 @@
       <jump line="1148" column="26" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
       <jump line="503" column="37" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
       <jump line="1146" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="663" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -172,7 +172,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</text>
+        <text encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJvdGVjdGVkIA==</text>
@@ -217,9 +217,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -241,12 +241,12 @@
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVFeGlzdHNcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVIYXNWYWxpZEZvcm1hdFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0xlc3NUaGFuT3JFcXVhbFRvVGhlTWF4QWxsb3dhYmxlWWVhclw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</entry>
         <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxhZGRJbnZhbGlkRGF0YUluUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVJc1dpdGhpblRoZUFsbG93ZWRMZXNzb25UaW1lXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVIYXNWYWxpZEZvcm1hdFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
