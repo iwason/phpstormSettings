@@ -6,12 +6,19 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" timestamp="1489473131461">
+        <mark key="'" line="16" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/framework/logging/CFileLogRoute.php" timestamp="1489473368735" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1489131723095">
         <mark key="'" line="879" column="0" />
         <mark key="[" line="132" column="41" />
         <mark key="]" line="133" column="15" />
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1489473055760">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1475654791244">
         <mark key="[" line="0" column="0" />
@@ -61,16 +68,12 @@
       <file name="C:/xampp/htdocs/gibson/protected/views/reservation/reservation_params_to_js.php" timestamp="1475648234193">
         <mark key="'" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/main.php.prod" timestamp="1489472452057" />
+      <file name="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" timestamp="1489472971824">
+        <mark key="'" line="276" column="18" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/main.php.prod" timestamp="1489472870378" />
     </filemarks>
     <jumps>
-      <jump line="794" column="44" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="818" column="14" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="862" column="44" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="888" column="18" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="922" column="18" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="963" column="32" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="984" column="18" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="1008" column="18" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="1038" column="32" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -164,6 +167,13 @@
       <jump line="503" column="37" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
       <jump line="1146" column="21" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
       <jump line="663" column="23" filename="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" />
+      <jump line="277" column="26" filename="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" />
+      <jump line="281" column="26" filename="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" />
+      <jump line="295" column="15" filename="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" />
+      <jump line="107" column="13" filename="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" />
+      <jump line="276" column="18" filename="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" />
+      <jump line="64" column="41" filename="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" />
+      <jump line="16" column="46" filename="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -173,7 +183,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</text>
+        <text encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJvdGVjdGVkIA==</text>
@@ -218,9 +228,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</last-search>
+      <last-search encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -228,8 +238,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFzb25JZFw+</entry>
-        <entry encoding="base64">XDxtaW51dGVcPg==</entry>
         <entry encoding="base64">XDxob3VyXD4=</entry>
         <entry encoding="base64">XDx0ZW1wX2hvdXJcPg==</entry>
         <entry encoding="base64">XDxnZXRUaW1lXD4=</entry>
@@ -248,6 +256,8 @@
         <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVIYXNWYWxpZEZvcm1hdFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVRpbWVFeGlzdHNcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVJc0dyZWF0ZXJUaGFuT3JFcXVhbFRvZGF5XD4=</entry>
+        <entry encoding="base64">XDxfcnVudGltZVBhdGhcPg==</entry>
+        <entry encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
