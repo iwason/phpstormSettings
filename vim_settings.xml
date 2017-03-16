@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" timestamp="1489473131461">
         <mark key="'" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/framework/logging/CFileLogRoute.php" timestamp="1489473368735" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1489131723095">
         <mark key="'" line="879" column="0" />
         <mark key="[" line="132" column="41" />
@@ -71,7 +70,6 @@
       <file name="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" timestamp="1489472971824">
         <mark key="'" line="276" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/main.php.prod" timestamp="1489472870378" />
     </filemarks>
     <jumps>
       <jump line="1008" column="18" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
