@@ -222,7 +222,7 @@
         <text encoding="base64">ICAgICAgICAkY3N2SGFzQVRpbWVWYWx1ZSA9ICFlbXB0eSgkdGltZUZyb21Dc3YpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>438</text>
+        <text>219</text>
       </register>
     </registers>
     <search>
@@ -258,7 +258,6 @@
         <entry encoding="base64">XDxnZXRSdW50aW1lUGF0aFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>66</entry>
         <entry>140</entry>
         <entry>120</entry>
         <entry>480</entry>
@@ -278,6 +277,7 @@
         <entry>w</entry>
         <entry>405</entry>
         <entry>438</entry>
+        <entry>219</entry>
       </history-cmd>
       <history-expr />
       <history-input />
