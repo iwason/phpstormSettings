@@ -61,7 +61,9 @@
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490261921303" />
+      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
+        <mark key="'" line="445" column="27" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/Service/LessonDistributionService.php" timestamp="1490003871547" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Eloquent/AdminEloquent.php" timestamp="1490004908433">
         <mark key="'" line="16" column="6" />
@@ -77,12 +79,12 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/LessonFeedback.php" timestamp="1490331785924" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/Member.php" timestamp="1490003741053" />
-      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" timestamp="1490331524947">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="33" column="100" />
-        <mark key="]" line="30" column="82" />
-        <mark key="^" line="30" column="82" />
-        <mark key="." line="30" column="82" />
+      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" timestamp="1490332644694">
+        <mark key="'" line="57" column="9" />
+        <mark key="[" line="39" column="82" />
+        <mark key="]" line="51" column="41" />
+        <mark key="^" line="51" column="41" />
+        <mark key="." line="51" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1488795188459">
         <mark key="[" line="2" column="18" />
@@ -92,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1432" column="11" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="1473" column="11" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="1518" column="11" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="18" column="12" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -192,6 +193,7 @@
       <jump line="139" column="15" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CronEmail.php" />
       <jump line="119" column="22" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CronEmail.php" />
       <jump line="52" column="9" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" />
+      <jump line="445" column="27" filename="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +203,7 @@
         <text>$corporateAdmin['corporate_id']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0ZWVzV2l0aG91dFNjaGVkdWxlXD4=</text>
+        <text encoding="base64">XDx0ZXN0RmluaXNoZWREYXRlU3RhcnRSYW5nZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uSW5mb3JtYXRpb25Jc1ZhbGlkID0gZmFsc2U7Cg==</text>
@@ -246,9 +248,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0ZWVzV2l0aG91dFNjaGVkdWxlXD4=</last-search>
+      <last-search encoding="base64">XDx0ZXN0RmluaXNoZWREYXRlU3RhcnRSYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0ZWVzV2l0aG91dFNjaGVkdWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0RmluaXNoZWREYXRlU3RhcnRSYW5nZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +258,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVNZW1iZXJQb2ludFJlc2VydmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzdGl0dXRlUG9pbnRJbmZvXD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZURhdGVFeGlzdHNcPg==</entry>
@@ -276,6 +277,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDx0ZXN0ZWVzV2FpdGluZ0ZvckV2YWx1YXRpb25cPg==</entry>
         <entry encoding="base64">XDx0ZXN0ZWVzV2l0aG91dFNjaGVkdWxlXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0RmluaXNoZWREYXRlU3RhcnRSYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
