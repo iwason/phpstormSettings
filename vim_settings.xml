@@ -38,7 +38,7 @@
       <file name="$USER_HOME$/PhpstormProjects/kraken/rjph/rjPhProtected/components/rjph/url/RJPH_CurlManager.php" timestamp="1489045900539">
         <mark key="'" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/controllers/ScheduleController.php" timestamp="1490611551482">
+      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/controllers/ScheduleController.php" timestamp="1490612388220">
         <mark key="'" line="228" column="9" />
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
@@ -66,6 +66,7 @@
         <mark key="'" line="276" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/rjph/protected/components/rjph/RJPH_CActiveRecord.php" timestamp="1490347769840" />
+      <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/Core/Application/BusinessTutorLessonService.php" timestamp="1490613036454" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/AdminRepository.php" timestamp="1490005135874" />
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
