@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" timestamp="1489472971824">
         <mark key="'" line="276" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/LessonTicket.php" timestamp="1491377274732" />
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/LessonTicket.php" timestamp="1491380495562" />
     </filemarks>
     <jumps>
       <jump line="99" column="83" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
