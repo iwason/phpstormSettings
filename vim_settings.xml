@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/PhpstormProjects/framework/base/CStatePersister.php" timestamp="1489473131461">
         <mark key="'" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/common/social/RJ_GoogleCalendar.php" timestamp="1491385754791" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1490261019864">
         <mark key="'" line="879" column="0" />
         <mark key="[" line="132" column="41" />
@@ -61,7 +60,6 @@
       <file name="$USER_HOME$/PhpstormProjects/framework/base/CApplication.php" timestamp="1489472971824">
         <mark key="'" line="276" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/LessonTicket.php" timestamp="1491380495562" />
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
       </file>
@@ -93,14 +91,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxController.php" timestamp="1491385402183" />
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1488795188459">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/params.rarejob.inc" timestamp="1491386005184" />
     </filemarks>
     <jumps>
       <jump line="99" column="83" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
