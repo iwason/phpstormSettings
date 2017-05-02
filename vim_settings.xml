@@ -91,6 +91,9 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" timestamp="1479722863355">
         <mark key="'" line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/ZkaiAdmin.php" timestamp="1493638436893">
+        <mark key="[" line="66" column="5" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" timestamp="1490332644694">
         <mark key="'" line="57" column="9" />
         <mark key="[" line="39" column="82" />
