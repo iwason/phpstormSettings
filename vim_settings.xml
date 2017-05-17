@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/common_ph/RJDateTime.php" timestamp="1490261801382">
         <mark key="'" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" timestamp="1495005713384">
+      <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" timestamp="1495008390748">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="101" column="91" />
@@ -107,6 +107,13 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="51" column="41" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" timestamp="1495008822671">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="44" column="46" />
+        <mark key="]" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1493601835470">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -115,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1524" column="9" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="128" column="5" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="129" column="31" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="133" column="43" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -215,54 +221,55 @@
       <jump line="132" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
       <jump line="6" column="8" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
+      <jump line="64" column="26" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>lessonDataMap[lessonDate][lessonTime[i]]</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">YW5nbGUg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uSW5mb3JtYXRpb25Jc1ZhbGlkID0gZmFsc2U7Cg==</text>
+      <register name="0" type="4">
+        <text>lessonDataMap[lessonDate][lessonTime[i]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgIGxlc3NvbkRhdGFNYXBbbGVzc29uRGF0ZV1bXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZXJyb3JNZXNzYWdlID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXJyb3JNZXNzYWdlID0gJyc7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRpbWVJc1ZhbGlkID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JHRoaXMtPnZhbGlkYXRlVGltZUV4aXN0cygkdGltZUZyb21Dc3YpCiAgICAgICAgICAgICAgICAmJiAkdGhpcy0+dmFsaWRhdGVUaW1lSGFzVmFsaWRGb3JtYXQoJHRpbWVGcm9tQ3N2KQogICAgICAgICAgICAgICAgJiYgJHRoaXMtPnZhbGlkYXRlVGltZUlzV2l0aGluVGhlQWxsb3dlZExlc3NvblRpbWUoJHRpbWVGcm9tQ3N2KQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgICAgICAkdGltZUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgICAgICAkdGltZUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>else {
                 $errorMessage = 'Time is required';
             }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVycm9yTWVzc2FnZSA9ICAnRGF0ZSBpcyByZXF1aXJlZCc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY3N2SGFzQVRpbWVWYWx1ZSA9ICFlbXB0eSgkdGltZUZyb21Dc3YpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVycm9yTWVzc2FnZSA9ICAnRGF0ZSBpcyByZXF1aXJlZCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
