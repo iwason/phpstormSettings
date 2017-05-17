@@ -22,6 +22,13 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/common_ph/RJDateTime.php" timestamp="1490261801382">
         <mark key="'" line="49" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" timestamp="1495005713384">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="101" column="91" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="101" column="91" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CronEmail.php" timestamp="1490263893618">
         <mark key="'" line="119" column="22" />
       </file>
@@ -108,9 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="5" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="146" column="84" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
-      <jump line="151" column="84" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="1524" column="9" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="128" column="5" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
       <jump line="129" column="31" filename="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" />
@@ -208,13 +212,16 @@
       <jump line="48" column="47" filename="$USER_HOME$/PhpstormProjects/framework/logging/CLogRoute.php" />
       <jump line="100" column="35" filename="$USER_HOME$/PhpstormProjects/framework/logging/CLogRoute.php" />
       <jump line="23" column="42" filename="$USER_HOME$/PhpstormProjects/framework/logging/CLogRoute.php" />
+      <jump line="132" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
