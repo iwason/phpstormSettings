@@ -103,12 +103,12 @@
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Domain/CbtBulkOpenSlotService/BulkOpenSlotsDto.php" timestamp="1490609954608">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1495182494171">
+      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1495183671393">
         <mark key="'" line="165" column="48" />
-        <mark key="[" line="157" column="45" />
-        <mark key="]" line="157" column="55" />
-        <mark key="." line="157" column="45" />
-        <mark key="^" line="156" column="58" />
+        <mark key="[" line="165" column="74" />
+        <mark key="]" line="165" column="117" />
+        <mark key="." line="165" column="74" />
+        <mark key="^" line="165" column="73" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" timestamp="1479722863355">
         <mark key="'" line="73" column="0" />
@@ -241,16 +241,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getTime()</text>
+        <text>lessonDate.toString() == prev['lessonDate']</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">bGVzc29uRGF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.getTime()</text>
+        <text>lessonDate.toString() == prev['lessonDate']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyggIjEgIiArbGVzc29uRGF0YU1hcFtsZXNzb25EYXRlXVtsZXNzb25UaW1lW2pdXVsidG90YWwiXSA8IGRhdGFbaV1bNF0gKyAiPGJyPiIpOwo=</text>
