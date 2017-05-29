@@ -73,6 +73,13 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/config/MainConfig.php" timestamp="1491968214178">
         <mark key="'" line="110" column="27" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496047191769">
+        <mark key="'" line="43" column="1" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="35" column="50" />
+        <mark key="^" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495614152003">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,12 +110,12 @@
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Domain/CbtBulkOpenSlotService/BulkOpenSlotsDto.php" timestamp="1490609954608">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1495700980370">
+      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1496046958127">
         <mark key="'" line="410" column="10" />
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="0" />
-        <mark key="^" line="333" column="2" />
-        <mark key="." line="408" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/LessonSlotRepository.php" timestamp="1479722863355">
         <mark key="'" line="73" column="0" />
@@ -138,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="46" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" />
       <jump line="143" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" />
       <jump line="125" column="0" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" />
       <jump line="102" column="5" filename="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/schedule.js" />
@@ -238,52 +244,53 @@
       <jump line="446" column="0" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="287" column="9" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="410" column="10" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
+      <jump line="38" column="1" filename="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgcGh0TGlzdCA9IFtdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>output</text>
       </register>
       <register name="-" type="4">
-        <text>をMapに加算する</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RTb3J0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>lessonType</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YXIgc3MgPSBTcHJlYWRzaGVldEFwcC5nZXRBY3RpdmVTcHJlYWRzaGVldCgpOwogIHZhciBzaGVldCA9IHNzLmdldFNoZWV0QnlOYW1lKCdPdmVydmlldycpOwogIHZhciBIb2xpZGF5cyA9IGdldEhvbGlkYXlzKHNzKTsKICB2YXIgbnMgPSBzZXRMYXlvdXQoc3MuZ2V0U2hlZXRCeU5hbWUoJ291dHB1dCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgcGh0TGlzdCA9IFtdOwo=</text>
+        <text encoding="base64">ICB2YXIgSG9saWRheXMgPSBnZXRIb2xpZGF5cyhzcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnT3ZlcnZpZXcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaW5zZXJ0TGFzdFVwZGF0ZWQoKSB7CiAgdmFyIHNzID0gU3ByZWFkc2hlZXRBcHAuZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKTsKICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnb3V0cHV0Jyk7CiAgdmFyIGNlbGwgPSBzaGVldC5nZXRSYW5nZSgnQjEnKTsKICBjZWxsLnNldFZhbHVlKFV0aWxpdGllcy5mb3JtYXREYXRlKG5ldyBEYXRlKCksICdBc2lhL1Rva3lvJywgJ3l5eXkvTU0vZGQgSEg6bW0nKSk7Cn0K</text>
+        <text encoding="base64">ICB2YXIgZXZlbnRNYXAgPSB7fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogIGNhbGVuZGFy44KS5L2c44KLCg==</text>
+        <text encoding="base64">ICAgIHZhciBqcHRMaXN0ID0gc2hlZXQuZ2V0UmFuZ2UoJ0M6QycpLmdldFZhbHVlcygpOyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHByZUZpbGVMaXN0W2ldKXsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL3NzLmdldFJhbmdlKCJBOkFGIikuY2xlYXJGb3JtYXQoKTsK</text>
+        <text encoding="base64">ICAgICAgcHJlRmlsZUxpc3QucHVzaChzaGVldHNbaV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
