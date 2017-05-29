@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/config/MainConfig.php" timestamp="1491968214178">
         <mark key="'" line="110" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496048142833">
+      <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496054179977">
         <mark key="'" line="43" column="1" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="14" />
-        <mark key="." line="46" column="13" />
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="43" column="52" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="43" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1495614152003">
         <mark key="[" line="0" column="0" />
@@ -110,10 +110,10 @@
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Domain/CbtBulkOpenSlotService/BulkOpenSlotsDto.php" timestamp="1490609954608">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1496048087259">
+      <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1496054032621">
         <mark key="'" line="64" column="5" />
-        <mark key="[" line="86" column="41" />
-        <mark key="]" line="86" column="49" />
+        <mark key="[" line="187" column="9" />
+        <mark key="]" line="187" column="50" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
@@ -248,34 +248,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestData</text>
+        <text>isTimeString(timeRange = requestData[i][6].trim();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmFuZ2Ug</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSYW5nZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>requestData</text>
+        <text>isTimeString(timeRange = requestData[i][6].trim();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKHByZVNoZWV0cyk7Cg==</text>
+        <text encoding="base64">ICBmb3IoKXsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKHByZVNoZWV0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vMeOCt+ODvOODiOe1guOCj+OBo+OBn+OCieODquOCueODiOOBq+i/veWKoAogICAgcHJlRmlsZUxpc3QucHVzaChtYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,13 +284,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vMeOCt+ODvOODiOe1guOCj+OBo+OBn+OCieODquOCueODiOOBq+i/veWKoAogICAgcHJlRmlsZUxpc3QucHVzaChtYXApOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8v5a2m5qCh5ZCN5Y+W5b6XCiAgICBMb2dnZXIubG9nKG1hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
