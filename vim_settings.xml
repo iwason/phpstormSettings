@@ -110,6 +110,12 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Eloquent/AdminEloquent.php" timestamp="1490004908433">
         <mark key="'" line="16" column="6" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1496370954597">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/fizzBuzz/test.js" timestamp="1495160488703">
         <mark key="'" line="0" column="0" />
       </file>
@@ -272,11 +278,11 @@
       <jump line="215" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIG5zLmdldFJhbmdlKDQsIDEscm93LDEpLnNvcnQoMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudExlc3Nvblw+</text>
