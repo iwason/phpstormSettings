@@ -94,12 +94,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
         <mark key="'" line="445" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496395561554">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="57" column="54" />
-        <mark key="]" line="57" column="54" />
-        <mark key="^" line="56" column="19" />
-        <mark key="." line="57" column="54" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496396724988">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="60" column="56" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="60" column="56" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/before.js" timestamp="1496138811142">
         <mark key="'" line="62" column="34" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
@@ -303,25 +303,25 @@
         <text>previousDay.getDate()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheS5nZXREYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXREYXRlLmdldERheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheS5nZXREYXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXREYXRlLmdldERheSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -333,7 +333,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
