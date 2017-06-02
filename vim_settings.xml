@@ -94,12 +94,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
         <mark key="'" line="445" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496389573311">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="52" column="53" />
-        <mark key="]" line="52" column="53" />
-        <mark key="." line="52" column="53" />
-        <mark key="^" line="38" column="41" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496395561554">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="57" column="54" />
+        <mark key="]" line="57" column="54" />
+        <mark key="^" line="56" column="19" />
+        <mark key="." line="57" column="54" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/before.js" timestamp="1496138811142">
         <mark key="'" line="62" column="34" />
@@ -179,10 +179,10 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496389385329">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496395015348">
         <mark key="'" line="352" column="9" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="33" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="84" />
         <mark key="." line="352" column="20" />
         <mark key="^" line="352" column="20" />
       </file>
@@ -291,49 +291,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>targetDate</text>
+        <text>previousDay.getDate()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnaW1wb3J0ZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZXZpb3VzRGF5Cg==</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheS5nZXREYXkoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgdmFsdWVzID0gc2hlZXQuZ2V0UmFuZ2UoIkEyOkciKS5nZXRWYWx1ZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXREYXRlLmdldERheSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKGNvbnZlcnRUaW1lUmFuZ2VUb1Nsb3RMaXN0KHZhbHVlc1swXVsxXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqdW5wZWkuaXdhbXVyYSBvbiA2LzIvMTcuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
