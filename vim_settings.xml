@@ -168,17 +168,15 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496369894045">
-        <mark key="'" line="215" column="9" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496372074637">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="85" column="37" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="37" />
+        <mark key="^" line="85" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="6" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="163" column="11" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="164" column="11" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="142" column="27" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="219" column="2" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
@@ -276,16 +274,19 @@
       <jump line="5" column="6" filename="$USER_HOME$/PhpstormProjects/gasTool/daily.js" />
       <jump line="119" column="9" filename="$USER_HOME$/PhpstormProjects/gasTool/daily.js" />
       <jump line="215" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="85" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="87" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="93" column="22" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudExlc3Nvblw+</text>
+        <text encoding="base64">XDxsZXNzb25MaXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>darkgray</text>
@@ -328,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudExlc3Nvblw+</last-search>
+      <last-search encoding="base64">XDxsZXNzb25MaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudExlc3Nvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxsZXNzb25MaXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmRlZmluZWRcPg==</entry>
         <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxwcmV2XD4=</entry>
@@ -358,6 +358,7 @@
         <entry encoding="base64">XDxkYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxwcmVmaWxlXD4=</entry>
         <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
+        <entry encoding="base64">XDxsZXNzb25MaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
