@@ -96,8 +96,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
         <mark key="'" line="445" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496629201369">
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496632866876">
         <mark key="'" line="154" column="0" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/before.js" timestamp="1496138811142">
         <mark key="'" line="62" column="34" />
@@ -289,63 +293,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>っ</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>っ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ns.getRange('A3:AF')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPSAi44Kt44OE44Kk44Gj44GZIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5sb2cobnMuZ2V0UmFuZ2Uocm93LGNvbHVtbikuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgTG9nZ2VyLmxvZyhsZXNzb25MaXN0W2ldW2pdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>setLayout(remoteSheet);
-
-  //日付,時刻枠,レッスン数のmap
-  var Holidays = getHolidays(ss);
-  var dataMap = mergeMap(createDataMap(ss.getSheetByName('imported')), Holidays,getEventList());
-
-  //データマップ内に加算する
-  addPreFile(dataMap, ss);
-  showSchedule(ns, dataMap);
-
-  maskData(ns);
-}
-
-function maskData(ns){
-  var lessonList = s</text>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2cobnMuZ2V0UmFuZ2Uocm93LGNvbHVtbikuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
