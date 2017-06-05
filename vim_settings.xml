@@ -16,7 +16,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1496380830874">
+      <file name="/a.dummy" timestamp="1496627088072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/xampp/htdocs/gibson/protected/models/dataStrategy/RJ_TutorMatchingApi.php" timestamp="1475652501930">
@@ -85,8 +85,10 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496380830865">
+      <file name="/Dummy.txt" timestamp="1496627103044">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/xampp/htdocs/gibson/protected/controllers/ReservationController.php" timestamp="1475648568066">
         <mark key="'" line="1457" column="26" />
@@ -94,12 +96,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
         <mark key="'" line="445" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496396724988">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="60" column="56" />
-        <mark key="]" line="60" column="56" />
-        <mark key="^" line="60" column="56" />
-        <mark key="." line="60" column="56" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496629201369">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="55" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/before.js" timestamp="1496138811142">
         <mark key="'" line="62" column="34" />
@@ -179,20 +181,15 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496395015348">
-        <mark key="'" line="352" column="9" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="84" />
-        <mark key="." line="352" column="20" />
-        <mark key="^" line="352" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496627950509">
+        <mark key="'" line="353" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="353" column="20" />
+        <mark key="^" line="353" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="17" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="234" column="8" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="145" column="3" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="235" column="57" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="232" column="57" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="226" column="58" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="223" column="61" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="192" column="2" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
@@ -288,52 +285,71 @@
       <jump line="33" column="24" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
       <jump line="80" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
       <jump line="352" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="61" column="6" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
+      <jump line="24" column="23" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
+      <jump line="26" column="48" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>previousDay.getDate()</text>
+        <text>ns.getRange('A3:AF')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2cobnMuZ2V0UmFuZ2Uocm93LGNvbHVtbikuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheS5nZXREYXkoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXREYXRlLmdldERheSgpKTsK</text>
+        <text encoding="base64">ICAgIAogICAgTG9nZ2VyLmxvZyhsZXNzb25MaXN0W2ldW2pdKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>setLayout(remoteSheet);
+
+  //日付,時刻枠,レッスン数のmap
+  var Holidays = getHolidays(ss);
+  var dataMap = mergeMap(createDataMap(ss.getSheetByName('imported')), Holidays,getEventList());
+
+  //データマップ内に加算する
+  addPreFile(dataMap, ss);
+  showSchedule(ns, dataMap);
+
+  maskData(ns);
+}
+
+function maskData(ns){
+  var lessonList = s</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhwcmV2aW91c0RheSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
