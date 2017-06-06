@@ -181,12 +181,12 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496729015182">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496729882938">
         <mark key="'" line="291" column="9" />
-        <mark key="[" line="307" column="29" />
-        <mark key="]" line="307" column="29" />
-        <mark key="^" line="304" column="9" />
-        <mark key="." line="307" column="29" />
+        <mark key="[" line="299" column="16" />
+        <mark key="]" line="299" column="16" />
+        <mark key="^" line="297" column="17" />
+        <mark key="." line="299" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -293,49 +293,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>detail</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>detail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbEJ5RGV0YWlsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>tmp</text>
+        <text>lessonDetail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgdG8gICAgID0gdG1wWzFdLnNwbGl0KCI6Iik7Cg==</text>
+        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBsZXNzb25Ib3VyID0gcGFyc2VJbnQodG1wWzBdKTsKICB2YXIgbGVzc29uTWluICA9IHBhcnNlSW50KHRtcFsxXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgdG1wPSBsZXNzb25UaW1lLnNwbGl0KCItIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgdG8gICAgID0gdG1wWzFdLnNwbGl0KCI6Iik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHN0dWRlbnRObzsKICAgIHRvdGFsIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YXIgdG1wPSBsZXNzb25UaW1lLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gZ2V0VG90YWxCeURldGFpbChsZXNzb25EYXRhTWFwW2xlc3NvbkRhdGVdW2xlc3NvblRpbWVbal1dLmRldGFpbCxsZXNzb25UaW1lW2pdKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzbG90RGV0YWlsKGxlc3NvblRpbWUsIHRpbWVSYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBkZXRhaWwgPSA7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHN0dWRlbnRObzsKICAgIHRvdGFsIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlc3NvbkRhdGFNYXBbbGVzc29uRGF0ZV1bbGVzc29uVGltZVtqXV0ucmFuZ2UucHVzaCh0aW1lUmFuZ2UpOwo=</text>
+        <text encoding="base64">ICAgIHRvdGFsID0gZ2V0VG90YWxCeURldGFpbChsZXNzb25EYXRhTWFwW2xlc3NvbkRhdGVdW2xlc3NvblRpbWVbal1dLmRldGFpbCxsZXNzb25UaW1lW2pdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
