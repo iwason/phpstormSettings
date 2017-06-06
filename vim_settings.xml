@@ -96,12 +96,12 @@
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/testee/models/StAvailabilityTb.php" timestamp="1490332502702">
         <mark key="'" line="445" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496656741331">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="^" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1496719511407">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="178" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/before.js" timestamp="1496138811142">
         <mark key="'" line="62" column="34" />
@@ -181,17 +181,15 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496656842279">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496719450018">
         <mark key="'" line="178" column="9" />
-        <mark key="[" line="22" column="0" />
+        <mark key="[" line="283" column="2" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="353" column="20" />
         <mark key="^" line="353" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="61" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
-      <jump line="192" column="2" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="86" column="74" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="162" column="6" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
       <jump line="196" column="11" filename="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" />
@@ -290,10 +288,12 @@
       <jump line="116" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="22" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="178" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="83" column="7" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
+      <jump line="178" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YXIgY29sdW1uID0gMzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -305,37 +305,37 @@
         <text>j+1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzaG93U2NoZWR1bGUobnMsIGRhdGFNYXApOwo=</text>
+        <text encoding="base64">ICB2YXIgY29sdW1uID0gMzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgY29sdW1uID0gMzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCBucy5nZXRSYW5nZSgzLDE1KS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICIiKTsK</text>
+        <text encoding="base64">Ly8gICAgICBMb2dnZXIubG9nKGxlc3Nvbkxpc3RbaV1bal0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzaG93U2NoZWR1bGUobnMsIGRhdGFNYXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB2YXIgY29sdW1uID0gMzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5zLmdldFJhbmdlKHJvdyArIGksaisxKS5zZXRWYWx1ZSgi5a6i5Y+W44Gj44Gm44GT44GE77yBIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
