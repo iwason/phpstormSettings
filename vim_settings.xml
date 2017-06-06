@@ -170,8 +170,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1496727056878">
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1496731268830">
+        <mark key="[" line="44" column="0" />
         <mark key="]" line="54" column="72" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/daily.js" timestamp="1496368607554">
@@ -181,12 +181,12 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496729882938">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496731826384">
         <mark key="'" line="291" column="9" />
-        <mark key="[" line="299" column="16" />
-        <mark key="]" line="299" column="16" />
-        <mark key="^" line="297" column="17" />
-        <mark key="." line="299" column="16" />
+        <mark key="[" line="299" column="4" />
+        <mark key="]" line="299" column="18" />
+        <mark key="." line="319" column="5" />
+        <mark key="^" line="319" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -293,19 +293,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detail</text>
+        <text>lessonDetail[i]</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbEJ5RGV0YWlsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>lessonDetail</text>
+        <text>lessonDetail[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBsZXNzb25Ib3VyID0gcGFyc2VJbnQodG1wWzBdKTsKICB2YXIgbGVzc29uTWluICA9IHBhcnNlSW50KHRtcFsxXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -314,28 +314,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lUmFuZ2UgPSB0aW1lLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgdG8gICAgID0gdG1wWzFdLnNwbGl0KCI6Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgdG1wPSBsZXNzb25UaW1lLnNwbGl0KCItIik7Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lUmFuZ2UgPSB0aW1lLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBmcm9tSG91ciA9IHBhcnNlSW50KHRtcFswXSk7CiAgdmFyIGZyb21NaW4gID0gcGFyc2VJbnQodG1wWzFdKTsKICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBsZXNzb25Ib3VyID0gcGFyc2VJbnQodG1wWzBdKTsKICB2YXIgbGVzc29uTWluICA9IHBhcnNlSW50KHRtcFsxXSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHN0dWRlbnRObzsKICAgIHRvdGFsIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gZ2V0VG90YWxCeURldGFpbChsZXNzb25EYXRhTWFwW2xlc3NvbkRhdGVdW2xlc3NvblRpbWVbal1dLmRldGFpbCxsZXNzb25UaW1lW2pdKTsK</text>
+        <text encoding="base64">ICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
