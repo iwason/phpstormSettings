@@ -181,12 +181,12 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496731826384">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1496732393980">
         <mark key="'" line="291" column="9" />
-        <mark key="[" line="299" column="4" />
-        <mark key="]" line="299" column="18" />
-        <mark key="." line="319" column="5" />
-        <mark key="^" line="319" column="5" />
+        <mark key="[" line="317" column="55" />
+        <mark key="]" line="317" column="56" />
+        <mark key="." line="317" column="55" />
+        <mark key="^" line="317" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -293,28 +293,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lessonDetail[i]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbEJ5RGV0YWlsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>lessonDetail[i]</text>
+        <text>lessonMin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGZyb21Ib3VyID09IGxlc3NvbkhvdXIKICAgICAgJiYgZnJvbU1pbiA8PSBsZXNzb25NaW4pewoKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IgKHZhciBpID0gMCA7IGk8PTI1IDsgaSs9NSl7CiAgICBsZXNzb25EZXRhaWxbaV0gPSAwOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lUmFuZ2UgPSB0aW1lLnNwbGl0KCItIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,19 +323,19 @@
         <text encoding="base64">ICAgIHZhciB0aW1lUmFuZ2UgPSB0aW1lLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBmcm9tSG91ciA9IHBhcnNlSW50KHRtcFswXSk7CiAgdmFyIGZyb21NaW4gID0gcGFyc2VJbnQodG1wWzFdKTsKICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBsZXNzb25Ib3VyID0gcGFyc2VJbnQodG1wWzBdKTsKICB2YXIgbGVzc29uTWluICA9IHBhcnNlSW50KHRtcFsxXSk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lUmFuZ2UgPSB0aW1lLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBmcm9tSG91ciA9IHBhcnNlSW50KHRtcFswXSk7CiAgdmFyIGZyb21NaW4gID0gcGFyc2VJbnQodG1wWzFdKTsKICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgdG9Ib3VyICAgPSBwYXJzZUludCh0b1swXSk7CiAgdmFyIHRvTWluICAgID0gcGFyc2VJbnQodG9bMV0pOwo=</text>
+        <text encoding="base64">ICB2YXIgdG1wID0gbGVzc29uVGltZS5zcGxpdCgiOiIpOwogIHZhciBsZXNzb25Ib3VyID0gcGFyc2VJbnQodG1wWzBdKTsKICB2YXIgbGVzc29uTWluICA9IHBhcnNlSW50KHRtcFsxXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
