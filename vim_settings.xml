@@ -157,11 +157,11 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/ZkaiAdmin.php" timestamp="1493638436893">
         <mark key="[" line="66" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/schoolAdmin/routes/web.php" timestamp="1497246659678">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/schoolAdmin/routes/web.php" timestamp="1497257169697">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" timestamp="1490332644694">
         <mark key="'" line="57" column="9" />
@@ -306,10 +306,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2NoZWR1bGVGb3Jaa2FpXD4=</text>
