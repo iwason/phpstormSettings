@@ -51,6 +51,12 @@
       <file name="$USER_HOME$/PhpstormProjects/kraken/rjph/rjPhProtected/components/rjph/url/RJPH_CurlManager.php" timestamp="1489045900539">
         <mark key="'" line="84" column="13" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/schoolAdmin/config/adminlte.php" timestamp="1497259830533">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/protected/modules/lesson/controllers/ScheduleController.php" timestamp="1490612388220">
         <mark key="'" line="228" column="9" />
       </file>
@@ -311,11 +317,11 @@
       <jump line="148" column="28" filename="$USER_HOME$/PhpstormProjects/schoolAdmin/config/app.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwPuOBk+OBrui+uuOBq1ZpZXfjga7kuK3ouqvjgpLmm7jjgY/jgajjgYbjgb7jgYTjgZPjgajlpInmj5vjgZXjgozjgos8L3A+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LTE</text>
       </register>
       <register name="-" type="4">
-        <text>Welcome to this beautiful admin panel.</text>
+        <text>LTE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2NoZWR1bGVGb3Jaa2FpXD4=</text>
