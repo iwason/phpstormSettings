@@ -135,12 +135,12 @@
         <mark key="." line="212" column="11" />
         <mark key="^" line="212" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/copies.js" timestamp="1498542032232">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="238" column="3" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/copies.js" timestamp="1498543513484">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="87" column="7" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
         <mark key="'" line="99" column="0" />
@@ -182,50 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="34" filename="$USER_HOME$/PhpstormProjects/gasTool/before.js" />
-      <jump line="90" column="1" filename="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" />
-      <jump line="22" column="48" filename="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/PhpstormProjects/gasTool/daily.js" />
-      <jump line="5" column="6" filename="$USER_HOME$/PhpstormProjects/gasTool/daily.js" />
-      <jump line="119" column="9" filename="$USER_HOME$/PhpstormProjects/gasTool/daily.js" />
-      <jump line="85" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="87" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="93" column="22" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="216" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="214" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="104" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="166" column="4" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="79" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="105" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="173" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="200" column="35" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="11" column="31" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="187" column="28" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="215" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="49" column="8" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="118" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="239" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="8" column="11" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="73" column="11" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="82" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="33" column="24" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="352" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="24" column="23" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="26" column="48" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="116" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="22" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="178" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="83" column="7" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="178" column="0" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
-      <jump line="254" column="100" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="14" column="20" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="431" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="444" column="13" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="445" column="11" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="448" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
@@ -267,76 +223,120 @@
       <jump line="335" column="0" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="102" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="123" column="46" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="168" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="197" column="47" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="252" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="275" column="40" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="29" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="36" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="57" column="46" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="15" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="79" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="104" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="185" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="143" column="25" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="227" column="19" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
-      <jump line="46" column="25" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="46" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="79" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="104" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="143" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="187" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="229" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="210" column="37" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="233" column="49" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="125" column="7" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="95" column="11" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="83" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="238" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="237" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="236" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="232" column="4" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="198" column="9" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="148" column="5" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="153" column="47" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="164" column="49" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="28" column="36" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="77" column="6" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="101" column="30" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="248" column="0" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="191" column="2" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="131" column="8" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="199" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="188" column="33" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="184" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="183" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="182" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="181" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="180" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="179" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="178" column="34" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="177" column="33" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="174" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="173" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="172" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="171" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="170" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="169" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="168" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="167" column="31" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="127" column="9" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="120" column="8" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="87" column="20" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
+      <jump line="59" column="8" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRWYWx1ZShkdEZyb20sc2hlZXRUbyxyb3csbnVtQ29sdW1ucyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5Rm9ybWF0VG9SYW5nZVw+</text>
+        <text encoding="base64">XDxzZXRWYWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDkpLnNldFZhbHVlKGNvcHlTdHVkZW50U3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG9Sb3cgPSBzZXRWYWx1ZShkdEZyb20sc2hlZXRUbyxyb3csbnVtQ29sdW1ucyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRWYWx1ZShkdEZyb20sc2hlZXRUbyxyb3csbnVtQ29sdW1ucyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG9Sb3cgPSBzZXRWYWx1ZShkdEZyb20sc2hlZXRUbyxyb3csbnVtQ29sdW1ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZHRUbyA9IHNoZWV0VG8uZ2V0RGF0YVJhbmdlKCkuZ2V0VmFsdWVzKCk7CgogICAgICAgIGZvciAodmFyIHRvUm93ID0gNjsgdG9Sb3cgPD0gZHRUby5sZW5ndGggKyAxOyB0b1JvdysrKSB7CiAgICAgICAgICBpZiAoc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgMSkuZ2V0VmFsdWUoKSAhPSAiIikgewogICAgICAgICAgICBpZiAoY29weURhdGVPZlN0YXJ0ID49IHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDYpLmdldFZhbHVlKCkpIHsKICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzaGVldFRvLmluc2VydFJvd0JlZm9yZSh0b1Jvdyk7CiAgICAgICAgICAgIFNhbXBsZUZvcm1hdC5jb3B5Rm9ybWF0VG9SYW5nZShzaGVldFRvLCAxLCA5LCB0b1JvdywgdG9Sb3cpOwogICAgICAgICAgfQoKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDEpLnNldFZhbHVlKGNvcHlGaXJzdE5hbWUpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgMikuc2V0VmFsdWUoY29weUZhbWlseU5hbWUpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgMykuc2V0VmFsdWUoY29weUNvbXBhbnlOYW1lKTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDQpLnNldFZhbHVlKGNvcHlTZXgpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgNSkuc2V0VmFsdWUoY29weUFnZSk7CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCA2KS5zZXRWYWx1ZShjb3B5RGF0ZU9mU3RhcnQpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgNykuc2V0VmFsdWUoY29weURhdGVPZkZpbmFsKTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDgpLnNldFZhbHVlKGNvcHlDb3Vyc2UpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgOSkuc2V0VmFsdWUoY29weVN0dWRlbnRTdGF0dXMpOwoKICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29weUZpcnN0TmFtZSA9IGR0RnJvbVtyb3cgLSAxXVswXTsKICAgICAgICB2YXIgY29weUZhbWlseU5hbWUgPSBkdEZyb21bcm93IC0gMV1bMV07CiAgICAgICAgdmFyIGNvcHlDb21wYW55TmFtZSA9IGR0RnJvbVtyb3cgLSAxXVszXTsKICAgICAgICB2YXIgY29weVNleCA9IGR0RnJvbVtyb3cgLSAxXVs3XTsKICAgICAgICB2YXIgY29weUFnZSA9IGR0RnJvbVtyb3cgLSAxXVs4XTsKICAgICAgICB2YXIgY29weURhdGVPZlN0YXJ0ID0gZHRGcm9tW3JvdyAtIDFdWzIxXTsKICAgICAgICB2YXIgY29weURhdGVPZkZpbmFsID0gZHRGcm9tW3JvdyAtIDFdWzIyXTsKICAgICAgICB2YXIgY29weUNvdXJzZSA9IGR0RnJvbVtyb3cgLSAxXVsyMF07CiAgICAgICAgdmFyIGNvcHlTdHVkZW50U3RhdHVzID0gZHRGcm9tW3JvdyAtIDFdWzMzXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL2NvcHlUb092ZXJ2aWV3RG9uZQo=</text>
+        <text encoding="base64">ICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDkpLnNldFZhbHVlKGNvcHlTdHVkZW50U3RhdHVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFyIGNvcHlGaXJzdE5hbWUgPSBkdEZyb21bcm93IC0gMV1bMF07CiAgICAgICAgdmFyIGNvcHlGYW1pbHlOYW1lID0gZHRGcm9tW3JvdyAtIDFdWzFdOwogICAgICAgIHZhciBjb3B5Q29tcGFueU5hbWUgPSBkdEZyb21bcm93IC0gMV1bM107CiAgICAgICAgdmFyIGNvcHlTZXggPSBkdEZyb21bcm93IC0gMV1bN107CiAgICAgICAgdmFyIGNvcHlBZ2UgPSBkdEZyb21bcm93IC0gMV1bOF07CiAgICAgICAgdmFyIGNvcHlEYXRlT2ZTdGFydCA9IGR0RnJvbVtyb3cgLSAxXVsyMV07CiAgICAgICAgdmFyIGNvcHlEYXRlT2ZGaW5hbCA9IGR0RnJvbVtyb3cgLSAxXVsyMl07CiAgICAgICAgdmFyIGNvcHlDb3Vyc2UgPSBkdEZyb21bcm93IC0gMV1bMjBdOwoKICAgICAgICB2YXIgZHRUbyA9IHNoZWV0VG8uZ2V0RGF0YVJhbmdlKCkuZ2V0VmFsdWVzKCk7CgogICAgICAgIGZvciAodmFyIHRvUm93ID0gNjsgdG9Sb3cgPD0gZHRUby5sZW5ndGggKyAxOyB0b1JvdysrKSB7CgogICAgICAgICAgaWYgKHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDEpLmdldFZhbHVlKCkgIT0gIiIpIHsKICAgICAgICAgICAgaWYgKGNvcHlEYXRlT2ZTdGFydCA+PSBzaGVldFRvLmdldFJhbmdlKHRvUm93LCA2KS5nZXRWYWx1ZSgpKSB7CiAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgc2hlZXRUby5pbnNlcnRSb3dCZWZvcmUodG9Sb3cpOwogICAgICAgICAgICBTYW1wbGVGb3JtYXQuY29weUZvcm1hdFRvUmFuZ2Uoc2hlZXRUbywgMSwgOCwgdG9Sb3csIHRvUm93KTsKICAgICAgICAgIH0KCiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCAxKS5zZXRWYWx1ZShjb3B5Rmlyc3ROYW1lKTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDIpLnNldFZhbHVlKGNvcHlGYW1pbHlOYW1lKTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDMpLnNldFZhbHVlKGNvcHlDb21wYW55TmFtZSk7CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCA0KS5zZXRWYWx1ZShjb3B5U2V4KTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDUpLnNldFZhbHVlKGNvcHlBZ2UpOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgNikuc2V0VmFsdWUoY29weURhdGVPZlN0YXJ0KTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDcpLnNldFZhbHVlKGNvcHlEYXRlT2ZGaW5hbCk7CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCA4KS5zZXRWYWx1ZShjb3B5Q291cnNlKTsKCiAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDkpLnNldFZhbHVlKGNvcHlGbGlnaHRBcnJEYXRlKTsKICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDEwKS5zZXRWYWx1ZShjb3B5RmxpZ2h0QXJyVGltZSk7CiAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCAxMSkuc2V0VmFsdWUoQ29weUZsaWdodEFyck5vKTsKICAgIHNoZWV0VG8uZ2V0UmFuZ2UodG9Sb3csIDEyKS5zZXRWYWx1ZShjb3B5RmxpZ2h0RGVwRGF0ZSk7CiAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCAxMykuc2V0VmFsdWUoY29weUZsaWdodERlcFRpbWUpOwogICAgc2hlZXRUby5nZXRSYW5nZSh0b1JvdywgMTQpLnNldFZhbHVlKGNvcHlGbGlnaHREZXBObyk7CiAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCAxNSkuc2V0VmFsdWUoY29weUFyclN0YXR1cyk7CiAgICBzaGVldFRvLmdldFJhbmdlKHRvUm93LCAxNikuc2V0VmFsdWUoY29weVN0dWRlbnRTdGF0dXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3B5Rm9ybWF0VG9SYW5nZVw+</last-search>
+      <last-search encoding="base64">XDxzZXRWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5Rm9ybWF0VG9SYW5nZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRWYWx1ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -344,8 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
-        <entry encoding="base64">XDxzZXRDb2xvclw+</entry>
         <entry encoding="base64">XDxzaG93U2NoZWR1bGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVEYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0VGltZVN0cmluZ1RvU2xvdFN0cmluZ1w+</entry>
@@ -362,8 +360,10 @@
         <entry encoding="base64">XDxhcHBlbmRSb3dGcm9tU2hlZXRcPg==</entry>
         <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
         <entry encoding="base64">XDxjb3B5U3R1ZGVudFN0YXR1c1w+</entry>
-        <entry encoding="base64">XDxTYW1wbGVGb3JtYXRcPg==</entry>
         <entry encoding="base64">XDxjb3B5Rm9ybWF0VG9SYW5nZVw+</entry>
+        <entry encoding="base64">XDxTYW1wbGVGb3JtYXRcPg==</entry>
+        <entry encoding="base64">XDxudW1Db2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxzZXRWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
