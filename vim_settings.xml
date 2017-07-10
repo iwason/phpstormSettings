@@ -47,11 +47,11 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/ProgramTest/tests/unit/ExampleTest.php" timestamp="1499680568645">
-        <mark key="[" line="16" column="61" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="16" column="61" />
+      <file name="$USER_HOME$/PhpstormProjects/ProgramTest/tests/unit/ExampleTest.php" timestamp="1499681301691">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1490610785494">
         <mark key="'" line="414" column="25" />
@@ -308,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyA=</text>
+        <text>../../</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyA=</text>
+        <text>../../</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGcm9tU2hlZXRfbmFtZVw+</text>
