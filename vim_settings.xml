@@ -29,7 +29,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1499827933644">
+      <file name="/a.dummy" timestamp="1500446800536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/sample.php" timestamp="1499680363767">
@@ -96,7 +96,7 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499827933604">
+      <file name="/Dummy.txt" timestamp="1500446800515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -307,11 +307,11 @@
       <jump line="426" column="17" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>留学チーム用</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>留学チーム用</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
