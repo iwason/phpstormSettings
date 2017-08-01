@@ -122,12 +122,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1497835576800">
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1501567068650">
         <mark key="'" line="101" column="46" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="59" column="12" />
-        <mark key="^" line="59" column="12" />
-        <mark key="." line="59" column="12" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="73" column="26" />
+        <mark key="." line="73" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/MyTest.php" timestamp="1499680033156">
         <mark key="[" line="8" column="8" />
@@ -315,10 +315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
