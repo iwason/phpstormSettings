@@ -29,8 +29,10 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1501564241349">
+      <file name="/a.dummy" timestamp="1502709833479">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/sample.php" timestamp="1499680363767">
         <mark key="[" line="11" column="22" />
@@ -195,7 +197,7 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/moodle/lib/javascript.php" timestamp="1502708268068" />
+      <file name="$USER_HOME$/PhpstormProjects/moodle/lib/javascript.php" timestamp="1502709938401" />
       <file name="$USER_HOME$/PhpstormProjects/gasTool/daily.js" timestamp="1496368607554">
         <mark key="'" line="119" column="9" />
         <mark key="[" line="32" column="63" />
@@ -314,11 +316,11 @@
       <jump line="66" column="30" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RmlsZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>numColumns</text>
+        <text encoding="base64">RmlsZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
