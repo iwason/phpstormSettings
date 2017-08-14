@@ -90,6 +90,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/moodle/theme/image.php" timestamp="1502715332208">
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="7" />
+        <mark key="^" line="238" column="7" />
+        <mark key="." line="238" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="67" column="5" />
