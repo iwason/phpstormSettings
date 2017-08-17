@@ -29,7 +29,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1502709833479">
+      <file name="/a.dummy" timestamp="1502936313820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,11 +85,6 @@
         <mark key="." line="212" column="11" />
         <mark key="^" line="212" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/copies.js" timestamp="1502156187643">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/theme/image.php" timestamp="1502715332208">
         <mark key="[" line="238" column="32" />
         <mark key="]" line="238" column="7" />
@@ -102,11 +97,6 @@
         <mark key="]" line="67" column="5" />
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501564241340">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1497328159508">
         <mark key="'" line="80" column="12" />
@@ -129,13 +119,12 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/moodle/lib/xsendfilelib.php" timestamp="1502712429814" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1502068476063">
-        <mark key="'" line="102" column="46" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1502936310862">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+        <mark key="." line="67" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/MyTest.php" timestamp="1499680033156">
         <mark key="[" line="8" column="8" />
@@ -204,7 +193,6 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/moodle/lib/javascript.php" timestamp="1502709938401" />
       <file name="$USER_HOME$/PhpstormProjects/gasTool/daily.js" timestamp="1496368607554">
         <mark key="'" line="119" column="9" />
         <mark key="[" line="32" column="63" />
@@ -221,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="292" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="79" column="9" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
       <jump line="80" column="12" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
@@ -321,34 +308,36 @@
       <jump line="196" column="2" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
       <jump line="47" column="45" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
       <jump line="66" column="30" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RmlsZSA=</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RmlsZSA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMYXlvdXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bnVtQ29sdW1ucyA=</text>
+        <text encoding="base64">cmVxdWVzdERhdGFbaV1bMTFdICE9IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
+      <register name="2" type="4">
+        <text>リファクタリング
+One time lesson用のシートに対応</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,15 +349,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL+OCt+ODvOODiOWQjSBSU0xfT25lVGltZUxlc3NvbuOBruWgtOWQiOOBr+WtpuagoeWQjeOCkkHliJfjgYvjgonlj5blvpfjgZnjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>else if (dtTo[row][0] == &quot;&quot;) {
-
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNoZWV0VG8uaW5zZXJ0Um93QWZ0ZXIocm93KTsKICAgICAgICAgIHZhciBTYW1wbGVGb3JtYXQgPSBzaGVldFRvLmdldFJhbmdlKDMsIDEsIDEsIDI3KTsKICAgICAgICAgIFNhbXBsZUZvcm1hdC5jb3B5Rm9ybWF0VG9SYW5nZShzaGVldFRvLCAxLCAyNywgcm93ICsgMSwgcm93ICsgMSk7CgogICAgICAgICAgLy9VcGRhdGluZyAiSW5wdXQgRGF0ZSIKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2Uocm93ICsgMSwgMSkuc2V0VmFsdWUoVXRpbGl0aWVzLmZvcm1hdERhdGUobmV3IERhdGUoKSwgJ0FzaWEvVG9reW8nLCAnTS9kL3l5eXknKSk7CgogICAgICAgICAgLy9UcmFuc2NyaXB0aW9uIG9mICJMZXNzb24gRGF0ZSIKICAgICAgICAgIHZhciBjb3B5TGVzc29uRGF0ZSA9IGR0RnJvbVtpIC0gMV1bNV07CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDIpLnNldFZhbHVlKGNvcHlMZXNzb25EYXRlKTsKCiAgICAgICAgICAvL1VwZGF0aW5nICJMZXNzb24gRGF5IgogICAgICAgICAgdmFyIGFyckRheSA9IG5ldyBBcnJheSgnU3VuJywgJ01vbicsICdUdWUnLCAnV2VkJywgJ1RodScsICdGcmknLCAnU2F0Jyk7CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDMpLnNldFZhbHVlKGFyckRheVtjb3B5TGVzc29uRGF0ZS5nZXREYXkoKV0pOwoKICAgICAgICAgIC8vVHJhbnNjcmlwdGlvbiBvZiAiU2Nob29sIENsaWVudCIKICAgICAgICAgIHZhciBjb3B5Q2xpZW50TmFtZSA9IGR0RnJvbVsxXVs0XTsKICAgICAgICAgIHZhciBjb3B5R3JhZGUgPSBkdEZyb21baSAtIDFdWzJdOwogICAgICAgICAgdmFyIGNvcHlDbGFzcyA9IGR0RnJvbVtpIC0gMV1bM107CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDQpLnNldFZhbHVlKGNvcHlDbGllbnROYW1lICsgIiAiICsgY29weUdyYWRlICsgIi0iICsgY29weUNsYXNzKTsgLy9Qb3N0IHRvICJQcm9qZWN0IE5hbWUiIGluIFRoaXMgU3R5bGUKCiAgICAgICAgICAvL1VwZGF0aW5nIGFzICJSZWd1bGFyIgogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZShyb3cgKyAxLCA1KS5zZXRWYWx1ZSgiUmVndWxhciIpOwoKICAgICAgICAgIC8vVHJhbnNjcmlwdGlvbiBvZiAiTm8uIFN0dWRlbnQiCiAgICAgICAgICB2YXIgY29weU5vT2ZTdHVkZW50cyA9IGR0RnJvbVtpIC0gMV1bNF07CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDYpLnNldFZhbHVlKGNvcHlOb09mU3R1ZGVudHMpOwoKICAgICAgICAgIC8vVHJhbnNjcmlwdGlvbiBvZiAiTGVzc29uIFRpbWUoUEhUKSIKICAgICAgICAgIHZhciBjb3B5TGVzc29uVGltZVBIVCA9IGR0RnJvbVtpIC0gMV1bN107CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDgpLnNldFZhbHVlKGNvcHlMZXNzb25UaW1lUEhUKTsKCiAgICAgICAgICAvL1VwZGF0aW5nICJTdGF0dXMiCiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDExKS5zZXRWYWx1ZSgiRmVhc2liaWxpdHkgQ29uZmlybWVkIik7CgogICAgICAgICAgLy9UcmFuc2NyaXB0aW9uIG9mICJQaCBPcHMgVGVhbSBDaGVja2VyIgogICAgICAgICAgdmFyIGNvcHlQaFBpYyA9IGR0RnJvbVszXVs0XTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2Uocm93ICsgMSwgMTIpLnNldFZhbHVlKGNvcHlQaFBpYyk7CgogICAgICAgICAgLy9UcmFuc2NyaXB0aW9uIG9mICJQbGF0Zm9ybSIKICAgICAgICAgIHZhciBjb3B5UGxhdGZvcm0gPSBkdEZyb21bNF1bNF07CiAgICAgICAgICBzaGVldFRvLmdldFJhbmdlKHJvdyArIDEsIDEzKS5zZXRWYWx1ZShjb3B5UGxhdGZvcm0pOwoKICAgICAgICAgIC8vVHJhbnNjcmlwdGlvbiBvZiAiTWF0ZXJpYWwiCiAgICAgICAgICB2YXIgY29weU1hdGVyaWFsID0gZHRGcm9tW2kgLSAxXVs4XTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2Uocm93ICsgMSwgMTYpLnNldFZhbHVlKGNvcHlNYXRlcmlhbCk7CgogICAgICAgICAgLy9UcmFuc2NyaXB0aW9uIG9mICJDdXN0b21pemUgUGF0dGVybiIKICAgICAgICAgIHZhciBjb3B5Q3VzdG9taXplID0gZHRGcm9tW2kgLSAxXVs5XTsKICAgICAgICAgIHNoZWV0VG8uZ2V0UmFuZ2Uocm93ICsgMSwgMTgpLnNldFZhbHVlKGNvcHlDdXN0b21pemUpOwoKICAgICAgICAgIC8vVHJhbnNjcmlwdGlvbiBvZiAiSlAgU2FsZXMgVGVhbSBQUCIKICAgICAgICAgIHZhciBjb3B5SnBuUGljID0gZHRGcm9tWzJdWzRdOwogICAgICAgICAgc2hlZXRUby5nZXRSYW5nZShyb3cgKyAxLCAyMykuc2V0VmFsdWUoY29weUpwblBpYyk7CgogICAgICAgICAgLy9VcGRhdGluZyAiSW4gT3ZlcnZpZXcgVGFiPyIKICAgICAgICAgIHNoZWV0RnJvbS5nZXRSYW5nZShpLCAxMikuc2V0VmFsdWUoIjEuIFllcyIpOwoKICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAvL+OCt+ODvOODiOWQjSBSU0xfT25lVGltZUxlc3NvbuOBruWgtOWQiOOBr+WtpuagoeWQjeOCkkHliJfjgYvjgonlj5blvpfjgZnjgosK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
