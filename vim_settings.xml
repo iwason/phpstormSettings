@@ -193,11 +193,11 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1497835703406">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="50" column="23" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1504689702592">
+        <mark key="[" line="17" column="85" />
+        <mark key="]" line="17" column="86" />
+        <mark key="." line="17" column="86" />
+        <mark key="^" line="17" column="86" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/daily.js" timestamp="1496368607554">
         <mark key="'" line="119" column="9" />
@@ -318,50 +318,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVxdWVzdERhdGFbaV1bMTFdICE9IA==</text>
+        <text>130x130</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>リファクタリング
-One time lesson用のシートに対応</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>リファクタリング
+One time lesson用のシートに対応</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL+OCt+ODvOODiOWQjSBSU0xfT25lVGltZUxlc3NvbuOBruWgtOWQiOOBr+WtpuagoeWQjeOCkkHliJfjgYvjgonlj5blvpfjgZnjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
