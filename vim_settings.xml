@@ -29,7 +29,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1504786930266">
+      <file name="/a.dummy" timestamp="1504789237865">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,6 +75,12 @@
       <file name="$USER_HOME$/PhpstormProjects/moodle/lib/setup.php" timestamp="1503628151641">
         <mark key="'" line="496" column="8" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" timestamp="1504789480083">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="38" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/common/reservation/RJ_ReservationManager.php" timestamp="1491385386499">
         <mark key="[" line="908" column="7" />
       </file>
@@ -105,7 +111,7 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504786930236">
+      <file name="/Dummy.txt" timestamp="1504789237851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/calendar/view.php" timestamp="1503628531033">
@@ -131,6 +137,12 @@
         <mark key="]" line="51" column="19" />
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/moodle/config-dist.php" timestamp="1504788799547">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1502936310862">
         <mark key="'" line="114" column="0" />
@@ -192,6 +204,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/moodle/.gitignore" timestamp="1504788774768">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/updateStatus.js" timestamp="1498545498301">
         <mark key="'" line="47" column="9" />
@@ -325,11 +342,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/qrCode.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$terminate=true,$statusCode=302</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JENGRy0+ZGF0YXJvb3QgID0gJy9ob21lL2V4YW1wbGUvbW9vZGxlZGF0YSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">OTIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</text>
@@ -338,38 +355,37 @@
         <text>$terminate=true,$statusCode=302</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">JENGRy0+ZGF0YXJvb3QgID0gJy9ob21lL2V4YW1wbGUvbW9vZGxlZGF0YSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">JENGRy0+d3d3cm9vdCAgID0gJ2h0dHA6Ly9leGFtcGxlLmNvbS9tb29kbGUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">JENGRy0+ZGJwYXNzICAgID0gJ3Bhc3N3b3JkJzsgICAvLyB5b3VyIGRhdGFiYXNlIHBhc3N3b3JkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
+        <text encoding="base64">JENGRy0+ZGJ1c2VyICAgID0gJ3VzZXJuYW1lJzsgICAvLyB5b3VyIGRhdGFiYXNlIHVzZXJuYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
+        <text encoding="base64">JENGRy0+ZGJuYW1lICAgID0gJ21vb2RsZSc7ICAgICAvLyBkYXRhYmFzZSBuYW1lLCBlZyBtb29kbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JENGRy0+ZGJob3N0ICAgID0gJzE5Mi4xNjguMS4yMzEnOyAgLy8gZWcgJ2xvY2FsaG9zdCcgb3IgJ2RiLmlzcC5jb20nIG9yIElQCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>リファクタリング
-One time lesson用のシートに対応</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly5pZGVhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
