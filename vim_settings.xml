@@ -193,11 +193,12 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1504690207316">
-        <mark key="[" line="17" column="85" />
-        <mark key="]" line="17" column="86" />
-        <mark key="." line="17" column="86" />
-        <mark key="^" line="17" column="86" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1504762801967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="14" column="51" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/daily.js" timestamp="1496368607554">
         <mark key="'" line="119" column="9" />
@@ -215,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
       <jump line="18" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="148" column="28" filename="$USER_HOME$/PhpstormProjects/schoolAdmin/config/app.php" />
       <jump line="82" column="9" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
@@ -315,13 +315,14 @@
       <jump line="114" column="0" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
       <jump line="496" column="8" filename="$USER_HOME$/PhpstormProjects/moodle/lib/setup.php" />
       <jump line="129" column="16" filename="$USER_HOME$/PhpstormProjects/moodle/calendar/view.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/qrCode.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</text>
@@ -339,29 +340,29 @@
         <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSA7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>リファクタリング
-One time lesson用のシートに対応</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text>リファクタリング
+One time lesson用のシートに対応</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc29tZXRoaW5nUmVjZXB0ZXIgPSBzb21ldGhpbmdNZXRob2QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
