@@ -50,6 +50,10 @@
         <mark key="^" line="134" column="0" />
         <mark key="." line="101" column="91" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/framework/yiilite.php" timestamp="1504769117017">
+        <mark key="[" line="3999" column="32" />
+        <mark key="]" line="3999" column="62" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Application/CbtBulkOpenSlotService.php" timestamp="1490610432931">
         <mark key="[" line="97" column="9" />
         <mark key="]" line="97" column="9" />
@@ -151,6 +155,7 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/ConfigController.php" timestamp="1504769079653" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/ZkaiAdmin.php" timestamp="1493638436893">
         <mark key="[" line="66" column="5" />
       </file>
@@ -319,7 +324,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$terminate=true,$statusCode=302</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -328,7 +333,7 @@
         <text encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>130x130</text>
+        <text>$terminate=true,$statusCode=302</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLyoK</text>
