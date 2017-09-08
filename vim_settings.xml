@@ -29,7 +29,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1504789237865">
+      <file name="/a.dummy" timestamp="1504866459366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,11 +75,12 @@
       <file name="$USER_HOME$/PhpstormProjects/moodle/lib/setup.php" timestamp="1503628151641">
         <mark key="'" line="496" column="8" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" timestamp="1504792104267">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" timestamp="1504866398460">
+        <mark key="'" line="96" column="51" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
         <mark key="^" line="104" column="38" />
-        <mark key="." line="105" column="0" />
+        <mark key="." line="317" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/common/reservation/RJ_ReservationManager.php" timestamp="1491385386499">
         <mark key="[" line="908" column="7" />
@@ -111,7 +112,7 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504789237851">
+      <file name="/Dummy.txt" timestamp="1504866459319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/calendar/view.php" timestamp="1503628531033">
@@ -240,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="148" column="28" filename="$USER_HOME$/PhpstormProjects/schoolAdmin/config/app.php" />
       <jump line="82" column="9" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
       <jump line="94" column="8" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
@@ -340,16 +340,17 @@
       <jump line="496" column="8" filename="$USER_HOME$/PhpstormProjects/moodle/lib/setup.php" />
       <jump line="129" column="16" filename="$USER_HOME$/PhpstormProjects/moodle/calendar/view.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/qrCode.js" />
+      <jump line="96" column="51" filename="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JENGRy0+ZGF0YXJvb3QgID0gJy9ob21lL2V4YW1wbGUvbW9vZGxlZGF0YSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OTIg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</text>
+        <text>ssl</text>
       </register>
       <register name="0" type="4">
         <text>$terminate=true,$statusCode=302</text>
@@ -392,9 +393,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</last-search>
+      <last-search>ssl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</last-pattern>
+      <last-pattern>ssl</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZXJjZUludFw+</entry>
         <entry encoding="base64">XDxwYXJzZUludFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVEZXRhaWxcPg==</entry>
         <entry encoding="base64">XDxzbG90RGV0YWlsXD4=</entry>
@@ -422,6 +422,7 @@
         <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxPVVRQVVRcPg==</entry>
         <entry encoding="base64">XDxzdGFydF9sYXlvdXRcPg==</entry>
+        <entry>ssl</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
