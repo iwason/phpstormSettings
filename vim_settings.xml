@@ -200,11 +200,11 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506473894559">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506475730531">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1499679742031">
         <mark key="[" line="12" column="27" />
@@ -238,12 +238,12 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506473622545">
-        <mark key="'" line="430" column="9" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="47" />
-        <mark key="^" line="218" column="75" />
-        <mark key="." line="218" column="75" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506475723500">
+        <mark key="'" line="479" column="9" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="71" column="57" />
+        <mark key="." line="72" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -350,49 +350,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhZGRQcmVGaWxlKGRhdGFNYXAsIHNzKTsK</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7CiAgdmFyIGRhdGEgPSBzaGVldC5nZXRSYW5nZSgnQTpIJykuZ2V0VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Schedule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgKiBkYXRhW2ldWzBdCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c2hlZXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZGRQcmVGaWxlKGRhdGFNYXAsIHNzKTsK</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7CiAgdmFyIGRhdGEgPSBzaGVldC5nZXRSYW5nZSgnQTpIJykuZ2V0VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7CiAgdmFyIGRhdGEgPSBzaGVldC5nZXRSYW5nZSgnQTpIJykuZ2V0VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGFbaV1bMF07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFbaV1bMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgbnMgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnaW1wb3J0ZWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
