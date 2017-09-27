@@ -200,11 +200,11 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506478129401">
-        <mark key="[" line="29" column="71" />
-        <mark key="]" line="29" column="75" />
-        <mark key="^" line="29" column="75" />
-        <mark key="." line="29" column="75" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506479189914">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1499679742031">
         <mark key="[" line="12" column="27" />
@@ -238,7 +238,7 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506478013859">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506478918740">
         <mark key="'" line="467" column="30" />
         <mark key="]" line="555" column="0" />
         <mark key="^" line="555" column="0" />
@@ -348,8 +348,8 @@
       <jump line="467" column="30" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBMb2dnZXIubG9nKHRocmVzaG9sZExpc3QpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -361,37 +361,37 @@
         <text>timeString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKHRocmVzaG9sZExpc3QpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIxOTowMCIsICIxOTozMCIsICIyMDowMCIsICIyMDozMCIsICIyMTowMCIsICIyMTozMCJdOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIxNjowMCIsICIxNjozMCIsICIxNzowMCIsICIxNzozMCIsICIxODowMCIsICIxODozMCIsCg==</text>
+        <text encoding="base64">ICAgICIxOTowMCIsICIxOTozMCIsICIyMDowMCIsICIyMDozMCIsICIyMTowMCIsICIyMTozMCJdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIxMzowMCIsICIxMzozMCIsICIxNDowMCIsICIxNDozMCIsICIxNTowMCIsICIxNTozMCIsCg==</text>
+        <text encoding="base64">ICAgICIxNjowMCIsICIxNjozMCIsICIxNzowMCIsICIxNzozMCIsICIxODowMCIsICIxODozMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIxMDowMCIsICIxMDozMCIsICIxMTowMCIsICIxMTozMCIsICIxMjowMCIsICIxMjozMCIsCg==</text>
+        <text encoding="base64">ICAgICIxMzowMCIsICIxMzozMCIsICIxNDowMCIsICIxNDozMCIsICIxNTowMCIsICIxNTozMCIsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgdGltZUxpc3QgPSBbIjc6MDAiLCAiNzozMCIsICI4OjAwIiwgIjg6MzAiLCAiOTowMCIsICI5OjMwIiwK</text>
+        <text encoding="base64">ICAgICIxMDowMCIsICIxMDozMCIsICIxMTowMCIsICIxMTozMCIsICIxMjowMCIsICIxMjozMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgdGltZUxpc3QgPSBbIjc6MDAiLCAiNzozMCIsICI4OjAwIiwgIjg6MzAiLCAiOTowMCIsICI5OjMwIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYWxjdWxhdGVEYXRhTWFwKGRhdGFNYXApOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
