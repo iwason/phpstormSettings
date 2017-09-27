@@ -200,11 +200,11 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506420254895">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1506473894559">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1499679742031">
         <mark key="[" line="12" column="27" />
@@ -238,16 +238,15 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506420130285">
-        <mark key="'" line="248" column="45" />
-        <mark key="[" line="218" column="74" />
-        <mark key="]" line="218" column="75" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1506473622545">
+        <mark key="'" line="430" column="9" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="47" />
         <mark key="^" line="218" column="75" />
         <mark key="." line="218" column="75" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="40" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="0" column="12" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="52" column="46" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
       <jump line="73" column="13" filename="$USER_HOME$/PhpstormProjects/gas/copies.js" />
@@ -347,61 +346,62 @@
       <jump line="309" column="21" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="241" column="74" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="248" column="45" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="430" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bnMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhZGRQcmVGaWxlKGRhdGFNYXAsIHNzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnMg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXRhaWxcPg==</text>
+        <text encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgc3MgPSBTcHJlYWRzaGVldEFwcC5nZXRBY3RpdmVTcHJlYWRzaGVldCgpOwogIHZhciBucyA9IHNzLmdldFNoZWV0QnlOYW1lKCdhdXRvUHJlZmlsZScpOwo=</text>
+        <text encoding="base64">ICAgKiBkYXRhW2ldWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgbnMgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7Cg==</text>
+        <text encoding="base64">ICBhZGRQcmVGaWxlKGRhdGFNYXAsIHNzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnJzsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRhdGFbaV1bMF07Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnaW1wb3J0ZWQnKTsK</text>
+        <text encoding="base64">ICAgIGRhdGFbaV1bMF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgc3MgPSBTcHJlYWRzaGVldEFwcC5nZXRBY3RpdmVTcHJlYWRzaGVldCgpOwo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHNzID0gU3ByZWFkc2hlZXRBcHAuZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKTsKdmFyIG5zID0gc3MuZ2V0U2hlZXRCeU5hbWUoJ2F1dG9QcmVmaWxlJyk7Cg==</text>
+        <text encoding="base64">ICB2YXIgbnMgPSBzcy5nZXRTaGVldEJ5TmFtZSgnVGhyZXNob2xkJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAnJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqdW5wZWkuaXdhbXVyYSBvbiAyMDE3LzA5LzI2Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnaW1wb3J0ZWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXRhaWxcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXRhaWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQcmVGaWxlU2hlZXRzXD4=</entry>
         <entry encoding="base64">XDxhcHBlbmRSb3dGcm9tU2hlZXRcPg==</entry>
         <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
         <entry encoding="base64">XDxjb3B5U3R1ZGVudFN0YXR1c1w+</entry>
@@ -429,6 +428,7 @@
         <entry encoding="base64">XDxzdHVkZW50c1w+</entry>
         <entry encoding="base64">XDxnZXRUb3RhbEJ5RGV0YWlsXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
