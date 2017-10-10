@@ -106,12 +106,12 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.js" timestamp="1507625953149">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="24" column="86" />
-        <mark key="]" line="24" column="86" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="24" column="86" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.js" timestamp="1507628123123">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="87" />
+        <mark key="^" line="26" column="86" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/ZkaiAdmin.php" timestamp="1493638436893">
         <mark key="[" line="66" column="5" />
@@ -387,17 +387,17 @@
       <jump line="59" column="4" filename="$USER_HOME$/PhpstormProjects/gdocSync/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>goal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBpbnB1dCA9IC8qKiBAdHlwZSB7SFRNTElucHV0RWxlbWVudH0gKi8gKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoIiN0eHQtdm9jYWIiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>goal</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U0NIT09MX0dST1VQX0lEIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBpbnB1dCA9IC8qKiBAdHlwZSB7SFRNTElucHV0RWxlbWVudH0gKi8gKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoIiN0eHQtdm9jYWIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
