@@ -270,12 +270,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1504762801967">
+      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1508375074172">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="14" column="51" />
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/tests/unit/RJ_MemberTest.php" timestamp="1507168185052">
         <mark key="'" line="5321" column="0" />
@@ -385,10 +384,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5wdXQzIAogIA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkZW50XD4=</text>
