@@ -261,11 +261,10 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/LessonFeedback.php" timestamp="1509006561310">
         <mark key="'" line="175" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511229834999">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="41" column="18" />
-        <mark key="." line="41" column="18" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511231128956">
+        <mark key="]" line="64" column="44" />
+        <mark key="^" line="64" column="44" />
+        <mark key="." line="64" column="44" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/composer.json" timestamp="1499679742031">
         <mark key="[" line="12" column="27" />
@@ -391,11 +390,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/threshold.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgaW5kaXZpZHVhbFRocmVzaG9sZExpc3QgPSBnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b0VudGl0eVw+</text>
