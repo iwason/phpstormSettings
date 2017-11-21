@@ -22,7 +22,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1511227531510">
+      <file name="/a.dummy" timestamp="1511238843238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -32,9 +32,6 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1498786978445">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" timestamp="1495008390748">
         <mark key="'" line="0" column="0" />
@@ -116,9 +113,6 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/ZkaiAdmin.php" timestamp="1493638436893">
-        <mark key="[" line="66" column="5" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/schoolAdmin/resources/views/admin/dashboard.blade.php" timestamp="1497258669529">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="36" />
@@ -185,9 +179,6 @@
         <mark key="." line="97" column="9" />
         <mark key="^" line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/common/reservation/RJ_ReservationManager.php" timestamp="1491385386499">
-        <mark key="[" line="908" column="7" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1489028394040">
         <mark key="'" line="865" column="0" />
         <mark key="[" line="211" column="13" />
@@ -208,8 +199,10 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506668955069">
+      <file name="/Dummy.txt" timestamp="1511238847454">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1507192953925">
         <mark key="[" line="2" column="14" />
@@ -391,8 +384,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/threshold.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy9sZXNzb25Db3VudCA9IHRocmVzaG9sZExpc3RbdGltZUxpc3RbaV1dOwo=</text>
+      <register name="&quot;" type="4">
+        <text>リファクタ
+コメント追加</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -403,38 +397,39 @@
       <register name="0" type="4">
         <text encoding="base64">aW5kaXZpZHVhbFRocmVzaG9sZExpc3Qg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy9sZXNzb25Db3VudCA9IHRocmVzaG9sZExpc3RbdGltZUxpc3RbaV1dOwo=</text>
+      <register name="1" type="4">
+        <text>リファクタ
+コメント追加</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2N3LnNlbmRNZXNzYWdlKHtyb29tX2lkOiAyODM4ODY1MywgYm9keTogInRlc3QifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9sZXNzb25Db3VudCA9IHRocmVzaG9sZExpc3RbdGltZUxpc3RbaV1dOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL3ZhciBjdyA9IGZhY3Rvcnkoe3Rva2VuOiAiOWFhZWZkZGNjYzQwMmMxMTVjZjQ2NmExZjExZjJlNjUifSk7Cg==</text>
+        <text encoding="base64">ICAvL2N3LnNlbmRNZXNzYWdlKHtyb29tX2lkOiAyODM4ODY1MywgYm9keTogInRlc3QifSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAvL3ZhciBjdyA9IGZhY3Rvcnkoe3Rva2VuOiAiOWFhZWZkZGNjYzQwMmMxMTVjZjQ2NmExZjExZjJlNjUifSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAvKioKICAgKgogICBmb3IgKHZhciBkYXRlIGluIGluZGl2aWR1YWxUaHJlc2hvbGRMaXN0KXsKICAgIHZhciBkYXRlVGhyZXNob2xkID0gIiI7CiAgICBmb3IodmFyIHRpbWUgaW4gaW5kaXZpZHVhbFRocmVzaG9sZExpc3RbZGF0ZV0pewogICAgICBkYXRlVGhyZXNob2xkICs9IHRpbWUgKyAiOiIgKyBpbmRpdmlkdWFsVGhyZXNob2xkTGlzdFtkYXRlXVt0aW1lXSArICIsIgogICAgfQogICAgTG9nZ2VyLmxvZyhkYXRlICsgIiAncyBjb3VudCA9ICIgKyBkYXRlVGhyZXNob2xkKTsKICB9CiAgICov</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgaW5kaXZpZHVhbFRocmVzaG9sZExpc3QgPSBnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyZXNob2xkTGlzdFt0aW1lTGlzdFtpXV07Cg==</text>
+        <text encoding="base64">ICB2YXIgaW5kaXZpZHVhbFRocmVzaG9sZExpc3QgPSBnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhyZXNob2xkTGlzdFt0aW1lTGlzdFtpXV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
