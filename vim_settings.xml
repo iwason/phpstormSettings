@@ -94,12 +94,21 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/confirmJpPhTime.js" timestamp="1511507333309">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1497328159508">
         <mark key="'" line="80" column="12" />
         <mark key="[" line="106" column="7" />
         <mark key="]" line="106" column="7" />
         <mark key="^" line="104" column="8" />
         <mark key="." line="106" column="7" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1511507279007">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="68" column="55" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/myTool/composer.json" timestamp="1490177371558">
         <mark key="[" line="8" column="16" />
@@ -173,6 +182,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/jptopht.js" timestamp="1511506869818" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Application/CbtBulkOpenSlotService.php" timestamp="1490610432931">
         <mark key="[" line="97" column="9" />
         <mark key="]" line="97" column="9" />
@@ -384,52 +394,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/threshold.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>リファクタ
-コメント追加</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b0VudGl0eVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aW5kaXZpZHVhbFRocmVzaG9sZExpc3Qg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0RhdGUocmVxdWVzdERhdGFbaV1bNV0pCiAgICAgICYmIG5vdyA8PSByZXF1ZXN0RGF0YVtpXVs1XS5nZXRUaW1lKCkKICAgICAgJiYgaXNUaW1lU3RyaW5nKHRpbWVSYW5nZSA9IHJlcXVlc3REYXRhW2ldWzZdLnRyaW0oKSkKICAgICAgJiYgcmVxdWVzdERhdGFbaV1bMTFdICE9ICIxLiBZZXMiCiAgICAgICYmIHJlcXVlc3REYXRhW2ldWzEwXSAhPSAiNi4gQ2FuY2VsbGVkIgogICAgICAmJiByZXF1ZXN0RGF0YVtpXVsxMF0gIT0gIjEwLiBTY2hlZHVsZSBDaGFuZ2VkIikgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text>リファクタ
-コメント追加</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9sZXNzb25Db3VudCA9IHRocmVzaG9sZExpc3RbdGltZUxpc3RbaV1dOwo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKHNoZWV0LmdldFNoZWV0TmFtZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL2N3LnNlbmRNZXNzYWdlKHtyb29tX2lkOiAyODM4ODY1MywgYm9keTogInRlc3QifSk7Cg==</text>
+        <text encoding="base64">ICBpZiAocGhUaW1lU3RyaW5nICE9IGNoYW5nZUpQVFJhbmdlVG9QaFRpbWVSYW5nZShqcFRpbWVTdHJpbmcpKSB7CiAgICBMb2dnZXIubG9nKHBoVGltZVN0cmluZyk7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3ZhciBjdyA9IGZhY3Rvcnkoe3Rva2VuOiAiOWFhZWZkZGNjYzQwMmMxMTVjZjQ2NmExZjExZjJlNjUifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgJiYgcmVxdWVzdERhdGFbaV1bMTBdICE9ICI2LiBDYW5jZWxsZWQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJiYgcmVxdWVzdERhdGFbaV1bMTFdICE9ICIxLiBZZXMiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAvKioKICAgKgogICBmb3IgKHZhciBkYXRlIGluIGluZGl2aWR1YWxUaHJlc2hvbGRMaXN0KXsKICAgIHZhciBkYXRlVGhyZXNob2xkID0gIiI7CiAgICBmb3IodmFyIHRpbWUgaW4gaW5kaXZpZHVhbFRocmVzaG9sZExpc3RbZGF0ZV0pewogICAgICBkYXRlVGhyZXNob2xkICs9IHRpbWUgKyAiOiIgKyBpbmRpdmlkdWFsVGhyZXNob2xkTGlzdFtkYXRlXVt0aW1lXSArICIsIgogICAgfQogICAgTG9nZ2VyLmxvZyhkYXRlICsgIiAncyBjb3VudCA9ICIgKyBkYXRlVGhyZXNob2xkKTsKICB9CiAgICov</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZiAoaXNEYXRlKHJlcXVlc3REYXRhW2ldWzVdKQogICAgJiYgbm93IDw9IHJlcXVlc3REYXRhW2ldWzVdLmdldFRpbWUoKQogICAgJiYgaXNUaW1lU3RyaW5nKHRpbWVSYW5nZSA9IHJlcXVlc3REYXRhW2ldWzZdLnRyaW0oKSkKICAgICYmIHJlcXVlc3REYXRhW2ldWzExXSAhPSAiMS4gWWVzIgogICAgJiYgcmVxdWVzdERhdGFbaV1bMTBdICE9ICI2LiBDYW5jZWxsZWQiCiAgICAmJiByZXF1ZXN0RGF0YVtpXVsxMF0gIT0gIjEwLiBTY2hlZHVsZSBDaGFuZ2VkIikgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgaW5kaXZpZHVhbFRocmVzaG9sZExpc3QgPSBnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgIHZhciBqcFRpbWVTdHJpbmcgPSByZXF1ZXN0RGF0YVs2XTsKICB2YXIgcGhUaW1lU3RyaW5nID0gcmVxdWVzdERhdGFbN107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyZXNob2xkTGlzdFt0aW1lTGlzdFtpXV07Cg==</text>
+        <text encoding="base64">ICAgIHNoZWV0LmdldFJhbmdlKGkrMSwyKS5zZXRCYWNrZ3JvdW5kKCcjRkZGRkEyJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNoZWV0LmdldFJhbmdlKGkrMSwyKS5zZXRCYWNrZ3JvdW5kKCcjRkZGRkEyJyk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
