@@ -150,12 +150,12 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/review/after.js" timestamp="1511782701957">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/review/after.js" timestamp="1511784739993">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/updateStatus.js" timestamp="1498545498301">
         <mark key="'" line="47" column="9" />
@@ -409,17 +409,17 @@
       <jump line="15" column="6" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//レッスン内容が書かれている部分を配列で取得</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>//レッスン内容が書かれている部分を配列で取得</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBbGxTaGVldFw+</text>
       </register>
       <register name="0" type="4">
-        <text>\n</text>
+        <text>&quot;\n変更等ございましたら、お早めにご連絡下さい。&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -428,31 +428,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBzcyA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdlZWtBZnRlck5leHQuc2V0RGF0ZSh0b2RheS5nZXREYXRlKCkgKyAxNCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5leHRXZWVrLnNldERhdGUodG9kYXkuZ2V0RGF0ZSgpICsgNyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0b2RheS5zZXREYXRlKHRvZGF5LmdldERhdGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvZGF5LnNldERhdGUodG9kYXkuZ2V0RGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgIC8v44Oh44O844Or5YaF5a6544KS5aSJ5pWw44Gr5YWl44KM44Gm44GK44GPCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB3ZWVrQWZ0ZXJOZXh0ID0gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">ICAgIHZhciBtYWlsQ29udGVudHMgPSBzY2hvb2xOYW1lICsgIlxuIiArIHRlYWNoZXJOYW1lICsgIuanmFxu44GK5LiW6Kmx44Gr44Gq44Gj44Gm44GK44KK44G+44GZ44CCXG7jg6zjgqLjgrjjg6fjg5bmlofmlZnkuovmpa3pg6jjgafjgZnjgIJcbuS4i+iomOOBq+OBpuODrOODg+OCueODs+OCkuWun+aWveOBleOBm+OBpuOBhOOBn+OBoOOBjeOBvuOBmeOAglxu77yI5p2l6YCx77yJIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB0b2RheSA9IG5ldyBEYXRlKCk7CiAgICB2YXIgbmV4dFdlZWsgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBtYWlsQ29udGVudHMzID0gbWFpbENvbnRlbnRzQmFzZSArICJcbu+8iOWGjeadpemAse+8ieODrOODg+OCueODs+aXpeS7mOOAgeaZgumWk+OAgeeUn+W+kuaVsOOAgeaVmeadkFxuIiArIHR3b1dlZWtzTGF0ZXJDb250ZW50cyArICJcbuWkieabtOetieOBlOOBluOBhOOBvuOBl+OBn+OCieOAgeOBiuaXqeOCgeOBq+OBlOmAo+e1oeS4i+OBleOBhOOAgiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICBCcm93c2VyLm1zZ0JveCgiTm8gZGVmZWN0IGZvdW5kLiIpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBtYWlsQ29udGVudHMyID0gbWFpbENvbnRlbnRzQmFzZSArICJcbu+8iOWGjeadpemAse+8iVxu5YaN5p2l6YCx44Gu44Os44OD44K544Oz44Gv44GC44KK44G+44Gb44KTXG7lpInmm7TnrYnjgZTjgZbjgYTjgb7jgZfjgZ/jgonjgIHjgYrml6njgoHjgavjgZTpgKPntaHkuIvjgZXjgYTjgIIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
