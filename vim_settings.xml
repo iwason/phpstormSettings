@@ -184,12 +184,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512546439212">
-        <mark key="'" line="39" column="23" />
-        <mark key="[" line="104" column="16" />
-        <mark key="]" line="105" column="16" />
-        <mark key="^" line="105" column="16" />
-        <mark key="." line="105" column="16" />
+      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512549283277">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="115" column="44" />
+        <mark key="]" line="115" column="44" />
+        <mark key="^" line="115" column="27" />
+        <mark key="." line="115" column="44" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Application/CbtBulkOpenSlotService.php" timestamp="1490610432931">
         <mark key="[" line="97" column="9" />
@@ -307,12 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="8" filename="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" />
-      <jump line="238" column="75" filename="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" />
-      <jump line="240" column="8" filename="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" />
-      <jump line="176" column="23" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="332" column="36" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="338" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="344" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="350" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
@@ -389,7 +383,6 @@
       <jump line="23" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="30" column="17" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="53" column="3" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="56" column="40" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="55" column="40" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="51" column="35" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="50" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
@@ -398,70 +391,77 @@
       <jump line="145" column="3" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="94" column="64" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="92" column="29" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="108" column="20" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="32" column="43" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="34" column="28" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="100" column="42" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="106" column="30" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="89" column="22" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="87" column="36" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="83" column="31" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="39" column="23" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="39" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="56" column="8" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="128" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="137" column="24" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="136" column="22" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="134" column="16" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="108" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="87" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>.match(/-/)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.match(/-/)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</text>
+        <text>match</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogcmVjZWl2ZXJpbmZvWzBdID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IHJlY2VpdmVySW5mb1sxXS5zcGxpdCgiLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8v44Oh44O844Or6YCB5L+h44Gu5pys5paH44Gr5Yip55So44GZ44KL44Gf44KB5Lul5LiL44Gu5YCk44KS5aSJ5pWw44GrCg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vdmFyIG1haWxBZGRyZXNzID0gc2hlZXQuZ2V0UmFuZ2UoNywgMTEpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vdmFyIHRlYWNoZXJOYW1lID0gc2hlZXQuZ2V0UmFuZ2UoNywgMTApLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgdGFyZ2V0RGF5ID0gc2NoZWR1bGVbNF07CiAgdmFyIGxlc3NvblN0YXJ0VGltZSA9IHNjaGVkdWxlWzVdOwogIHZhciBudW1iZXJPZlN0dWRlbnRzID0gc2NoZWR1bGVbM107CiAgdmFyIG1hdGVyaWFsID0gc2NoZWR1bGVbN107CiAgdmFyIGNsYXNzbnVtYmVyID0gc2NoZWR1bGVbMl07CiAgdmFyIGdyYWRlID0gc2NoZWR1bGVbMV07CgoKICB2YXIgbmV4dFdlZWtDb250ZW50cyA9IFV0aWxpdGllcy5mb3JtYXREYXRlKHRhcmdldERheSwgJ0FzaWEvVG9reW8nLCAneXl5eS9NL2QnKSArICJcdCIgKyBsZXNzb25TdGFydFRpbWUgKyAiXHQiICsgbnVtYmVyT2ZTdHVkZW50cyArICJcdCIgKyBtYXRlcmlhbCArICJcbiI7Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgZmVhc2liaWxpdHlTdGF0dXMgPSBzY2hlZHVsZVs5XTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</last-search>
+      <last-search>match</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</last-pattern>
+      <last-pattern>match</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -469,10 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRUaW1lXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVEYXRhTWFwXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVGb3JlY2FzdERhdGFNYXBcPg==</entry>
-        <entry encoding="base64">XDxhZGRQcmVGaWxlXD4=</entry>
         <entry encoding="base64">XDxzZXRWYWx1ZUpwVG9QaHRcPg==</entry>
         <entry>spread</entry>
         <entry encoding="base64">XDxzdHVkZW50XD4=</entry>
@@ -489,6 +485,10 @@
         <entry encoding="base64">XDxyZWNlaXZlckluZm9cPg==</entry>
         <entry encoding="base64">XDxsZXNzb25JbmZvXD4=</entry>
         <entry encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</entry>
+        <entry encoding="base64">XDxjb250ZW50c0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJCeVJlY2VpdmVySW5mb1w+</entry>
+        <entry encoding="base64">XDxzZW5kUmVtaW5kTWFpbFw+</entry>
+        <entry>match</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
