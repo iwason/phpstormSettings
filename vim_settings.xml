@@ -184,12 +184,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512555081982">
+      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512557183496">
         <mark key="'" line="28" column="9" />
-        <mark key="[" line="60" column="3" />
-        <mark key="]" line="60" column="14" />
-        <mark key="^" line="60" column="14" />
-        <mark key="." line="60" column="14" />
+        <mark key="[" line="102" column="39" />
+        <mark key="]" line="102" column="39" />
+        <mark key="^" line="102" column="29" />
+        <mark key="." line="102" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Application/CbtBulkOpenSlotService.php" timestamp="1490610432931">
         <mark key="[" line="97" column="9" />
@@ -410,49 +410,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVjZWl2ZXJJbmZvTGlzdCA=</text>
+        <text>mailContents</text>
       </register>
       <register name="-" type="4">
-        <text>.match(/-/)</text>
+        <text>mailContents</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVjZWl2ZXJJbmZvTGlzdCA=</text>
+        <text>receiverInfoList[i][2]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKCk7Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKHR3b1dlZWtzQWZ0ZXJDb250ZW50cyApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKCk7Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCJhZnRlckZpbHRlcjIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKG5leHRXZWVrQ29udGVudHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCJhZnRlckZpbHRlcjEiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICogCg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkluZm9bMV0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCJ0d29XZWVrc0FmdGVyQ29udGVudHMiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkluZm9bMF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCJuZXh0V2Vla0NvbnRlbnQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKCJzdGFydCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
