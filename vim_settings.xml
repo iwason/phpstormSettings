@@ -184,12 +184,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512554227046">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="115" column="44" />
-        <mark key="]" line="115" column="44" />
-        <mark key="^" line="115" column="27" />
-        <mark key="." line="115" column="44" />
+      <file name="$USER_HOME$/PhpstormProjects/review/before.js" timestamp="1512555081982">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="60" column="3" />
+        <mark key="]" line="60" column="14" />
+        <mark key="^" line="60" column="14" />
+        <mark key="." line="60" column="14" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/App/Application/CbtBulkOpenSlotService.php" timestamp="1490610432931">
         <mark key="[" line="97" column="9" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="344" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="350" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="356" column="37" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
@@ -407,19 +406,20 @@
       <jump line="108" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="87" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="86" column="0" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.match(/-/)</text>
+        <text encoding="base64">cmVjZWl2ZXJJbmZvTGlzdCA=</text>
       </register>
       <register name="-" type="4">
         <text>.match(/-/)</text>
       </register>
       <register name="/" type="4">
-        <text>match</text>
+        <text encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IHJlY2VpdmVySW5mb1sxXS5zcGxpdCgiLSIpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVjZWl2ZXJJbmZvTGlzdCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBMb2dnZXIubG9nKCk7Cg==</text>
@@ -459,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>match</last-search>
+      <last-search encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>match</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -469,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRWYWx1ZUpwVG9QaHRcPg==</entry>
         <entry>spread</entry>
         <entry encoding="base64">XDxzdHVkZW50XD4=</entry>
         <entry>due</entry>
@@ -489,6 +488,7 @@
         <entry encoding="base64">XDxmaWx0ZXJCeVJlY2VpdmVySW5mb1w+</entry>
         <entry encoding="base64">XDxzZW5kUmVtaW5kTWFpbFw+</entry>
         <entry>match</entry>
+        <entry encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
