@@ -9,7 +9,7 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/WorksheetFeed.php" timestamp="1512710020956">
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/WorksheetFeed.php" timestamp="1512984607383">
         <mark key="'" line="74" column="29" />
         <mark key="[" line="71" column="20" />
         <mark key="]" line="71" column="29" />
@@ -99,11 +99,11 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1512729767022">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1512985018393">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1512700975401">
         <mark key="'" line="36" column="29" />
@@ -211,7 +211,7 @@
         <mark key="." line="97" column="9" />
         <mark key="^" line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1512709822205">
+      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1512984544459">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -246,12 +246,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1512729780274">
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1512984987527">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="75" column="33" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="88" column="38" />
+        <mark key="]" line="88" column="38" />
+        <mark key="^" line="90" column="4" />
+        <mark key="." line="88" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1512701496573">
         <mark key="[" line="25" column="37" />
@@ -423,17 +423,17 @@
       <jump line="18" column="8" filename="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRzcHJlYWRTaGVldCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$item</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICJcbiI=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>sheetName</text>
+        <text>$item</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhcl9kdW1wKCRzcHJlYWRTaGVldCk7Cg==</text>
