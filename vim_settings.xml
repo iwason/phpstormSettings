@@ -99,11 +99,11 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1512714869725">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1512729767022">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1512700975401">
         <mark key="'" line="36" column="29" />
@@ -246,12 +246,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1512715285325">
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1512729780274">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="81" column="48" />
-        <mark key="]" line="81" column="48" />
-        <mark key="^" line="81" column="47" />
-        <mark key="." line="81" column="48" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="75" column="33" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1512701496573">
         <mark key="[" line="25" column="37" />
@@ -314,9 +314,10 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/SpreadsheetFeed.php" timestamp="1512715054366">
-        <mark key="[" line="75" column="34" />
-        <mark key="]" line="75" column="44" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/SpreadsheetFeed.php" timestamp="1512729729619">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -422,59 +423,59 @@
       <jump line="18" column="8" filename="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sheetId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRzcHJlYWRTaGVldCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sheetId</text>
+        <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRyeVw+</text>
+        <text encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgJHNwcmVhZFNoZWV0ID0gJHRoaXMtPmdldFNwcmVhZFNoZWV0QnlJZCgkc2hlZXRJZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>sheetName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRzcHJlYWRTaGVldCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCJhYSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+eG1sKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHdvcmtzaGVldEZlZWQgPSAkc3ByZWFkc2hlZXQtPmdldFdvcmtzaGVldEZlZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkNvcHkgb2YgUkVHVUxBUiBTTCBGb3IgQ29uZmlybWF0aW9uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHNwcmVhZHNoZWV0ID0gJHNjaG9vbFNwcmVhZHNoZWV0LT5nZXRTcHJlYWRTaGVldEJ5VGl0bGUoJ1JKIE1BQ1JPIGZvciBTY2hvb2wnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDogJHNoZWV0SWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgID8gc2VsZjo6UlNMX1NIRUVUX0lECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIGFycmF5IFNwcmVhZHNoZWV0Cg==</text>
+        <text encoding="base64">ICAgICRzaGVldElkID0gaXNfbnVsbCgkc2hlZXRJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHZhbHVlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>615</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRyeVw+</last-search>
+      <last-search encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -482,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b0VudGl0eVw+</entry>
         <entry encoding="base64">XDxqXD4=</entry>
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxnZXRBbGxTaGVldFw+</entry>
@@ -502,6 +502,7 @@
         <entry encoding="base64">XDxvcGVuQnlJZFw+</entry>
         <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxlbnRyeVw+</entry>
+        <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
