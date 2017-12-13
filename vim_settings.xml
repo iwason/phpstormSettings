@@ -77,6 +77,9 @@
         <mark key="." line="90" column="39" />
         <mark key="^" line="79" column="61" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Traits/SheetsValues.php" timestamp="1513146910702">
+        <mark key="'" line="119" column="25" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1513131718603">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="10" column="48" />
@@ -142,6 +145,9 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513143389846">
         <mark key="'" line="48" column="10" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
+        <mark key="'" line="140" column="5" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1512984544459">
         <mark key="'" line="0" column="0" />
@@ -228,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="36" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="44" column="56" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="45" column="165" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
       <jump line="7" column="36" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
       <jump line="8" column="25" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
       <jump line="27" column="22" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
@@ -328,6 +331,9 @@
       <jump line="44" column="35" filename="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" />
       <jump line="99" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="29" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="80" column="23" filename="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" />
+      <jump line="140" column="5" filename="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" />
+      <jump line="119" column="25" filename="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Traits/SheetsValues.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +343,7 @@
         <text>getTitle</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>range</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludCAiTm8gZGF0YSBmb3VuZC5cbiI7Cg==</text>
@@ -380,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>range</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>range</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50c0xpc3RcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJCeVJlY2VpdmVySW5mb1w+</entry>
         <entry encoding="base64">XDxzZW5kUmVtaW5kTWFpbFw+</entry>
         <entry>match</entry>
@@ -410,6 +415,7 @@
         <entry encoding="base64">XDxzaGVldFw+</entry>
         <entry encoding="base64">XDxiYW5kZWRSYW5nZXNcPg==</entry>
         <entry>value</entry>
+        <entry>range</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
