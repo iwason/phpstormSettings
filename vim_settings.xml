@@ -9,11 +9,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/WorksheetFeed.php" timestamp="1512984607383">
-        <mark key="'" line="74" column="29" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="29" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/.gitignore" timestamp="1499679594235">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="6" />
@@ -27,7 +22,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1513144358610">
+      <file name="/a.dummy" timestamp="1513152872256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -37,6 +32,12 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/reminder/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513156242019">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/public/admin/js/clock.js" timestamp="1495008390748">
         <mark key="'" line="0" column="0" />
@@ -63,6 +64,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/reminder/config/app.php" timestamp="1513155653720">
+        <mark key="[" line="231" column="6" />
+        <mark key="]" line="231" column="7" />
+        <mark key="^" line="231" column="7" />
+        <mark key="." line="231" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/schoolAdmin/config/adminlte.php" timestamp="1497259830533">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="32" column="34" />
@@ -74,6 +81,9 @@
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/reminder/vendor/revolution/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513154541363">
+        <mark key="'" line="96" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/config-stg.php" timestamp="1505192565486">
         <mark key="'" line="240" column="8" />
@@ -110,6 +120,12 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Traits/SheetsValues.php" timestamp="1513146910702">
         <mark key="'" line="119" column="25" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" timestamp="1513156101859">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1513131718603">
         <mark key="[" line="11" column="13" />
@@ -186,11 +202,11 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/reminder/config/google.php" timestamp="1513151397193">
-        <mark key="[" line="55" column="6" />
-        <mark key="]" line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
+      <file name="$USER_HOME$/PhpstormProjects/reminder/config/google.php" timestamp="1513155888036">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="69" />
+        <mark key="^" line="22" column="69" />
+        <mark key="." line="22" column="69" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/updateStatus.js" timestamp="1498545498301">
         <mark key="'" line="47" column="9" />
@@ -239,6 +255,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/reminder/app/Console/Kernel.php" timestamp="1513152918504" />
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Resource/SpreadsheetsValues.php" timestamp="1513145426647">
         <mark key="'" line="221" column="24" />
         <mark key="[" line="123" column="18" />
@@ -255,12 +272,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1512984544459">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1489028394040">
         <mark key="'" line="865" column="0" />
@@ -282,13 +293,13 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513144362316">
+      <file name="/Dummy.txt" timestamp="1513152877710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513144405814">
-        <mark key="'" line="18" column="8" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513155173408">
+        <mark key="'" line="74" column="4" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="94" column="4" />
@@ -341,8 +352,8 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513150546263">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513155833761">
+        <mark key="'" line="98" column="0" />
         <mark key="[" line="99" column="35" />
         <mark key="]" line="99" column="35" />
         <mark key="." line="99" column="35" />
@@ -379,15 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="25" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="27" column="22" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="29" column="34" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="15" column="6" filename="$USER_HOME$/PhpstormProjects/review/after.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Downloads/最終版.js" />
-      <jump line="100" column="9" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
-      <jump line="23" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="30" column="17" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="53" column="3" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="55" column="40" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="51" column="35" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="50" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
@@ -479,55 +481,64 @@
       <jump line="140" column="5" filename="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" />
       <jump line="119" column="25" filename="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Traits/SheetsValues.php" />
       <jump line="15" column="16" filename="$USER_HOME$/PhpstormProjects/reminder/.env" />
+      <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
+      <jump line="15" column="6" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
+      <jump line="42" column="28" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
+      <jump line="96" column="4" filename="$USER_HOME$/PhpstormProjects/reminder/vendor/revolution/laravel-google-sheets/src/GoogleSheets/Sheets.php" />
+      <jump line="74" column="4" filename="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" />
+      <jump line="98" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="39" column="6" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/reminder/app/Console/Commands/SendReminderMails.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnZmlsZScgPT4gZW52KCdHT09HTEVfU0VSVklDRV9BQ0NPVU5UX0pTT05fTE9DQVRJT04nLCAnJykK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="-" type="4">
-        <text>credentials</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
       <register name="0" type="4">
-        <text>Google Sheets API</text>
+        <text>$sheets</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZmlsZScgPT4gZW52KCdHT09HTEVfU0VSVklDRV9BQ0NPVU5UX0pTT05fTE9DQVRJT04nLCAnJykK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdmaWxlJyAgICA9PiBzdG9yYWdlX3BhdGgoJ2NyZWRlbnRpYWxzLmpzb24nKSwK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdlbmFibGUnICA9PiBlbnYoJ0dPT0dMRV9TRVJWSUNFX0VOQUJMRUQnLCB0cnVlKSwK</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWVzID0gJHNoZWV0cy0+c3ByZWFkc2hlZXQoJ3NwcmVhZHNoZWV0SUQnKS0+c2hlZXQoJ1NoZWV0IDEnKS0+YWxsKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmaW5lKCdBUFBMSUNBVElPTl9OQU1FJywgJ0dvb2dsZSBTaGVldHMgQVBJJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2hlZXRzLT5zZXRTZXJ2aWNlKCRzZXJ2aWNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmaW5lKCdDTElFTlRfU0VDUkVUX1BBVEgnLCBfX0RJUl9fIC4gJy9jbGllbnRfc2VjcmV0Lmpzb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2hlZXRzID0gbmV3IFNoZWV0cygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKCdDUkVERU5USUFMU19QQVRIJywgJ34vLmNyZWRlbnRpYWxzL3NjaG9vbC5zaGVldHMuZ29vZ2xlYXBpcy5jb20uanNvbicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmljZSA9IG5ldyBcR29vZ2xlX1NlcnZpY2VfU2hlZXRzKCRjbGllbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHJhbmdlID0gJ1NjaG9vbCBMaXN0IUIyOkQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5zZXRTY29wZXMoW0dvb2dsZV9TZXJ2aWNlX1NoZWV0czo6RFJJVkUsIEdvb2dsZV9TZXJ2aWNlX1NoZWV0czo6U1BSRUFEU0hFRVRTXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JHNwcmVhZHNoZWV0SWQgPSAnMTBiaWpCMkgwWERiLVRVV3FFOGRtMl9XMkNiTFYzZUhEN04yaFBKLXg3aGMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gbmV3IEdvb2dsZV9DbGllbnQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>615</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -581,8 +592,8 @@
         <entry>405</entry>
         <entry>438</entry>
         <entry>219</entry>
-        <entry>q</entry>
         <entry>615</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
