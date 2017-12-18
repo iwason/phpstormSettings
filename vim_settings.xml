@@ -27,6 +27,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/test.log" timestamp="1513341605416">
+        <mark key="'" line="1849" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/sample.php" timestamp="1499680363767">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -52,11 +55,11 @@
         <mark key="^" line="245" column="97" />
         <mark key="." line="245" column="97" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/sendMail.php" timestamp="1513340351010">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/sendMail.php" timestamp="1513341525053">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
@@ -351,12 +354,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513341214774">
-        <mark key="'" line="122" column="36" />
-        <mark key="[" line="148" column="43" />
-        <mark key="]" line="148" column="43" />
-        <mark key="." line="148" column="43" />
-        <mark key="^" line="148" column="43" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513341508259">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="175" column="15" />
+        <mark key="]" line="175" column="15" />
+        <mark key="." line="175" column="15" />
+        <mark key="^" line="175" column="14" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511238680358">
         <mark key="[" line="71" column="0" />
@@ -389,14 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="22" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="83" column="31" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="39" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="56" column="8" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="128" column="10" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="137" column="24" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="136" column="22" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="134" column="16" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="108" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="87" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
@@ -489,61 +484,69 @@
       <jump line="181" column="30" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="147" column="29" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="122" column="36" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="131" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="21" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="662" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="1303" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="1485" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="1667" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="36" column="14" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="1849" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSU0xfXD4=</text>
+        <text encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>$match</text>
+        <text>targetSheetNameList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZpbHRlcmVkTmFtZUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlY2VpdmVyVGl0bGVzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1ZVJhbmdlLT5nZXRSYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RycG9zKCRyZWNlaXZlclRpdGxlcywgIlJTTF8iKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgJHNoZWV0TmFtZUxpc3RbXSA9ICRzaGVldE5hbWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZpbHRlcmVkTmFtZUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1ZVJhbmdlLT5nZXRSYW5nZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RycG9zKCRyZWNlaXZlclRpdGxlcywgIlJTTF8iKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgJHNoZWV0TmFtZUxpc3RbXSA9ICRzaGVldE5hbWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsdGVyZWROYW1lTGlzdCA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSU0xfXD4=</last-search>
+      <last-search encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSU0xfXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +563,6 @@
         <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
         <entry encoding="base64">XDxDUkVERU5USUFMU19QQVRIXD4=</entry>
         <entry encoding="base64">XDxleHBhbmRIb21lRGlyZWN0b3J5XD4=</entry>
-        <entry encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>propaty</entry>
         <entry encoding="base64">XDxzaGVldFw+</entry>
@@ -571,6 +573,7 @@
         <entry encoding="base64">XDxzcHJlYWRzaGVldHNcPg==</entry>
         <entry>strp</entry>
         <entry encoding="base64">XDxSU0xfXD4=</entry>
+        <entry encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
@@ -633,6 +636,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
