@@ -269,7 +269,7 @@
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513338285454">
+      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513658939957">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -354,12 +354,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513341508259">
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513659248601">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="175" column="15" />
-        <mark key="]" line="175" column="15" />
-        <mark key="." line="175" column="15" />
-        <mark key="^" line="175" column="14" />
+        <mark key="[" line="149" column="16" />
+        <mark key="]" line="149" column="16" />
+        <mark key="." line="149" column="16" />
+        <mark key="^" line="149" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511238680358">
         <mark key="[" line="71" column="0" />
@@ -495,49 +495,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>receiverInfoList</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">aXRsZXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>targetSheetNameList</text>
+        <text>receiverInfoList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlY2VpdmVyVGl0bGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmljZSA9IG5ldyBHb29nbGVfU2VydmljZV9TaGVldHMoJHRoaXMtPl9jbGllbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlY2VpdmVyVGl0bGVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZpbHRlcmVkTmFtZUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1ZVJhbmdlLT5nZXRSYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZpbHRlcmVkTmFtZUxpc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RycG9zKCRyZWNlaXZlclRpdGxlcywgIlJTTF8iKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgJHNoZWV0TmFtZUxpc3RbXSA9ICRzaGVldE5hbWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1ZVJhbmdlLT5nZXRSYW5nZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RycG9zKCRyZWNlaXZlclRpdGxlcywgIlJTTF8iKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgJHNoZWV0TmFtZUxpc3RbXSA9ICRzaGVldE5hbWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
