@@ -27,8 +27,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/test.log" timestamp="1513341605416">
-        <mark key="'" line="1849" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/test.log" timestamp="1513660404157">
+        <mark key="'" line="194" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/sample.php" timestamp="1499680363767">
         <mark key="[" line="11" column="22" />
@@ -55,11 +55,11 @@
         <mark key="^" line="245" column="97" />
         <mark key="." line="245" column="97" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/sendMail.php" timestamp="1513341525053">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/sendMail.php" timestamp="1513659543240">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
@@ -269,8 +269,8 @@
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513658939957">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513659930775">
+        <mark key="'" line="27" column="9" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -354,12 +354,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513659248601">
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1513660818411">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="149" column="16" />
-        <mark key="]" line="149" column="16" />
-        <mark key="." line="149" column="16" />
-        <mark key="^" line="149" column="16" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="159" column="40" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511238680358">
         <mark key="[" line="71" column="0" />
@@ -392,10 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="16" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="108" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="87" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="28" column="9" filename="$USER_HOME$/PhpstormProjects/review/before.js" />
       <jump line="8" column="2" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
       <jump line="36" column="29" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
@@ -492,61 +488,65 @@
       <jump line="1667" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
       <jump line="36" column="14" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
       <jump line="1849" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
+      <jump line="151" column="9" filename="$USER_HOME$/PhpstormProjects/gas/mail.js" />
+      <jump line="123" column="9" filename="$USER_HOME$/PhpstormProjects/gas/mail.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/PhpstormProjects/gas/mail.js" />
+      <jump line="194" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>receiverInfoList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gVmFsdWUg44GM44OQ44Op44OQ44Op44Gn44GC44KL44Gf44KB77yR5qyh5YWD44Gu5oOF5aCx44Gr44GZ44KLCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRsZXMg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</text>
+        <text encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>receiverInfoList</text>
+        <text>$receiverInfoList[$schoolName[1]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VydmljZSA9IG5ldyBHb29nbGVfU2VydmljZV9TaGVldHMoJHRoaXMtPl9jbGllbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gVmFsdWUg44GM44OQ44Op44OQ44Op44Gn44GC44KL44Gf44KB77yR5qyh5YWD44Gu5oOF5aCx44Gr44GZ44KLCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlY2VpdmVyVGl0bGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lkI3liY3jgYvjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYznqbrmrITjgarjgonjgrnjgq3jg4Pjg5cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZpbHRlcmVkTmFtZUxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YWx1ZVJhbmdlLT5nZXRSYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL+OBk+OBk+OBp+WFiOeUn+OBruODoeOCouODieetieOBruaDheWgseOCkuWPjumbhgogICAgICAgIHByZWdfbWF0Y2goJy9cJyguKilcJy8nLCAkdmFsdWVSYW5nZS0+Z2V0UmFuZ2UoKSwgJHNjaG9vbE5hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RycG9zKCRyZWNlaXZlclRpdGxlcywgIlJTTF8iKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgJHNoZWV0TmFtZUxpc3RbXSA9ICRzaGVldE5hbWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY2VpdmVySW5mb0xpc3RbJHNjaG9vbE5hbWVbMV1dID0gJHJlY2VpdmVySW5mbzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfbnVsbCgkdmFsdWVzKSA9PT0gZmFsc2UpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNlaXZlckluZm9MaXN0WyRzY2hvb2xOYW1lWzFdXSA9ICRyZWNlaXZlckluZm87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -554,9 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>match</entry>
-        <entry encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</entry>
-        <entry encoding="base64">XDxmb3JtYXREYXRlXD4=</entry>
         <entry encoding="base64">XDxvcGVuQnlJZFw+</entry>
         <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxlbnRyeVw+</entry>
@@ -574,6 +571,9 @@
         <entry>strp</entry>
         <entry encoding="base64">XDxSU0xfXD4=</entry>
         <entry encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJCeVJlY2VpdmVySW5mb1w+</entry>
+        <entry encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
