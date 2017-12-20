@@ -28,7 +28,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1513765834782">
+      <file name="/a.dummy" timestamp="1513766693326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -307,7 +307,7 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513765838559">
+      <file name="/Dummy.txt" timestamp="1513766693319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -401,6 +401,12 @@
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/config/app.php" timestamp="1513766756397">
+        <mark key="[" line="178" column="18" />
+        <mark key="]" line="178" column="7" />
+        <mark key="." line="178" column="7" />
+        <mark key="^" line="178" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -507,49 +513,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>canceled</text>
+        <text>RouteServiceProvider</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kUmVtaW5kZXJNYWlsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJ2NhbmNlbGVkIScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBcUHJvdmlkZXJzXFJvdXRlU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnR08hJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnR08hJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRpbmZvTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRpbmZvTGlzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0d29XZWVrc0FmdGVyTGVzc29uRGV0YWlsTGlzdCA9ICR0aGlzLT5jcmVhdGVMZXNzb25EZXRhaWxMaXN0QnlTY2hlZHVsZSgkbGVzc29uSW5mbyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV4dFdlZWtMZXNzb25EZXRhaWxMaXN0ID0gJHRoaXMtPmNyZWF0ZUxlc3NvbkRldGFpbExpc3RCeVNjaGVkdWxlKCRsZXNzb25JbmZvKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0d29XZWVrc0FmdGVyTGVzc29uRGV0YWlsTGlzdCA9ICR0aGlzLT5jcmVhdGVMZXNzb25EZXRhaWxMaXN0QnlTY2hlZHVsZSgkbGVzc29uSW5mbyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbmV4dFdlZWtMZXNzb25EZXRhaWxMaXN0ID0gJHRoaXMtPmNyZWF0ZUxlc3NvbkRldGFpbExpc3RCeVNjaGVkdWxlKCRsZXNzb25JbmZvKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
