@@ -238,6 +238,9 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="16" column="56" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1514280826915">
+        <mark key="'" line="2467" column="23" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1512701542392">
         <mark key="'" line="518" column="0" />
         <mark key="[" line="3" column="0" />
@@ -307,6 +310,7 @@
         <mark key="^" line="238" column="7" />
         <mark key="." line="238" column="7" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" timestamp="1514280274427" />
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="67" column="5" />
@@ -430,12 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" />
-      <jump line="2295" column="0" filename="$USER_HOME$/PhpstormProjects/gdocSync/test.log" />
-      <jump line="89" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/sample.php" />
-      <jump line="6" column="8" filename="$USER_HOME$/PhpstormProjects/gdocV4/sample.php" />
-      <jump line="101" column="2" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="2" column="8" filename="$USER_HOME$/PhpstormProjects/gdocV4/sample.php" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/vendor/sendMail.php" />
       <jump line="98" column="1" filename="$USER_HOME$/PhpstormProjects/gdocV4/vendor/sendMail.php" />
       <jump line="65" column="27" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -530,6 +528,12 @@
       <jump line="157" column="78" filename="$USER_HOME$/PhpstormProjects/gas/sample.js" />
       <jump line="2" column="0" filename="$USER_HOME$/PhpstormProjects/gas/sample.js" />
       <jump line="497" column="0" filename="$USER_HOME$/PhpstormProjects/gas/sample.js" />
+      <jump line="38" column="39" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="3021" column="22" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="2954" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="2478" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="3000" column="22" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="2467" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -539,7 +543,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kUmVtaW5kZXJNYWlsXD4=</text>
+        <text encoding="base64">XDxhc0RhdGVUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoJGxlc3NvbkRhdGUtPmZvcm1hdCgnWS9tL2QnKSA+ICRkYXRlKXsK</text>
@@ -578,13 +582,13 @@
         <text encoding="base64">Ly8gICAgICAgICJwb3N0LWF1dG9sb2FkLWR1bXAiOiBbCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>2990</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kUmVtaW5kZXJNYWlsXD4=</last-search>
+      <last-search encoding="base64">XDxhc0RhdGVUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kUmVtaW5kZXJNYWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc0RhdGVUaW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -592,8 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcHJlYWRzaGVldHNfdmFsdWVzXD4=</entry>
-        <entry encoding="base64">XDxzcHJlYWRzaGVldHNcPg==</entry>
         <entry>strp</entry>
         <entry encoding="base64">XDxSU0xfXD4=</entry>
         <entry encoding="base64">XDxHb29nbGVfU2VydmljZV9TaGVldHNfVmFsdWVSYW5nZVw+</entry>
@@ -612,10 +614,10 @@
         <entry encoding="base64">XDxjcmVhdGVMZXNzb25EZXRhaWxMaXN0QnlTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVNYWlsQ29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxzZW5kUmVtaW5kZXJNYWlsXD4=</entry>
+        <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
+        <entry encoding="base64">XDxhc0RhdGVUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>120</entry>
-        <entry>480</entry>
         <entry>485</entry>
         <entry>130</entry>
         <entry>144</entry>
@@ -634,6 +636,8 @@
         <entry>219</entry>
         <entry>615</entry>
         <entry>q</entry>
+        <entry>2000</entry>
+        <entry>2990</entry>
       </history-cmd>
       <history-expr />
       <history-input />
