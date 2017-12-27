@@ -286,12 +286,6 @@
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513740733237">
-        <mark key="'" line="180" column="28" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="175" column="17" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1489028394040">
         <mark key="'" line="865" column="0" />
         <mark key="[" line="211" column="13" />
@@ -304,6 +298,9 @@
         <mark key="]" line="238" column="7" />
         <mark key="^" line="238" column="7" />
         <mark key="." line="238" column="7" />
+      </file>
+      <file name="/dummy.sql" timestamp="1514358556306">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
         <mark key="'" line="99" column="0" />
@@ -350,6 +347,7 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="35" column="36" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1514357813449" />
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
