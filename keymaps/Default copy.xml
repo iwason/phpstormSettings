@@ -8,6 +8,9 @@
   <action id="Git.Revert">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
