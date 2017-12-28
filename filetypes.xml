@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="check" type="PLAIN_TEXT" />
       <mapping ext="gs" type="TypeScript" />
       <mapping ext="fnc" type="DBN-PSQL" />
