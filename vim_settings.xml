@@ -154,7 +154,6 @@
         <mark key="." line="90" column="39" />
         <mark key="^" line="79" column="61" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/.env.testing" timestamp="1514376060729" />
       <file name="$USER_HOME$/PhpstormProjects/gas/confirmJpPhTime.js" timestamp="1511748477010">
         <mark key="'" line="15" column="9" />
         <mark key="[" line="57" column="18" />
@@ -395,7 +394,6 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1514357813449" />
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
@@ -430,7 +428,6 @@
         <mark key="^" line="166" column="31" />
         <mark key="." line="166" column="31" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/index.php" timestamp="1514450041532" />
       <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511238680358">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -479,7 +476,6 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="498" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Qualification.php" timestamp="1514456491125" />
     </filemarks>
     <jumps>
       <jump line="44" column="35" filename="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" />
