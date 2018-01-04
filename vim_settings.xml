@@ -328,6 +328,11 @@
         <mark key="]" line="175" column="17" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1515053887802">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/data/cron/automatic_transfer.php" timestamp="1489028394040">
         <mark key="'" line="865" column="0" />
         <mark key="[" line="211" column="13" />
@@ -573,8 +578,8 @@
       <jump line="22" column="7" filename="$USER_HOME$/PhpstormProjects/lms/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBJbnB1dDo6Z2V0KCdvcmRlcicpID09PSAnYXNjJyA/ICdhc2MnIDogJ2Rlc2MnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -582,41 +587,41 @@
       <register name="/" type="4">
         <text encoding="base64">XDxiYXJyeXZkaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBJbnB1dDo6Z2V0KCdvcmRlcicpID09PSAnYXNjJyA/ICdhc2MnIDogJ2Rlc2MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImJhcnJ5dmRoL2xhcmF2ZWwtaWRlLWhlbHBlciI6ICIxLioiLAo=</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXIgPSBJbnB1dDo6Z2V0KCdvcmRlcicpID09PSAnYXNjJyA/ICdhc2MnIDogJ2Rlc2MnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImJhcnJ5dmRoL2xhcmF2ZWwtaWRlLWhlbHBlciI6ICIxLioiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVzc29uRGV0YWlsTGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsndHdvV2Vla0xhdGVyJ10gPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVzc29uRGV0YWlsTGlzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsnb25lV2Vla0xhdGVyJ10gPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsndHdvV2Vla0xhdGVyJ10gPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsnb25lV2Vla0xhdGVyJ10gPSBbXTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsndHdvV2Vla0xhdGVyJ10gPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVzc29uRGV0YWlsTGlzdFsndHdvV2Vla0xhdGVyJ10gPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIlxuIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
