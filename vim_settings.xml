@@ -167,12 +167,6 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/storage/logs/laravel.log" timestamp="1514376751353">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1512700975401">
         <mark key="'" line="36" column="29" />
         <mark key="[" line="7" column="81" />
@@ -180,6 +174,7 @@
         <mark key="^" line="7" column="80" />
         <mark key="." line="7" column="81" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1515145112628" />
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
         <mark key="'" line="2295" column="0" />
       </file>
@@ -321,12 +316,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1513740733237">
-        <mark key="'" line="180" column="28" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="175" column="17" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1515137612818">
         <mark key="'" line="209" column="24" />
