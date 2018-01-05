@@ -98,6 +98,7 @@
         <mark key="'" line="263" column="0" />
         <mark key="[" line="219" column="51" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ShiftsController.php" timestamp="1515146433661" />
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="38" />
@@ -131,6 +132,9 @@
         <mark key="]" line="425" column="0" />
         <mark key="^" line="104" column="38" />
         <mark key="." line="425" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1515146292311">
+        <mark key="'" line="196" column="42" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kraken/cbt/protected/models/CbtBulkOpenSlotForm.php" timestamp="1490610785494">
         <mark key="'" line="414" column="25" />
@@ -185,6 +189,7 @@
         <mark key="." line="107" column="56" />
         <mark key="^" line="107" column="56" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/config/permissions.php" timestamp="1515146672207" />
       <file name="$USER_HOME$/PhpstormProjects/myTool/composer.json" timestamp="1490177371558">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="43" />
@@ -337,7 +342,7 @@
         <mark key="^" line="238" column="7" />
         <mark key="." line="238" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1514358556306">
+      <file name="/dummy.sql" timestamp="1515145782154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
@@ -467,13 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="181" column="30" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="147" column="29" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="122" column="36" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="131" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="21" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
-      <jump line="662" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
       <jump line="1303" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
       <jump line="1485" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
       <jump line="1667" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/test.log" />
@@ -567,6 +565,13 @@
       <jump line="459" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="235" column="11" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
       <jump line="209" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="224" column="58" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="223" column="57" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="222" column="44" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="221" column="34" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="1010" column="19" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="195" column="32" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="196" column="42" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -576,7 +581,7 @@
         <text>datas</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0TGVzc29uSW5mb1RvU3RyaW5nXD4=</text>
+        <text>slides</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGF0YWVzIA==</text>
@@ -619,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0TGVzc29uSW5mb1RvU3RyaW5nXD4=</last-search>
+      <last-search>slides</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0TGVzc29uSW5mb1RvU3RyaW5nXD4=</last-pattern>
+      <last-pattern>slides</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -629,8 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
-        <entry encoding="base64">XDxhc0RhdGVUaW1lXD4=</entry>
         <entry>PATH</entry>
         <entry encoding="base64">XDxBUFBfRU5WXD4=</entry>
         <entry encoding="base64">XDxidWlsZExlc3NvbkluZm9cPg==</entry>
@@ -649,6 +652,8 @@
         <entry encoding="base64">XDx0d29XZWVrc0FmdGVyTGVzc29uRGV0YWlsTGlzdFw+</entry>
         <entry encoding="base64">XDx0d29XZWVrTGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0TGVzc29uSW5mb1RvU3RyaW5nXD4=</entry>
+        <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
+        <entry>slides</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
