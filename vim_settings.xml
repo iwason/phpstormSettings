@@ -415,12 +415,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515489327612">
-        <mark key="'" line="337" column="21" />
-        <mark key="[" line="157" column="57" />
-        <mark key="]" line="158" column="47" />
-        <mark key="." line="158" column="47" />
-        <mark key="^" line="158" column="47" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515491903234">
+        <mark key="'" line="159" column="24" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
+        <mark key="^" line="508" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/logical.js" timestamp="1515487424408">
         <mark key="[" line="8" column="0" />
@@ -482,23 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/PhpstormProjects/gas/sample.js" />
-      <jump line="497" column="0" filename="$USER_HOME$/PhpstormProjects/gas/sample.js" />
-      <jump line="38" column="39" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="3021" column="22" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="2954" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="2478" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="3000" column="22" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="2467" column="23" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="0" column="0" filename="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/storage/logs/laravel.log" />
-      <jump line="343" column="11" filename="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/storage/logs/laravel.log" />
-      <jump line="451" column="0" filename="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/storage/logs/laravel.log" />
-      <jump line="11" column="16" filename="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/.env" />
-      <jump line="20" column="8" filename="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/var/www/lms/public/.env" />
-      <jump line="15" column="18" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
-      <jump line="263" column="0" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
-      <jump line="24" column="1" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" />
       <jump line="321" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="35" column="15" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -582,61 +565,78 @@
       <jump line="333" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="165" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="335" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="32" column="28" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="399" column="25" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="466" column="53" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="488" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="508" column="57" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="155" column="92" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="331" column="17" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="400" column="26" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="453" column="54" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="455" column="13" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="476" column="18" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="501" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="479" column="12" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="376" column="4" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="159" column="24" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVzc29uSW5mb0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</text>
+        <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>$lessonInfo['schoolName']</text>
+        <text>$belonging</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVzc29uSW5mb0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWVSYW5nZXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJG1haWxDb250ZW50cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxlc3NvbkluZm9MaXN0WyRzY2hvb2xOYW1lWzFdXVsnc2Nob29sTmFtZSddID0gJHZhbHVlUmFuZ2UtPmdldFZhbHVlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVzc29uSW5mb0xpc3QpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxlc3NvbkluZm9MaXN0WyRzY2hvb2xOYW1lWzFdXVsnc2Nob29sTmFtZSddID0gJHZhbHVlUmFuZ2UtPmdldFZhbHVlcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPigkaW5mb0xpc3QsICR2YWx1ZVJhbmdlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlY2VpdmVySW5mb0xpc3RbJHNjaG9vbE5hbWVbMV1dID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPigkaW5mb0xpc3QsICR2YWx1ZVJhbmdlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY2VpdmVySW5mb0xpc3RbJHNjaG9vbE5hbWVbMV1dID0gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDx2YXJfZHVtcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YXJfZHVtcFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -644,16 +644,11 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0d29XZWVrTGF0ZXJcPg==</entry>
-        <entry encoding="base64">XDxjb252ZXJ0TGVzc29uSW5mb1RvU3RyaW5nXD4=</entry>
-        <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
-        <entry>slides</entry>
         <entry encoding="base64">XDxjcmVhdGVMZXNzb25EZXRhaWxMaXN0QnlTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxDYXJib25cPg==</entry>
         <entry encoding="base64">XDxzY2hvb2xOYW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRBbGxSU0xTaGVldFw+</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxidWlsZExlc3NvbkluZm9cPg==</entry>
         <entry encoding="base64">XDxnZXRMZXNzb25JbmZvQnlOYW1lTGlzdFw+</entry>
         <entry encoding="base64">XDxidWlsZFJlY2VpdmVySW5mb0xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</entry>
@@ -664,6 +659,11 @@
         <entry encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVNYWlsQ29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</entry>
+        <entry encoding="base64">XDxidWlsZExlc3NvbkluZm9cPg==</entry>
+        <entry encoding="base64">XDxncmFkZVw+</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>var</entry>
+        <entry encoding="base64">XDx2YXJfZHVtcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
