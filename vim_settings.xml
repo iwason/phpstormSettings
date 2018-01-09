@@ -414,12 +414,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515480493222">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="338" column="57" />
-        <mark key="]" line="338" column="77" />
-        <mark key="^" line="338" column="77" />
-        <mark key="." line="338" column="77" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515485509984">
+        <mark key="'" line="334" column="21" />
+        <mark key="[" line="143" column="90" />
+        <mark key="]" line="143" column="90" />
+        <mark key="^" line="143" column="90" />
+        <mark key="." line="143" column="90" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1511238680358">
         <mark key="[" line="71" column="0" />
@@ -471,7 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="69" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="406" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="183" column="19" filename="$USER_HOME$/PhpstormProjects/gas/mail.js" />
       <jump line="180" column="28" filename="$USER_HOME$/PhpstormProjects/gas/mail.js" />
@@ -571,16 +570,17 @@
       <jump line="267" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="22" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="30" column="14" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="334" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DATA_RANGE_KEY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>DATA_RANGE_KEY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</text>
+        <text encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U0NIT09MX05BTUVfUkFOR0VfS0VZIA==</text>
@@ -623,9 +623,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</last-search>
+      <last-search encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXh0V2Vla0xlc3NvbkRldGFpbExpc3RcPg==</entry>
         <entry encoding="base64">XDxsZXNzb25EZXRhaWxMaXN0XD4=</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
@@ -653,6 +652,7 @@
         <entry encoding="base64">XDxidWlsZFJlY2VpdmVySW5mb0xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWNlaXZlckluZm9MaXN0XD4=</entry>
         <entry encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</entry>
+        <entry encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
