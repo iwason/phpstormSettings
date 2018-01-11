@@ -35,7 +35,7 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1515489018819">
+      <file name="/a.dummy" timestamp="1515651323757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -351,7 +351,7 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515489018808">
+      <file name="/Dummy.txt" timestamp="1515651323744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513336067072">
@@ -414,12 +414,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515634914197">
-        <mark key="'" line="395" column="24" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="150" column="111" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1515651561656">
+        <mark key="'" line="396" column="24" />
+        <mark key="[" line="164" column="59" />
+        <mark key="]" line="164" column="59" />
+        <mark key="^" line="164" column="58" />
+        <mark key="." line="164" column="59" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/logical.js" timestamp="1515487424408">
         <mark key="[" line="8" column="0" />
@@ -583,50 +583,50 @@
       <jump line="401" column="24" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>'junpei.iwamura@devemail.rarejob.com'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>'junpei.iwamura@devemail.rarejob.com'</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
       <register name="0" type="4">
-        <text>$schoolName</text>
+        <text>$lessonInfo['receiverInfoList']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/jg6Hjg7zjg6vjga7mlaznp7DnlKjjga7jg5Xjg6njgrAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc1RlYWNoZXIgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAvL+ODoeODvOODq+OBruaVrOensOeUqOOBruODleODqeOCsAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGlzVGVhY2hlciwgJHNjaG9vbE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc1RlYWNoZXIgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNUZWFjaGVyID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpc1RlYWNoZXIsICRzY2hvb2xOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGlzVGVhY2hlciwgJHNjaG9vbE5hbWUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkaXNUZWFjaGVyID0gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpc1RlYWNoZXIsICRzY2hvb2xOYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
