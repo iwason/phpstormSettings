@@ -98,6 +98,13 @@
         <mark key="[" line="219" column="51" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ShiftsController.php" timestamp="1515146433661" />
+      <file name="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" timestamp="1515737550954">
+        <mark key="'" line="12" column="97" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="38" />
@@ -483,12 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="458" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="457" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="230" column="48" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="231" column="47" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="162" column="93" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="386" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="387" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="388" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -583,40 +584,46 @@
       <jump line="413" column="12" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="412" column="30" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="325" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="43" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
+      <jump line="54" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
+      <jump line="17" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
+      <jump line="13" column="67" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
+      <jump line="16" column="31" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
+      <jump line="12" column="97" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console command</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>console command</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVnX21hdGNoXD4=</text>
+        <text encoding="base64">XDxtb3pHZXRVc2VyTWVkaWFcPg==</text>
       </register>
       <register name="0" type="4">
         <text>today</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxlc3NvbkRhdGUtPmRpZmZJbldlZWtzKCR0b2RheSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpbzogdHJ1ZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxlc3NvbkRhdGUgLT5mb3JtYXQoJ1ltZCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxlc3NvbkRhdGUtPmRpZmZJbldlZWtzKCR0b2RheSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxlc3NvbkRhdGUgLT5mb3JtYXQoJ1ltZCcpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9kYXktPmZvcm1hdCgnWW1kJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRvZGF5LT5mb3JtYXQoJ1ltZCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9kYXktPmZvcm1hdCgnWW1kJykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRvZGF5LT5mb3JtYXQoJ1ltZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRvZGF5LT5mb3JtYXQoJ1ltZCcpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -625,19 +632,19 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRvZGF5LT5mb3JtYXQoJ1ltZCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxlc3NvbkRhdGUgLT5mb3JtYXQoJ1ltZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRvZGF5LT5mb3JtYXQoJ1ltZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxlc3NvbkRhdGUgLT5mb3JtYXQoJ1ltZCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVnX21hdGNoXD4=</last-search>
+      <last-search encoding="base64">XDxtb3pHZXRVc2VyTWVkaWFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVnX21hdGNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb3pHZXRVc2VyTWVkaWFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -645,9 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVJhbmdlXD4=</entry>
-        <entry encoding="base64">XDxyZWNlaXZlckluZm9MaXN0XD4=</entry>
-        <entry encoding="base64">XDxhZGRTY2hvb2xOYW1lXD4=</entry>
         <entry encoding="base64">XDxidWlsZExlc3NvbkluZm9cPg==</entry>
         <entry encoding="base64">XDxncmFkZVw+</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
@@ -665,6 +669,9 @@
         <entry>var</entry>
         <entry encoding="base64">XDxnZXRTY2hvb2xOYW1lRnJvbVJhbmdlXD4=</entry>
         <entry encoding="base64">XDxwcmVnX21hdGNoXD4=</entry>
+        <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
+        <entry encoding="base64">XDx3ZWJraXRHZXRVc2VyTWVkaWFcPg==</entry>
+        <entry encoding="base64">XDxtb3pHZXRVc2VyTWVkaWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
