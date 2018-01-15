@@ -28,6 +28,7 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516018661058" />
       <file name="$USER_HOME$/PhpstormProjects/kraken/cron/automatic_transfer.php" timestamp="1490261019864">
         <mark key="'" line="879" column="0" />
         <mark key="[" line="132" column="41" />
@@ -345,7 +346,7 @@
         <mark key="^" line="238" column="7" />
         <mark key="." line="238" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1515145782154">
+      <file name="/dummy.sql" timestamp="1516018634921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/collectPrefile.js" timestamp="1496367465189">
