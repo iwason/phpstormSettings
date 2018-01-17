@@ -269,12 +269,8 @@
         <mark key="." line="262" column="8" />
         <mark key="^" line="262" column="8" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" timestamp="1516152803419">
-        <mark key="'" line="130" column="12" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="100" column="7" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" timestamp="1516157940752">
+        <mark key="'" line="124" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
