@@ -377,8 +377,8 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" timestamp="1516095633992">
-        <mark key="'" line="214" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" timestamp="1516097004820">
+        <mark key="'" line="219" column="29" />
         <mark key="[" line="136" column="34" />
         <mark key="]" line="136" column="34" />
         <mark key="^" line="136" column="34" />
@@ -517,11 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="283" column="45" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="300" column="41" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="344" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="354" column="38" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="346" column="19" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="296" column="34" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="297" column="23" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -610,13 +605,18 @@
       <jump line="224" column="15" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="225" column="89" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="237" column="38" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="270" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="295" column="18" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="136" column="61" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="137" column="143" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="218" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="217" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="214" column="29" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="221" column="12" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="262" column="10" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="222" column="12" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="270" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="295" column="18" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="153" column="41" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="137" column="143" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="219" column="29" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -626,7 +626,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZWFjaGVySnNvblw+</text>
+        <text encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text>240</text>
@@ -669,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZWFjaGVySnNvblw+</last-search>
+      <last-search encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZWFjaGVySnNvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -679,8 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendMai</entry>
-        <entry encoding="base64">XDxDYXJib25cPg==</entry>
         <entry encoding="base64">XDx2YXJfZHVtcFw+</entry>
         <entry encoding="base64">XDx0d29XZWVrTGF0ZXJcPg==</entry>
         <entry>mail</entry>
@@ -697,8 +695,10 @@
         <entry encoding="base64">XDxzYWxlc191c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDx0aW1lc0h0bWxcPg==</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
-        <entry encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDx0ZWFjaGVySnNvblw+</entry>
+        <entry encoding="base64">XDx0ZWFjaGVyQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxudW1iZXJpbmdcPg==</entry>
+        <entry encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
