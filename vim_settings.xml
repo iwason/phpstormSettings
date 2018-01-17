@@ -35,21 +35,11 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1515656643888">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/composer.json" timestamp="1513767962587">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="11" column="50" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/sendMail.php" timestamp="1515464921657">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" timestamp="1515737550954">
         <mark key="'" line="12" column="97" />
@@ -83,11 +73,6 @@
         <mark key="]" line="554" column="54" />
         <mark key="^" line="1127" column="13" />
         <mark key="." line="1136" column="14" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/chat.js" timestamp="1511238708685">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sendMail.php" timestamp="1513131718603">
         <mark key="[" line="11" column="13" />
@@ -180,24 +165,15 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" timestamp="1514449824262">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" timestamp="1516158177590">
+        <mark key="'" line="56" column="59" />
         <mark key="[" line="73" column="10" />
         <mark key="]" line="73" column="10" />
         <mark key="^" line="56" column="11" />
         <mark key="." line="73" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/composer.json" timestamp="1506663191447">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768140894">
         <mark key="'" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/moodle/.gitignore" timestamp="1504788774768">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768169709">
         <mark key="'" line="8" column="0" />
@@ -208,11 +184,6 @@
         <mark key="]" line="13" column="1" />
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/Google/Spreadsheet/SpreadsheetFeed.php" timestamp="1512729729619">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1513774131291">
         <mark key="'" line="497" column="0" />
@@ -439,11 +410,6 @@
       <file name="/dummy.sql" timestamp="1516018634921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515656643883">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513336067072">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="94" column="0" />
@@ -520,15 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="335" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="384" column="20" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="399" column="25" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="466" column="53" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="488" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="508" column="57" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="155" column="92" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="331" column="17" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="476" column="18" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="501" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -620,6 +577,15 @@
       <jump line="124" column="12" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
       <jump line="173" column="80" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="230" column="22" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
+      <jump line="35" column="52" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="36" column="53" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="37" column="54" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="38" column="54" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="39" column="62" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="40" column="59" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="41" column="65" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="42" column="55" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
+      <jump line="56" column="59" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -629,7 +595,7 @@
         <text>uncheck</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1RlYWNoZXJcPg==</text>
+        <text encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICQoJyNzZW5kX25vdGlmaWNhdGlvbicpLmlDaGVjaygndW5jaGVjaycpOwo=</text>
@@ -672,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1RlYWNoZXJcPg==</last-search>
+      <last-search encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1RlYWNoZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -682,7 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry encoding="base64">XDxnZXRTY2hvb2xOYW1lRnJvbVJhbmdlXD4=</entry>
         <entry encoding="base64">XDxwcmVnX21hdGNoXD4=</entry>
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
@@ -702,6 +667,7 @@
         <entry>checked</entry>
         <entry encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxpc1RlYWNoZXJcPg==</entry>
+        <entry encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
