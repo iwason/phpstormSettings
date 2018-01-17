@@ -269,6 +269,9 @@
         <mark key="." line="262" column="8" />
         <mark key="^" line="262" column="8" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" timestamp="1516150815888">
+        <mark key="'" line="111" column="24" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/sync.php" timestamp="1513131356656">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="38" />
@@ -377,7 +380,7 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" timestamp="1516097004820">
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" timestamp="1516150433129">
         <mark key="'" line="219" column="29" />
         <mark key="[" line="136" column="34" />
         <mark key="]" line="136" column="34" />
@@ -517,8 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="19" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="296" column="34" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="297" column="23" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="305" column="42" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="410" column="12" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -617,6 +618,8 @@
       <jump line="153" column="41" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="137" column="143" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="219" column="29" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
+      <jump line="110" column="4" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
+      <jump line="111" column="24" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -626,7 +629,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</text>
+        <text encoding="base64">XDxyZW1vdmVLZXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>240</text>
@@ -669,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVLZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVLZXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YXJfZHVtcFw+</entry>
         <entry encoding="base64">XDx0d29XZWVrTGF0ZXJcPg==</entry>
         <entry>mail</entry>
         <entry encoding="base64">XDxTQ0hPT0xfTkFNRV9SQU5HRV9LRVlcPg==</entry>
@@ -699,6 +701,7 @@
         <entry encoding="base64">XDx0ZWFjaGVyQ291bnRcPg==</entry>
         <entry encoding="base64">XDxudW1iZXJpbmdcPg==</entry>
         <entry encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVLZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
