@@ -95,6 +95,9 @@
         <mark key="." line="262" column="8" />
         <mark key="^" line="262" column="8" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/config/app.php" timestamp="1516256768549">
+        <mark key="'" line="218" column="9" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" timestamp="1515737550954">
         <mark key="'" line="12" column="97" />
         <mark key="[" line="21" column="18" />
@@ -225,11 +228,11 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1514377579208">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1516256774712">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/Helper.php" timestamp="1516251122754">
         <mark key="'" line="822" column="27" />
@@ -506,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="37" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="153" column="23" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="149" column="52" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="492" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -606,16 +608,17 @@
       <jump line="15" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/HolidaysController.php" />
       <jump line="94" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/HolidaysController.php" />
       <jump line="43" column="9" filename="$USER_HOME$/PhpstormProjects/gas/threshold.js" />
+      <jump line="218" column="9" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>UTC</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>UTC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdFw+</text>
+        <text>timezone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGVyaWFsJyA9PiAkcm93WzddLAo=</text>
@@ -658,9 +661,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdFw+</last-search>
+      <last-search>timezone</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdFw+</last-pattern>
+      <last-pattern>timezone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
         <entry encoding="base64">XDx0cmFuc1w+</entry>
         <entry encoding="base64">XDxzYWxlc191c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDx0aW1lc0h0bWxcPg==</entry>
@@ -688,6 +690,7 @@
         <entry encoding="base64">XDxnZXRIb2xpZGF5VHlwZU5hbWVcPg==</entry>
         <entry>holiday</entry>
         <entry encoding="base64">XDxnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdFw+</entry>
+        <entry>timezone</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
