@@ -27,9 +27,6 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/lang/en/general.php" timestamp="1516251206892">
-        <mark key="'" line="144" column="33" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/app/Providers/GoogleApiServiceProvider.php" timestamp="1513767299848">
         <mark key="'" line="96" column="18" />
         <mark key="[" line="10" column="0" />
@@ -234,9 +231,6 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/Helper.php" timestamp="1516251122754">
-        <mark key="'" line="822" column="27" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/deborah/tutorial/speakingtest/protected/modules/cron/models/CorporateAdminNotification.php" timestamp="1490332644694">
         <mark key="'" line="57" column="9" />
         <mark key="[" line="39" column="82" />
@@ -359,13 +353,6 @@
         <mark key="]" line="212" column="11" />
         <mark key="." line="212" column="11" />
         <mark key="^" line="212" column="11" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/HolidaysController.php" timestamp="1516251363376">
-        <mark key="'" line="94" column="17" />
-        <mark key="[" line="180" column="333" />
-        <mark key="]" line="180" column="332" />
-        <mark key="^" line="180" column="332" />
-        <mark key="." line="180" column="332" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/theme/image.php" timestamp="1502715332208">
         <mark key="[" line="238" column="32" />
