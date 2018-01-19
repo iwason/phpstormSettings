@@ -41,7 +41,7 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1516245906643">
+      <file name="/a.dummy" timestamp="1516326181988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/config/app.php" timestamp="1516256768549">
@@ -54,6 +54,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-textchat/key.js" timestamp="1516326645469" />
       <file name="$USER_HOME$/PhpstormProjects/reminder/config/app.php" timestamp="1513155653720">
         <mark key="[" line="231" column="6" />
         <mark key="]" line="231" column="7" />
@@ -234,7 +235,7 @@
         <mark key="^" line="245" column="97" />
         <mark key="." line="245" column="97" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/composer.json" timestamp="1516323535264">
+      <file name="$USER_HOME$/PhpstormProjects/lms/composer.json" timestamp="1516325817868">
         <mark key="'" line="22" column="7" />
         <mark key="[" line="42" column="10" />
         <mark key="]" line="42" column="11" />
@@ -303,6 +304,12 @@
         <mark key="]" line="7" column="81" />
         <mark key="^" line="7" column="80" />
         <mark key="." line="7" column="81" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.html" timestamp="1516326851467">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
         <mark key="'" line="2295" column="0" />
@@ -412,6 +419,13 @@
         <mark key="." line="200" column="25" />
         <mark key="^" line="193" column="13" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" timestamp="1516325889853">
+        <mark key="'" line="12396" column="39" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10624" column="4891" />
+        <mark key="^" line="10624" column="4891" />
+        <mark key="." line="10624" column="4891" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/moodle/theme/image.php" timestamp="1502715332208">
         <mark key="[" line="238" column="32" />
         <mark key="]" line="238" column="7" />
@@ -424,8 +438,15 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Holiday.php" timestamp="1516251220585">
         <mark key="'" line="15" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516321860848">
+      <file name="/Dummy.txt" timestamp="1516326181981">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" timestamp="1516326679925">
+        <mark key="'" line="173" column="3" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="61" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513336067072">
         <mark key="'" line="74" column="4" />
@@ -460,7 +481,7 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/skywaysample.js" timestamp="1515741004308">
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/skywaysample.js" timestamp="1516326195284">
         <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1516250349161">
@@ -496,10 +517,10 @@
         <mark key="^" line="156" column="53" />
         <mark key="." line="156" column="54" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/script.js" timestamp="1515741550531">
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/script.js" timestamp="1516326668443">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="49" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="45" />
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
@@ -511,8 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="0" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="2" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="449" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="450" column="18" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="453" column="27" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -611,52 +630,54 @@
       <jump line="218" column="9" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
       <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/SchoolTeachersController.php" />
       <jump line="83" column="6" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
+      <jump line="12396" column="39" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" />
+      <jump line="175" column="3" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>これを</text>
+        <text>script</text>
       </register>
       <register name="-" type="4">
-        <text>これを</text>
+        <text>script</text>
       </register>
       <register name="/" type="4">
         <text>timezone</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBlY2hvICdkYXRhJzsK</text>
+      <register name="0" type="4">
+        <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ3JlYXRlU2Nob29sVGVhY2hlcnNDbGFzc2VzVGFibGUK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2tleS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlY2hvICdkYXRhJzsK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAnZGF0YTEnOwo=</text>
+        <text encoding="base64">ICogQ3JlYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8kY2hhdFdvcmstPnNlbmRUb015Q2hhdCgkbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgQ3JlYXRlU2Nob29sVGVhY2hlcnNDbGFzc2VzVGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8kY2hhdFdvcmsgPSBuZXcgQ2hhdHdvcmsoKTsK</text>
+        <text encoding="base64">ICBlY2hvICdkYXRhJzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">ZWNobyAnZGF0YTEnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8kY2hhdFdvcmsgPSBuZXcgQ2hhdHdvcmsoKTsKLy8kY2hhdFdvcmstPnNlbmRUb015Q2hhdCgkbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">Ly8kY2hhdFdvcmstPnNlbmRUb015Q2hhdCgkbWVzc2FnZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
