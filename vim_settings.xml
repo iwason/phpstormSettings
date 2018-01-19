@@ -305,11 +305,11 @@
         <mark key="^" line="7" column="80" />
         <mark key="." line="7" column="81" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.html" timestamp="1516326851467">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="43" />
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.html" timestamp="1516328050963">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="9" column="43" />
-        <mark key="." line="9" column="43" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
         <mark key="'" line="2295" column="0" />
@@ -441,12 +441,11 @@
       <file name="/Dummy.txt" timestamp="1516326181981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" timestamp="1516326679925">
-        <mark key="'" line="173" column="3" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="61" />
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" timestamp="1516328043257">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="0" column="66" />
-        <mark key="." line="0" column="25" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513336067072">
         <mark key="'" line="74" column="4" />
@@ -532,21 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="9" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="450" column="18" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="453" column="27" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="455" column="18" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="477" column="43" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="349" column="57" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="24" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="32" column="14" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="323" column="21" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="371" column="39" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="315" column="37" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="413" column="12" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="412" column="30" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="325" column="11" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="43" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
       <jump line="54" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
       <jump line="17" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
       <jump line="13" column="67" filename="$USER_HOME$/PhpstormProjects/skyway-webrtc/lesson_screen.php" />
@@ -632,61 +616,76 @@
       <jump line="83" column="6" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="12396" column="39" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" />
       <jump line="175" column="3" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="25" column="24" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="86" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="81" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="100" column="18" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="105" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="107" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="108" column="16" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="112" column="37" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="27" column="25" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>script</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>script</text>
       </register>
       <register name="/" type="4">
-        <text>timezone</text>
+        <text encoding="base64">XDxib3hcPg==</text>
       </register>
       <register name="0" type="4">
         <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2tleS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0iYm94IiBzdHlsZT0iYmFja2dyb3VuZDogI2ZmZjsgZm9udC1zaXplOiAxOHB4O3BhZGRpbmc6NDBweCAzMHB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7Ij4KICAgIERyYWcgZmlsZSBoZXJlIHRvIHNlbmQgdG8gYWN0aXZlIGNvbm5lY3Rpb25zLgo8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYQo=</text>
+        <text encoding="base64">ICAgIC8vIFByZXBhcmUgZmlsZSBkcm9wIGJveC4KICAgIGNvbnN0IGJveCA9ICQoJyNib3gnKTsKICAgIGJveC5vbignZHJhZ2VudGVyJywgZG9Ob3RoaW5nKTsKICAgIGJveC5vbignZHJhZ292ZXInLCBkb05vdGhpbmcpOwogICAgYm94Lm9uKCdkcm9wJywgZSA9PiB7CiAgICAgICAgZS5vcmlnaW5hbEV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgY29uc3QgW2ZpbGVdID0gZS5vcmlnaW5hbEV2ZW50LmRhdGFUcmFuc2Zlci5maWxlczsKICAgICAgICBlYWNoQWN0aXZlUm9vbSgocm9vbSwgJGMpID0+IHsKICAgICAgICAgICAgcm9vbS5zZW5kKGZpbGUpOwogICAgICAgICAgICAkYy5maW5kKCcubWVzc2FnZXMnKS5hcHBlbmQoJzxkaXY+PHNwYW4gY2xhc3M9ImZpbGUiPllvdSBzZW50IGEgZmlsZS48L3NwYW4+PC9kaXY+Jyk7CiAgICAgICAgfSk7CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImltcG9ydGFudCI+CiAgICAgICAgPHA+PHN0cm9uZz5XYXJuaW5nOjwvc3Ryb25nPiBZb3UgbWF5IGNvbm5lY3Qgd2l0aCBwZW9wbGUgeW91IGRvbid0IGtub3cgaWYgeW91IGJvdGggdXNlIHRoZSBzYW1lIHJvb20gbmFtZS48L3A+CiAgICAgICAgPHA+PHN0cm9uZz7ms6jmhI/vvJo8L3N0cm9uZz7lkIzjgZjjg6vjg7zjg6DlkI3jgpLkvb/nlKjjgZfjgZ/loLTlkIjjgIHnn6XjgonjgarjgYTkurrjgajmjqXntprjgZnjgovlj6/og73mgKfjgYzjgYLjgorjgb7jgZnjgII8L3A+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ3JlYXRlU2Nob29sVGVhY2hlcnNDbGFzc2VzVGFibGUK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlY2hvICdkYXRhJzsK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnZGF0YTEnOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cD48c3Ryb25nPuazqOaEj++8mjwvc3Ryb25nPuWQjOOBmOODq+ODvOODoOWQjeOCkuS9v+eUqOOBl+OBn+WgtOWQiOOAgeefpeOCieOBquOBhOS6uuOBqOaOpee2muOBmeOCi+WPr+iDveaAp+OBjOOBguOCiuOBvuOBmeOAgjwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD48c3Ryb25nPldhcm5pbmc6PC9zdHJvbmc+IFlvdSBtYXkgY29ubmVjdCB3aXRoIHBlb3BsZSB5b3UgZG9uJ3Qga25vdyBpZiB5b3UgYm90aCB1c2UgdGhlIHNhbWUgcm9vbSBuYW1lLjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8kY2hhdFdvcmstPnNlbmRUb015Q2hhdCgkbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImltcG9ydGFudCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>timezone</last-search>
+      <last-search encoding="base64">XDxib3hcPg==</last-search>
       <last-offset />
-      <last-pattern>timezone</last-pattern>
+      <last-pattern encoding="base64">XDxib3hcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -694,9 +693,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc1w+</entry>
-        <entry encoding="base64">XDxzYWxlc191c2VyX2lkXD4=</entry>
-        <entry encoding="base64">XDx0aW1lc0h0bWxcPg==</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
         <entry encoding="base64">XDx0ZWFjaGVySnNvblw+</entry>
         <entry encoding="base64">XDxudW1iZXJpbmdcPg==</entry>
@@ -714,6 +710,9 @@
         <entry>holiday</entry>
         <entry encoding="base64">XDxnZXRJbmRpdmlkdWFsVGhyZXNob2xkTGlzdFw+</entry>
         <entry>timezone</entry>
+        <entry>browser</entry>
+        <entry>box</entry>
+        <entry encoding="base64">XDxib3hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
