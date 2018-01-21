@@ -198,6 +198,7 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1516577693248" />
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/MyTest.php" timestamp="1499680033156">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="13" />
@@ -288,13 +289,6 @@
         <mark key="]" line="245" column="97" />
         <mark key="^" line="245" column="97" />
         <mark key="." line="245" column="97" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/composer.json" timestamp="1516325817868">
-        <mark key="'" line="22" column="7" />
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.js" timestamp="1516355069691">
         <mark key="[" line="115" column="7" />
@@ -545,13 +539,6 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1516250349161">
-        <mark key="'" line="166" column="62" />
-        <mark key="[" line="166" column="63" />
-        <mark key="]" line="166" column="63" />
-        <mark key="^" line="164" column="47" />
-        <mark key="." line="166" column="63" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/logical.js" timestamp="1515487424408">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -577,13 +564,6 @@
         <mark key="]" line="156" column="54" />
         <mark key="^" line="156" column="53" />
         <mark key="." line="156" column="54" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/script.js" timestamp="1516326668443">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="45" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/config/app.php" timestamp="1513766756397">
         <mark key="[" line="178" column="18" />
