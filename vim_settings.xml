@@ -265,11 +265,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/style.css" timestamp="1516353369328">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="65" column="1" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/ProgramTest/sample/sample.php" timestamp="1499680363767">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -349,6 +344,7 @@
         <mark key="." line="90" column="39" />
         <mark key="^" line="79" column="61" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_01_18_204200_create_qualifications_users_table.php" timestamp="1516662211264" />
       <file name="$USER_HOME$/PhpstormProjects/gas/confirmJpPhTime.js" timestamp="1511748477010">
         <mark key="'" line="15" column="9" />
         <mark key="[" line="57" column="18" />
@@ -439,8 +435,8 @@
         <mark key="^" line="137" column="118" />
         <mark key="." line="137" column="118" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1514456510660">
-        <mark key="'" line="425" column="53" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1516661420175">
+        <mark key="'" line="517" column="54" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1512701542392">
         <mark key="'" line="518" column="0" />
@@ -475,12 +471,12 @@
       <file name="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/root/history.log" timestamp="1514377761351">
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1515137612818">
-        <mark key="'" line="209" column="24" />
-        <mark key="[" line="200" column="25" />
-        <mark key="]" line="200" column="25" />
-        <mark key="." line="200" column="25" />
-        <mark key="^" line="193" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1516663490497">
+        <mark key="'" line="230" column="11" />
+        <mark key="[" line="230" column="17" />
+        <mark key="]" line="230" column="16" />
+        <mark key="." line="230" column="16" />
+        <mark key="^" line="230" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" timestamp="1516325889853">
         <mark key="'" line="12396" column="39" />
@@ -495,7 +491,7 @@
         <mark key="^" line="238" column="7" />
         <mark key="." line="238" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1516322751756">
+      <file name="/dummy.sql" timestamp="1516663762235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Holiday.php" timestamp="1516251220585">
@@ -577,6 +573,7 @@
         <mark key="^" line="156" column="53" />
         <mark key="." line="156" column="54" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/QualificationUser.php" timestamp="1516661803550" />
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/config/app.php" timestamp="1513766756397">
         <mark key="[" line="178" column="18" />
         <mark key="]" line="178" column="7" />
@@ -585,17 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="15" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="225" column="89" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="237" column="38" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="136" column="61" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="218" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="217" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="214" column="29" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="221" column="12" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="262" column="10" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="222" column="12" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
-      <jump line="270" column="14" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="295" column="18" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="153" column="41" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
       <jump line="137" column="143" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/edit.blade.php" />
@@ -685,6 +671,17 @@
       <jump line="153" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="155" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="160" column="46" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="42" column="15" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="213" column="11" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="514" column="29" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="517" column="54" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="101" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="130" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="153" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="192" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="295" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="231" column="27" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="230" column="11" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -694,7 +691,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxXD4=</text>
+        <text encoding="base64">XDxpbnNlcnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
@@ -741,9 +738,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxXD4=</last-search>
+      <last-search encoding="base64">XDxpbnNlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnNlcnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -751,9 +748,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZWFjaGVyX25hbWVcPg==</entry>
-        <entry>checked</entry>
-        <entry encoding="base64">XDxzZW5kX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxpc1RlYWNoZXJcPg==</entry>
         <entry encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</entry>
@@ -771,6 +765,9 @@
         <entry encoding="base64">XDxQZXJzb25cPg==</entry>
         <entry encoding="base64">XDxlcnJvckNvZGVcPg==</entry>
         <entry encoding="base64">XDxxXD4=</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxRdWFsaWZpY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
