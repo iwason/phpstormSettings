@@ -231,8 +231,8 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1516681492783">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1516684707067">
+        <mark key="'" line="318" column="2" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1513774131291">
         <mark key="'" line="497" column="0" />
@@ -484,6 +484,9 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Holiday.php" timestamp="1516251220585">
         <mark key="'" line="15" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" timestamp="1516684091860">
+        <mark key="'" line="87" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516433783129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -580,13 +583,6 @@
       <file name="$USER_HOME$/PhpstormProjects/cosmo/package.json" timestamp="1516681465986" />
     </filemarks>
     <jumps>
-      <jump line="97" column="15" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
-      <jump line="64" column="26" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
-      <jump line="70" column="20" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
-      <jump line="99" column="8" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
-      <jump line="124" column="12" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
-      <jump line="173" column="80" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="230" column="22" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
       <jump line="35" column="52" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
       <jump line="36" column="53" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
       <jump line="37" column="54" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Setting.php" />
@@ -680,6 +676,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" />
       <jump line="368" column="42" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
       <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
+      <jump line="2" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
+      <jump line="12" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
+      <jump line="87" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
+      <jump line="274" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
+      <jump line="91" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
+      <jump line="273" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
+      <jump line="318" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,7 +692,7 @@
         <text encoding="base64">e3sgXEFwcFxNb2RlbHNcU2V0dGluZzo6Z2V0U2V0dGluZ3MoKS0+cGVyX3BhZ2UgfX0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlcPg==</text>
+        <text encoding="base64">XDxtdXRhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
@@ -732,9 +735,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlcPg==</last-search>
+      <last-search encoding="base64">XDxtdXRhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtdXRhdGlvbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -742,9 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZGFwX2VuYWJsZWRcPg==</entry>
-        <entry encoding="base64">XDxEQVRBX1JBTkdFX0tFWVw+</entry>
-        <entry encoding="base64">XDxSRUNFSVZFUl9JTkZPX1JBTkdFX0tFWVw+</entry>
         <entry>send</entry>
         <entry encoding="base64">XDxnZXRIb2xpZGF5VHlwZU5hbWVcPg==</entry>
         <entry>holiday</entry>
@@ -762,6 +762,9 @@
         <entry encoding="base64">XDxRdWFsaWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
+        <entry encoding="base64">XDxzZXRNb3VudGVkVGltZVw+</entry>
+        <entry encoding="base64">XDxtdXRhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
