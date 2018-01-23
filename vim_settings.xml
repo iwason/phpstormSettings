@@ -231,6 +231,9 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1516681492783">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1513774131291">
         <mark key="'" line="497" column="0" />
         <mark key="[" line="498" column="0" />
@@ -574,9 +577,9 @@
         <mark key="." line="178" column="7" />
         <mark key="^" line="178" column="7" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/package.json" timestamp="1516681465986" />
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
       <jump line="97" column="15" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
       <jump line="64" column="26" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
       <jump line="70" column="20" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" />
@@ -676,6 +679,7 @@
       <jump line="103" column="13" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" />
       <jump line="368" column="42" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
