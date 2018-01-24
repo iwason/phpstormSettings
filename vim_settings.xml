@@ -6,8 +6,13 @@
       <file name="/a.dummy" timestamp="1516434437161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" timestamp="1516768824819">
-        <mark key="'" line="58" column="16" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" timestamp="1516776327474">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="73" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" timestamp="1516776495545">
+        <mark key="'" line="159" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_01_19_141927_add_notes_to_qualifications_table.php" timestamp="1516759937272" />
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1516321281065">
@@ -65,11 +70,22 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/schools/index.blade.php" timestamp="1516083056180">
         <mark key="'" line="78" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/dev/scripts/logic-module.sh" timestamp="1516775947551">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" timestamp="1516776612400">
+        <mark key="'" line="90" column="17" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
         <mark key="'" line="2295" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/symfony/http-kernel/Client.php" timestamp="1513768147454">
         <mark key="'" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" timestamp="1516776747147">
+        <mark key="'" line="280" column="24" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1516661420175">
         <mark key="'" line="517" column="54" />
@@ -116,11 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="9" filename="$USER_HOME$/PhpstormProjects/lms/config/app.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/SchoolTeachersController.php" />
-      <jump line="83" column="6" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
-      <jump line="12396" column="39" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" />
-      <jump line="175" column="3" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
       <jump line="25" column="24" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
       <jump line="86" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
       <jump line="81" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
@@ -216,19 +227,24 @@
       <jump line="459" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="428" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="213" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="16" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" />
+      <jump line="158" column="132" filename="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" />
+      <jump line="159" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" />
+      <jump line="90" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" />
+      <jump line="280" column="24" filename="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmRleCgndXNlcl9pZCcsICd1c2VyX2lkX2luZGV4Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZ2lic29uQWpheENvc21vUGF0aDogc3RyaW5nID0gQ29uc3RhbnRzLmFwaUJhc2VQYXRoICsgJ2FqYXgvY29zbW8vJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>XXX</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</text>
+        <text encoding="base64">XDxhcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IEdpYnNvbkFwaS5mZXRjaE1lbWJlckxlc3NvblNreXdheShyZWdpc3RyYXRpb25JZCkK</text>
+        <text encoding="base64">Y29uc3QgZ2lic29uQWpheENvc21vUGF0aDogc3RyaW5nID0gQ29uc3RhbnRzLmFwaUJhc2VQYXRoICsgJ2FqYXgvY29zbW8vJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmRleCgndXNlcl9pZCcsICd1c2VyX2lkX2luZGV4Jyk7Cg==</text>
@@ -268,9 +284,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</last-search>
+      <last-search encoding="base64">XDxhcGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -278,8 +294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQZXJzb25cPg==</entry>
-        <entry encoding="base64">XDxlcnJvckNvZGVcPg==</entry>
         <entry encoding="base64">XDxxXD4=</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxRdWFsaWZpY2F0aW9uXD4=</entry>
@@ -298,6 +312,8 @@
         <entry encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxzZXRDYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</entry>
+        <entry encoding="base64">XDxtZW1iZXJMZXNzb25Ta3l3YXlcPg==</entry>
+        <entry encoding="base64">XDxhcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
