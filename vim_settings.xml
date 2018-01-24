@@ -93,6 +93,9 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1516019417550">
         <mark key="'" line="699" column="34" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" timestamp="1516779529242">
+        <mark key="'" line="166" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/.idea/typescript-compiler.xml" timestamp="1516753965640">
         <mark key="[" line="7" column="99" />
         <mark key="]" line="7" column="99" />
@@ -130,23 +133,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" timestamp="1516780028624">
+        <mark key="'" line="65" column="4" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/package.json" timestamp="1516779751020" />
     </filemarks>
     <jumps>
-      <jump line="25" column="24" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="86" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="81" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="100" column="18" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="104" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="105" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="107" column="12" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="108" column="16" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="112" column="37" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="27" column="25" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
-      <jump line="28" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chat.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
       <jump line="44" column="7" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
       <jump line="175" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.js" />
@@ -232,6 +224,21 @@
       <jump line="159" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" />
       <jump line="90" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" />
       <jump line="280" column="24" filename="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" />
+      <jump line="47" column="14" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="56" column="14" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="57" column="16" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="59" column="15" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="60" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="79" column="25" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="80" column="39" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="95" column="37" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="166" column="18" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
+      <jump line="74" column="34" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
+      <jump line="77" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -241,7 +248,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlcPg==</text>
+        <text encoding="base64">XDx1cmlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2lic29uQWpheENvc21vUGF0aDogc3RyaW5nID0gQ29uc3RhbnRzLmFwaUJhc2VQYXRoICsgJ2FqYXgvY29zbW8vJwo=</text>
@@ -284,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlcPg==</last-search>
+      <last-search encoding="base64">XDx1cmlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cmlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -294,9 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxXD4=</entry>
-        <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxRdWFsaWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
@@ -314,6 +318,9 @@
         <entry encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxtZW1iZXJMZXNzb25Ta3l3YXlcPg==</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDx1cmlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
