@@ -449,6 +449,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/.idea/typescript-compiler.xml" timestamp="1516753965640">
+        <mark key="[" line="7" column="99" />
+        <mark key="]" line="7" column="99" />
+        <mark key="." line="7" column="99" />
+        <mark key="^" line="7" column="98" />
+      </file>
       <file name="&lt;a7264154-2cad-4562-b88a-b39b44b7741b&gt;/root/history.log" timestamp="1514377761351">
         <mark key="[" line="11" column="27" />
       </file>
@@ -496,12 +502,11 @@
         <mark key="^" line="0" column="66" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516590898874">
-        <mark key="'" line="158" column="46" />
-        <mark key="[" line="188" column="11" />
-        <mark key="]" line="189" column="11" />
-        <mark key="." line="189" column="11" />
-        <mark key="^" line="189" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516753663364">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+        <mark key="^" line="158" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/src/SchoolSpreadSheet.php" timestamp="1513336067072">
         <mark key="'" line="74" column="4" />
@@ -685,10 +690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e3sgXEFwcFxNb2RlbHNcU2V0dGluZzo6Z2V0U2V0dGluZ3MoKS0+cGVyX3BhZ2UgfX0=</text>
+        <text>$PROJECT_DIR$/../../node/bin/node</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgXEFwcFxNb2RlbHNcU2V0dGluZzo6Z2V0U2V0dGluZ3MoKS0+cGVyX3BhZ2UgfX0=</text>
+        <text>$PROJECT_DIR$/../../node/bin/node</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtdXRhdGlvbnNcPg==</text>
@@ -703,16 +708,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9IiI+PC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -724,10 +729,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIoMTAwMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9IiI+PC9zZWxlY3Q+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
