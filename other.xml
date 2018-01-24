@@ -73,6 +73,9 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/.nodebrew/current/bin/node" version="8.9.4" last-modified="1514946735000" />
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
