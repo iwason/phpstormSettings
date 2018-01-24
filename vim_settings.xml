@@ -6,7 +6,7 @@
       <file name="/a.dummy" timestamp="1516434437161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" timestamp="1516776327474">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" timestamp="1516784611272">
         <mark key="'" line="16" column="2" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="73" />
@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
         <mark key="'" line="48" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516768797787">
-        <mark key="'" line="1" column="15" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516784468348">
+        <mark key="'" line="351" column="2" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="80" />
       </file>
@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516781931492">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516784315663">
         <mark key="'" line="61" column="2" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768140894">
@@ -117,15 +117,19 @@
       <file name="/Dummy.txt" timestamp="1516433783129">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516784546200">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="59" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="214" column="1" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" timestamp="1516780028624">
         <mark key="'" line="65" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/package.json" timestamp="1516779751020" />
     </filemarks>
     <jumps>
-      <jump line="11" column="58" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.js" />
-      <jump line="44" column="25" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.js" />
-      <jump line="38" column="17" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
       <jump line="63" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
       <jump line="66" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
       <jump line="61" column="0" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" />
@@ -172,10 +176,7 @@
       <jump line="91" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
       <jump line="273" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
       <jump line="318" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="32" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="227" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="76" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="351" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="216" column="51" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="53" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="184" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
@@ -223,6 +224,12 @@
       <jump line="23" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
       <jump line="6" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="61" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="79" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="51" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="76" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="351" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="228" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="32" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -232,7 +239,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVQZWVyXD4=</text>
+        <text encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2lic29uQWpheENvc21vUGF0aDogc3RyaW5nID0gQ29uc3RhbnRzLmFwaUJhc2VQYXRoICsgJ2FqYXgvY29zbW8vJwo=</text>
@@ -275,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVQZWVyXD4=</last-search>
+      <last-search encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVQZWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -287,8 +294,6 @@
       <history-search>
         <entry encoding="base64">XDxzZXRNb3VudGVkVGltZVw+</entry>
         <entry encoding="base64">XDxtdXRhdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</entry>
-        <entry encoding="base64">XDxzZXRTdHVkZW50UGVlcklkXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RyYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxmZXRjaExlc3NvblNreXdheVw+</entry>
@@ -305,6 +310,8 @@
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQZWVyXD4=</entry>
+        <entry encoding="base64">XDxzZXRTdHVkZW50UGVlcklkXD4=</entry>
+        <entry encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
