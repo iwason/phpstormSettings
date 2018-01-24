@@ -471,16 +471,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" timestamp="1516664611616">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1516665023035">
-        <mark key="'" line="368" column="42" />
-        <mark key="[" line="230" column="17" />
-        <mark key="]" line="230" column="16" />
-        <mark key="." line="230" column="16" />
-        <mark key="^" line="230" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/chattest.js" timestamp="1516325889853">
         <mark key="'" line="12396" column="39" />
@@ -546,24 +536,12 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/qualifications/edit.blade.php" timestamp="1516664415536">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gasTool/schedule.gs" timestamp="1496058654399">
         <mark key="'" line="95" column="8" />
         <mark key="[" line="41" column="8" />
         <mark key="]" line="41" column="26" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/qualifications/view.blade.php" timestamp="1516665205951">
-        <mark key="[" line="83" column="18" />
-        <mark key="]" line="83" column="18" />
-        <mark key="." line="83" column="18" />
-        <mark key="^" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/logical.js" timestamp="1515487424408">
         <mark key="[" line="8" column="0" />
