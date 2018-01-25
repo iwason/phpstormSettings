@@ -35,10 +35,12 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
         <mark key="'" line="48" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516784468348">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516860465620">
         <mark key="'" line="351" column="2" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="80" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
@@ -105,6 +107,7 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
         <mark key="'" line="2295" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/tsconfig.json" timestamp="1516861080700" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516857900906">
         <mark key="'" line="61" column="2" />
       </file>
@@ -126,7 +129,11 @@
         <mark key="." line="30" column="73" />
         <mark key="^" line="30" column="73" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/build/webpack.base.conf.js" timestamp="1516859104926" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/build/webpack.base.conf.js" timestamp="1516860884657">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" timestamp="1516780028624">
         <mark key="'" line="65" column="4" />
       </file>
@@ -249,47 +256,47 @@
       <jump line="45" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/qualifications/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var_dump</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ34vJzogcmVzb2x2ZSgnc3JjJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yZWFjaCgkbGlzdCBhcyAka2V5ID0+ICR2YWx1ZSl7Cg==</text>
+        <text encoding="base64">ICAgICAgJ0AnOiByZXNvbHZlKCdzcmMnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ34vJzogcmVzb2x2ZSgnc3JjJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgdmFyX2R1bXAoJHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdmFyX2R1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44GU56K66KqN44Gu56iL44KI44KN44GX44GP44GK6aGY44GE6Ie044GX44G+44GZ44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5LiL6KiY44Gr44Gm44Os44OD44K544Oz44KS5a6f5pa95LqI5a6a44Gn44GU44GW44GE44G+44GZ44CCCg==</text>
+        <text encoding="base64">44GU56K66KqN44Gu56iL44KI44KN44GX44GP44GK6aGY44GE6Ie044GX44G+44GZ44CCCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5LuK5b6M44Gu44Os44OD44K544Oz44Gu44K544Kx44K444Ol44O844Or44CB5Lq65pWw44CB5pWZ5p2Q44Gr6Zai44GX44G+44GX44Gm56K66KqN44Gu44GU6YCj57Wh44KS44GV44Gb44Gm6aCC44GN44G+44GZ44CCCg==</text>
+        <text encoding="base64">5LiL6KiY44Gr44Gm44Os44OD44K544Oz44KS5a6f5pa95LqI5a6a44Gn44GU44GW44GE44G+44GZ44CCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5LuK5b6M44Gu44Os44OD44K544Oz44Gu44K544Kx44K444Ol44O844Or44CB5Lq65pWw44CB5pWZ5p2Q44Gr6Zai44GX44G+44GX44Gm56K66KqN44Gu44GU6YCj57Wh44KS44GV44Gb44Gm6aCC44GN44G+44GZ44CCCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
