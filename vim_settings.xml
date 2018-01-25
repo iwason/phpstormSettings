@@ -51,19 +51,8 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1516020133828">
         <mark key="'" line="196" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1516840264076">
-        <mark key="[" line="433" column="13" />
-        <mark key="]" line="433" column="13" />
-        <mark key="^" line="493" column="102" />
-        <mark key="." line="433" column="13" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" timestamp="1516776495545">
         <mark key="'" line="159" column="17" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_01_18_204200_create_qualifications_users_table.php" timestamp="1516760780032">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Traits/SheetsValues.php" timestamp="1513146910702">
         <mark key="'" line="119" column="25" />
@@ -76,11 +65,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Holiday.php" timestamp="1516251220585">
         <mark key="'" line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/dev/scripts/logic-module.sh" timestamp="1516775947551">
-        <mark key="[" line="33" column="42" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" timestamp="1516781040958">
         <mark key="'" line="87" column="2" />
