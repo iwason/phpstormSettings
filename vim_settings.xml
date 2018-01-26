@@ -104,7 +104,7 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/tsconfig.json" timestamp="1516861080700" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1516946028959" />
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516947965315">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516948142785">
         <mark key="'" line="138" column="12" />
         <mark key="[" line="138" column="6" />
         <mark key="]" line="138" column="11" />
