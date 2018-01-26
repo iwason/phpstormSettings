@@ -86,12 +86,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516934169890">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516935587389">
         <mark key="'" line="32" column="9" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="163" column="28" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="20" />
+        <mark key="." line="231" column="20" />
+        <mark key="^" line="231" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1516933382483">
         <mark key="[" line="22" column="38" />
@@ -250,7 +250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -262,38 +262,38 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>else{
           }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpbmUhJykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdkZWJ1ZyA6ICcgLiAkbWF0ZXJpYWwgLiAiXG4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdkZWJ1ZyA6ICcgLiAkbWF0ZXJpYWwgLiAiXG4iOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXNlIC49ICJ7JGxlc3NvblsnbWF0ZXJpYWwnXX1cbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
