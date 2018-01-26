@@ -86,23 +86,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516929655137">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516934169890">
         <mark key="'" line="32" column="9" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="59" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="213" column="1" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="163" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1516930051295">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1516933382483">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/tsconfig.json" timestamp="1516861080700" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1516934136879" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516931914710">
         <mark key="'" line="232" column="39" />
         <mark key="[" line="232" column="31" />
@@ -132,8 +133,8 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768140894">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" timestamp="1516781624953">
-        <mark key="'" line="23" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" timestamp="1516933536261">
+        <mark key="'" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1516923163784">
         <mark key="'" line="37" column="4" />
@@ -146,9 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="13" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" />
-      <jump line="368" column="42" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
       <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
       <jump line="2" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
       <jump line="12" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
@@ -246,40 +244,44 @@
       <jump line="427" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="233" column="36" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="232" column="39" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="0" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
+      <jump line="19" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
+      <jump line="27" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</text>
+        <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRQZWVySWQnLCB7IHBlZXJJZDogcGVlckluc3RhbmNlLmlkIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdkZWJ1ZyA6ICcgLiAkbWF0ZXJpYWwgLiAiXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>else{
+          }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpbmUhJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXNlIC49ICJ7JGxlc3NvblsnbWF0ZXJpYWwnXX1cbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8g5pS56KGM44Kz44O844OJ5q+O44Gr5YiG5Ymy44GX6YWN5YiX44Gr5qC857SNCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdkZWJ1ZyA6ICcgLiAkbWF0ZXJpYWwgLiAiXG4iOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -288,19 +290,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXNlLj0gInskbGVzc29uWydtYXRlcmlhbCddfVxuIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXNlIC49ICJ7JGxlc3NvblsnbWF0ZXJpYWwnXX1cbiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</last-search>
+      <last-search encoding="base64">XDxjb25zdGFudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdGFudHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx1cmlcPg==</entry>
@@ -328,6 +329,7 @@
         <entry encoding="base64">XDxwZWVySWRcPg==</entry>
         <entry encoding="base64">XDxzZXRQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
+        <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
