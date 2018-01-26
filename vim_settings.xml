@@ -65,12 +65,12 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
         <mark key="'" line="48" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516931730406">
-        <mark key="'" line="74" column="2" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1516946807562">
+        <mark key="'" line="354" column="28" />
+        <mark key="[" line="354" column="5" />
+        <mark key="]" line="354" column="5" />
+        <mark key="." line="354" column="5" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
         <mark key="'" line="140" column="5" />
@@ -86,14 +86,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516935587389">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1516945998815">
         <mark key="'" line="32" column="9" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="20" />
-        <mark key="." line="231" column="20" />
-        <mark key="^" line="231" column="20" />
+        <mark key="[" line="219" column="18" />
+        <mark key="]" line="219" column="33" />
+        <mark key="." line="219" column="33" />
+        <mark key="^" line="219" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1516933382483">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1516946437932">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="38" />
         <mark key="." line="22" column="38" />
@@ -103,13 +103,13 @@
         <mark key="'" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/tsconfig.json" timestamp="1516861080700" />
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1516934136879" />
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516931914710">
-        <mark key="'" line="232" column="39" />
-        <mark key="[" line="232" column="31" />
-        <mark key="]" line="232" column="34" />
-        <mark key="." line="232" column="34" />
-        <mark key="^" line="232" column="34" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1516946028959" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516947965315">
+        <mark key="'" line="138" column="12" />
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="138" column="11" />
+        <mark key="^" line="138" column="11" />
+        <mark key="." line="138" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
@@ -126,6 +126,12 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-videochat/script.js" timestamp="1516922808051">
         <mark key="'" line="101" column="8" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonSkyway.json" timestamp="1516946068471">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" timestamp="1516780028624">
         <mark key="'" line="65" column="4" />
@@ -147,47 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="2" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
-      <jump line="12" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
-      <jump line="87" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/app.ts" />
-      <jump line="274" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="91" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="273" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="318" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" />
-      <jump line="227" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="216" column="51" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="53" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="184" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="168" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="171" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="1" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="58" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" />
-      <jump line="111" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="134" column="37" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="138" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="144" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="215" column="3" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="227" column="29" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="428" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="213" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="16" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" />
-      <jump line="158" column="132" filename="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" />
-      <jump line="159" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/config/base.php" />
-      <jump line="90" column="17" filename="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" />
-      <jump line="280" column="24" filename="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" />
-      <jump line="47" column="14" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="56" column="14" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="57" column="16" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="58" column="6" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="59" column="15" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="60" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="79" column="25" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="80" column="39" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="95" column="37" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="166" column="18" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" />
-      <jump line="8" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
       <jump line="74" column="34" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
       <jump line="77" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
       <jump line="65" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" />
@@ -197,13 +162,10 @@
       <jump line="190" column="30" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
       <jump line="15" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
       <jump line="23" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
-      <jump line="6" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="79" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="51" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="76" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="351" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="228" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="32" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="52" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/qualifications/index.blade.php" />
       <jump line="45" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/qualifications/index.blade.php" />
       <jump line="539" column="12" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
@@ -227,8 +189,6 @@
       <jump line="306" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="438" column="27" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="432" column="27" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="15" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="27" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="83" column="26" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="14" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="61" column="44" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -240,69 +200,114 @@
       <jump line="431" column="33" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="459" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="430" column="3" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="25" column="7" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="427" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="233" column="36" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="232" column="39" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="0" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
       <jump line="19" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
       <jump line="27" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" />
+      <jump line="121" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="104" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="238" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="231" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="71" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="72" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="146" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="142" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="435" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="6" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="140" column="39" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="156" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="25" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="16" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="28" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="233" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="32" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
+      <jump line="179" column="30" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="232" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="233" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="481" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="181" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="76" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="180" column="30" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="353" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="354" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
+      <jump line="15" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="27" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="64" column="44" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="65" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="79" column="40" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="88" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="105" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="106" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="116" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="218" column="43" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="236" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="256" column="35" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="512" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="274" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="234" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="324" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="347" column="56" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="351" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="360" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="486" column="27" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="282" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="80" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="138" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
+        <text encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgcm9vbWluc3RhbmNlID0gcGVlckluc3RhbmNlLmpvaW5Sb29tKHN0YXRlLnJvb21JZCxzdGF0ZS5sb2NhbFN0cmVhbSkKICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jvb20gaW5zdGFuY2UgSWQgaXMgJyArIHJvb21JbnN0YW5jZS5pZCApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbWluc3RhbmNlID0gcGVlckluc3RhbmNlLmpvaW5Sb29tKHN0YXRlLnJvb21JZCxzdGF0ZS5sb2NhbFN0cmVhbSkKICAgICAgY29uc29sZS5sb2coJ3Jvb20gaW5zdGFuY2UgSWQgaXMgJyArIHJvb21JbnN0YW5jZS5pZCApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbklkOiBudW1iZXIgPSBOdW1iZXIocS5yZXNlcnZhdGlvbklkKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0Um9vbUlkIDonK3Jlc3BvbnNlLnJvb21faWQgKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>else{
-          }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0Um9vbUlkJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpbmUhJykK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yIScpCg==</text>
+        <text encoding="base64">ICAgICBzdGF0ZS5yb29tSWQgPSBwYXlsb2FkLnJvb21JZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXRSb29tSWQgKHN0YXRlLCBwYXlsb2FkKTogdm9pZCB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICdkZWJ1ZyA6ICcgLiAkbWF0ZXJpYWwgLiAiXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCdzZXRSb29tSWQnLCB7IHJvb21JZDogcm9vbUluc3RhbmNlLmlkIH0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBkaXNwYXRjaCgnY2xvc2VDb25uZWN0aW9uJywgQ29uc3RhbnRzLkNPTk5FQ1RJT05fU1RBVFVTLkNPTk5FQ1RJTkcpCiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgIGRpc3BhdGNoKCdjYWxsJywgc3RhdGUuY2FsbGVlUGVlcklkKQogICAgIH0sIDEwMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdGFudHNcPg==</last-search>
+      <last-search encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdGFudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -310,26 +315,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
-        <entry encoding="base64">XDx1cmlcPg==</entry>
-        <entry encoding="base64">XDxzZXRJc0xvYWRpbmdcPg==</entry>
-        <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVQZWVyXD4=</entry>
-        <entry encoding="base64">XDxzZXRTdHVkZW50UGVlcklkXD4=</entry>
-        <entry encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</entry>
-        <entry encoding="base64">XDxidWlsZFJlY2VpdmVySW5mb0xpc3RcPg==</entry>
         <entry encoding="base64">XDxuZXh0V2Vla0xlc3NvbkRldGFpbExpc3RcPg==</entry>
         <entry encoding="base64">XDxyb29tXD4=</entry>
-        <entry encoding="base64">XDxwZWVyRXZlbnRMaXN0ZW5lcnNcPg==</entry>
         <entry encoding="base64">XDxzZXRFbmRsZXNzQ2FsbEV2ZW50XD4=</entry>
-        <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxsZXNzb25SZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxwZWVySWRcPg==</entry>
         <entry encoding="base64">XDxzZXRQZWVySWRcPg==</entry>
-        <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
+        <entry encoding="base64">XDxwcmVDaGVja1N1Y2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxmaW5pc2hQcmVDaGVja1w+</entry>
+        <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
+        <entry encoding="base64">XDxzdHVkZW50UGVlcklkXD4=</entry>
+        <entry encoding="base64">XDxzZXRTdHVkZW50UGVlcklkXD4=</entry>
+        <entry encoding="base64">XDxzZXRSb29tSWRcPg==</entry>
+        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
+        <entry encoding="base64">XDxwZWVySWRcPg==</entry>
+        <entry encoding="base64">XDxyb29tRXZlbnRMaXN0ZW5lcnNcPg==</entry>
+        <entry encoding="base64">XDxwZWVyRXZlbnRMaXN0ZW5lcnNcPg==</entry>
+        <entry encoding="base64">XDxjYWxsXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hQZWVySWRJblBlZXJMaXN0XD4=</entry>
+        <entry encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
