@@ -111,8 +111,8 @@
         <mark key="'" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/tsconfig.json" timestamp="1516861080700" />
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516927504051">
-        <mark key="'" line="61" column="2" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1516928943637">
+        <mark key="'" line="83" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
@@ -150,14 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="49" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="153" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="155" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="160" column="46" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="42" column="15" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="213" column="11" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="514" column="29" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="517" column="54" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="101" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
       <jump line="130" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
       <jump line="153" column="37" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" />
@@ -188,9 +180,6 @@
       <jump line="171" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="1" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="58" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/api/gibsonApi.ts" />
-      <jump line="15" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="27" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="83" column="26" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="111" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="134" column="37" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="138" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -250,6 +239,17 @@
       <jump line="102" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="101" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="37" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="66" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="232" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="270" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="293" column="56" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="298" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="306" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="438" column="27" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="432" column="27" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="15" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="27" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="83" column="26" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -259,7 +259,7 @@
         <text>メール送信内容の事前確認の為</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb29tXD4=</text>
+        <text encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$material</text>
@@ -302,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb29tXD4=</last-search>
+      <last-search encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb29tXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -312,10 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxmZXRjaExlc3NvblNreXdheVw+</entry>
-        <entry encoding="base64">XDxmZXRjaE1lbWJlckxlc3NvblNreXdheVw+</entry>
-        <entry encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxzZXRDYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVDYWxsZWVQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxtZW1iZXJMZXNzb25Ta3l3YXlcPg==</entry>
@@ -332,6 +328,10 @@
         <entry encoding="base64">XDxidWlsZFJlY2VpdmVySW5mb0xpc3RcPg==</entry>
         <entry encoding="base64">XDxuZXh0V2Vla0xlc3NvbkRldGFpbExpc3RcPg==</entry>
         <entry encoding="base64">XDxyb29tXD4=</entry>
+        <entry encoding="base64">XDxwZWVyRXZlbnRMaXN0ZW5lcnNcPg==</entry>
+        <entry encoding="base64">XDxzZXRFbmRsZXNzQ2FsbEV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxjYWxsXD4=</entry>
+        <entry encoding="base64">XDxjYWxsZWVQZWVySWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
