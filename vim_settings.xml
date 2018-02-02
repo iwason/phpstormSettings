@@ -100,11 +100,11 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517573178146">
-        <mark key="'" line="375" column="22" />
-        <mark key="[" line="340" column="31" />
-        <mark key="]" line="340" column="35" />
-        <mark key="." line="340" column="35" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517574935000">
+        <mark key="'" line="402" column="2" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
         <mark key="^" line="340" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/symfony/http-kernel/Client.php" timestamp="1513768147454">
@@ -160,10 +160,12 @@
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" timestamp="1516933536261">
         <mark key="'" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517571813340">
-        <mark key="'" line="147" column="8" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="104" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517574267787">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="103" column="35" />
+        <mark key="^" line="103" column="35" />
+        <mark key="." line="103" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768169709">
         <mark key="'" line="8" column="0" />
@@ -179,13 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="112" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="247" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="472" column="19" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="479" column="10" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="12" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="66" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="115" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
       <jump line="165" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="183" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
@@ -218,7 +213,6 @@
       <jump line="360" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="242" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="120" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
-      <jump line="33" column="7" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="118" column="2" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="337" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="373" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -230,7 +224,6 @@
       <jump line="334" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="8" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="251" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="155" column="7" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="134" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="160" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="102" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
@@ -279,61 +272,70 @@
       <jump line="238" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="363" column="18" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="375" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="10" column="6" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="26" column="30" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="30" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="155" column="19" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="290" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="402" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZXR1cFJvb21EYXRhQ29ubmVjdGlvbkV2ZW50TGlzdGVuZXJzICgKICAgIHsgY29tbWl0LCBkaXNwYXRjaCwgc3RhdGUgfSwKICAgcm9vbUNvbm5lY3Rpb24KICApOiB2b2lkIHsKICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</text>
+        <text encoding="base64">XDxzZXR1cERhdGFDb25uZWN0aW9uRXZlbnRMaXN0ZW5lcnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>existingRoom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXR1cFJvb21EYXRhQ29ubmVjdGlvbkV2ZW50TGlzdGVuZXJzICgKICAgIHsgY29tbWl0LCBkaXNwYXRjaCwgc3RhdGUgfSwKICAgcm9vbUNvbm5lY3Rpb24KICApOiB2b2lkIHsKICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbnN0IGRhdGFDb25uZWN0aW9uID0gcGVlckluc3RhbmNlLmNvbm5lY3Qoc3RhdGUuY2FsbGVlUGVlcklkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdzdGFydCBqb2luIHJvb20nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24ub24oJ2Nsb3NlJywgKCkgPT4gewogICAgICBjb25zb2xlLmluZm8oJ2RhdGEgY29ubmV0aW9uIGNsb3NlZCcpCiAgICAgIGRpc3BhdGNoKCdjbG9zZUNvbm5lY3Rpb24nKQogICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgnc2V0RXhpc3RpbmdEYXRhQ29ubmVjdGlvbicsIHsgZGF0YUNvbm5lY3Rpb24gfSkKCiAgICAvLyByZWNlaXZlIGRhdGEKICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24ub24oJ2RhdGEnLCBkYXRhID0+IHsKICAgICAgY29uc29sZS5pbmZvKGRhdGEpCiAgICAgIGRhdGEgPSBKU09OLnBhcnNlKGRhdGEpCiAgICAgIGNvbnNvbGUuaW5mbyhkYXRhKQogICAgICBpZiAodHlwZW9mIGRhdGEubWVzc2FnZV90ZXh0ICE9PSAndW5kZWZpbmVkJykgewogICAgICAgIGNvbW1pdCgnYWRkU2t5V2F5Q2hhdE1lc3NhZ2UnLCB7IG1lc3NhZ2U6IGRhdGEgfSkKICAgICAgICBkaXNwYXRjaCgnbm90aWZ5Q2hhdE1lc3NhZ2VVcGRhdGUnLCBkYXRhKQogICAgICAgIHJldHVybgogICAgICB9CgogICAgICBpZiAodHlwZW9mIGRhdGEuYWN0aW9uICE9PSAndW5kZWZpbmVkJykgewogICAgICAgIHN3aXRjaCAoZGF0YS5hY3Rpb24pIHsKICAgICAgICAgIGNhc2UgQ29uc3RhbnRzLk1FU1NBR0VfQUNUSU9OUy5FTkRfTEVTU09OOgogICAgICAgICAgICBkaXNwYXRjaCgnY2xvc2VDb25uZWN0aW9uJykKICAgICAgICAgICAgZGlzcGF0Y2goJ21vZGFsL3Nob3dNb2RhbCcsICdlbmQtbGVzc29uJywgeyByb290OiB0cnVlIH0pCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBjb21taXQoJ2FkZFNreVdheUNoYXRNZXNzYWdlJywgeyBtZXNzYWdlOiBkYXRhIH0pCiAgICAgICAgICAgIGRpc3BhdGNoKCdub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZScsIGRhdGEpCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICAgIHJldHVybgogICAgICB9CiAgICB9KQogICAgZXhpc3RpbmdEYXRhQ29ubmVjdGlvbi5vbignY2xvc2UnLCAoKSA9PiB7CiAgICAgIGNvbnNvbGUuaW5mbygnZGF0YSBjb25uZXRpb24gY2xvc2VkJykKICAgICAgZGlzcGF0Y2goJ2Nsb3NlQ29ubmVjdGlvbicpCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdzZXQgdHV0b3IgdmlkZW8nKQo=</text>
+        <text encoding="base64">ICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24ub24oJ2Nsb3NlJywgKCkgPT4gewogICAgICBjb25zb2xlLmluZm8oJ2RhdGEgY29ubmV0aW9uIGNsb3NlZCcpCiAgICAgIGRpc3BhdGNoKCdjbG9zZUNvbm5lY3Rpb24nKQogICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxzZXR1cERhdGFDb25uZWN0aW9uRXZlbnRMaXN0ZW5lcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cERhdGFDb25uZWN0aW9uRXZlbnRMaXN0ZW5lcnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -341,13 +343,11 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGlzdGluZ0NhbGxcPg==</entry>
         <entry encoding="base64">XDxzZXRFeGlzdGluZ0NhbGxcPg==</entry>
         <entry encoding="base64">XDxzZXR1cENhbGxFdmVudExpc3RlbmVyc1w+</entry>
         <entry encoding="base64">XDxzdGVwM1w+</entry>
         <entry encoding="base64">XDxzZXRFbmRsZXNzQ2FsbEV2ZW50XD4=</entry>
         <entry encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</entry>
-        <entry encoding="base64">XDxyb29tXD4=</entry>
         <entry encoding="base64">XDxleGlzdGluZ1Jvb21cPg==</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
@@ -361,6 +361,8 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxhZGRTa3lXYXlDaGF0TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</entry>
+        <entry encoding="base64">XDxyb29tXD4=</entry>
+        <entry encoding="base64">XDxzZXR1cERhdGFDb25uZWN0aW9uRXZlbnRMaXN0ZW5lcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
