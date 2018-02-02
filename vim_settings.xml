@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" timestamp="1516664611616">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517552257425">
-        <mark key="[" line="135" column="56" />
-        <mark key="]" line="136" column="43" />
-        <mark key="^" line="136" column="43" />
-        <mark key="." line="136" column="43" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517571944332">
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="128" column="37" />
+        <mark key="." line="128" column="37" />
+        <mark key="^" line="128" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
         <mark key="'" line="48" column="10" />
@@ -85,11 +85,11 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1516321281065">
         <mark key="'" line="83" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1517551319613">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1517573221737">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" timestamp="1516776612400">
         <mark key="'" line="90" column="17" />
@@ -100,12 +100,12 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517552134213">
-        <mark key="'" line="481" column="2" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="52" />
-        <mark key="." line="337" column="0" />
-        <mark key="^" line="336" column="49" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517573178146">
+        <mark key="'" line="375" column="22" />
+        <mark key="[" line="340" column="31" />
+        <mark key="]" line="340" column="35" />
+        <mark key="." line="340" column="35" />
+        <mark key="^" line="340" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/symfony/http-kernel/Client.php" timestamp="1513768147454">
         <mark key="'" line="30" column="6" />
@@ -160,8 +160,8 @@
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/global.ts" timestamp="1516933536261">
         <mark key="'" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517540550408">
-        <mark key="'" line="149" column="2" />
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517571813340">
+        <mark key="'" line="147" column="8" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="104" column="6" />
       </file>
@@ -179,30 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="19" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="489" column="57" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="492" column="16" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="493" column="47" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="496" column="43" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="497" column="54" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="498" column="35" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="499" column="47" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="524" column="10" filename="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" />
-      <jump line="32" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="157" column="33" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="164" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="112" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="119" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="357" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/DebugTool.vue" />
-      <jump line="145" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/DebugTool.vue" />
-      <jump line="44" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/DebugTool.vue" />
-      <jump line="45" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/DebugTool.vue" />
-      <jump line="46" column="24" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/DebugTool.vue" />
-      <jump line="56" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
-      <jump line="154" column="3" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="11" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="25" column="30" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="111" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="112" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="247" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -222,10 +198,8 @@
       <jump line="73" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="508" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="148" column="42" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="159" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="281" column="25" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="322" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="324" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="365" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="370" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="381" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -241,7 +215,6 @@
       <jump line="521" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="431" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="376" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="520" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="360" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="242" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="120" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
@@ -258,11 +231,8 @@
       <jump line="8" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="251" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="155" column="7" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="362" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="363" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="134" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="160" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="254" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="102" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="117" column="13" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="132" column="17" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
@@ -278,62 +248,92 @@
       <jump line="214" column="21" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" />
       <jump line="258" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="425" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="324" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="138" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="159" column="32" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="164" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="89" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="108" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="115" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="147" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="481" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="501" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="314" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="328" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="288" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="493" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="254" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="494" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="343" column="28" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="344" column="43" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="362" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="374" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="421" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="433" column="18" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="520" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="191" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="227" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="239" column="33" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="486" column="7" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="228" column="18" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="238" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="363" column="18" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="375" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RpbmdSb29tLnJlcGxhY2VTdHJlYW0oc3RhdGUubG9jYWxTdHJlYW0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>stream</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSZW1vdGVTdHJlYW1cPg==</text>
+        <text encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpc3RpbmdSb29tLnJlcGxhY2VTdHJlYW0oc3RyZWFtKTsKICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="0" type="4">
+        <text>existingRoom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RpbmdSb29tLnJlcGxhY2VTdHJlYW0oc3RhdGUubG9jYWxTdHJlYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZWVySW5zdGFuY2Uub24oJ2Vycm9yJywgZXJyID0+IHsKICAgICAgICAgICAgY29uc29sZS5lcnJvcigncGVlciBlcnJvcjogJyArIGVyci5tZXNzYWdlKQogICAgICAgICAgICBkaXNwYXRjaCgnZGlzY29ubmVjdFBlZXInKQoKICAgICAgICAgICAgLy8gaWYgZHVwbGljYXRlIGVycm9yIG9jY3VycwogICAgICAgICAgICBpZiAoZXJyLm1lc3NhZ2UuaW5kZXhPZignQ2hvb3NlIGEgZGlmZmVyZW50IHBlZXJJZCBhbmQgdHJ5IGFnYWluJykpIHsKICAgICAgICAgICAgICAgIGRpc3BhdGNoKAogICAgICAgICAgICAgICAgICAgICdnbG9iYWwvdXBkYXRlRXJyb3JDb2RlJywKICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuRVJST1JfQ09ERS5EVVBMSUNBVEVfUEVFUl9JRCwKICAgICAgICAgICAgICAgICAgICB7cm9vdDogdHJ1ZX0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGRpc3BhdGNoKCdtb2RhbC9zaG93TW9kYWwnLCAndW5rbm93bi1lcnJvcicsIHtyb290OiB0cnVlfSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRpc3BhdGNoKCdnbG9iYWwvc2VuZEVycm9yTG9nJywgZXJyLCB7cm9vdDogdHJ1ZX0pCiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgICAgIHBlZXJJbnN0YW5jZS5vbignY2xvc2UnLCAoKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUuaW5mbygncGVlciBjbG9zZScpCiAgICAgICAgICAgIGRpc3BhdGNoKCdkaXNjb25uZWN0UGVlcicpCiAgICAgICAgfSkKICAgICAgICBwZWVySW5zdGFuY2Uub24oJ2Rpc2Nvbm5lY3RlZCcsICgpID0+IHsKICAgICAgICAgICAgY29uc29sZS5pbmZvKCdwZWVyIGRpc2Nvbm5lY3RlZCcpCiAgICAgICAgICAgIGRpc3BhdGNoKCdkaXNjb25uZWN0UGVlcicpCiAgICAgICAgfSkKICAgICAgICBwZWVySW5zdGFuY2Uub24oJ2NhbGwnLCBjYWxsID0+IHsKICAgICAgICAgICAgY2FsbC5hbnN3ZXIoc3RhdGUubG9jYWxTdHJlYW0sIENvbnN0YW50cy5ERUZBVUxUX1NLWVdBWV9DQUxMX09QVElPTikKICAgICAgICAgICAgLy8gZGlzcGF0Y2goJ3JlbW92ZUVuZGxlc3NDYWxsRXZlbnQnKQogICAgICAgICAgICBjb21taXQoJ3NldENhbGxlZVBlZXJJZCcsIHtwZWVySWQ6IGNhbGwucmVtb3RlSWR9KQogICAgICAgICAgICBkaXNwYXRjaCgnc2V0dXBDYWxsRXZlbnRMaXN0ZW5lcnMnLCBjYWxsKQogICAgICAgIH0pCiAgICAgICAgcGVlckluc3RhbmNlLm9uKCdjb25uZWN0aW9uJywgZGF0YUNvbm5lY3Rpb24gPT4gewogICAgICAgICAgICBkaXNwYXRjaCgnc2V0dXBEYXRhQ29ubmVjdGlvbkV2ZW50TGlzdGVuZXJzJywgZGF0YUNvbm5lY3Rpb24pCiAgICAgICAgfSkKICB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb21FdmVudExpc3RlbmVycyh7Y29tbWl0LCBkaXNwYXRjaH0pOiB2b2lkIHsKICAgICAgICBwZWVySW5zdGFuY2Uub24oJ29wZW4nLCAoKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUuaW5mbygncGVlciBvbicpCiAgICAgICAgICAgIGNvbW1pdCgnc2V0UGVlcklkJywge3BlZXJJZDogcGVlckluc3RhbmNlLmlkfSkKICAgICAgICAgICAgY29tbWl0KCdzZXRJc1BlZXJPcGVuJywge2lzUGVlck9wZW46IHRydWV9KQogICAgICAgICAgICBkaXNwYXRjaCgnc2V0RW5kbGVzc0NhbGxFdmVudCcpCiAgICAgICAgICAgIGNvbnN0IHJvb21pbnN0YW5jZSA9IHBlZXJJbnN0YW5jZS5qb2luUm9vbShzdGF0ZS5yb29tSWQsc3RhdGUubG9jYWxTdHJlYW0pCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyb29tIGluc3RhbmNlIElkIGlzICcgKyByb29tSW5zdGFuY2UuaWQgKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKHN0YXRlLmxvY2FsU3RyZWFtKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RpbmdSb29tLnNlbmQoJ2hlbGxvIG5ldyBwZWVyISEnKQo=</text>
+        <text encoding="base64">ICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24ub24oJ2Nsb3NlJywgKCkgPT4gewogICAgICBjb25zb2xlLmluZm8oJ2RhdGEgY29ubmV0aW9uIGNsb3NlZCcpCiAgICAgIGRpc3BhdGNoKCdjbG9zZUNvbm5lY3Rpb24nKQogICAgfSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGlzcGF0Y2goJ3JlbW92ZUVuZGxlc3NDYWxsRXZlbnQnKQogICAgICBkaXNwYXRjaCgndXBkYXRlQ29ubmVjdGlvblN0YXR1cycsIENvbnN0YW50cy5DT05ORUNUSU9OX1NUQVRVUy5DT05ORUNURUQpCiAgICAgIGRpc3BhdGNoKCd1cGRhdGVSZW1vdGVTdHJlYW0nLCBzdHJlYW0pCg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnc2V0RXhpc3RpbmdEYXRhQ29ubmVjdGlvbicsIHsgZGF0YUNvbm5lY3Rpb24gfSkKCiAgICAvLyByZWNlaXZlIGRhdGEKICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24ub24oJ2RhdGEnLCBkYXRhID0+IHsKICAgICAgY29uc29sZS5pbmZvKGRhdGEpCiAgICAgIGRhdGEgPSBKU09OLnBhcnNlKGRhdGEpCiAgICAgIGNvbnNvbGUuaW5mbyhkYXRhKQogICAgICBpZiAodHlwZW9mIGRhdGEubWVzc2FnZV90ZXh0ICE9PSAndW5kZWZpbmVkJykgewogICAgICAgIGNvbW1pdCgnYWRkU2t5V2F5Q2hhdE1lc3NhZ2UnLCB7IG1lc3NhZ2U6IGRhdGEgfSkKICAgICAgICBkaXNwYXRjaCgnbm90aWZ5Q2hhdE1lc3NhZ2VVcGRhdGUnLCBkYXRhKQogICAgICAgIHJldHVybgogICAgICB9CgogICAgICBpZiAodHlwZW9mIGRhdGEuYWN0aW9uICE9PSAndW5kZWZpbmVkJykgewogICAgICAgIHN3aXRjaCAoZGF0YS5hY3Rpb24pIHsKICAgICAgICAgIGNhc2UgQ29uc3RhbnRzLk1FU1NBR0VfQUNUSU9OUy5FTkRfTEVTU09OOgogICAgICAgICAgICBkaXNwYXRjaCgnY2xvc2VDb25uZWN0aW9uJykKICAgICAgICAgICAgZGlzcGF0Y2goJ21vZGFsL3Nob3dNb2RhbCcsICdlbmQtbGVzc29uJywgeyByb290OiB0cnVlIH0pCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBjb21taXQoJ2FkZFNreVdheUNoYXRNZXNzYWdlJywgeyBtZXNzYWdlOiBkYXRhIH0pCiAgICAgICAgICAgIGRpc3BhdGNoKCdub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZScsIGRhdGEpCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICAgIHJldHVybgogICAgICB9CiAgICB9KQogICAgZXhpc3RpbmdEYXRhQ29ubmVjdGlvbi5vbignY2xvc2UnLCAoKSA9PiB7CiAgICAgIGNvbnNvbGUuaW5mbygnZGF0YSBjb25uZXRpb24gY2xvc2VkJykKICAgICAgZGlzcGF0Y2goJ2Nsb3NlQ29ubmVjdGlvbicpCiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgY29tbWl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGV4aXN0aW5nQ2FsbCkgewogICAgICAgICAgZGlzcGF0Y2goJ2Nsb3NlQ29ubmVjdGlvbicsIENvbnN0YW50cy5DT05ORUNUSU9OX1NUQVRVUy5DT05ORUNUSU5HKQogICAgICB9CiAgICAgIGNvbW1pdCgnc2V0RXhpc3RpbmdDYWxsJywgeyBjYWxsIH0pCgogICAgICBleGlzdGluZ0NhbGwub24oJ3N0cmVhbScsIHN0cmVhbSA9PiB7CiAgICAgICAgICAvLyBkaXNwYXRjaCgncmVtb3ZlRW5kbGVzc0NhbGxFdmVudCcpCiAgICAgICAgICBkaXNwYXRjaCgndXBkYXRlQ29ubmVjdGlvblN0YXR1cycsIENvbnN0YW50cy5DT05ORUNUSU9OX1NUQVRVUy5DT05ORUNURUQpCiAgICAgICAgICBkaXNwYXRjaCgndXBkYXRlUmVtb3RlU3RyZWFtJywgc3RyZWFtKQogICAgICB9KQogICAgICBleGlzdGluZ0NhbGwub24oJ2Nsb3NlJywgKCkgPT4gewogICAgICAgICAgZGlzcGF0Y2goJ2Nsb3NlQ29ubmVjdGlvbicsIENvbnN0YW50cy5DT05ORUNUSU9OX1NUQVRVUy5ESVNDT05ORUNURUQpCiAgICAgICAgICBjb25zb2xlLmluZm8oJ2NhbGwgY2xvc2VkJykKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdzZXQgdHV0b3IgdmlkZW8nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRSZW1vdGVTdHJlYW1cPg==</last-search>
+      <last-search encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSZW1vdGVTdHJlYW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -341,26 +341,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZWVyRXZlbnRMaXN0ZW5lcnNcPg==</entry>
-        <entry encoding="base64">XDxzZXRJc1BlZXJPcGVuXD4=</entry>
-        <entry encoding="base64">XDxzZXRFbmRsZXNzQ2FsbEludGVydmFsXD4=</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry encoding="base64">XDxzZXR1cERhdGFDb25uZWN0aW9uRXZlbnRMaXN0ZW5lcnNcPg==</entry>
         <entry encoding="base64">XDxleGlzdGluZ0NhbGxcPg==</entry>
         <entry encoding="base64">XDxzZXRFeGlzdGluZ0NhbGxcPg==</entry>
         <entry encoding="base64">XDxzZXR1cENhbGxFdmVudExpc3RlbmVyc1w+</entry>
-        <entry encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</entry>
         <entry encoding="base64">XDxzdGVwM1w+</entry>
         <entry encoding="base64">XDxzZXRFbmRsZXNzQ2FsbEV2ZW50XD4=</entry>
         <entry encoding="base64">XDxyb29tSW5zdGFuY2VcPg==</entry>
-        <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxyb29tXD4=</entry>
-        <entry encoding="base64">XDxzZXRQZWVySWRcPg==</entry>
         <entry encoding="base64">XDxleGlzdGluZ1Jvb21cPg==</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
+        <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxzZXR1cFJvb21FdmVudExpc3RlbmVyc1w+</entry>
+        <entry encoding="base64">XDxzdGVwMVw+</entry>
         <entry encoding="base64">XDxzZXRSZW1vdGVTdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVMb2NhbFN0cmVhbU9wdGlvblw+</entry>
+        <entry encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</entry>
+        <entry encoding="base64">XDxzZXRQZWVySWRcPg==</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxhZGRTa3lXYXlDaGF0TWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxub3RpZnlDaGF0TWVzc2FnZVVwZGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
