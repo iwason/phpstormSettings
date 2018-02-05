@@ -122,6 +122,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" timestamp="1517795912930">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/build/webpack.base.conf.js" timestamp="1516860884657">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -187,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="20" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="334" column="41" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="8" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="134" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="160" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -287,52 +291,54 @@
       <jump line="32" column="8" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="33" column="10" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
       <jump line="37" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" />
+      <jump line="18" column="18" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiPjxpIGNsYXNzPSJmYSBmYS1jaGVjayBpY29uLXdoaXRlIj48L2k+IHt7IHRyYW5zKCdnZW5lcmFsLnNhdmUnKSB9fTwvYnV0dG9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RyZWFtIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveC1mb290ZXIgdGV4dC1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiPjxpIGNsYXNzPSJmYSBmYS1jaGVjayBpY29uLXdoaXRlIj48L2k+IHt7IHRyYW5zKCdnZW5lcmFsLnNhdmUnKSB9fTwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RpbmdSb29tLnJlcGxhY2VTdHJlYW0oc3RhdGUubG9jYWxTdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiPjxpIGNsYXNzPSJmYSBmYS1jaGVjayBpY29uLXdoaXRlIj48L2k+IHt7IHRyYW5zKCdnZW5lcmFsLnNhdmUnKSB9fTwvYnV0dG9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvb21JbnN0YW5jZSA9IHBlZXJJbnN0YW5jZS5qb2luUm9vbShzdGF0ZS5yb29tSWQsc3RhdGUubG9jYWxTdHJlYW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiPjxpIGNsYXNzPSJmYSBmYS1jaGVjayBpY29uLXdoaXRlIj48L2k+IHt7IHRyYW5zKCdnZW5lcmFsLnNhdmUnKSB9fTwvYnV0dG9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvb21JbnN0YW5jZSA9IHBlZXJJbnN0YW5jZS5qb2luUm9vbShzdGF0ZS5yb29tSWQsc3RhdGUubG9jYWxTdHJlYW0pCiAgICBkaXNwYXRjaCgnc2V0dXBSb29tRXZlbnRMaXN0ZW5lcnMnLCByb29tSW5zdGFuY2UgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyI+PGkgY2xhc3M9ImZhIGZhLWNoZWNrIGljb24td2hpdGUiPjwvaT4ge3sgdHJhbnMoJ2dlbmVyYWwuc2F2ZScpIH19PC9idXR0b24+ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9vbUluc3RhbmNlID0gcGVlckluc3RhbmNlLmpvaW5Sb29tKHN0YXRlLnJvb21JZCxzdGF0ZS5sb2NhbFN0cmVhbSkKICAgICAgZGlzcGF0Y2goJ3NldHVwUm9vbUV2ZW50TGlzdGVuZXJzJywgcm9vbUluc3RhbmNlICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNjb25uZWN0Um9vbSAoeyBjb21taXQgfSk6IHZvaWQgewogICAgY29tbWl0KCdzZXRJc1BlZXJPcGVuJywgeyBpc1BlZXJPcGVuOiBmYWxzZSB9KQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChleGlzdGluZ1Jvb20pIHsKICAgICAgZXhpc3RpbmdSb29tLmNsb3NlKCkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3JlYXRlIGRhdGEgY2hhbm5lbAogICAgICAvLyBjcmVhdGUgbWVkaWEgY2hhbm5lbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIj48aSBjbGFzcz0iZmEgZmEtY2hlY2sgaWNvbi13aGl0ZSI+PC9pPiB7eyB0cmFucygnZ2VuZXJhbC5zYXZlJykgfX08L2J1dHRvbj4gICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiPjxpIGNsYXNzPSJmYSBmYS1jaGVjayBpY29uLXdoaXRlIj48L2k+IHt7IHRyYW5zKCdnZW5lcmFsLnNhdmUnKSB9fTwvYnV0dG9uPiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gZGF0YUNvbm5lY3Rpb27jga/lvozlm57jgZcK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
