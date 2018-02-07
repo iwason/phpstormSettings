@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1517972568124">
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="141" column="22" />
-        <mark key="." line="141" column="22" />
-        <mark key="^" line="141" column="22" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1517973309082">
+        <mark key="[" line="142" column="34" />
+        <mark key="]" line="142" column="34" />
+        <mark key="." line="142" column="34" />
+        <mark key="^" line="142" column="34" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517971926141">
         <mark key="'" line="327" column="12" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</text>
