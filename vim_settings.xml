@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1516019417550">
-        <mark key="'" line="699" column="34" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" timestamp="1516779529242">
-        <mark key="'" line="166" column="18" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1513768129982">
         <mark key="'" line="24" column="6" />
       </file>
@@ -18,30 +12,14 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/schools.js" timestamp="1516157940752">
         <mark key="'" line="124" column="12" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" timestamp="1516664611616">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
         <mark key="[" line="124" column="37" />
         <mark key="]" line="124" column="45" />
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
-        <mark key="'" line="48" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1517382246357">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="^" line="357" column="20" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/reminder/vendor/revolution/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513154541363">
         <mark key="'" line="96" column="4" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
-        <mark key="'" line="140" column="5" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1516020133828">
         <mark key="'" line="196" column="42" />
@@ -64,6 +42,58 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="46" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1516321281065">
+        <mark key="'" line="83" column="6" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" timestamp="1516776612400">
+        <mark key="'" line="90" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
+        <mark key="'" line="2295" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/symfony/http-kernel/Client.php" timestamp="1513768147454">
+        <mark key="'" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" timestamp="1516776747147">
+        <mark key="'" line="280" column="24" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" timestamp="1517795912930">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1517789958329">
+        <mark key="[" line="76" column="41" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1516661420175">
+        <mark key="'" line="517" column="54" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1517190796765">
+        <mark key="'" line="78" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1516019417550">
+        <mark key="'" line="699" column="34" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/src/peer.js" timestamp="1516779529242">
+        <mark key="'" line="166" column="18" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/school_teachers/edit.blade.php" timestamp="1516664611616">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets.php" timestamp="1513335404185">
+        <mark key="'" line="48" column="10" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1517382246357">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="357" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/laravel-google-sheets/src/GoogleSheets/Sheets.php" timestamp="1513146863993">
+        <mark key="'" line="140" column="5" />
+      </file>
       <file name="/dummy.sql" timestamp="1517799229904">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,55 +108,40 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1517818113235">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1517972350764">
         <mark key="'" line="217" column="21" />
-        <mark key="[" line="79" column="14" />
-        <mark key="]" line="79" column="19" />
-        <mark key="." line="79" column="19" />
-        <mark key="^" line="79" column="19" />
+        <mark key="[" line="212" column="42" />
+        <mark key="]" line="212" column="75" />
+        <mark key="." line="212" column="75" />
+        <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1516321281065">
-        <mark key="'" line="83" column="6" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1517970360318">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1517972595740">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="38" />
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/AjaxCosmoController.php" timestamp="1516776612400">
-        <mark key="'" line="90" column="17" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocSync/test.log" timestamp="1513131733420">
-        <mark key="'" line="2295" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517970193080">
-        <mark key="'" line="156" column="13" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="^" line="448" column="31" />
-        <mark key="." line="446" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1517972568124">
+        <mark key="[" line="141" column="22" />
+        <mark key="]" line="141" column="22" />
+        <mark key="." line="141" column="22" />
+        <mark key="^" line="141" column="22" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/reminder/vendor/symfony/http-kernel/Client.php" timestamp="1513768147454">
-        <mark key="'" line="30" column="6" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" timestamp="1516776747147">
-        <mark key="'" line="280" column="24" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1517971926141">
+        <mark key="'" line="327" column="12" />
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="451" column="42" />
+        <mark key="^" line="451" column="35" />
+        <mark key="." line="451" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" timestamp="1517795912930">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1517293255006">
         <mark key="'" line="527" column="10" />
@@ -174,31 +189,11 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/pulkitjalan/google-apiclient/src/Client.php" timestamp="1513768169709">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1517789958329">
-        <mark key="[" line="76" column="41" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1516684707067">
         <mark key="'" line="318" column="2" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1516661420175">
-        <mark key="'" line="517" column="54" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1517190796765">
-        <mark key="'" line="78" column="9" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="358" column="5" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="489" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="65" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="355" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="464" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="465" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="475" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="510" column="3" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="59" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="153" column="0" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="170" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="317" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -213,7 +208,6 @@
       <jump line="334" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="388" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="494" column="36" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="157" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="197" column="21" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="337" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="384" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -226,7 +220,6 @@
       <jump line="322" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="500" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="193" column="10" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="155" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="186" column="37" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="214" column="15" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="217" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -288,46 +281,59 @@
       <jump line="438" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="130" column="16" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="156" column="13" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="229" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="451" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="458" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="459" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="496" column="13" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="9" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="80" column="5" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="155" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="157" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="173" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="399" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="495" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="327" column="12" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</text>
+        <text encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdyb29tIGNsb3NlJykK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFRkFVTFRfR0VUX1VTRVJfTUVESUFfQ09OU1RSQUlOVFMgPSB7IGF1ZGlvOiB0cnVlLCB2aWRlbzogdHJ1ZSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnc2V0RXhpc3RpbmdSb29tJywge3Jvb206bnVsbH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnY2hlY2sgY29ubmVjdGlvbiBzdGF0dXMnKQo=</text>
+        <text encoding="base64">ICAgIGNvbW1pdCgnc2V0RXhpc3RpbmdSb29tJywge3Jvb206bnVsbH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChleGlzdGluZ0NhbGwpIHsKICAgICAgZXhpc3RpbmdDYWxsLmNsb3NlKCkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChleGlzdGluZ0RhdGFDb25uZWN0aW9uKSB7CiAgICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24uY2xvc2UoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnY2hlY2sgY29ubmVjdGlvbiBzdGF0dXMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnY2xvc2UgY29ubmVjdGlvbiBkb25lJykK</text>
+        <text encoding="base64">ICAgIGlmIChleGlzdGluZ0NhbGwpIHsKICAgICAgZXhpc3RpbmdDYWxsLmNsb3NlKCkKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChleGlzdGluZ0RhdGFDb25uZWN0aW9uKSB7CiAgICAgIGV4aXN0aW5nRGF0YUNvbm5lY3Rpb24uY2xvc2UoKQogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnY2xvc2UgY29ubmVjdGlvbiBkb25lJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -340,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -350,14 +356,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kXD4=</entry>
-        <entry encoding="base64">XDxzZW50X2J5XD4=</entry>
-        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
         <entry encoding="base64">XDxzZXRTZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxzZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
-        <entry encoding="base64">XDxleGlzdGluZ1Jvb21cPg==</entry>
         <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxzZXR1cFJvb21FdmVudExpc3RlbmVyc1w+</entry>
@@ -365,11 +367,15 @@
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxhc3luY1w+</entry>
         <entry encoding="base64">XDxjb25uZWN0Um9vbVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVSZW1vdGVTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVDb25uZWN0aW9uU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxyZWNvbm5lY3RcPg==</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxwZWVyRXZlbnRMaXN0ZW5lcnNcPg==</entry>
+        <entry encoding="base64">XDxleGlzdGluZ1Jvb21cPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVSZW1vdGVTdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxzZXRFeGlzdGluZ1Jvb21cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
