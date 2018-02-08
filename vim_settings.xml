@@ -140,11 +140,11 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518057378646">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518071547070">
         <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="22" column="38" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Himawari.vue" timestamp="1517988076914">
         <mark key="[" line="8" column="0" />
@@ -154,7 +154,7 @@
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/vendor/google/apiclient-services/src/Google/Service/Sheets/Sheet.php" timestamp="1513146041516">
         <mark key="'" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1517973309082">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518071586120">
         <mark key="[" line="142" column="34" />
         <mark key="]" line="142" column="34" />
         <mark key="." line="142" column="34" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aW91c19zaGlmdFw+</text>
