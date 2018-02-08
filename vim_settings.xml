@@ -140,11 +140,11 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1517987528722">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518057378646">
         <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Himawari.vue" timestamp="1517988076914">
         <mark key="[" line="8" column="0" />
@@ -319,11 +319,11 @@
       <jump line="77" column="47" filename="/UserShift.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LnZzY29kZS8qCg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3tsZXNzb25JbmZvLnR1dG9yTmFtZX19IDxzbWFsbD7lhYjnlJ88L3NtYWxsPg==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aW91c19zaGlmdFw+</text>
