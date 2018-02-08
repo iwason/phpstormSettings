@@ -34,7 +34,8 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1517789958329">
         <mark key="[" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" timestamp="1518131575037">
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" timestamp="1518132600343">
+        <mark key="'" line="90" column="9" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
@@ -77,11 +78,11 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518071547070">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518133168433">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Himawari.vue" timestamp="1517988076914">
         <mark key="[" line="8" column="0" />
@@ -142,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="159" column="17" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="167" column="21" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="301" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -242,13 +242,14 @@
       <jump line="77" column="47" filename="/UserShift.php" />
       <jump line="63" column="45" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
       <jump line="100" column="6" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="90" column="9" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgdGhlYWQuc2Nyb2xsSGVhZCx0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIGRpc3BsYXk6YmxvY2s7CiAgICB9CiAgICB0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIG92ZXJmbG93LXk6c2Nyb2xsOwogICAgICAgIGhlaWdodDo1MDBweDsKICAgIH0KCjwvc3R5bGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aW91c19zaGlmdFw+</text>
