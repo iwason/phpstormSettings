@@ -40,7 +40,7 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518135188471">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
         <mark key="'" line="7457" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1517382246357">
@@ -81,7 +81,7 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518135239027">
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518136975153">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="38" />
         <mark key="." line="22" column="38" />
@@ -92,18 +92,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518134530118">
-        <mark key="[" line="142" column="34" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518137049989">
+        <mark key="[" line="142" column="33" />
         <mark key="]" line="142" column="34" />
         <mark key="." line="142" column="34" />
         <mark key="^" line="142" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1518135495848">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="240" column="12" />
-        <mark key="]" line="240" column="21" />
-        <mark key="^" line="240" column="21" />
-        <mark key="." line="240" column="21" />
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1518137118734">
+        <mark key="'" line="61" column="9" />
+        <mark key="[" line="241" column="28" />
+        <mark key="]" line="241" column="30" />
+        <mark key="^" line="241" column="30" />
+        <mark key="." line="241" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
@@ -153,8 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="494" column="36" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="197" column="21" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="337" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="384" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -253,19 +251,21 @@
       <jump line="6" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="6997" column="18" filename="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" />
       <jump line="7457" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="61" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5pdGlhbGl6ZUZ1bGxNZXNoUm9vbVw+</text>
+        <text encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>localStream</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgb3B0aW9uWydzdHJlYW0nXT0gc3RhdGUubG9jYWxTdHJlYW0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDb25zdGFudHMuREVGQVVMVF9TS1lXQVlfQ0FMTF9PUFRJT04K</text>
@@ -305,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5pdGlhbGl6ZUZ1bGxNZXNoUm9vbVw+</last-search>
+      <last-search encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5pdGlhbGl6ZUZ1bGxNZXNoUm9vbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxzZXR1cFJvb21FdmVudExpc3RlbmVyc1w+</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
@@ -335,6 +334,7 @@
         <entry encoding="base64">XDxsb2NhbFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxfaW5pdGlhbGl6ZUZ1bGxNZXNoUm9vbVw+</entry>
+        <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
