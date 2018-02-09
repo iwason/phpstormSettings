@@ -34,11 +34,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1518139465634">
         <mark key="[" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" timestamp="1518132600343">
-        <mark key="'" line="90" column="9" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" timestamp="1518145070185">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="58" />
+        <mark key="." line="36" column="58" />
+        <mark key="^" line="36" column="58" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
         <mark key="'" line="7457" column="22" />
@@ -153,13 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="21" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="337" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="384" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="474" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="490" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="521" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
-      <jump line="13" column="4" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="60" column="14" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="166" column="23" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="322" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -253,61 +247,68 @@
       <jump line="7457" column="22" filename="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" />
       <jump line="55" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="61" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
+      <jump line="101" column="8" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="46" column="39" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="45" column="39" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="42" column="86" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="40" column="23" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>hidden</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>hidden</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</text>
+        <text encoding="base64">XDx0dXRvcklkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uWydzdHJlYW0nXT0gc3RhdGUubG9jYWxTdHJlYW0K</text>
+      <register name="0" type="4">
+        <text>scroll</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdGFudHMuREVGQVVMVF9TS1lXQVlfQ0FMTF9PUFRJT04K</text>
+        <text encoding="base64">ICAgICQoIGRvY3VtZW50ICkucmVhZHkoIGZ1bmN0aW9uKCkgewogICAgICBsZXQgdGJvZHkgPSAkKCAidGJvZHkiICk7CiAgICAgIGxldCBvZmZzZXRXaWR0aCA9IHRib2R5LnByb3AoICJvZmZzZXRXaWR0aCIgKTsKICAgICAgbGV0IHNjcm9sbFdpZHRoID0gdGJvZHkucHJvcCggInNjcm9sbFdpZHRoIiApOwogICAgICBsZXQgc2Nyb2xsYmFyV2lkdGggPSBvZmZzZXRXaWR0aCAtIHNjcm9sbFdpZHRoOwoKICAgICAgbGV0IHRoZWFkID0gJCggInRoZWFkIiApOwogICAgICBsZXQgdHIgPSAkKCAidHIiICk7CiAgICAgIHRoZWFkLndpZHRoKCB0aGVhZC53aWR0aCgpIC0gc2Nyb2xsYmFyV2lkdGggKTsKICAgICAgdHIud2lkdGgoIHRoZWFkLndpZHRoKCkgLSBzY3JvbGxiYXJXaWR0aCApOwogICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5sb2NhbFN0cmVhbSwK</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZmxvdy14OmhpZGRlbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgdGhlYWQuc2Nyb2xsSGVhZCx0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIGRpc3BsYXk6YmxvY2s7CiAgICB9CiAgICB0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIG92ZXJmbG93LXk6c2Nyb2xsOwogICAgICAgIGhlaWdodDo1MDBweDsKICAgIH0KCjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnZzY29kZS8qCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbnF1aXJ5QmFsbG9vbiAvPgo=</text>
+        <text encoding="base64">ICAgIHRyIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFJlc2VydmF0aW9uRGV0YWlsIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFJlc2VydmF0aW9uRGV0YWlsIC8+CiAgICAgIDxWaWRlbyAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFJlc2VydmF0aW9uRGV0YWlsIC8+Cg==</text>
+        <text encoding="base64">PHN0eWxlPgogICAgdGhlYWQuc2Nyb2xsSGVhZCx0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIGRpc3BsYXk6YmxvY2s7CiAgICB9CiAgICB0Ym9keS5zY3JvbGxCb2R5ewogICAgICAgIG92ZXJmbG93LXk6c2Nyb2xsOwogICAgICAgIGhlaWdodDo1MDBweDsKICAgIH0KCjwvc3R5bGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncm9vbSBldmVudCBzZXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zdGFudHMuREVGQVVMVF9TS1lXQVlfQ0FMTF9PUFRJT04K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</last-search>
+      <last-search encoding="base64">XDx0dXRvcklkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0dXRvcklkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxzZXR1cFJvb21FdmVudExpc3RlbmVyc1w+</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxhc3luY1w+</entry>
@@ -335,6 +335,7 @@
         <entry encoding="base64">XDxwZWVySW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxfaW5pdGlhbGl6ZUZ1bGxNZXNoUm9vbVw+</entry>
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
+        <entry encoding="base64">XDx0dXRvcklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
