@@ -6,43 +6,14 @@
       <file name="/UserShift.php" timestamp="1518055154977">
         <mark key="'" line="77" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
+        <mark key="'" line="7457" column="22" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
         <mark key="[" line="124" column="37" />
         <mark key="]" line="124" column="45" />
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="46" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/edit.blade.php" timestamp="1518130818086">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="36" />
-        <mark key="." line="63" column="36" />
-        <mark key="^" line="63" column="63" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="68" column="53" />
-        <mark key="^" line="68" column="53" />
-        <mark key="." line="68" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1518139465634">
-        <mark key="[" line="76" column="41" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" timestamp="1518145070185">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="58" />
-        <mark key="." line="36" column="58" />
-        <mark key="^" line="36" column="58" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
-        <mark key="'" line="7457" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1517382246357">
         <mark key="'" line="180" column="0" />
@@ -61,6 +32,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="46" />
       </file>
       <file name="/dummy.sql" timestamp="1518165097520">
         <mark key="[" line="0" column="0" />
@@ -82,7 +59,6 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="/skyway_webrtc.blade.php" timestamp="1518498527257" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518139993413">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="37" />
@@ -140,6 +116,12 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="68" column="53" />
+        <mark key="^" line="68" column="53" />
+        <mark key="." line="68" column="53" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517576436546">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="102" column="35" />
@@ -147,14 +129,17 @@
         <mark key="^" line="103" column="35" />
         <mark key="." line="103" column="35" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1518139465634">
+        <mark key="[" line="76" column="41" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" timestamp="1518498917155">
         <mark key="'" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2017_12_26_140215_create_shifts.php" timestamp="1518130353402">
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="20" column="66" />
-        <mark key="^" line="20" column="66" />
+        <mark key="[" line="19" column="63" />
+        <mark key="]" line="19" column="66" />
+        <mark key="." line="19" column="66" />
+        <mark key="^" line="19" column="66" />
       </file>
     </filemarks>
     <jumps>
