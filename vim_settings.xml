@@ -71,7 +71,12 @@
         <mark key="." line="212" column="75" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/classRoom/js/main.js" timestamp="1519185890620" />
+      <file name="$USER_HOME$/PhpstormProjects/classRoom/js/main.js" timestamp="1519188162574">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518139993413">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="37" />
@@ -269,11 +274,11 @@
       <jump line="34" column="9" filename="$USER_HOME$/PhpstormProjects/classRoom/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciI6ICJeMS45LjIiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZWRpYVN0cmVhbVw+</text>
