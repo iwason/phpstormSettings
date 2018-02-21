@@ -21,13 +21,6 @@
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lesson.ts" timestamp="1517382246357">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="^" line="357" column="20" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/.gitignore" timestamp="1517989436156">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -63,13 +56,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/views/Lesson.vue" timestamp="1517989003888">
-        <mark key="'" line="217" column="21" />
-        <mark key="[" line="212" column="42" />
-        <mark key="]" line="212" column="75" />
-        <mark key="." line="212" column="75" />
-        <mark key="^" line="212" column="75" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/js/main.js" timestamp="1519188162574">
         <mark key="[" line="6" column="10" />
@@ -112,13 +98,6 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gdocV4/SchoolSpreadSheet.php" timestamp="1517293255006">
-        <mark key="'" line="527" column="10" />
-        <mark key="[" line="251" column="22" />
-        <mark key="]" line="251" column="22" />
-        <mark key="^" line="550" column="80" />
-        <mark key="." line="251" column="22" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/webpack.config.js" timestamp="1519202419407">
         <mark key="'" line="43" column="11" />
         <mark key="[" line="4" column="0" />
@@ -132,32 +111,11 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/build/dev-server.js" timestamp="1517054138160">
-        <mark key="'" line="65" column="4" />
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="65" column="33" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="65" column="33" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1517219040684">
-        <mark key="'" line="64" column="38" />
-        <mark key="[" line="61" column="30" />
-        <mark key="]" line="61" column="30" />
-        <mark key="^" line="61" column="30" />
-        <mark key="." line="61" column="30" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
         <mark key="[" line="57" column="43" />
         <mark key="]" line="68" column="53" />
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1517576436546">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="103" column="35" />
-        <mark key="^" line="103" column="35" />
-        <mark key="." line="103" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1518139465634">
         <mark key="[" line="76" column="41" />
