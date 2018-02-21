@@ -33,11 +33,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519187294857">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="41" column="34" />
+      <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519203300398">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Header.vue" timestamp="1517988260953">
         <mark key="[" line="33" column="0" />
@@ -281,49 +281,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZWRpYVN0cmVhbVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGJyLz4=</text>
+        <text encoding="base64">d2F0Y2gg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciI6ICJeMS45LjIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjcuMS4xIiwK</text>
+        <text encoding="base64">ICAgICJwcmV0dGllciI6ICJeMS45LjIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIyLjEiLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjcuMS4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYXJzZXI6ICd0eXBlc2NyaXB0LWVzbGludC1wYXJzZXInLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIyLjEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICBwYXJzZXI6ICd0eXBlc2NyaXB0LWVzbGludC1wYXJzZXInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBhbGlnbi1pdGVtcy1lbmQiPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBhbGlnbi1pdGVtcy1lbmQiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBhbGlnbi1pdGVtcy1lbmQiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiBhbGVydC1pbmZvIj5mb290ZXI8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1zZWNvbmRhcnkiIGRhdGEtZGlzbWlzcz0ibW9kYWwiPkNsb3NlPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBhbGlnbi1pdGVtcy1lbmQiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC0xMiBhbGVydC1pbmZvIj5mb290ZXI8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
