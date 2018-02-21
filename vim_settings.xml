@@ -59,7 +59,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518146282843">
+      <file name="/Dummy.txt" timestamp="1519189079964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -169,7 +169,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/package.json" timestamp="1519187274228" />
     </filemarks>
     <jumps>
       <jump line="500" column="31" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
