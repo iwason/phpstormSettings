@@ -3,17 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/classRoom/index.html" timestamp="1519120128370">
+      <file name="$USER_HOME$/PhpstormProjects/classRoom/index.html" timestamp="1519279978053">
         <mark key="'" line="34" column="9" />
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="16" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="28" column="5" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/UserShift.php" timestamp="1518055154977">
-        <mark key="'" line="77" column="47" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
-        <mark key="'" line="7457" column="22" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1519279917725">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
         <mark key="[" line="124" column="37" />
@@ -74,11 +73,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519278133996">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519280437459">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518140645107">
         <mark key="[" line="154" column="18" />
@@ -104,11 +103,11 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/layout/main.pug" timestamp="1519278479148">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/layout/main.pug" timestamp="1519279358863">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/webpack.config.js" timestamp="1519202419407">
         <mark key="'" line="43" column="11" />
@@ -251,49 +250,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>pug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlIC4uLy4uL21vZHVsZXMvaGVhZGVyLnB1Zwo=</text>
+      <register name="0" type="4">
+        <text>btn btn-primary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlIC4uLy4uLwo=</text>
+        <text encoding="base64">ICAgIGRpdi5yb3cgYWxpZ24taXRlbXMtY2VudGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlIC4uLy4uL21vZHVsZXMvaGVhZGVyLnB1Zwo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaDIuY29udGVudF90dGwg44OI44OD44OX44Oa44O844K444K/44Kk44OI44OrIOOBqeOBhuOBquOCi+WVj+mhjAo=</text>
+        <text encoding="base64">PCEtLSBDb250ZW50IGhlcmUgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0ZW5kcyBtYWluCg==</text>
+        <text encoding="base64">PC9idXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGl0bGUgdGVzdAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBhbGlnbi1pdGVtcy1jZW50ZXIiPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciI6ICJeMS45LjIiLAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjcuMS4xIiwK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjIyLjEiLAo=</text>
+        <text encoding="base64">aGVhZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
