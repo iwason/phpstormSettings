@@ -90,12 +90,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519300689150">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519363862997">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518140645107">
         <mark key="[" line="154" column="18" />
@@ -265,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.col-6</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -274,37 +273,37 @@
         <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.col-6</text>
+        <text>.col-sm-6.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuY29sLTEyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuY29sLTYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYucm93LmFsaWduLWl0ZW1zLWNlbnRlcgogICAgICAgICAgICBkaXYudmlkZW9EZXZpY2VJbmZvCiAgICAgICAgICAgICAgICB8dmlkZW8gZGV2aXNlIGlzCiAgICAgICAgICAgIGRpdi5hdWRpb0RldmljZUluZm8KICAgICAgICAgICAgICAgIHxhdWRpbyBkZXZpc2UgaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdi5jb2wtc20tNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYucm93LmFsaWduLWl0ZW1zLWNlbnRlcgogICAgICAgICAgICBkaXYudmlkZW9EZXZpY2VJbmZvCiAgICAgICAgICAgICAgICB8dmlkZW8gZGV2aXNlIGlzCiAgICAgICAgICAgIGRpdi5hdWRpb0RldmljZUluZm8KICAgICAgICAgICAgICAgIHxhdWRpbyBkZXZpc2UgaXMK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpdi5jb2wtc20tNAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGl2LmRldmljZUluZm9BcmVhCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMjAwcHg7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
