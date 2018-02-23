@@ -3,14 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/UserShift.php" timestamp="1518055154977">
+        <mark key="'" line="77" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="124" column="45" />
+        <mark key="." line="124" column="45" />
+        <mark key="^" line="124" column="45" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1519372024280">
+        <mark key="[" line="83" column="10" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
+        <mark key="^" line="83" column="11" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519203300398">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519372402745">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" timestamp="1519372219729" />
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" timestamp="1519379132132">
+        <mark key="'" line="107" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="68" column="53" />
+        <mark key="^" line="68" column="53" />
+        <mark key="." line="68" column="53" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/index.html" timestamp="1519297995927">
         <mark key="'" line="34" column="9" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="31" column="9" />
         <mark key="." line="30" column="16" />
-      </file>
-      <file name="/UserShift.php" timestamp="1518055154977">
-        <mark key="'" line="77" column="47" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/node_modules/skyway-js/dist/skyway.js" timestamp="1518137123367">
         <mark key="'" line="7457" column="22" />
@@ -27,23 +67,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
-        <mark key="[" line="124" column="37" />
-        <mark key="]" line="124" column="45" />
-        <mark key="." line="124" column="45" />
-        <mark key="^" line="124" column="45" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/modules/header.pug" timestamp="1519372238227">
         <mark key="[" line="5" column="87" />
         <mark key="]" line="5" column="77" />
         <mark key="." line="5" column="77" />
         <mark key="^" line="5" column="77" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1519372024280">
-        <mark key="[" line="83" column="10" />
-        <mark key="]" line="83" column="11" />
-        <mark key="." line="83" column="11" />
-        <mark key="^" line="83" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/.gitignore" timestamp="1517989436156">
         <mark key="[" line="18" column="0" />
@@ -56,24 +84,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519203300398">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/build/css/common.css" timestamp="1519283608068" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Header.vue" timestamp="1517988260953">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Banana.vue" timestamp="1517988095890">
         <mark key="[" line="3" column="0" />
@@ -105,12 +121,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519372402745">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="24" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518140645107">
         <mark key="[" line="154" column="18" />
         <mark key="]" line="154" column="20" />
@@ -121,14 +131,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk-tutorial/room.html" timestamp="1519372219729" />
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" timestamp="1519194438657">
-        <mark key="'" line="61" column="9" />
-        <mark key="[" line="241" column="28" />
-        <mark key="]" line="241" column="30" />
-        <mark key="^" line="241" column="30" />
-        <mark key="." line="241" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
@@ -142,24 +144,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/classRoom/webpack.config.js" timestamp="1519202419407">
-        <mark key="'" line="43" column="11" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonSkyway.json" timestamp="1516946068471">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="68" column="53" />
-        <mark key="^" line="68" column="53" />
-        <mark key="." line="68" column="53" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" timestamp="1519206959140">
         <mark key="'" line="64" column="43" />
@@ -177,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="11" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="254" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="258" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
       <jump line="264" column="6" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/stream.ts" />
@@ -277,6 +265,7 @@
       <jump line="29" column="21" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" />
       <jump line="23" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" />
       <jump line="152" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" />
+      <jump line="107" column="23" filename="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,7 +275,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxzZW5kUmVxdWVzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2NyaXB0KHR5cGU9J3RleHQvamF2YXNjcmlwdCcsIHNyYz0iLi4vLi4vanMvbWFpbi5qcyIpCg==</text>
@@ -329,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxzZW5kUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kUmVxdWVzdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>guide</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3luY1w+</entry>
         <entry encoding="base64">XDxjb25uZWN0Um9vbVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVDb25uZWN0aW9uU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxyZWNvbm5lY3RcPg==</entry>
@@ -359,6 +347,7 @@
         <entry encoding="base64">XDx0dXRvcklkXD4=</entry>
         <entry encoding="base64">XDxtZWRpYVN0cmVhbVw+</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZW5kUmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
