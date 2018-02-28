@@ -46,11 +46,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="83" column="37" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" timestamp="1519716192612">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" timestamp="1519800203848">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519203300398">
         <mark key="[" line="7" column="33" />
@@ -93,11 +92,11 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519717798838">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="20" />
-        <mark key="^" line="31" column="20" />
-        <mark key="." line="31" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1519799762775">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1518140645107">
         <mark key="[" line="154" column="18" />
@@ -105,11 +104,11 @@
         <mark key="." line="154" column="20" />
         <mark key="^" line="154" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1519724876468">
-        <mark key="[" line="82" column="70" />
-        <mark key="]" line="83" column="11" />
-        <mark key="." line="83" column="11" />
-        <mark key="^" line="83" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1519798715425">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="100" column="33" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" timestamp="1519379132132">
         <mark key="'" line="107" column="23" />
@@ -150,8 +149,9 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" timestamp="1519206959140">
-        <mark key="'" line="64" column="43" />
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" timestamp="1519800294014">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="72" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-videochat/index.html" timestamp="1519717211505">
         <mark key="[" line="44" column="0" />
@@ -267,50 +267,50 @@
       <jump line="66" column="16" filename="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAucmVtb3RlVmlkZW9BcmVhIHsKICAgIGJhY2tncm91bmQtY29sb3I6IGxpZ2h0Z29sZGVucm9keWVsbG93OwogICAgI3RoZWlyLXZpZGVvIHsKICAgICAgb2JqZWN0LWZpdDogZmlsbDsKICAgICAgaGVpZ2h0OiBhdXRvOwogICAgICB3aWR0aDogMTAwJTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcm93c2VyU3luY1BsdWdpblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+      <register name="0" type="4">
+        <text>80%</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAucmVtb3RlVmlkZW9BcmVhIHsKICAgIGJhY2tncm91bmQtY29sb3I6IGxpZ2h0Z29sZGVucm9keWVsbG93OwogICAgI3RoZWlyLXZpZGVvIHsKICAgICAgb2JqZWN0LWZpdDogZmlsbDsKICAgICAgaGVpZ2h0OiBhdXRvOwogICAgICB3aWR0aDogMTAwJTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAubG9jYWxWaWRlb0FyZWEgewogICAgYmFja2dyb3VuZC1jb2xvcjogbGlnaHRjeWFuOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMnB4IDVweCAycHg7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9oZWlnaHQ6IDkwJTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8Y2hhdEFyZWEK</text>
+        <text encoding="base64">ICAgICAgLy93aWR0aDogOTAlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2NDBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8bG9jYWwgdmlkZW8K</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNDgwcHg7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuY29sLXNtLTYuYXVkaW9EZXZpY2VJbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8cmVtb3RlIHZpZGVvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYuY29sLXNtLTYudmlkZW9EZXZpY2VJbmZvCg==</text>
+        <text encoding="base64">ICAgICAgb2JqZWN0LWZpdDogZmlsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYucm93Cg==</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiA5MCU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
