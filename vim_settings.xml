@@ -88,7 +88,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520312338216">
+      <file name="/Dummy.txt" timestamp="1520317227971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>チャットができるところまで実装</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>チャットができるところまで実装</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlQXJlYVw+</text>
