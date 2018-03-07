@@ -19,6 +19,9 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="46" column="5" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/package-lock.json" timestamp="1520406692412">
+        <mark key="'" line="16397" column="28" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/common.scss" timestamp="1519283701933">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="33" />
@@ -195,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="23" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
       <jump line="87" column="0" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/user_shifts/index.blade.php" />
       <jump line="356" column="56" filename="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" />
       <jump line="3" column="8" filename="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" />
@@ -295,6 +297,7 @@
       <jump line="43" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="25" column="39" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" />
       <jump line="7" column="77" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/layout/main.pug" />
+      <jump line="16397" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/package-lock.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
