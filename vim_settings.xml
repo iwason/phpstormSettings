@@ -172,11 +172,11 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1519725683912">
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1520409034372">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1520298901010">
         <mark key="[" line="1" column="0" />
@@ -301,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlQXJlYVw+</text>
@@ -313,37 +313,37 @@
         <text>firebase</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4iOiAiXjMuMC4yIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMtd2VicGFjay1wbHVnaW4iOiAiXjEuMi4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdD4K</text>
+        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMiOiAiXjIuMjMuNiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JpcHQoc3JjPSJodHRwczovL3d3dy5nc3RhdGljLmNvbS9maXJlYmFzZWpzLzQuMTAuMS9maXJlYmFzZS5qcyIpCiAgICAgICAgc2NyaXB0KHR5cGU9InRleHQvamF2YXNjcmlwdCIsIHNyYz0iLi4vLi4vanMvZmlyZWJhc2UuanMiKQo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjEuMCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZyA9IHsKICAgICAgICAgICAgYXBpS2V5OiAiQUl6YVN5QmsxUkRzeDYtLVNYenoxckt3YnNBNXZfWUZlc1hTM0tNIiwKICAgICAgICAgICAgYXV0aERvbWFpbjogImNsYXNzcm9vbS03OThhNy5maXJlYmFzZWFwcC5jb20iLAogICAgICAgICAgICBkYXRhYmFzZVVSTDogImh0dHBzOi8vY2xhc3Nyb29tLTc5OGE3LmZpcmViYXNlaW8uY29tIiwKICAgICAgICAgICAgcHJvamVjdElkOiAiY2xhc3Nyb29tLTc5OGE3IiwKICAgICAgICAgICAgc3RvcmFnZUJ1Y2tldDogImNsYXNzcm9vbS03OThhNy5hcHBzcG90LmNvbSIsCiAgICAgICAgICAgIG1lc3NhZ2luZ1NlbmRlcklkOiAiOTAyMzIxMTY1MTc4IgogICAgICAgICAgICB9OwogICAgICAgICAgICBmaXJlYmFzZS5pbml0aWFsaXplQXBwKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwtbG9hZGVyIjogIl4wLjYuMiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSW5pdGlhbGl6ZSBGaXJlYmFzZQo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjEwLjAiLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NyaXB0KHR5cGU9J3RleHQvamF2YXNjcmlwdCcsIHNyYz0iLi4vLi4vanMvbWFpbi5qcyIpCnNjcmlwdCh0eXBlPSd0ZXh0L2phdmFzY3JpcHQnLCBzcmM9Ii4uLy4uL2pzL3Jvb20uanMiKQpzY3JpcHQodHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vY2RuLndlYnJ0Yy5lY2wubnR0LmNvbS9za3l3YXktbGF0ZXN0LmpzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
