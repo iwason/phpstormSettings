@@ -26,6 +26,10 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-textchat/index.html" timestamp="1520298300130">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="46" column="5" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/package-lock.json" timestamp="1520406692412">
         <mark key="'" line="16397" column="28" />
       </file>
@@ -86,12 +90,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1520493467849">
-        <mark key="'" line="123" column="14" />
-        <mark key="[" line="128" column="49" />
-        <mark key="]" line="128" column="48" />
-        <mark key="^" line="128" column="48" />
-        <mark key="." line="128" column="48" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1520494786227">
+        <mark key="'" line="132" column="14" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="142" column="16" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/components/partials/lessonRoom/Header.vue" timestamp="1517988260953">
         <mark key="[" line="33" column="0" />
@@ -202,11 +206,27 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/Schedule.php" timestamp="1520493796271">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1520409034372">
         <mark key="[" line="43" column="17" />
         <mark key="]" line="43" column="17" />
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/fullmesh-videochat/script.js" timestamp="1520298901010">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="63" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/scripts/skyway_webrtc.blade.php" timestamp="1519802992832">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="72" column="25" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-videochat/index.html" timestamp="1519717211505">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2017_12_26_140215_create_shifts.php" timestamp="1518130353402">
         <mark key="[" line="19" column="63" />
@@ -318,51 +338,50 @@
       <jump line="123" column="14" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_null($tutor_schedule)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNfbnVsbCgkdHV0b3Jfc2NoZWR1bGUpCiAgICAgICAgICAgID8gdHJ1ZQogICAgICAgICAgICA6ICgkdHV0b3Jfc2NoZWR1bGUtPnNjaGVkdWxlX3R5cGUgPT0gU2NoZWR1bGVUeXBlOjpTQ0hFRFVMRV9UWVBFX09QRU4pOwoKLy8gICAgICAgIHJldHVybiBVc2VyU2hpZnRDbG9zaW5nOjppc0Nsb3NlZCgkbW9udGgpCi8vICAgICAgICAJCT8gKCR0dXRvcl9zY2hlZHVsZS0+c2NoZWR1bGVfdHlwZSA9PSBTY2hlZHVsZVR5cGU6OlNDSEVEVUxFX1RZUEVfT1BFTikKLy8gICAgICAgICAgICAgICAgOiBpc19udWxsKCR0dXRvcl9zY2hlZHVsZSkKLy8gICAgICAgICAgICAgICAgICAgID8gdHJ1ZQovLyAgICAgICAgICAgICAgICAgICAgOiAoJHR1dG9yX3NjaGVkdWxlLT5zY2hlZHVsZV90eXBlID09IFNjaGVkdWxlVHlwZTo6U0NIRURVTEVfVFlQRV9PUEVOKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlZHVsZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>is_null($tutor_schedule)</text>
+        <text encoding="base64">JHR1dG9yX3NjaGVkdWxlLT5zY2hlZHVsZV90eXBlID09IFNjaGVkdWxlVHlwZTo6U0NIRURVTEVfVFlQRV9PUEVO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNfbnVsbCgkdHV0b3Jfc2NoZWR1bGUpCiAgICAgICAgICAgID8gdHJ1ZQogICAgICAgICAgICA6ICgkdHV0b3Jfc2NoZWR1bGUtPnNjaGVkdWxlX3R5cGUgPT0gU2NoZWR1bGVUeXBlOjpTQ0hFRFVMRV9UWVBFX09QRU4pOwoKLy8gICAgICAgIHJldHVybiBVc2VyU2hpZnRDbG9zaW5nOjppc0Nsb3NlZCgkbW9udGgpCi8vICAgICAgICAJCT8gKCR0dXRvcl9zY2hlZHVsZS0+c2NoZWR1bGVfdHlwZSA9PSBTY2hlZHVsZVR5cGU6OlNDSEVEVUxFX1RZUEVfT1BFTikKLy8gICAgICAgICAgICAgICAgOiBpc19udWxsKCR0dXRvcl9zY2hlZHVsZSkKLy8gICAgICAgICAgICAgICAgICAgID8gdHJ1ZQovLyAgICAgICAgICAgICAgICAgICAgOiAoJHR1dG9yX3NjaGVkdWxlLT5zY2hlZHVsZV90eXBlID09IFNjaGVkdWxlVHlwZTo6U0NIRURVTEVfVFlQRV9PUEVOKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>else {
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNoZWNrZGF0ZQogICAgICAgICAgICAgICAgbGlzdCgkWSwgJG0sICRkKSA9IGV4cGxvZGUoJy0nLCAkcm93WzFdKTsKICAgICAgICAgICAgICAgIGlmICghY2hlY2tkYXRlKCRtLCAkZCwgJFkpIHx8ICRyb3dbMV0gPD0gZGF0ZSgiWS1tLWQiKSkgewogICAgICAgICAgICAgICAgICAgICRlcnJvcl9tZXNzYWdlc1tdID0gWwogICAgICAgICAgICAgICAgICAgICAgICAncm93X25vJyA9PiAkcm93X25vLAogICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnID0+IGltcGxvZGUoIiwiLCAkcm93KSwKICAgICAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+IHRyYW5zKCdtYW5hZ2UvdHV0b3Jfc2NoZWR1bGVzL21lc3NhZ2UuaW1wb3J0LmludmFsaWRfZGF0ZScpCiAgICAgICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9IGludHZhbCgkdHlwZSk7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgJHR5cGUgPT09IHNlbGY6OlNDSEVEVUxFX1RZUEVfT1BFTgogICAgICAgICAgICB8fCAkdHlwZSA9PT0gc2VsZjo6U0NIRURVTEVfVFlQRV9BU1RFUklBCiAgICAgICAgICAgIHx8ICR0eXBlID09PSBzZWxmOjpTQ0hFRFVMRV9UWVBFX1JBUkVKT0IKICAgICAgICAgICAgfHwgJHR5cGUgPT09IHNlbGY6OlNDSEVEVUxFX1RZUEVfU0NIT09MCiAgICAgICAgICAgIHx8ICR0eXBlID09PSBzZWxmOjpTQ0hFRFVMRV9UWVBFX0NPTVBBTllfVEFTSwogICAgICAgICAgICB8fCAkdHlwZSA9PT0gc2VsZjo6U0NIRURVTEVfVFlQRV9CUkVBSwogICAgICAgICAgICB8fCAkdHlwZSA9PT0gc2VsZjo6U0NIRURVTEVfVFlQRV9MRUFWRQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JCgnI3RleHQnKS5rZXlwcmVzcygoZSkgPT4gIHsKICBpZiAoZS5rZXlDb2RlID09IDEzKSB7CiAgICBjb25zdCBuYW1lID0gJCgnI25hbWVJbnB1dCcpLnZhbCgpOwogICAgY29uc3QgdGV4dCA9ICQoJyN0ZXh0JykudmFsKCk7CiAgICBtZXNzYWdlc1JlZi5wdXNoKHtuYW1lOm5hbWUsIHRleHQ6dGV4dH0pOwogICAgJCgnI3RleHQnKS52YWwoJycpOwogIH0KfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIG1lc3NhZ2VzUmVmID0gZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoJy8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyBwbGFjZWhvbGRlcj0nJz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5hbWUgPSAkKCcjbmFtZUlucHV0JykudmFsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGhhc05vU2NoZWR1bGUpewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
