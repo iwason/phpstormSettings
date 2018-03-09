@@ -99,11 +99,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520562339465">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-        <mark key="." line="38" column="31" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520563992382">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="52" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
         <mark key="[" line="1" column="46" />
@@ -227,15 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="23" filename="$USER_HOME$/PhpstormProjects/gibson/protected/components/api/RJ_CommonApiBase.php" />
-      <jump line="3" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" />
-      <jump line="4" column="7" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-videochat/script.js" />
-      <jump line="94" column="29" filename="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" />
-      <jump line="2" column="7" filename="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" />
-      <jump line="66" column="16" filename="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" />
-      <jump line="34" column="29" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" />
-      <jump line="11" column="4" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-textchat/script.js" />
-      <jump line="112" column="11" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-textchat/script.js" />
       <jump line="20" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="35" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="137" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -326,62 +318,71 @@
       <jump line="39" column="7" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="57" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="36" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="37" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="84" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="66" column="21" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>H</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDxkYXRlRm9ybWF0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKHZhbHVlLmlkKTsK</text>
+        <text encoding="base64">Ly8vLy8vLy8vCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbmRleCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ZGF0ZUZvcm1hdCA9IHsKICBmbXQgOiB7CiAgICAieXl5eSI6IGZ1bmN0aW9uKGRhdGUpIHsgcmV0dXJuIGRhdGUuZ2V0RnVsbFllYXIoKSArICcnOyB9LAogICAgIk1NIjogZnVuY3Rpb24oZGF0ZSkgeyByZXR1cm4gKCcwJyArIChkYXRlLmdldE1vbnRoKCkgKyAxKSkuc2xpY2UoLTIpOyB9LAogICAgImRkIjogZnVuY3Rpb24oZGF0ZSkgeyByZXR1cm4gKCcwJyArIGRhdGUuZ2V0RGF0ZSgpKS5zbGljZSgtMik7IH0sCiAgICAiaGgiOiBmdW5jdGlvbihkYXRlKSB7IHJldHVybiAoJzAnICsgZGF0ZS5nZXRIb3VycygpKS5zbGljZSgtMik7IH0sCiAgICAibW0iOiBmdW5jdGlvbihkYXRlKSB7IHJldHVybiAoJzAnICsgZGF0ZS5nZXRNaW51dGVzKCkpLnNsaWNlKC0yKTsgfSwKICAgICJzcyI6IGZ1bmN0aW9uKGRhdGUpIHsgcmV0dXJuICgnMCcgKyBkYXRlLmdldFNlY29uZHMoKSkuc2xpY2UoLTIpOyB9CiAgfSwKICBmb3JtYXQ6ZnVuY3Rpb24gZGF0ZUZvcm1hdCAoZGF0ZSwgZm9ybWF0KSB7CiAgICB2YXIgcmVzdWx0ID0gZm9ybWF0OwogICAgZm9yICh2YXIga2V5IGluIHRoaXMuZm10KQogICAgICByZXN1bHQgPSByZXN1bHQucmVwbGFjZShrZXksIHRoaXMuZm10W2tleV0oZGF0ZSkpOwogICAgcmV0dXJuIHJlc3VsdDsKICB9Cn07Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncm9vbSBsb29wJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYodmFsdWUuc3RhcnRBdCA9PSApewoKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncm9vbSBsb29wJyk7Cg==</text>
+        <text encoding="base64">bGV0IHRvZGF5ID0gbmV3IERhdGUoKQpsZXQgeWVhciA9IHRvZGF5LmdldEZ1bGxZZWFyKCk7CmxldCBtb250aCA9IHRvZGF5LmdldE1vbnRoKCk7CmxldCBkYXkgPSB0b2RheS5nZXREYXRlKCk7CmxldCB0aW1lID0gdG9kYXkuZ2V0SG91cnMoKS50b1N0cmluZygpICsgdG9kYXkuZ2V0TWludXRlcygpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ZGF0ZUZvcm1hdCA9IHsKICBmbXQgOiB7CiAgICAieXl5eSI6IGZ1bmN0aW9uKGRhdGUpIHsgcmV0dXJuIGRhdGUuZ2V0RnVsbFllYXIoKSArICcnOyB9LAogICAgIk1NIjogZnVuY3Rpb24oZGF0ZSkgeyByZXR1cm4gKCcwJyArIChkYXRlLmdldE1vbnRoKCkgKyAxKSkuc2xpY2UoLTIpOyB9LAogICAgImRkIjogZnVuY3Rpb24oZGF0ZSkgeyByZXR1cm4gKCcwJyArIGRhdGUuZ2V0RGF0ZSgpKS5zbGljZSgtMik7IH0sCiAgICAiaGgiOiBmdW5jdGlvbihkYXRlKSB7IHJldHVybiAoJzAnICsgZGF0ZS5nZXRIb3VycygpKS5zbGljZSgtMik7IH0sCiAgICAibW0iOiBmdW5jdGlvbihkYXRlKSB7IHJldHVybiAoJzAnICsgZGF0ZS5nZXRNaW51dGVzKCkpLnNsaWNlKC0yKTsgfSwKICAgICJzcyI6IGZ1bmN0aW9uKGRhdGUpIHsgcmV0dXJuICgnMCcgKyBkYXRlLmdldFNlY29uZHMoKSkuc2xpY2UoLTIpOyB9CiAgfSwKICBmb3JtYXQ6ZnVuY3Rpb24gZGF0ZUZvcm1hdCAoZGF0ZSwgZm9ybWF0KSB7CiAgICB2YXIgcmVzdWx0ID0gZm9ybWF0OwogICAgZm9yICh2YXIga2V5IGluIHRoaXMuZm10KQogICAgICByZXN1bHQgPSByZXN1bHQucmVwbGFjZShrZXksIHRoaXMuZm10W2tleV0oZGF0ZSkpOwogICAgcmV0dXJuIHJlc3VsdDsKICB9Cn07Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlWycnXTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbmRleCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyh2YWx1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncm9vbSBsb29wJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncm9vbSBsb29wJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRlRm9ybWF0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlRm9ybWF0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDx0cmltXD4=</entry>
         <entry encoding="base64">XDxubDJiclw+</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
@@ -409,6 +409,7 @@
         <entry encoding="base64">XDxyZWZlcnJlbmNlXD4=</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
