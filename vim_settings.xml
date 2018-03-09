@@ -105,12 +105,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520571721414">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520573260174">
         <mark key="'" line="55" column="4" />
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="25" />
-        <mark key="^" line="63" column="23" />
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="8" />
+        <mark key="^" line="63" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
         <mark key="[" line="1" column="46" />
@@ -343,10 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IndividualSchedule</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="-" type="4">
-        <text>IndividualSchedule</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RheVw+</text>
