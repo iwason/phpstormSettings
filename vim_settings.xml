@@ -99,7 +99,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520563992382">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520567236694">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="55" column="51" />
         <mark key="]" line="55" column="52" />
@@ -151,8 +151,8 @@
         <mark key="." line="154" column="20" />
         <mark key="^" line="154" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1520416356396">
-        <mark key="'" line="55" column="19" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1520567273566">
+        <mark key="'" line="135" column="28" />
         <mark key="[" line="233" column="5" />
         <mark key="]" line="234" column="3" />
         <mark key="." line="234" column="3" />
@@ -228,12 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="35" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="137" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="140" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="4" column="15" filename="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-textchat/script.js" />
-      <jump line="148" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="164" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="152" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="154" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -328,6 +322,12 @@
       <jump line="66" column="21" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="76" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="72" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="94" column="2" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="149" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="92" column="35" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="136" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="135" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +337,7 @@
         <text>H</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRlRm9ybWF0XD4=</text>
+        <text encoding="base64">XDxhdWRpb1NvdXJjZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8vLy8vLy8vCg==</text>
@@ -380,9 +380,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRlRm9ybWF0XD4=</last-search>
+      <last-search encoding="base64">XDxhdWRpb1NvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRlRm9ybWF0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpb1NvdXJjZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -390,11 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmltXD4=</entry>
-        <entry encoding="base64">XDxubDJiclw+</entry>
-        <entry encoding="base64">XDx0ZXh0XD4=</entry>
-        <entry encoding="base64">XDxzZW5kXD4=</entry>
-        <entry encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</entry>
         <entry encoding="base64">XDxzdGVwMlw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlQXJlYVw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -410,6 +405,11 @@
         <entry encoding="base64">XDxyZWZlcmVuY2VcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
+        <entry encoding="base64">XDxlbnVtZXJhdGVEZXZpY2VzXD4=</entry>
+        <entry encoding="base64">XDxuYXZpZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb1NlbGVjdFw+</entry>
+        <entry encoding="base64">XDx2aWRlb1NvdXJjZVw+</entry>
+        <entry encoding="base64">XDxhdWRpb1NvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
