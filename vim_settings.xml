@@ -10,16 +10,17 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="/TutorSchedulesController.php" timestamp="1520839134975" />
       <file name="$USER_HOME$/Downloads/2018-08-06.csv" timestamp="1520491698034">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" timestamp="1520838539324">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" timestamp="1520838653275">
         <mark key="'" line="142" column="17" />
-        <mark key="[" line="86" column="19" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="19" />
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="73" column="23" />
+        <mark key="." line="73" column="23" />
         <mark key="^" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/GeneralTest.php" timestamp="1520572896425">
@@ -52,32 +53,11 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/skyway-js-sdk/examples/p2p-textchat/script.js" timestamp="1520300373258">
-        <mark key="'" line="92" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="76" column="38" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="46" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1520416593935">
-        <mark key="'" line="25" column="39" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="46" column="59" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1520567273566">
-        <mark key="'" line="135" column="28" />
-        <mark key="[" line="233" column="5" />
-        <mark key="]" line="234" column="3" />
-        <mark key="." line="234" column="3" />
-        <mark key="^" line="234" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
         <mark key="[" line="57" column="43" />
@@ -112,13 +92,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" timestamp="1520316023627">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="16" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="54" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1520836300794">
         <mark key="'" line="77" column="23" />
@@ -156,10 +129,10 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520837144268">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1520839762842">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/js/main.js" timestamp="1519188162574">
         <mark key="[" line="6" column="10" />
@@ -167,10 +140,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1520837388692">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1520839437744">
+        <mark key="'" line="94" column="56" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/memberLessonReservation.json" timestamp="1518139993413">
         <mark key="[" line="22" column="36" />
@@ -230,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" />
-      <jump line="36" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" />
       <jump line="63" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" />
       <jump line="67" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" />
       <jump line="11" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/home.scss" />
@@ -311,8 +284,6 @@
       <jump line="31" column="22" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
       <jump line="5" column="15" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
       <jump line="77" column="23" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
-      <jump line="93" column="73" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
       <jump line="82" column="14" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
       <jump line="7" column="23" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
       <jump line="60" column="35" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
@@ -330,52 +301,60 @@
       <jump line="123" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" />
       <jump line="132" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" />
       <jump line="142" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" />
+      <jump line="19" column="34" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="93" column="58" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="8" column="35" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="95" column="56" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>ソッドコメント追加
+namespace修正
+返却値を一部配列に変更</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>[];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAgXFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXEZpbGVcVXBsb2FkZWRGaWxlICRmaWxlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHJlc3VsdCA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="1" type="4">
+        <text>ソッドコメント追加
+namespace修正
+返却値を一部配列に変更</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkc2NoZWR1bGVfYXJyYXkK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkc2NoZWR1bGVfYXJyYXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICRyb3dbMF0gbnVtYmVyIHR1dG9ySWQKICAgICAqICRyb3dbMV0gZGF0ZSAgIGRhdGUKICAgICAqICRyb3dbMl0gdGltZSAgIHN0YXJ0X2F0CiAgICAgKiAkcm93WzNdIG51bWJlciBzY2hlZHVsZVR5cGUK</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
