@@ -92,13 +92,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1520915013606">
-        <mark key="'" line="124" column="8" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="65" />
-        <mark key="^" line="79" column="3" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
@@ -111,10 +104,10 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520839762842">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1520919661682">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/js/main.js" timestamp="1519188162574">
         <mark key="[" line="6" column="10" />
@@ -322,11 +315,11 @@
       <jump line="101" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhpc3RpbmdDYWxsLnJlcGxhY2VTdHJlYW0oc3RyZWFtKTsK</text>
+      <register name="&quot;" type="4">
+        <text>フォームのデザインを若干調整</text>
       </register>
       <register name="-" type="4">
-        <text>dataConnection</text>
+        <text>フォームのデザインを若干調整</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGlzdGluZ0NhbGxcPg==</text>
