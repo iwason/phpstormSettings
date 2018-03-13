@@ -10,6 +10,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1520922528915">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1520916946122">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="15" column="21" />
@@ -81,10 +87,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/public/index.html" timestamp="1520590169915">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/EnvizionSchedule.php" timestamp="1520836055672">
         <mark key="[" line="1" column="13" />
@@ -322,11 +324,11 @@
       <jump line="207" column="26" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>divClass</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
