@@ -16,12 +16,6 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1521003833305">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="5" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/CsvParser.php" timestamp="1520838653275">
         <mark key="'" line="142" column="17" />
         <mark key="[" line="73" column="23" />
@@ -42,12 +36,6 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/common.scss" timestamp="1519283701933">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/video.ts" timestamp="1517576546174">
         <mark key="[" line="124" column="37" />
         <mark key="]" line="124" column="45" />
@@ -60,12 +48,6 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/modules/header.pug" timestamp="1520994768353">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="49" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Signin Template for Bootstrap.html" timestamp="1520993954514">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -77,6 +59,45 @@
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1520933528120">
+        <mark key="^" line="26" column="55" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="68" column="53" />
+        <mark key="^" line="68" column="53" />
+        <mark key="." line="68" column="53" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1520835702092">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="47" />
+        <mark key="^" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1521003833305">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/common.scss" timestamp="1519283701933">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/modules/header.pug" timestamp="1520994768353">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1520836300794">
         <mark key="'" line="77" column="23" />
@@ -103,12 +124,6 @@
         <mark key="]" line="13" column="1" />
         <mark key="." line="56" column="28" />
         <mark key="^" line="56" column="28" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/apimock/db/skywayKey.json" timestamp="1517053972468">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" timestamp="1519625778318">
         <mark key="[" line="1" column="0" />
@@ -139,9 +154,6 @@
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/home/home.pug" timestamp="1520933528120">
-        <mark key="^" line="26" column="55" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/constants/index.ts" timestamp="1520931120805">
         <mark key="[" line="154" column="18" />
@@ -181,12 +193,6 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/UserShift.php" timestamp="1517994497476">
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="68" column="53" />
-        <mark key="^" line="68" column="53" />
-        <mark key="." line="68" column="53" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/Schedule.php" timestamp="1520836221583">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="19" />
@@ -205,12 +211,6 @@
         <mark key="]" line="20" column="7" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="20" column="7" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1520835702092">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="47" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="38" column="47" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2017_12_26_140215_create_shifts.php" timestamp="1518130353402">
         <mark key="[" line="19" column="63" />
