@@ -178,12 +178,12 @@
         <mark key="." line="154" column="20" />
         <mark key="^" line="154" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1521105432991">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1521106223539">
         <mark key="'" line="95" column="36" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="36" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="85" column="33" />
+        <mark key="[" line="86" column="25" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="25" />
+        <mark key="^" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ScheduleType.php" timestamp="1520836231958">
         <mark key="[" line="1" column="14" />
@@ -375,17 +375,17 @@
       <jump line="94" column="36" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbE51bWJlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsVG9SZW1vdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbE51bWJlcik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW50ZXJ2YWxOdW1iZXIg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
