@@ -91,12 +91,11 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Teacher/views/lesson_screen.blade.php" timestamp="1521017783996">
         <mark key="'" line="39" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1521443974586">
-        <mark key="'" line="81" column="20" />
-        <mark key="[" line="98" column="20" />
-        <mark key="]" line="98" column="31" />
-        <mark key="." line="98" column="31" />
-        <mark key="^" line="98" column="31" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1521460537522">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="59" />
+        <mark key="." line="80" column="26" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1521456870929">
         <mark key="[" line="19" column="0" />
@@ -176,7 +175,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521019887679">
+      <file name="/Dummy.txt" timestamp="1521460763340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -266,20 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="20" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="43" column="34" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="67" column="63" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="54" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="59" column="22" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="60" column="22" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="79" column="7" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="80" column="32" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="92" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="18" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="25" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="74" column="69" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="86" column="51" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="20" column="2" filename="$USER_HOME$/PhpstormProjects/front-end-base/database.rules.json" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/database.rules.json" />
@@ -366,61 +351,83 @@
       <jump line="81" column="20" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="7" column="3" filename="$USER_HOME$/PhpstormProjects/lms/package.json" />
       <jump line="23" column="0" filename="$USER_HOME$/PhpstormProjects/lms/package.json" />
+      <jump line="80" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="116" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="203" column="20" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="204" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="221" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="223" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="224" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="235" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="91" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="92" column="37" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="96" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="106" column="7" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="87" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>読み込み高速化
+　jsの読み込みをヘッダーからbodyに変更
+　htmlから読み込まれるcssとjsをひとつづつに
+　ビルド後のファイルを圧縮
+モーダルの文字色を変更</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcnZhbFw+</text>
+        <text encoding="base64">XDxpc1JlbW90ZUFjdGl2ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGVzdAo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaW50ZXJ2YWxOdW1iZXIgPSBzZXRJbnRlcnZhbCgnY2FsbFRvUmVtb3RlKCknLCA1MDAwKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>読み込み高速化
+　jsの読み込みをヘッダーからbodyに変更
+　htmlから読み込まれるcssとjsをひとつづつに
+　ビルド後のファイルを圧縮
+モーダルの文字色を変更</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAicGhwc3BlYy9waHBzcGVjIjogIn4yLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdyZW1vdGUgcGVlciBpcyAnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImlsbHVtaW5hdGUvc3VwcG9ydCI6ICJeNS4wIiwKICAgICAgImludGVydmVudGlvbi9pbWFnZSI6ICJkZXYtbWFzdGVyIiwKICAgICAgImxlYWd1ZS9jc3YiOiAifjcuMCIsCiAgICAgICJtYWtuei9zbGFjayI6ICJkZXYtbWFzdGVyIiwKICAgICAgImVydXNldi9wYXJzZWRvd24iOiAiXjEuNyIsCiAgICAgICJmaWRlbG9wZXIvcHJveHkiOiAiXjMuMSIsCiAgICAgICJndXp6bGVodHRwL2d1enpsZSI6ICI2LjIuMSIsCiAgICAgICJhd3MvYXdzLXNkay1waHAtbGFyYXZlbCI6ICJ+My4wIiwKICAgICAgInRlY25pY2tjb20vdGMtbGliLWJhcmNvZGUiOiAiZGV2LW1hc3RlciIsCiAgICAgICJsYXJhdmVsY29sbGVjdGl2ZS9odG1sIiA6ICJ+NS4wIiwKICAgICAgIndhdHNvbi92YWxpZGF0aW5nIjogIl4yLjAiLAogICAgICAiZG9jdHJpbmUvY2FjaGUiOiAidjEuNS40IiwKICAgICAgImRvY3RyaW5lL2NvbW1vbiI6ICJ2Mi41LjMiLAogICAgICAiZG9jdHJpbmUvZGJhbCI6ICJ2Mi40LjIiLAogICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMi4xIiwKICAgICAgInNwYXRpZS9sYXJhdmVsLWJhY2t1cCI6ICIzLjguMSIsCiAgICAgICJtaXN0ZXJwaGlsaXAvbWFpbnRlbmFuY2UtbW9kZSI6ICIxLjAuKiIsCiAgICAgICJuZWl0YW5vZC9mb3JjZXV0ZjgiOiAiZGV2LW1hc3RlciIsCiAgICAgICJwcmFnbWFyeC9nb29nbGUyZmEiOiAiXjEuMCIK</text>
+        <text encoding="base64">ICAgIGxldCBpc1JlbW90ZUFjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImNvZGVjZXB0aW9uL2MzIjogIjIuKiIK</text>
+        <text encoding="base64">ICAgICAgaWYoaXNSZW1vdGVBY3RpdmUgPT0gZmFsc2UpewogICAgICAgIHJldHVybjsKICAgICAgfWVsc2V7CiAgICAgICAgY29uc29sZS5pbmZvKCdsZXQgcyBjYWxsIG5vdycpOwogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWxOdW1iZXIpOwogICAgICAgIGludGVydmFsTnVtYmVyID0gbnVsbDsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgInN5bWZvbnkvY3NzLXNlbGVjdG9yIjogIn4zLjAiLAo=</text>
+        <text encoding="base64">ICAgIGxldCBpc1JlbW90ZUFjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInN5bWZvbnkvZG9tLWNyYXdsZXIiOiAifjMuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gPT4gWyJ5TnRRa055akFvakpOR3J0IiwgIkV6QW1nRmhDS0JRTXpLdzkiXQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImNvZGVjZXB0aW9uL2NvZGVjZXB0aW9uIjogIjIuKiIsCg==</text>
+        <text encoding="base64">ICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInBocHNwZWMvcGhwc3BlYyI6ICJ+Mi4xIiwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInNxdWl6bGFicy9waHBfY29kZXNuaWZmZXIiOiAiMi4qIiwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnaXMgUmVtb3RlIGFjdGl2ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcnZhbFw+</last-search>
+      <last-search encoding="base64">XDxpc1JlbW90ZUFjdGl2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcnZhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc1JlbW90ZUFjdGl2ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -428,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRVcFBlZXJcPg==</entry>
-        <entry encoding="base64">XDx2aWRlb1w+</entry>
         <entry encoding="base64">XDxjYWxsdG9cPg==</entry>
         <entry encoding="base64">XDx0aGVpclw+</entry>
         <entry encoding="base64">XDxyZW1vdGVcPg==</entry>
@@ -448,6 +453,8 @@
         <entry encoding="base64">XDxzZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwZXJmb3JtYW5jZVw+</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
+        <entry encoding="base64">XDxleGlzdGluZ0NhbGxcPg==</entry>
+        <entry encoding="base64">XDxpc1JlbW90ZUFjdGl2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
