@@ -173,7 +173,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521460763340">
+      <file name="/Dummy.txt" timestamp="1521517560455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,6 +201,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1521517582360">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gdocV4/showReceiverList.php" timestamp="1516863044365">
         <mark key="[" line="19" column="0" />
@@ -365,11 +371,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>secret</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>secret</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXNzb25JbmZvXD4=</text>
