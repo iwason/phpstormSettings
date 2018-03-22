@@ -184,11 +184,11 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1521710412530">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-        <mark key="^" line="34" column="25" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1521713434758">
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="66" />
+        <mark key="." line="34" column="66" />
+        <mark key="^" line="34" column="66" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/composer.json" timestamp="1521455766167">
         <mark key="[" line="31" column="27" />
@@ -584,16 +584,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cm9vbSBsaXN0IHNjaG9vbCAg</text>
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm9vbSBsaXN0IHNjaG9vbCAg</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuUm9vbXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">e3skc2Nob29sLT5uYW1lfX0=</text>
+        <text encoding="base64">LT53aGVyZSgncG9zdCcsICdbMC05XSsnKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
