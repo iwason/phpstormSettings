@@ -28,10 +28,10 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" timestamp="1521710386818">
-        <mark key="'" line="59" column="21" />
-        <mark key="[" line="44" column="60" />
-        <mark key="]" line="44" column="75" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" timestamp="1521712315753">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="64" column="10" />
         <mark key="^" line="44" column="59" />
         <mark key="." line="44" column="60" />
       </file>
@@ -141,6 +141,12 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1521712765089">
+        <mark key="[" line="7" column="97" />
+        <mark key="]" line="7" column="108" />
+        <mark key="^" line="7" column="108" />
+        <mark key="." line="7" column="108" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2017_12_26_140215_create_shifts.php" timestamp="1518130353402">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="19" column="66" />
@@ -195,12 +201,12 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1521710212072">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1521712625755">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="15" column="33" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/GeneralTest.php" timestamp="1520572896425">
         <mark key="[" line="20" column="18" />
@@ -475,8 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="242" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="125" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="225" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="252" column="21" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -575,52 +579,54 @@
       <jump line="26" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/schools/index.blade.php" />
       <jump line="11" column="28" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" />
       <jump line="74" column="21" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" />
+      <jump line="6" column="22" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>task</text>
+        <text encoding="base64">cm9vbSBsaXN0IHNjaG9vbCAg</text>
       </register>
       <register name="-" type="4">
-        <text>task</text>
+        <text encoding="base64">cm9vbSBsaXN0IHNjaG9vbCAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuUm9vbXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>RoomController</text>
+        <text encoding="base64">e3skc2Nob29sLT5uYW1lfX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vbGFyYXZlbC1ncmlkLmhlcm9rdWFwcC5jb20vdXNlcnMvND9yZWY9dXNlci1ncmlkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXRpdGxlPSJkZWxldGUgcmVjb3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJkYXRhLXJlbW90ZSBidG4gYnRuLWRhbmdlciBidG4teHMgYnRuLWdyaWQtcm93IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtbWV0aG9kPSJERUxFVEUiIGRhdGEtY29uZmlybT0iU3VyZT8iIGRhdGEtcGpheC10YXJnZXQ9IiN1c2VyLWdyaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1vcmlnaW5hbC10aXRsZT0iIiB0aXRsZT0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXRyYXNoIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbGV0ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcm9vbXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTgtMDItMTYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+PC9wPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZCBBdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD57eyRyb29tWyd0dXRvcl9wZWVyX2lkJ119fTwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9IiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSIiPnt7JHNjaG9vbC0+YmFuZHdpZHRofX08L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
