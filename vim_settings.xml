@@ -60,7 +60,8 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1521768054339">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1521779187981">
+        <mark key="'" line="39" column="4" />
         <mark key="[" line="29" column="50" />
         <mark key="]" line="29" column="50" />
         <mark key="^" line="27" column="64" />
@@ -419,7 +420,7 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="143" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521766776663">
+      <file name="/Dummy.txt" timestamp="1521779100576">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -532,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="227" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="239" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="71" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -632,6 +632,7 @@
       <jump line="19" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
       <jump line="16" column="17" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
       <jump line="30" column="10" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
