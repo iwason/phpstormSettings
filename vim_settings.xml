@@ -51,11 +51,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1521766761813">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1521768054339">
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="50" />
+        <mark key="^" line="27" column="64" />
+        <mark key="." line="29" column="50" />
       </file>
       <file name="/home.pug" timestamp="1521020389608">
         <mark key="[" line="35" column="0" />
@@ -393,18 +393,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>認証系を実装
-スクールの登録機能を用意
-Roomの登録の側を作成</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuUm9vbXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>hash('sha256',</text>
+        <text>$i</text>
       </register>
       <register name="1" type="4">
         <text>認証系を実装
