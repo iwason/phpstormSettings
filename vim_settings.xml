@@ -129,11 +129,11 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1522049084603" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1521710061784">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1522055349019">
+        <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/classRoom/package.json" timestamp="1519203300398">
         <mark key="[" line="7" column="33" />
@@ -171,12 +171,11 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1522054868292">
-        <mark key="'" line="38" column="17" />
-        <mark key="[" line="55" column="6" />
-        <mark key="]" line="55" column="8" />
-        <mark key="^" line="44" column="75" />
-        <mark key="." line="55" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1522056004654">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Task.php" timestamp="1521529066001">
         <mark key="[" line="9" column="15" />
@@ -196,11 +195,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1522049212085">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="22" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1522055696383">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="22" column="67" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Room.php" timestamp="1521698864782">
         <mark key="[" line="19" column="9" />
@@ -344,12 +343,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1521772543124">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1522056198651">
         <mark key="'" line="33" column="10" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="33" column="47" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1521785694365">
         <mark key="'" line="181" column="4" />
@@ -358,7 +357,7 @@
         <mark key="." line="147" column="30" />
         <mark key="^" line="147" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1522054289288">
+      <file name="/dummy.sql" timestamp="1522056068123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" timestamp="1519625778318">
@@ -373,7 +372,7 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522054549929">
+      <file name="/Dummy.txt" timestamp="1522056248602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -639,49 +638,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>Skyway部分の実装
+各種確認画面を追加実装</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>room_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnc2Nob29sX2lkJywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdHV0b3JTY2hlZHVsZS0+dHV0b3IoKS0+aXNBY3RpdmUoKTsK</text>
+      <register name="1" type="4">
+        <text>Skyway部分の実装
+各種確認画面を追加実装</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0dXRvcigpewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzT25lKFVzZXI6OmNsYXNzKTsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAncm9vbV9pZCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2Nob29sKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gU2Nob29sOjpmaW5kKCRzY2hvb2xJZCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>[
+            ''
+        ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVmcyA9IFtdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InB1bGwtcmlnaHQiPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlZnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
