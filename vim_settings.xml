@@ -268,10 +268,11 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1521685741049">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1522054262628">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Post.php" timestamp="1521700655686">
         <mark key="[" line="2" column="13" />
@@ -357,7 +358,7 @@
         <mark key="." line="147" column="30" />
         <mark key="^" line="147" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1521790454379">
+      <file name="/dummy.sql" timestamp="1522054289288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" timestamp="1519625778318">
@@ -372,7 +373,7 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521789659779">
+      <file name="/Dummy.txt" timestamp="1522054549929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -420,12 +421,12 @@
         <mark key="." line="154" column="20" />
         <mark key="^" line="154" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1521791798487">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1522054567056">
         <mark key="'" line="35" column="34" />
-        <mark key="[" line="49" column="58" />
-        <mark key="]" line="49" column="63" />
-        <mark key="^" line="49" column="63" />
-        <mark key="." line="49" column="63" />
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+        <mark key="." line="39" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ScheduleType.php" timestamp="1520836231958">
         <mark key="[" line="1" column="14" />
@@ -490,11 +491,11 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1521791768754">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="51" column="45" />
-        <mark key="^" line="49" column="61" />
-        <mark key="." line="49" column="61" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1522054362346">
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+        <mark key="." line="39" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_20_064503_create_tasks_table.php" timestamp="1521528626528">
         <mark key="[" line="18" column="40" />
@@ -637,17 +638,17 @@
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdHV0b3JTY2hlZHVsZS0+dHV0b3IoKS0+aXNBY3RpdmUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>school_id</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>school_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXZiYXJEcm9wZG93blw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoUm9vbTo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdzY2hvb2xfaWQnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdHV0b3JTY2hlZHVsZS0+dHV0b3IoKS0+aXNBY3RpdmUoKTsK</text>
