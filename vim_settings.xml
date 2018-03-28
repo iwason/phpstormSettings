@@ -426,11 +426,7 @@
       <file name="/dummy.sql" timestamp="1522139149387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522204531589">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1522215021072" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/welcome.blade.php" timestamp="1521526902872">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="81" column="26" />
