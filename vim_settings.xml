@@ -110,11 +110,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1522232295510">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1522300150057">
         <mark key="'" line="28" column="24" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="41" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
         <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/room.js" timestamp="1519625778318">
@@ -173,7 +173,7 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1522293973864">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1522300139629">
         <mark key="[" line="52" column="48" />
         <mark key="]" line="52" column="48" />
         <mark key="^" line="30" column="54" />
@@ -637,10 +637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cm9vbSA=</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm9vbSA=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaXJlYmFzZVw+</text>
