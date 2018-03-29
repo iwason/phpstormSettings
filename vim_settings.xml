@@ -419,12 +419,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/EnvizionSchedule.php" timestamp="1522137129500">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1522289768683">
         <mark key="'" line="124" column="10" />
         <mark key="[" line="123" column="25" />
