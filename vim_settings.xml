@@ -194,6 +194,11 @@
         <mark key="^" line="199" column="3" />
         <mark key="." line="199" column="3" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1522896416610">
+        <mark key="'" line="120" column="20" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="53" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1522055696383">
         <mark key="[" line="20" column="37" />
         <mark key="]" line="20" column="37" />
@@ -532,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
       <jump line="39" column="52" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
       <jump line="41" column="117" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
@@ -632,10 +636,11 @@
       <jump line="67" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="69" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
+      <jump line="120" column="20" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>F</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5sb2coIuODh+ODvOOCv+ihjCB7IiArIHJlcXVlc3REYXRhW2ldICsgIn0g44Gu44OH44O844K/Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>F</text>
@@ -644,7 +649,7 @@
         <text encoding="base64">XDxob3VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1NlcnZlcnRpbWUg44GMIFVUQyArMCDjgafkv53lrZjjgZXjgozjgabjgYTjgovjgZ/jgoHjgIIK</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2coIuODh+ODvOOCv+ihjCB7IiArIHJlcXVlc3REYXRhW2ldICsgIn0g44Gu44OH44O844K/Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyRyb29tLT5zY2hvb2wtPm5hbWUK</text>
