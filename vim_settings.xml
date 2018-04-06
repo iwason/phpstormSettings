@@ -194,10 +194,12 @@
         <mark key="^" line="199" column="3" />
         <mark key="." line="199" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1522896416610">
-        <mark key="'" line="120" column="20" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="53" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1522929248162">
+        <mark key="'" line="110" column="28" />
+        <mark key="[" line="67" column="51" />
+        <mark key="]" line="67" column="70" />
+        <mark key="^" line="67" column="70" />
+        <mark key="." line="67" column="70" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1522055696383">
         <mark key="[" line="20" column="37" />
@@ -229,12 +231,12 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1522895155759">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="19" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="19" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1522929267229">
+        <mark key="'" line="90" column="6" />
+        <mark key="[" line="96" column="44" />
+        <mark key="]" line="96" column="63" />
+        <mark key="." line="96" column="63" />
+        <mark key="^" line="96" column="63" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DefinitionsController.php" timestamp="1520835702092">
         <mark key="[" line="38" column="7" />
@@ -367,8 +369,8 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522319158093">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1522929303755">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -537,12 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
-      <jump line="39" column="52" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
-      <jump line="41" column="117" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
-      <jump line="49" column="53" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
-      <jump line="7" column="100" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" />
-      <jump line="81" column="8" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/chatbox.ts" />
       <jump line="126" column="2" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/chatbox.ts" />
       <jump line="142" column="9" filename="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/chatbox.ts" />
       <jump line="164" column="27" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -637,6 +633,12 @@
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="69" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="120" column="20" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
+      <jump line="53" column="9" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
+      <jump line="110" column="28" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
+      <jump line="68" column="15" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
+      <jump line="138" column="9" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
+      <jump line="4" column="16" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
+      <jump line="90" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -646,7 +648,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3VyXD4=</text>
+        <text encoding="base64">XDx0aW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExvZ2dlci5sb2coIuODh+ODvOOCv+ihjCB7IiArIHJlcXVlc3REYXRhW2ldICsgIn0g44Gu44OH44O844K/Iik7Cg==</text>
@@ -689,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob3VyXD4=</last-search>
+      <last-search encoding="base64">XDx0aW1lUmFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lUmFuZ2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -699,9 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZXNzb25JbmZvXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxwYXRoUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxuYXZiYXJEcm9wZG93blw+</entry>
         <entry encoding="base64">XDxyb29tXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlTGlua0luQ2hhdE1lc3NhZ2VcPg==</entry>
@@ -719,6 +718,9 @@
         <entry encoding="base64">XDxkZXZpY2VJbmZvXD4=</entry>
         <entry encoding="base64">XDxGaXJlYmFzZVw+</entry>
         <entry encoding="base64">XDxob3VyXD4=</entry>
+        <entry encoding="base64">XDxhcHBlbmRSb3dGcm9tU2hlZXRcPg==</entry>
+        <entry encoding="base64">XDxwcmVmaWxlXD4=</entry>
+        <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
