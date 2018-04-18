@@ -313,12 +313,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524044503019">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524045509431">
         <mark key="'" line="284" column="4" />
-        <mark key="[" line="294" column="20" />
-        <mark key="]" line="294" column="28" />
-        <mark key="." line="294" column="28" />
-        <mark key="^" line="294" column="28" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1522055696383">
         <mark key="[" line="20" column="37" />
@@ -648,10 +648,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>シーケンス</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>シーケンス</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW52YXNDdHhcPg==</text>
