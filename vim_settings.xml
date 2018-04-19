@@ -38,8 +38,8 @@
         <mark key="^" line="395" column="28" />
         <mark key="." line="130" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" timestamp="1524127064070">
-        <mark key="'" line="220" column="14" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" timestamp="1524128366723">
+        <mark key="'" line="576" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Middleware/TrustProxies.php" timestamp="1524124278491">
         <mark key="[" line="23" column="7" />
@@ -62,12 +62,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/fideloper/proxy/src/TrustProxies.php" timestamp="1524128339644">
+        <mark key="'" line="106" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="8" column="15" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="63" column="29" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="67" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="69" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="120" column="20" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
@@ -164,6 +163,10 @@
       <jump line="36" column="10" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
       <jump line="203" column="31" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
       <jump line="220" column="14" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
+      <jump line="106" column="23" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/fideloper/proxy/src/TrustProxies.php" />
+      <jump line="54" column="22" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
+      <jump line="565" column="15" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
+      <jump line="576" column="22" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -173,7 +176,7 @@
         <text>{{ asset('</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfUE9SVFw+</text>
+        <text encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</text>
       </register>
       <register name="0" type="4">
         <text>'172.17.3.11'</text>
@@ -216,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfUE9SVFw+</last-search>
+      <last-search encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfUE9SVFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -226,8 +229,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdGVcPg==</entry>
-        <entry encoding="base64">XDxyZW1vdGVTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxnYWluTm9kZVw+</entry>
         <entry encoding="base64">XDxtZWRpYURldmljZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
@@ -246,6 +247,8 @@
         <entry encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfQUxMXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfUE9SVFw+</entry>
+        <entry encoding="base64">XDxnZXRUcnVzdGVkSGVhZGVyTmFtZXNcPg==</entry>
+        <entry encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
