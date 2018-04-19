@@ -154,11 +154,11 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Middleware/TrustProxies.php" timestamp="1524121340958">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Middleware/TrustProxies.php" timestamp="1524124278491">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/tests/IndividualScheduleTest.php" timestamp="1522134886749">
         <mark key="'" line="7" column="15" />
@@ -177,10 +177,10 @@
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
         <mark key="'" line="136" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524121352720">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1524124289079">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/welcome.blade.php" timestamp="1521526902872">
         <mark key="'" line="17" column="23" />
@@ -315,10 +315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>信用するプロキシサーバのIPを指定</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>信用するプロキシサーバのIPを指定</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfQUxMXD4=</text>
@@ -327,37 +327,37 @@
         <text>'172.17.3.11'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfRk9SID0+ICdYX0ZPUldBUkRFRF9GT1InLAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfRk9SID0+ICdYX0ZPUldBUkRFRF9GT1InLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9BTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICN2aXN1YWxpemVyIHsKICAgICAgd2lkdGg6IDI1NXB4OwogICAgICBoZWlnaHQ6IDZweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9BTEw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy92ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+        <text encoding="base64">ICAgICN2aXN1YWxpemVyIHsKICAgICAgd2lkdGg6IDI1NXB4OwogICAgICBoZWlnaHQ6IDZweDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy9kaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgICAgLy92ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
