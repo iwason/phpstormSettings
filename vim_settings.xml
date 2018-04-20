@@ -11,6 +11,12 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="50" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1524207056105">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
       </file>
@@ -57,7 +63,7 @@
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
         <mark key="'" line="136" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524188227636">
+      <file name="/Dummy.txt" timestamp="1524207063413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -170,17 +176,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LBによるHTTPSプロキシの対応のため
-指定方法がlaravel5.6に対応していないため更新</text>
+        <text encoding="base64">LT51bmlxdWUoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">LT51bmlxdWUoKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>'172.17.3.11'</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPnN0cmluZygnZW1haWwnKS0+dW5pcXVlKCk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>LBによるHTTPSプロキシの対応のため
