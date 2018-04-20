@@ -47,20 +47,20 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/layouts/app.blade.php" timestamp="1524125708176">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/layouts/app.blade.php" timestamp="1524187782794">
         <mark key="'" line="43" column="64" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
         <mark key="'" line="136" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524124289079">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1524188227636">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/fideloper/proxy/src/TrustProxies.php" timestamp="1524128339644">
         <mark key="'" line="106" column="23" />
@@ -170,10 +170,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ asset('</text>
+        <text>LBによるHTTPSプロキシの対応のため
+指定方法がlaravel5.6に対応していないため更新</text>
       </register>
       <register name="-" type="4">
-        <text>{{ asset('</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</text>
@@ -181,38 +182,39 @@
       <register name="0" type="4">
         <text>'172.17.3.11'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="1" type="4">
+        <text>LBによるHTTPSプロキシの対応のため
+指定方法がlaravel5.6に対応していないため更新</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfRk9SID0+ICdYX0ZPUldBUkRFRF9GT1InLAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfRk9SID0+ICdYX0ZPUldBUkRFRF9GT1InLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9BTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICN2aXN1YWxpemVyIHsKICAgICAgd2lkdGg6IDI1NXB4OwogICAgICBoZWlnaHQ6IDZweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9BTEw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
