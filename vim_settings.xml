@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524552543732" />
+      <file name="/Dummy.txt" timestamp="1524553860292">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
       </file>
@@ -26,11 +28,11 @@
         <mark key="." line="72" column="78" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1524449640268" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524552435095">
-        <mark key="[" line="41" column="130" />
-        <mark key="]" line="41" column="130" />
-        <mark key="^" line="40" column="98" />
-        <mark key="." line="41" column="130" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524553848106">
+        <mark key="[" line="41" column="75" />
+        <mark key="]" line="41" column="87" />
+        <mark key="^" line="40" column="86" />
+        <mark key="." line="41" column="75" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524228881808">
         <mark key="'" line="84" column="31" />
@@ -202,16 +204,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e3skc2Nob29sLT5pZH19</text>
+        <text>.rarejob.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3skc2Nob29sLT5pZH19</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hvb2xJZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">MXt7c3ByaW50ZignJTA0ZCcsJHNjaG9vbC0+aWQpfX0=</text>
+        <text>.rarejob.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
