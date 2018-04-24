@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524553860292">
+      <file name="/Dummy.txt" timestamp="1524554943293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
@@ -34,12 +34,12 @@
         <mark key="^" line="40" column="86" />
         <mark key="." line="41" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524228881808">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524554880473">
         <mark key="'" line="84" column="31" />
-        <mark key="[" line="318" column="26" />
-        <mark key="]" line="318" column="26" />
-        <mark key="^" line="318" column="26" />
-        <mark key="." line="318" column="26" />
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="4" column="60" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1524232647152">
         <mark key="[" line="18" column="38" />
@@ -204,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.rarejob.com</text>
+        <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hvb2xJZFw+</text>
