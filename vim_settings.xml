@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524232809598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1524552543732" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
       </file>
@@ -22,7 +18,20 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
+        <mark key="'" line="97" column="9" />
+        <mark key="[" line="72" column="78" />
+        <mark key="]" line="72" column="78" />
+        <mark key="^" line="70" column="30" />
+        <mark key="." line="72" column="78" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1524449640268" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524552435095">
+        <mark key="[" line="41" column="130" />
+        <mark key="]" line="41" column="130" />
+        <mark key="^" line="40" column="98" />
+        <mark key="." line="41" column="130" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524228881808">
         <mark key="'" line="84" column="31" />
         <mark key="[" line="318" column="26" />
@@ -35,6 +44,12 @@
         <mark key="]" line="18" column="50" />
         <mark key="." line="18" column="38" />
         <mark key="^" line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1524551441848">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="82" />
+        <mark key="^" line="22" column="82" />
+        <mark key="." line="22" column="82" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1524228818940">
         <mark key="'" line="18" column="0" />
@@ -68,6 +83,7 @@
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" timestamp="1524128366723">
         <mark key="'" line="576" column="22" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1524551527428" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
         <mark key="'" line="134" column="12" />
       </file>
@@ -83,14 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="28" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
-      <jump line="138" column="9" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
-      <jump line="4" column="16" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
-      <jump line="90" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
-      <jump line="13" column="20" filename="$USER_HOME$/PhpstormProjects/lms/composer.json" />
-      <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/lms/composer.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/lms/composer.json" />
       <jump line="40" column="13" filename="$USER_HOME$/PhpstormProjects/gas/jptopht.js" />
       <jump line="47" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" />
       <jump line="194" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -183,64 +191,71 @@
       <jump line="20" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="86" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="84" column="31" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="90" column="22" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="146" column="20" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="143" column="33" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="96" column="51" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="93" column="52" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="66" column="55" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="70" column="62" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="97" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uniqueキー削除
-Index column size too large　対策</text>
+        <text encoding="base64">e3skc2Nob29sLT5pZH19</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">e3skc2Nob29sLT5pZH19</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsT3B0aW9uXD4=</text>
+        <text encoding="base64">XDxzY2hvb2xJZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LT51bnNpZ25lZCgp</text>
+        <text encoding="base64">MXt7c3ByaW50ZignJTA0ZCcsJHNjaG9vbC0+aWQpfX0=</text>
       </register>
-      <register name="1" type="4">
-        <text>uniqueキー削除
-Index column size too large　対策</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>uniqueキー削除
+Index column size too large　対策</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IDMyICAgICAgICAgICAgICAgICAtPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>LBによるHTTPSプロキシの対応のため
 指定方法がlaravel5.6に対応していないため更新</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfRk9SID0+ICdYX0ZPUldBUkRFRF9GT1InLAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsT3B0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxzY2hvb2xJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsT3B0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hvb2xJZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -248,8 +263,6 @@ Index column size too large　対策</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZWRpYURldmljZXNcPg==</entry>
-        <entry encoding="base64">XDxnZXRVc2VyTWVkaWFcPg==</entry>
         <entry encoding="base64">XDxmZnRTaXplXD4=</entry>
         <entry encoding="base64">XDxwdWxzYXRlXD4=</entry>
         <entry encoding="base64">XDwvXD4=</entry>
@@ -268,6 +281,8 @@ Index column size too large　対策</text>
         <entry encoding="base64">XDxnZXRUcnVzdGVkSGVhZGVyTmFtZXNcPg==</entry>
         <entry encoding="base64">XDx0cnVzdGVkUHJveGllc1w+</entry>
         <entry encoding="base64">XDxjYWxsT3B0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzY2hvb2xcPg==</entry>
+        <entry encoding="base64">XDxzY2hvb2xJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
