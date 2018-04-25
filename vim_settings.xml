@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524554943293">
+      <file name="/Dummy.txt" timestamp="1524624686596">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
@@ -27,6 +29,7 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="72" column="78" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1524624171001" />
       <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1524449640268" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524553848106">
         <mark key="[" line="41" column="75" />
@@ -34,12 +37,12 @@
         <mark key="^" line="40" column="86" />
         <mark key="." line="41" column="75" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524554880473">
-        <mark key="'" line="84" column="31" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="60" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="60" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524625221658">
+        <mark key="'" line="59" column="44" />
+        <mark key="[" line="195" column="42" />
+        <mark key="]" line="195" column="32" />
+        <mark key="." line="195" column="32" />
+        <mark key="^" line="195" column="32" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1524232647152">
         <mark key="[" line="18" column="38" />
@@ -101,11 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="13" filename="$USER_HOME$/PhpstormProjects/gas/jptopht.js" />
-      <jump line="47" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" />
-      <jump line="194" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="198" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="200" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="207" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="240" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="139" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -201,19 +199,24 @@
       <jump line="66" column="55" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="70" column="62" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="97" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="184" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="63" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="310" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="59" column="44" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
+        <text>API keyを本番用に変更</text>
       </register>
       <register name="-" type="4">
-        <text>e925e1e9-6e2c-4dff-b3b8-805fe2df24e6</text>
+        <text>API keyを本番用に変更</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hvb2xJZFw+</text>
+        <text encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</text>
       </register>
       <register name="0" type="4">
-        <text>.rarejob.com</text>
+        <text>ideal</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -221,43 +224,43 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>uniqueキー削除
-Index column size too large　対策</text>
+      <register name="2" type="2">
+        <text encoding="base64">bmF2aWdhdG9yLm1lZGlhRGV2aWNlcyA9IG5hdmlnYXRvci5tZWRpYURldmljZXMgfHwgKChuYXZpZ2F0b3IubW96R2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci53ZWJraXRHZXRVc2VyTWVkaWEpID8gewogIGdldFVzZXJNZWRpYTogZnVuY3Rpb24oYykgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKGZ1bmN0aW9uKHksIG4pIHsKICAgICAgKG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwKICAgICAgICBuYXZpZ2F0b3Iud2Via2l0R2V0VXNlck1lZGlhKS5jYWxsKG5hdmlnYXRvciwgYywgeSwgbik7CiAgICB9KTsKICB9Cn0gOiBudWxsKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IDMyICAgICAgICAgICAgICAgICAtPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
+        <text encoding="base64">ICBsZXQgZHJhd1Zpc3VhbDsK</text>
       </register>
-      <register name="4" type="4">
-        <text>LBによるHTTPSプロキシの対応のため
-指定方法がlaravel5.6に対応していないため更新</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzID0gbmF2aWdhdG9yLm1lZGlhRGV2aWNlcyB8fCAoKG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLndlYmtpdEdldFVzZXJNZWRpYSkgPyB7CiAgICBnZXRVc2VyTWVkaWE6IGZ1bmN0aW9uKGMpIHsKICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKGZ1bmN0aW9uKHksIG4pIHsKICAgICAgICAobmF2aWdhdG9yLm1vekdldFVzZXJNZWRpYSB8fAogICAgICAgICAgbmF2aWdhdG9yLndlYmtpdEdldFVzZXJNZWRpYSkuY2FsbChuYXZpZ2F0b3IsIGMsIHksIG4pOwogICAgICB9KTsKICAgIH0KICB9IDogbnVsbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVycyA9IFsKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfRk9SV0FSREVEID0+ICdGT1JXQVJERUQnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9GT1IgPT4gJ1hfRk9SV0FSREVEX0ZPUicsCiAgICAgICAgUmVxdWVzdDo6SEVBREVSX1hfRk9SV0FSREVEX0hPU1QgPT4gJ1hfRk9SV0FSREVEX0hPU1QnLAogICAgICAgIFJlcXVlc3Q6OkhFQURFUl9YX0ZPUldBUkRFRF9QT1JUID0+ICdYX0ZPUldBUkRFRF9QT1JUJywKICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywKICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUFJPVE8gPT4gJ1hfRk9SV0FSREVEX1BST1RPJywK</text>
+      <register name="7" type="4">
+        <text>uniqueキー削除
+Index column size too large　対策</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfUE9SVCA9PiAnWF9GT1JXQVJERURfUE9SVCcsCg==</text>
+        <text encoding="base64">IDMyICAgICAgICAgICAgICAgICAtPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0OjpIRUFERVJfWF9GT1JXQVJERURfSE9TVCA9PiAnWF9GT1JXQVJERURfSE9TVCcsCg==</text>
+      <register name="9" type="4">
+        <text>LBによるHTTPSプロキシの対応のため
+指定方法がlaravel5.6に対応していないため更新</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hvb2xJZFw+</last-search>
+      <last-search encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hvb2xJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -265,8 +268,6 @@ Index column size too large　対策</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZnRTaXplXD4=</entry>
-        <entry encoding="base64">XDxwdWxzYXRlXD4=</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDx2aXN1YWxpemVcPg==</entry>
         <entry encoding="base64">XDxkcmF3QWx0XD4=</entry>
@@ -285,6 +286,8 @@ Index column size too large　対策</text>
         <entry encoding="base64">XDxjYWxsT3B0aW9uXD4=</entry>
         <entry encoding="base64">XDxzY2hvb2xcPg==</entry>
         <entry encoding="base64">XDxzY2hvb2xJZFw+</entry>
+        <entry encoding="base64">XDxkcmF3VmlzdWFsXD4=</entry>
+        <entry encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
