@@ -3,18 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524624686596">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1524231911547">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Middleware/TrustProxies.php" timestamp="1524124278491">
         <mark key="[" line="23" column="7" />
@@ -22,39 +12,13 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
-        <mark key="'" line="97" column="9" />
-        <mark key="[" line="72" column="78" />
-        <mark key="]" line="72" column="78" />
-        <mark key="^" line="70" column="30" />
-        <mark key="." line="72" column="78" />
-      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1524624171001" />
       <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1524449640268" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524553848106">
-        <mark key="[" line="41" column="75" />
-        <mark key="]" line="41" column="87" />
-        <mark key="^" line="40" column="86" />
-        <mark key="." line="41" column="75" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524625221658">
-        <mark key="'" line="59" column="44" />
-        <mark key="[" line="195" column="42" />
-        <mark key="]" line="195" column="32" />
-        <mark key="." line="195" column="32" />
-        <mark key="^" line="195" column="32" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1524232647152">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="18" column="50" />
         <mark key="." line="18" column="38" />
         <mark key="^" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1524551441848">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="82" />
-        <mark key="^" line="22" column="82" />
-        <mark key="." line="22" column="82" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1524228818940">
         <mark key="'" line="18" column="0" />
@@ -69,6 +33,62 @@
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1524551527428" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
+        <mark key="'" line="134" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1524652955961">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
+        <mark key="'" line="136" column="10" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1524116701938">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="50" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524653217661">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1524231911547">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
+        <mark key="'" line="97" column="9" />
+        <mark key="[" line="72" column="78" />
+        <mark key="]" line="72" column="78" />
+        <mark key="^" line="70" column="30" />
+        <mark key="." line="72" column="78" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524553848106">
+        <mark key="[" line="41" column="75" />
+        <mark key="]" line="41" column="87" />
+        <mark key="^" line="40" column="86" />
+        <mark key="." line="41" column="75" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1524625221658">
+        <mark key="'" line="59" column="44" />
+        <mark key="[" line="195" column="42" />
+        <mark key="]" line="195" column="32" />
+        <mark key="." line="195" column="32" />
+        <mark key="^" line="195" column="32" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1524551441848">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="82" />
+        <mark key="^" line="22" column="82" />
+        <mark key="." line="22" column="82" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1524207056105">
         <mark key="[" line="17" column="35" />
@@ -87,20 +107,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" timestamp="1524128366723">
         <mark key="'" line="576" column="22" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1524551527428" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
-        <mark key="'" line="134" column="12" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
-        <mark key="'" line="136" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1524116701938">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="50" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -207,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>API keyを本番用に変更</text>
+        <text>ドメインを最新に変更</text>
       </register>
       <register name="-" type="4">
-        <text>API keyを本番用に変更</text>
+        <text>ドメインを最新に変更</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</text>
