@@ -213,16 +213,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$('#remote-id')</text>
+        <text>$('#date').val()</text>
       </register>
       <register name="-" type="4">
-        <text>$('#remote-id')</text>
+        <text>$('#date').val()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrdnNfYXJyYXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>remoteStatus</text>
+        <text>dateElement.val()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -234,28 +234,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICQoJyNyZW1vdGUtaWQnKS50ZXh0KCdBY3RpdmUnKTsKICAgIHJlbW90ZVN0YXR1cy5yZW1vdmVDbGFzcygnbGFiZWwtd2FybmluZycpOwogICAgcmVtb3RlU3RhdHVzLmFkZENsYXNzKCdsYWJlbC1zdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICB2YXIgZGF0ZVBpY2sgPSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBkYXRlUGljayA9ICQoJyNkYXRlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmF2aWdhdG9yLm1lZGlhRGV2aWNlcyA9IG5hdmlnYXRvci5tZWRpYURldmljZXMgfHwgKChuYXZpZ2F0b3IubW96R2V0VXNlck1lZGlhIHx8IG5hdmlnYXRvci53ZWJraXRHZXRVc2VyTWVkaWEpID8gewogIGdldFVzZXJNZWRpYTogZnVuY3Rpb24oYykgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKGZ1bmN0aW9uKHksIG4pIHsKICAgICAgKG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwKICAgICAgICBuYXZpZ2F0b3Iud2Via2l0R2V0VXNlck1lZGlhKS5jYWxsKG5hdmlnYXRvciwgYywgeSwgbik7CiAgICB9KTsKICB9Cn0gOiBudWxsKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgZHJhd1Zpc3VhbDsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5ocmVmID0gdXJsICsgJCgnI2RhdGUnKS52YWwoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzID0gbmF2aWdhdG9yLm1lZGlhRGV2aWNlcyB8fCAoKG5hdmlnYXRvci5tb3pHZXRVc2VyTWVkaWEgfHwgbmF2aWdhdG9yLndlYmtpdEdldFVzZXJNZWRpYSkgPyB7CiAgICBnZXRVc2VyTWVkaWE6IGZ1bmN0aW9uKGMpIHsKICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKGZ1bmN0aW9uKHksIG4pIHsKICAgICAgICAobmF2aWdhdG9yLm1vekdldFVzZXJNZWRpYSB8fAogICAgICAgICAgbmF2aWdhdG9yLndlYmtpdEdldFVzZXJNZWRpYSkuY2FsbChuYXZpZ2F0b3IsIGMsIHksIG4pOwogICAgICB9KTsKICAgIH0KICB9IDogbnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJyNyZW1vdGUtaWQnKS50ZXh0KCdBY3RpdmUnKTsKICAgIHJlbW90ZVN0YXR1cy5yZW1vdmVDbGFzcygnbGFiZWwtd2FybmluZycpOwogICAgcmVtb3RlU3RhdHVzLmFkZENsYXNzKCdsYWJlbC1zdWNjZXNzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
