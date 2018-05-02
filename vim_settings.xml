@@ -3,66 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1524653217661">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1524231911547">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Middleware/TrustProxies.php" timestamp="1524124278491">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1524624171001" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/deleteSheet.js" timestamp="1524449640268" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1524232647152">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="50" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1524228818940">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="17" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="36" column="17" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/layouts/app.blade.php" timestamp="1524187782794">
-        <mark key="'" line="43" column="64" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
-        <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1524551527428" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
-        <mark key="'" line="134" column="12" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1524652955961">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
-        <mark key="'" line="136" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1524116701938">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="50" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1524653217661">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1524231911547">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
         <mark key="'" line="97" column="9" />
@@ -71,8 +29,8 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="72" column="78" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" timestamp="1524796110082">
-        <mark key="'" line="45" column="24" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" timestamp="1525225751534">
+        <mark key="'" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1524553848106">
         <mark key="[" line="41" column="75" />
@@ -87,11 +45,31 @@
         <mark key="." line="341" column="18" />
         <mark key="^" line="344" column="5" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_021006_create_rooms_table.php" timestamp="1524232647152">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="17" column="51" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1524551441848">
         <mark key="[" line="22" column="43" />
         <mark key="]" line="22" column="82" />
         <mark key="^" line="22" column="82" />
         <mark key="." line="22" column="82" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1524228818940">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/layouts/app.blade.php" timestamp="1524187782794">
+        <mark key="'" line="43" column="64" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1524207056105">
         <mark key="[" line="17" column="35" />
@@ -111,9 +89,27 @@
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/symfony/http-foundation/Request.php" timestamp="1524128366723">
         <mark key="'" line="576" column="22" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
+        <mark key="'" line="134" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1524652955961">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1524048541028">
+        <mark key="'" line="136" column="10" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1524116701938">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="50" column="10" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="76" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="90" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="304" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -213,6 +209,7 @@
       <jump line="53" column="23" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
       <jump line="89" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
       <jump line="45" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
+      <jump line="75" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +219,7 @@
         <text>$('#remote-id')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWZldGltZV9jdnJcPg==</text>
+        <text encoding="base64">XDxrdnNfYXJyYXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>remoteStatus</text>
@@ -265,9 +262,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWZldGltZV9jdnJcPg==</last-search>
+      <last-search encoding="base64">XDxrdnNfYXJyYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWZldGltZV9jdnJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrdnNfYXJyYXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +272,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWZmZXJTaXplXD4=</entry>
         <entry encoding="base64">XDxidWZmZXJMZW5ndGhBbHRcPg==</entry>
         <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxhdWRpb1ZvbHVtZVw+</entry>
@@ -295,6 +291,7 @@
         <entry encoding="base64">XDxyZW1vdGVTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxyZW1vdGVcPg==</entry>
         <entry encoding="base64">XDxsaWZldGltZV9jdnJcPg==</entry>
+        <entry encoding="base64">XDxrdnNfYXJyYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
