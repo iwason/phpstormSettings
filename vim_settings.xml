@@ -13,7 +13,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/bootstrap-table.js" timestamp="1525762033837">
         <mark key="'" line="2636" column="36" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests.js" timestamp="1525762386424" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests.js" timestamp="1525764646928">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/FeasibilityViewerController.php" timestamp="1523835994833">
         <mark key="'" line="47" column="28" />
       </file>
@@ -46,11 +51,18 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525251149519">
-        <mark key="[" line="1023" column="30" />
-        <mark key="]" line="1023" column="30" />
-        <mark key="^" line="1023" column="39" />
-        <mark key="." line="1023" column="30" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1525764758495">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="19" />
+        <mark key="^" line="66" column="19" />
+        <mark key="." line="66" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
+        <mark key="'" line="1040" column="35" />
+        <mark key="[" line="270" column="26" />
+        <mark key="]" line="270" column="26" />
+        <mark key="^" line="270" column="26" />
+        <mark key="." line="270" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1524125737263">
         <mark key="'" line="134" column="12" />
@@ -131,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="248" column="27" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="158" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="195" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -231,61 +242,68 @@
       <jump line="881" column="26" filename="$USER_HOME$/PhpstormProjects/lms/app/Helpers/Helper.php" />
       <jump line="2636" column="36" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/bootstrap-table.js" />
       <jump line="68" column="135" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" />
+      <jump line="1040" column="35" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bXV0ZWQg</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZXBpY2tlciA=</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hcPg==</text>
+        <text encoding="base64">XDxjbGllbnRfcmVxdWVzdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bXV0ZWQg</text>
+        <text encoding="base64">KyAiLyIg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgJGRhdGUgIT09IGRhdGUoIlktbS1kIiwgc3RydG90aW1lKCRkYXRlKSkpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI3N0YXR1c0lkcyIpLnZhbCgpID8gJCgiI3N0YXR1c0lkcyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpID8gJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZSA9ICgkZGF0ZSkgPyAkZGF0ZSA6IGRhdGUoIlktbS1kIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI21hdGVyaWFsTGlzdElkIikudmFsKCkgPyAkKCIjbWF0ZXJpYWxMaXN0SWQiKS52YWwoKSA6ICIiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZXRpbWUgPT09IGRhdGUoIlktbS1kIiwgc3RydG90aW1lKCRkYXRldGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2NsaWVudElkIikudmFsKCkgPyAkKCIjY2xpZW50SWQiKS52YWwoKSA6ICIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVUbyIpLnZhbCgpID8gJCgiI2RhdGVUbyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVGcm9tIikudmFsKCkgPyAkKCIjZGF0ZUZyb20iKS52YWwoKSA6ICIiKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgZGF0ZVBpY2sgPSA7Cg==</text>
+      <register name="8" type="4">
+        <text>tableUrl
+            + &quot;/&quot; + ($(&quot;#dateFrom&quot;).val() ? $(&quot;#dateFrom&quot;).val() : &quot;&quot;)
+            + &quot;/&quot; + ($(&quot;#dateTo&quot;).val() ? $(&quot;#dateTo&quot;).val() : &quot;&quot;)
+            + &quot;/&quot; + ($(&quot;#clientId&quot;).val() ? $(&quot;#clientId&quot;).val() : &quot;&quot;)
+            + &quot;/&quot; + ($(&quot;#materialListId&quot;).val() ? $(&quot;#materialListId&quot;).val() : &quot;&quot;)
+            + &quot;/&quot; + ($(&quot;#assigneeUserIds&quot;).val() ? $(&quot;#assigneeUserIds&quot;).val() : &quot;&quot;)
+            + &quot;/&quot; + ($(&quot;#statusIds&quot;).val() ? $(&quot;#statusIds&quot;).val() : &quot;&quot;)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRlUGljayA9ICQoJyNkYXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjdGFibGUnKS5hdHRyKCdkYXRhLXVybCcsIHRhYmxlVXJsCiAgICAgICAgICAgICsgIi8iICsgKCQoIiNkYXRlRnJvbSIpLnZhbCgpID8gJCgiI2RhdGVGcm9tIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVUbyIpLnZhbCgpID8gJCgiI2RhdGVUbyIpLnZhbCgpIDogIiIpCiAgICAgICAgICAgICsgIi8iICsgKCQoIiNjbGllbnRJZCIpLnZhbCgpID8gJCgiI2NsaWVudElkIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI21hdGVyaWFsTGlzdElkIikudmFsKCkgPyAkKCIjbWF0ZXJpYWxMaXN0SWQiKS52YWwoKSA6ICIiKQogICAgICAgICAgICArICIvIiArICgkKCIjYXNzaWduZWVVc2VySWRzIikudmFsKCkgPyAkKCIjYXNzaWduZWVVc2VySWRzIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI3N0YXR1c0lkcyIpLnZhbCgpID8gJCgiI3N0YXR1c0lkcyIpLnZhbCgpIDogIiIpCiAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
+      <last-search encoding="base64">XDxjbGllbnRfcmVxdWVzdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRfcmVxdWVzdHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfQUxMXD4=</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxIRUFERVJfWF9GT1JXQVJERURfUE9SVFw+</entry>
@@ -313,6 +330,7 @@
         <entry encoding="base64">XDxNYXRlcmlhbGxpc3RUYlw+</entry>
         <entry encoding="base64">XDxvcHRpb25cPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRfcmVxdWVzdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>485</entry>
