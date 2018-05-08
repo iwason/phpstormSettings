@@ -51,11 +51,11 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1525764758495">
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="19" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1525770743705">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
         <mark key="'" line="1040" column="35" />
@@ -246,55 +246,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">bnVsbAogICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRfcmVxdWVzdHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KyAiLyIg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0ZUZyb20gPSBudWxsLAogICAgICAgICRkYXRlVG8gPSBudWxsLAogICAgICAgICRjbGllbnRJZCA9IG51bGwsCiAgICAgICAgJG1hdGVyaWFsTGlzdElkID0gbnVsbCwKICAgICAgICAkYXNzaWduZWVVc2VySWRzID0gbnVsbCwKICAgICAgICAkc3RhdHVzSWRzID0gbnVsbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bnVsbAogICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI3N0YXR1c0lkcyIpLnZhbCgpID8gJCgiI3N0YXR1c0lkcyIpLnZhbCgpIDogIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nOjppbmZvKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpID8gJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpIDogIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI21hdGVyaWFsTGlzdElkIikudmFsKCkgPyAkKCIjbWF0ZXJpYWxMaXN0SWQiKS52YWwoKSA6ICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI3N0YXR1c0lkcyIpLnZhbCgpID8gJCgiI3N0YXR1c0lkcyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2NsaWVudElkIikudmFsKCkgPyAkKCIjY2xpZW50SWQiKS52YWwoKSA6ICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpID8gJCgiI2Fzc2lnbmVlVXNlcklkcyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVUbyIpLnZhbCgpID8gJCgiI2RhdGVUbyIpLnZhbCgpIDogIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI21hdGVyaWFsTGlzdElkIikudmFsKCkgPyAkKCIjbWF0ZXJpYWxMaXN0SWQiKS52YWwoKSA6ICIiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVGcm9tIikudmFsKCkgPyAkKCIjZGF0ZUZyb20iKS52YWwoKSA6ICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2NsaWVudElkIikudmFsKCkgPyAkKCIjY2xpZW50SWQiKS52YWwoKSA6ICIiKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>tableUrl
-            + &quot;/&quot; + ($(&quot;#dateFrom&quot;).val() ? $(&quot;#dateFrom&quot;).val() : &quot;&quot;)
-            + &quot;/&quot; + ($(&quot;#dateTo&quot;).val() ? $(&quot;#dateTo&quot;).val() : &quot;&quot;)
-            + &quot;/&quot; + ($(&quot;#clientId&quot;).val() ? $(&quot;#clientId&quot;).val() : &quot;&quot;)
-            + &quot;/&quot; + ($(&quot;#materialListId&quot;).val() ? $(&quot;#materialListId&quot;).val() : &quot;&quot;)
-            + &quot;/&quot; + ($(&quot;#assigneeUserIds&quot;).val() ? $(&quot;#assigneeUserIds&quot;).val() : &quot;&quot;)
-            + &quot;/&quot; + ($(&quot;#statusIds&quot;).val() ? $(&quot;#statusIds&quot;).val() : &quot;&quot;)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVUbyIpLnZhbCgpID8gJCgiI2RhdGVUbyIpLnZhbCgpIDogIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjdGFibGUnKS5hdHRyKCdkYXRhLXVybCcsIHRhYmxlVXJsCiAgICAgICAgICAgICsgIi8iICsgKCQoIiNkYXRlRnJvbSIpLnZhbCgpID8gJCgiI2RhdGVGcm9tIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVUbyIpLnZhbCgpID8gJCgiI2RhdGVUbyIpLnZhbCgpIDogIiIpCiAgICAgICAgICAgICsgIi8iICsgKCQoIiNjbGllbnRJZCIpLnZhbCgpID8gJCgiI2NsaWVudElkIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI21hdGVyaWFsTGlzdElkIikudmFsKCkgPyAkKCIjbWF0ZXJpYWxMaXN0SWQiKS52YWwoKSA6ICIiKQogICAgICAgICAgICArICIvIiArICgkKCIjYXNzaWduZWVVc2VySWRzIikudmFsKCkgPyAkKCIjYXNzaWduZWVVc2VySWRzIikudmFsKCkgOiAiIikKICAgICAgICAgICAgKyAiLyIgKyAoJCgiI3N0YXR1c0lkcyIpLnZhbCgpID8gJCgiI3N0YXR1c0lkcyIpLnZhbCgpIDogIiIpCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiLyIgKyAoJCgiI2RhdGVGcm9tIikudmFsKCkgPyAkKCIjZGF0ZUZyb20iKS52YWwoKSA6ICIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
