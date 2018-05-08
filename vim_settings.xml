@@ -51,12 +51,6 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1525770743705">
-        <mark key="[" line="56" column="23" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="51" column="11" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
         <mark key="'" line="1040" column="35" />
         <mark key="[" line="270" column="26" />
