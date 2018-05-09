@@ -18,12 +18,13 @@
         <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
-        <mark key="'" line="1040" column="35" />
+        <mark key="'" line="271" column="35" />
         <mark key="[" line="270" column="26" />
         <mark key="]" line="270" column="26" />
         <mark key="^" line="270" column="26" />
         <mark key="." line="270" column="26" />
       </file>
+      <file name="/routes.php" timestamp="1525762573203" />
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1525784188455">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="26" column="36" />
@@ -31,6 +32,7 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="50" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_02_22_210945_create_client_requests_table.php" timestamp="1525832806350" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
         <mark key="'" line="97" column="9" />
         <mark key="[" line="72" column="78" />
@@ -65,9 +67,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Firebase.php" timestamp="1525776849981">
-        <mark key="[" line="28" column="5" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1525776481752" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
