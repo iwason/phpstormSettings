@@ -47,7 +47,7 @@
         <mark key="." line="296" column="9" />
         <mark key="^" line="296" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientClass.php" timestamp="1526007119303" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientClass.php" timestamp="1526015426148" />
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1526006218214" />
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_chat.scss" timestamp="1525783937237">
         <mark key="'" line="3" column="2" />
@@ -225,7 +225,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>137</text>
       </register>
     </registers>
     <search>
@@ -261,7 +261,6 @@
         <entry encoding="base64">XDxkYXRhQXJyYXlBbHRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>485</entry>
         <entry>130</entry>
         <entry>144</entry>
         <entry>290</entry>
@@ -281,6 +280,7 @@
         <entry>2990</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>137</entry>
       </history-cmd>
       <history-expr />
       <history-input />
