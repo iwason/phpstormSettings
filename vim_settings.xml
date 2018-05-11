@@ -64,8 +64,8 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526018182095">
-        <mark key="'" line="60" column="111" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526033407318">
+        <mark key="'" line="212" column="41" />
         <mark key="[" line="231" column="20" />
         <mark key="]" line="231" column="33" />
         <mark key="^" line="218" column="11" />
@@ -76,6 +76,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526033465906" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1525776481752" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
@@ -84,7 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" />
       <jump line="262" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="30" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="276" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -184,6 +184,7 @@
       <jump line="310" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="235" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="60" column="111" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
+      <jump line="212" column="41" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -193,7 +194,7 @@
         <text>$(&quot;#clientClassId&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>clientClassId</text>
@@ -236,9 +237,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -246,7 +247,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hvb2xJZFw+</entry>
         <entry encoding="base64">XDxkcmF3VmlzdWFsXD4=</entry>
         <entry encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</entry>
         <entry encoding="base64">XDxzdGVwM1w+</entry>
@@ -266,6 +266,7 @@
         <entry encoding="base64">XDxidWZmZXJMZW5ndGhBbHRcPg==</entry>
         <entry encoding="base64">XDxkYXRhQXJyYXlBbHRcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>
