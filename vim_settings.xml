@@ -10,12 +10,21 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526285802334">
+        <mark key="[" line="14" column="130" />
+        <mark key="]" line="14" column="130" />
+        <mark key="." line="14" column="130" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1525783517184">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="18" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Providers/AppServiceProvider.php" timestamp="1526285761776">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
         <mark key="'" line="271" column="35" />
@@ -188,16 +197,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clientClassId</text>
+        <text>dateIsGreaterThanToday</text>
       </register>
       <register name="-" type="4">
-        <text>$(&quot;#clientClassId&quot;)</text>
+        <text>dateIsGreaterThanToday</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>clientClassId</text>
+        <text>dateIsGreaterThanOrEqualToday</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
