@@ -10,44 +10,22 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526290293141">
-        <mark key="[" line="14" column="130" />
-        <mark key="]" line="14" column="130" />
-        <mark key="." line="14" column="130" />
+      <file name="/Dummy.txt" timestamp="1525940868432">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1525783517184">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Providers/AppServiceProvider.php" timestamp="1526285761776">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="41" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
-        <mark key="'" line="271" column="35" />
-        <mark key="[" line="270" column="26" />
-        <mark key="]" line="270" column="26" />
-        <mark key="^" line="270" column="26" />
-        <mark key="." line="270" column="26" />
-      </file>
-      <file name="/routes.php" timestamp="1525762573203" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1525938937884">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="36" />
-        <mark key="." line="26" column="36" />
-        <mark key="^" line="50" column="10" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_02_22_210945_create_client_requests_table.php" timestamp="1525832806350" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
         <mark key="'" line="97" column="9" />
         <mark key="[" line="72" column="78" />
         <mark key="]" line="72" column="78" />
         <mark key="^" line="70" column="30" />
         <mark key="." line="72" column="78" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526290293141">
+        <mark key="[" line="14" column="130" />
+        <mark key="]" line="14" column="130" />
+        <mark key="." line="14" column="130" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1525940764713">
         <mark key="'" line="235" column="0" />
@@ -56,8 +34,13 @@
         <mark key="." line="296" column="9" />
         <mark key="^" line="296" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientClass.php" timestamp="1526015426148" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1526006218214" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1525783517184">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_chat.scss" timestamp="1525783937237">
         <mark key="'" line="3" column="2" />
         <mark key="j" line="16" column="18" />
@@ -73,24 +56,35 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526033407318">
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Providers/AppServiceProvider.php" timestamp="1526285761776">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526357056531">
         <mark key="'" line="212" column="41" />
         <mark key="[" line="231" column="20" />
         <mark key="]" line="231" column="33" />
         <mark key="^" line="218" column="11" />
         <mark key="." line="231" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525940868432">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1525763609035">
+        <mark key="'" line="271" column="35" />
+        <mark key="[" line="270" column="26" />
+        <mark key="]" line="270" column="26" />
+        <mark key="^" line="270" column="26" />
+        <mark key="." line="270" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526033465906" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1525776481752" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1525938937884">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="50" column="10" />
       </file>
     </filemarks>
     <jumps>
