@@ -15,6 +15,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1526441241864">
+        <mark key="'" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
         <mark key="'" line="97" column="9" />
         <mark key="[" line="72" column="78" />
@@ -88,7 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="30" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="276" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="301" column="26" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -188,6 +190,7 @@
       <jump line="235" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="60" column="111" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
       <jump line="212" column="41" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
+      <jump line="5" column="4" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -197,7 +200,7 @@
         <text>dateIsGreaterThanToday</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</text>
+        <text encoding="base64">XDxBdXRoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>dateIsGreaterThanOrEqualToday</text>
@@ -240,9 +243,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</last-search>
+      <last-search encoding="base64">XDxBdXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +253,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcmF3VmlzdWFsXD4=</entry>
         <entry encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</entry>
         <entry encoding="base64">XDxzdGVwM1w+</entry>
         <entry encoding="base64">XDxyZW1vdGVTdGF0dXNcPg==</entry>
@@ -270,6 +272,7 @@
         <entry encoding="base64">XDxkYXRhQXJyYXlBbHRcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzY2hvb2xMZXNzb25Qcm92aWRlcklkXD4=</entry>
+        <entry encoding="base64">XDxBdXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>
