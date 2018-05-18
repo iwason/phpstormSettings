@@ -15,8 +15,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1526441241864">
-        <mark key="'" line="5" column="4" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1526634149400">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526629722329">
         <mark key="'" line="24" column="5" />
@@ -106,10 +110,6 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_02_22_210945_create_client_requests_table.php" timestamp="1526622083429" />
     </filemarks>
     <jumps>
-      <jump line="90" column="22" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="146" column="20" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="143" column="33" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="96" column="51" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="93" column="52" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="66" column="55" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="70" column="62" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
@@ -206,52 +206,56 @@
       <jump line="108" column="55" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="45" column="9" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="24" column="5" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
+      <jump line="114" column="3" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="103" column="29" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="42" column="20" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="101" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dateIsGreaterThanToday</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dateIsGreaterThanToday</text>
+        <text>updated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlT2JqZWN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>dateIsGreaterThanOrEqualToday</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkY2xpZW50UmVxdWVzdExvZyA9IG5ldyBDbGllbnRSZXF1ZXN0TG9nOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT5jbGllbnRfcmVxdWVzdF9pZCA9ICR0aGlzLT5pZDsKICAgICAgICAkY2xpZW50UmVxdWVzdExvZy0+c3RhcnRfYXQgPSAkdGhpcy0+c3RhcnRfYXQ7CiAgICAgICAgJGNsaWVudFJlcXVlc3RMb2ctPmVuZF9hdCA9ICR0aGlzLT5lbmRfYXQ7CiAgICAgICAgJGNsaWVudFJlcXVlc3RMb2ctPnByb3ZpZGVyX2lkID0gJHRoaXMtPnByb3ZpZGVyX2lkOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT5udW1iZXIgPSAkdGhpcy0+bnVtYmVyOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT5jbGllbnRfaWQgPSAkdGhpcy0+Y2xpZW50X2lkOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT5jbGllbnRfY2xhc3NfaWQgPSAkdGhpcy0+Y2xpZW50X2NsYXNzX2lkOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT5ub3RlcyA9ICR0aGlzLT5ub3RlczsKICAgICAgICAkY2xpZW50UmVxdWVzdExvZy0+d29ya2Zsb3dfc3RhdHVzID0gJHRoaXMtPndvcmtmbG93X3N0YXR1czsKICAgICAgICAkY2xpZW50UmVxdWVzdExvZy0+aW5zZXJ0X3VzZXJfaWQgPSBBdXRoOjp1c2VyKCktPmlkOwogICAgICAgICRjbGllbnRSZXF1ZXN0TG9nLT51cGRhdGVfY29tbWVudCA9ICR0aGlzLT51cGRhdGVfY29tbWVudDsKICAgICAgICAkY2xpZW50UmVxdWVzdExvZy0+c2F2ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXR0aW5nLnNlbGVjdC1mb3JtX3dyYXAKICAgICAgICAgICAgICAgICAgc2VsZWN0LnNlbGVjdC1mb3JtLmZvcm0tc2VsZWN0LnNlbGVjdC1zbSN2aWRlb1NvdXJjZShuYW1lPSJ2aWRlbyIpCiAgICAgICAgICAgICAgICAgIHNlbGVjdC5zZWxlY3QtZm9ybS5mb3JtLXNlbGVjdC5zZWxlY3Qtc20jYXVkaW9Tb3VyY2UobmFtZT0iYXVkaW8iKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhgdHJ5IGNhbGwgJHtjb3VudCsrfWApOwo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXR0aW5nLnNlbGVjdC1mb3JtX3dyYXAKICAgICAgICAgICAgICAgICAgc2VsZWN0LnNlbGVjdC1mb3JtLmZvcm0tc2VsZWN0LnNlbGVjdC1zbSN2aWRlb1NvdXJjZShuYW1lPSJ2aWRlbyIpCiAgICAgICAgICAgICAgICAgIHNlbGVjdC5zZWxlY3QtZm9ybS5mb3JtLXNlbGVjdC5zZWxlY3Qtc20jYXVkaW9Tb3VyY2UobmFtZT0iYXVkaW8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVcmw6OmZvcmNlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhgdHJ5IGNhbGwgJHtjb3VudCsrfWApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBcVVJMOjpmb3JjZVNjaGVtYSgnaHR0cHMnKTsK</text>
+        <text encoding="base64">dXNlIGh0dHBcVXJsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVcmw6OmZvcmNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBcVVJMOjpmb3JjZVNjaGVtYSgnaHR0cHMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>137</text>
