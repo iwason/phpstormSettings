@@ -99,6 +99,7 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="50" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_02_22_210945_create_client_requests_table.php" timestamp="1526622083429" />
     </filemarks>
     <jumps>
       <jump line="134" column="12" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
