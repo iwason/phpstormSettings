@@ -37,8 +37,8 @@
         <mark key="[" line="32" column="13" />
         <mark key="]" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526636904341">
-        <mark key="'" line="301" column="18" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" timestamp="1526637748770">
+        <mark key="'" line="116" column="57" />
         <mark key="[" line="231" column="20" />
         <mark key="]" line="231" column="33" />
         <mark key="^" line="218" column="11" />
@@ -106,10 +106,11 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/validation.php" timestamp="1526464507824" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
+        <mark key="'" line="963" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="52" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="66" column="55" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="70" column="62" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="97" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="184" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -208,6 +209,8 @@
       <jump line="103" column="29" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="42" column="20" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="101" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
+      <jump line="963" column="20" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
