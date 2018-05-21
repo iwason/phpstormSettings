@@ -71,6 +71,13 @@
         <mark key="^" line="170" column="7" />
         <mark key="." line="170" column="7" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/assets/js/plugins/datatables/extensions/TableTools/examples/ajax.html" timestamp="1526886690166">
+        <mark key="'" line="72" column="157" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1524552163370">
         <mark key="'" line="97" column="9" />
         <mark key="[" line="72" column="78" />
@@ -95,7 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="184" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="63" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="22" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -195,13 +201,14 @@
       <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
       <jump line="963" column="20" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="74" column="37" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
+      <jump line="73" column="157" filename="$USER_HOME$/PhpstormProjects/lms/resources/assets/js/plugins/datatables/extensions/TableTools/examples/ajax.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>updated</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlT2JqZWN0XD4=</text>
