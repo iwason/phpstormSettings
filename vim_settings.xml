@@ -68,12 +68,12 @@
       <file name="/dummy.sql" timestamp="1526906901860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" timestamp="1526908279507">
+      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" timestamp="1526973075290">
         <mark key="'" line="18" column="37" />
-        <mark key="[" line="28" column="65" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-        <mark key="^" line="29" column="3" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1526905778400" />
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526629722329">
@@ -107,6 +107,12 @@
         <mark key="]" line="296" column="9" />
         <mark key="." line="296" column="9" />
         <mark key="^" line="296" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/.eslintrc.json" timestamp="1526973127279">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
         <mark key="'" line="963" column="20" />
@@ -216,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGlmdF9pZFw+</text>
