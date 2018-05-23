@@ -77,7 +77,7 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="50" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1527062452251">
+      <file name="/dummy.sql" timestamp="1527065722642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" timestamp="1526973075290">
@@ -133,12 +133,14 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
         <mark key="'" line="963" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="23" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
       <jump line="89" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
       <jump line="45" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
       <jump line="75" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/PerformanceController.php" />
@@ -238,6 +240,7 @@
       <jump line="18" column="37" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" />
       <jump line="103" column="5" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="65" column="14" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
