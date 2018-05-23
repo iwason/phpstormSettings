@@ -25,6 +25,12 @@
       <file name="/create.js" timestamp="1526463579325">
         <mark key="'" line="213" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527056977429">
+        <mark key="[" line="95" column="79" />
+        <mark key="]" line="95" column="79" />
+        <mark key="." line="95" column="79" />
+        <mark key="^" line="95" column="50" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1525783517184">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="10" column="14" />
@@ -79,6 +85,12 @@
         <mark key="^" line="11" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1526905778400" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1527057090588">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526629722329">
         <mark key="'" line="24" column="5" />
         <mark key="[" line="169" column="88" />
@@ -225,49 +237,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Datetime</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Datetime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGlmdF9pZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>this</text>
+        <text>end_at</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJkYXRldGltZSI6ICIyMDE4LTA1LTE0IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjp3aGVyZSgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">U3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgOWNmYWZlODc3MTcyNmI0YmUxMmZjYTYwMDkzMDc5ODE1N2YyNjEyNApBdXRob3I6IGp1bnBlaS5pd2FtdXJhIDxqdW5wZWkuaXdhbXVyYUByYXJlam9iLmNvLmpwPgpEYXRlOiAgIE1vbiBNYXkgMjEgMjE6MjY6MjQgMjAxOCArMDkwMA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBJbnQgJGNsaWVudFJlcXVlc3RJZAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">U3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgOWNmYWZlODc3MTcyNmI0YmUxMmZjYTYwMDkzMDc5ODE1N2YyNjEyNApBdXRob3I6IGp1bnBlaS5pd2FtdXJhIDxqdW5wZWkuaXdhbXVyYUByYXJlam9iLmNvLmpwPgpEYXRlOiAgIE1vbiBNYXkgMjEgMjE6MjY6MjQgMjAxOCArMDkwMA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBJbnQgJGNsaWVudFJlcXVlc3RJZAo=</text>
       </register>
       <register name=":" type="4">
         <text>137</text>
