@@ -16,6 +16,9 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/create.js" timestamp="1526463579325">
+        <mark key="'" line="213" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
         <mark key="[" line="101" column="56" />
         <mark key="]" line="101" column="64" />
@@ -91,12 +94,24 @@
         <mark key="[" line="980" column="10" />
         <mark key="]" line="980" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
+        <mark key="'" line="963" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527144568451">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="46" column="20" />
         <mark key="]" line="46" column="54" />
         <mark key="^" line="38" column="45" />
         <mark key="." line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527240524317">
+        <mark key="[" line="285" column="48" />
+        <mark key="]" line="285" column="47" />
+        <mark key="^" line="285" column="47" />
+        <mark key="." line="285" column="47" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientsController.php" timestamp="1527076753359" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/layouts/app.blade.php" timestamp="1524187782794">
@@ -105,6 +120,9 @@
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
+        <mark key="'" line="7" column="7" />
       </file>
       <file name="/dummy.sql" timestamp="1527227925187">
         <mark key="[" line="0" column="0" />
@@ -121,6 +139,9 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1527240455086">
+        <mark key="'" line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1526629722329">
         <mark key="'" line="24" column="5" />
         <mark key="[" line="169" column="88" />
@@ -136,6 +157,9 @@
         <mark key="." line="44" column="26" />
       </file>
       <file name="/tutor_schedules.js" timestamp="1526908438222" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/tutor_schedules/bulk_create.blade.php" timestamp="1526908010986">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" timestamp="1527227980907">
         <mark key="[" line="45" column="84" />
         <mark key="]" line="45" column="84" />
@@ -155,9 +179,11 @@
         <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1527236252332" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Qualification.php" timestamp="1527125552995">
+        <mark key="'" line="31" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="9" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="24" column="5" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="114" column="3" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="103" column="29" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -257,13 +283,14 @@
       <jump line="161" column="25" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="179" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="164" column="35" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
+      <jump line="21" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRSZXF1ZXN0TWFuYWdlXD4=</text>
@@ -271,38 +298,38 @@
       <register name="0" type="4">
         <text encoding="base64">JGFzc2lnbmVkVXNlcnMg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbyhleHBsb2RlKCcsJywgJHN0YXR1c0lkcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbyhleHBsb2RlKCcsJywgJHN0YXR1c0lkcykpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcUXVlcnlcUXVlcnlCdWlsZGVyOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LT47CiAgICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZGl0aW9uID0gW107Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRkYXRlRnJvbQogICAgICogQHBhcmFtICRkYXRlVG8KICAgICAqIEBwYXJhbSAkY2xpZW50SWQKICAgICAqIEBwYXJhbSAkbWF0ZXJpYWxMaXN0SWQKICAgICAqIEBwYXJhbSAkc3RhdHVzSWRzCiAgICAgKiBAcGFyYW0gJHByb3ZpZGVySWRzCiAgICAgKiBAcGFyYW0gJGJ1aWxkZXIgUXVlcnlCdWlsZGVyCiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkY29uZGl0aW9uID0gW107Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqa2tra2trawo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRkYXRlRnJvbQogICAgICogQHBhcmFtICRkYXRlVG8KICAgICAqIEBwYXJhbSAkY2xpZW50SWQKICAgICAqIEBwYXJhbSAkbWF0ZXJpYWxMaXN0SWQKICAgICAqIEBwYXJhbSAkc3RhdHVzSWRzCiAgICAgKiBAcGFyYW0gJHByb3ZpZGVySWRzCiAgICAgKiBAcGFyYW0gJGJ1aWxkZXIgUXVlcnlCdWlsZGVyCiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAqa2tra2trawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcHJvdmlkZXJJZHMK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>137</text>
