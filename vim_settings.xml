@@ -14,13 +14,7 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527242946766">
-        <mark key="'" line="547" column="36" />
-        <mark key="[" line="569" column="0" />
-        <mark key="]" line="569" column="22" />
-        <mark key="^" line="569" column="22" />
-        <mark key="." line="569" column="22" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527583531794" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" timestamp="1527076328911">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="4" column="0" />
@@ -43,9 +37,6 @@
         <mark key="]" line="44" column="57" />
         <mark key="^" line="44" column="57" />
         <mark key="." line="44" column="57" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527242322232">
-        <mark key="'" line="320" column="28" />
       </file>
       <file name="/ResponseHelper.php" timestamp="1527581828080" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientsController.php" timestamp="1527076753359" />
