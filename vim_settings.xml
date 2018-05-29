@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/lms/database/seeds/ClientsTableSeeder.php" timestamp="1526903951808">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" timestamp="1527589092246">
+        <mark key="'" line="140" column="23" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526290293141">
         <mark key="[" line="14" column="130" />
@@ -35,12 +36,6 @@
       </file>
       <file name="/routes.php" timestamp="1527225076254" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ClientRequestWorkflowStatus.php" timestamp="1527482622073" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientClass.php" timestamp="1527225085081">
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-        <mark key="^" line="46" column="31" />
-      </file>
       <file name="/ClientRequestWorkflowStatus.php" timestamp="1527570977329" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527578062805">
         <mark key="'" line="30" column="0" />
@@ -82,12 +77,6 @@
         <mark key="'" line="1578" column="20" />
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/.eslintrc.json" timestamp="1526973127279">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
