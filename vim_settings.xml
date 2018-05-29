@@ -14,7 +14,18 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527583531794" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
+        <mark key="[" line="101" column="56" />
+        <mark key="]" line="101" column="64" />
+        <mark key="." line="101" column="64" />
+        <mark key="^" line="101" column="64" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527587698720">
+        <mark key="[" line="557" column="36" />
+        <mark key="]" line="557" column="34" />
+        <mark key="^" line="557" column="34" />
+        <mark key="." line="557" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" timestamp="1527076328911">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="4" column="0" />
@@ -189,16 +200,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>qualifications_users</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGFuRWxlbWVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>tutorIdList</text>
+        <text>qualifications_users</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCd0dXRvcl9pZCcsICdBU0MnKTsK</text>
