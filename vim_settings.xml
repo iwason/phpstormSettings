@@ -13,14 +13,26 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
+      <file name="/create.js" timestamp="1526463579325">
+        <mark key="'" line="213" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
         <mark key="[" line="101" column="56" />
         <mark key="]" line="101" column="64" />
         <mark key="." line="101" column="64" />
         <mark key="^" line="101" column="64" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527646802830">
+        <mark key="'" line="186" column="21" />
+      </file>
       <file name="/routes.php" timestamp="1527225076254" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ClientRequestWorkflowStatus.php" timestamp="1527482622073" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
+        <mark key="'" line="963" column="20" />
+      </file>
       <file name="/ClientRequestWorkflowStatus.php" timestamp="1527570977329" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527642649799">
         <mark key="[" line="89" column="125" />
@@ -34,6 +46,9 @@
         <mark key="'" line="34" column="32" />
       </file>
       <file name="/User.php" timestamp="1527592616249" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
+        <mark key="'" line="7" column="7" />
+      </file>
       <file name="/dummy.sql" timestamp="1527592345957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,6 +64,9 @@
         <mark key="." line="104" column="11" />
       </file>
       <file name="/tutor_schedules.js" timestamp="1526908438222" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/tutor_schedules/bulk_create.blade.php" timestamp="1526908010986">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" timestamp="1527227980907">
         <mark key="[" line="49" column="84" />
         <mark key="]" line="49" column="84" />
@@ -61,11 +79,11 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1527236252332" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Qualification.php" timestamp="1527125552995">
+        <mark key="'" line="31" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="1" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
-      <jump line="2" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
       <jump line="3" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
       <jump line="4" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
       <jump line="168" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -163,6 +181,9 @@
       <jump line="142" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="167" column="64" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="27" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="182" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
+      <jump line="183" column="70" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
+      <jump line="186" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -172,7 +193,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRSZXF1ZXN0RGV0YWlsXD4=</text>
+        <text encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>intval(</text>
@@ -215,9 +236,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRSZXF1ZXN0RGV0YWlsXD4=</last-search>
+      <last-search encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRSZXF1ZXN0RGV0YWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -233,7 +254,6 @@
         <entry encoding="base64">XDxnZXRDb25kaXRpb25CeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxzZXRDb25kaXRpb25CeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
-        <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRBc3NpZ25lZFVzZXJzXD4=</entry>
         <entry encoding="base64">XDxDbGllbnRSZXF1ZXN0TWFuYWdlXD4=</entry>
         <entry encoding="base64">XDxhZGRTY2hlZHVsZVw+</entry>
@@ -245,6 +265,7 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxoYXNGZWFzaWJpbGl0eUltcGFjdFw+</entry>
         <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0RGV0YWlsXD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>290</entry>
