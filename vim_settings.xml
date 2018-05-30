@@ -3,29 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" timestamp="1527589092246">
-        <mark key="'" line="140" column="23" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" timestamp="1527591199784">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526290293141">
         <mark key="[" line="14" column="130" />
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="64" />
-        <mark key="." line="101" column="64" />
-        <mark key="^" line="101" column="64" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527587698720">
-        <mark key="[" line="557" column="36" />
-        <mark key="]" line="557" column="34" />
-        <mark key="^" line="557" column="34" />
-        <mark key="." line="557" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" timestamp="1527076328911">
         <mark key="'" line="4" column="7" />
@@ -37,19 +23,20 @@
       <file name="/routes.php" timestamp="1527225076254" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ClientRequestWorkflowStatus.php" timestamp="1527482622073" />
       <file name="/ClientRequestWorkflowStatus.php" timestamp="1527570977329" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527578062805">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527591286064">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="57" />
-        <mark key="^" line="44" column="57" />
-        <mark key="." line="44" column="57" />
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="88" column="7" />
+        <mark key="^" line="88" column="7" />
+        <mark key="." line="88" column="7" />
       </file>
       <file name="/ResponseHelper.php" timestamp="1527581828080" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientsController.php" timestamp="1527076753359" />
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/common_js/feasibility_check.blade.php" timestamp="1527581609632">
         <mark key="'" line="34" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1527561889264">
+      <file name="/User.php" timestamp="1527592616249" />
+      <file name="/dummy.sql" timestamp="1527592345957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" timestamp="1526973075290">
@@ -59,7 +46,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527466728452" />
+      <file name="/Dummy.txt" timestamp="1527592826992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1527240764551">
         <mark key="'" line="21" column="12" />
         <mark key="[" line="137" column="11" />
@@ -73,11 +64,6 @@
         <mark key="." line="49" column="84" />
       </file>
       <file name="/ClientRequestsController.php" timestamp="1527144485321" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1527225591066">
-        <mark key="'" line="1578" column="20" />
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="13" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -189,50 +175,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qualifications_users</text>
+        <text encoding="base64">U3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgYTQ2ZmY3Mzc1YjZjODJlOTczYzhhNWI0NjY0MTU5YzMxM2IzYjEzMApBdXRob3I6IGp1bnBlaS5pd2FtdXJhIDxqdW5wZWkuaXdhbXVyYUByYXJlam9iLmNvLmpwPgpEYXRlOiAgIFR1ZSBNYXkgMjkgMjA6MTc6NTMgMjAxOCArMDkwMAoKICAgIFNxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgogICAgCiAgICBjb21taXQgMTkzOTU5NTIxOWM0ZmY2YWY1YWVjMTM3NDliODQwOWJlY2U4Njk2YQogICAgTWVyZ2U6IDY1NzNlOWMgZmFmOTYzMgogICAgQXV0aG9yOiBqdW5wZWkuaXdhbXVyYSA8anVucGVpLml3YW11cmFAcmFyZWpvYi5jby5qcD4KICAgIERhdGU6ICAgVHVlIE1heSAyOSAxNzo0Mzo0MCAyMDE4ICswOTAwCiAgICAKICAgICAgICBNZXJnZSBicmFuY2ggJ2dhd2EnIGludG8gNDEwMjhfdHV0b3JTY2hlZHU=</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGFuRWxlbWVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>qualifications_users</text>
+        <text>'=',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCd0dXRvcl9pZCcsICdBU0MnKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">U3F1YXNoZWQgY29tbWl0IG9mIHRoZSBmb2xsb3dpbmc6Cgpjb21taXQgYTQ2ZmY3Mzc1YjZjODJlOTczYzhhNWI0NjY0MTU5YzMxM2IzYjEzMApBdXRob3I6IGp1bnBlaS5pd2FtdXJhIDxqdW5wZWkuaXdhbXVyYUByYXJlam9iLmNvLmpwPgpEYXRlOiAgIFR1ZSBNYXkgMjkgMjA6MTc6NTMgMjAxOCArMDkwMAoKICAgIFNxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgogICAgCiAgICBjb21taXQgMTkzOTU5NTIxOWM0ZmY2YWY1YWVjMTM3NDliODQwOWJlY2U4Njk2YQogICAgTWVyZ2U6IDY1NzNlOWMgZmFmOTYzMgogICAgQXV0aG9yOiBqdW5wZWkuaXdhbXVyYSA8anVucGVpLml3YW11cmFAcmFyZWpvYi5jby5qcD4KICAgIERhdGU6ICAgVHVlIE1heSAyOSAxNzo0Mzo0MCAyMDE4ICswOTAwCiAgICAKICAgICAgICBNZXJnZSBicmFuY2ggJ2dhd2EnIGludG8gNDEwMjhfdHV0b3JTY2hlZHU=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCdxdWFsaWZpY2F0aW9uc191c2VycycsJ3VzZXJfaWQnLCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">QXV0aG9yOiBqdW5wZWkuaXdhbXVyYSA8anVucGVpLml3YW11cmFAcmFyZWpvYi5jby5qcD4KRGF0ZTogICBNb24gTWF5IDI4IDA5OjE5OjA2IDIwMTggKzA5MDAKCiAgICDkv53lrZgKCmQKY29tbWl0IDE2YjcwM2I4ZTllNDM0YWU0MzM0NWUzNmNkYWMzNTIwOGY4OTIyOTgKQXV0aG9yOiBqdW5wZWkuaXdhbXVyYSA8anVucGVpLml3YW11cmFAcmFyZWpvYi5jby5qcD4KRGF0ZTogICBGcmkgTWF5IDI1IDEyOjA1OjU4IDIwMTggKzA5MDAKCiAgICDkvZzmpa3kv53lrZg=</text>
       </register>
-      <register name="3" type="4">
-        <text>ラス無しの場合の不具合対応
-　belongToの命名変更に伴った変更</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2c6OmluZm8oJ2Z1Z2EnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbygnbW9nZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRhdGE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY2xpZW50UmVxdWVzdElkCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAneyJ0b3RhbCI6MiwKLy8gICAgICAgICAgICAgICAgICJyb3dzIjpbCi8vICAgICAgICAgICAgICAgICAgICB7ImlkIjo1LCJjaGVja2JveCI6IjxkaXYgY2xhc3M9XCJ0ZXh0LWNlbnRlciBoaWRkZW4teHMgaGlkZGVuLXNtXCI+PGlucHV0IHR5cGU9XCJjaGVja2JveFwiIG5hbWU9XCJ1c2VyX2lkc1tdXCIgdmFsdWU9XCI1XCIgY2xhc3M9XCJvbmVfcmVxdWlyZWRcIj48XC9kaXY+IiwibmFtZSI6Ik5BT01JIEpBTkUgQU5HR09UIiwibmlja25hbWUiOiJOYW9taSIsInR1dG9yX2lkIjoiNDEzMzgyIiwiaW1hZ2UiOiI8aW1nIHNyYz1cImh0dHBzOlwvXC9kMWF0Z2llcnY5b3AyLmNsb3VkZnJvbnQubmV0XC9pbWFnZXNcL2pwZ1wvdHV0b3JcL3Q0MTMzODIuanBnXCIgaGVpZ2h0PTMwIHdpZHRoPTMwIGNsYXNzPVwiYXZhdGFyIGltZy1jaXJjbGVcIj4ifSwKLy8gICAgICAgICAgICAgICAgICAgIHsiaWQiOjYsImNoZWNrYm94IjoiPGRpdiBjbGFzcz1cInRleHQtY2VudGVyIGhpZGRlbi14cyBoaWRkZW4tc21cIj48aW5wdXQgdHlwZT1cImNoZWNrYm94XCIgbmFtZT1cInVzZXJfaWRzW11cIiB2YWx1ZT1cIjZcIiBjbGFzcz1cIm9uZV9yZXF1aXJlZFwiPjxcL2Rpdj4iLCJuYW1lIjoiUFJJTkNFU1MgQkFDQU4iLCJuaWNrbmFtZSI6IlNoYW4iLCJ0dXRvcl9pZCI6IjQxMzM4NCIsImltYWdlIjoiPGltZyBzcmM9XCJodHRwczpcL1wvZDFhdGdpZXJ2OW9wMi5jbG91ZGZyb250Lm5ldFwvaW1hZ2VzXC9qcGdcL3R1dG9yXC90NDEzMzg0LmpwZ1wiIGhlaWdodD0zMCB3aWR0aD0zMCBjbGFzcz1cImF2YXRhciBpbWctY2lyY2xlXCI+In0KLy8gICAgICAgICAgICAgICAgIF19JzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdG9EZWxldGVVc2VySWRzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRhdGE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">cmV0dXJuIDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>165</text>
