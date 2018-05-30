@@ -20,23 +20,41 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527664465082">
-        <mark key="[" line="369" column="16" />
-        <mark key="]" line="369" column="16" />
-        <mark key="." line="369" column="16" />
-        <mark key="^" line="369" column="16" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527666439544">
+        <mark key="'" line="379" column="75" />
+        <mark key="[" line="374" column="142" />
+        <mark key="]" line="375" column="11" />
+        <mark key="^" line="375" column="11" />
+        <mark key="." line="375" column="11" />
       </file>
       <file name="/create.js" timestamp="1526463579325">
         <mark key="'" line="213" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
+        <mark key="[" line="101" column="56" />
+        <mark key="]" line="101" column="64" />
+        <mark key="." line="101" column="64" />
+        <mark key="^" line="101" column="64" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/common_js/feasibility_check.blade.php" timestamp="1527581609632">
         <mark key="'" line="34" column="32" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527664732455">
+        <mark key="'" line="507" column="6" />
+        <mark key="[" line="556" column="0" />
+        <mark key="]" line="560" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/QualificationsController.php" timestamp="1527665983765">
+        <mark key="[" line="495" column="25" />
+        <mark key="]" line="495" column="25" />
+        <mark key="." line="495" column="25" />
+        <mark key="^" line="495" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1527664265443" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1527664256219">
+      <file name="/dummy.sql" timestamp="1527666576937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527642686741">
@@ -79,12 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="32" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="13" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="207" column="27" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
-      <jump line="360" column="22" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
-      <jump line="192" column="10" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/create.blade.php" />
-      <jump line="148" column="41" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="166" column="50" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="99" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="117" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -179,61 +191,67 @@
       <jump line="158" column="12" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="144" column="16" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
       <jump line="137" column="12" filename="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" />
+      <jump line="507" column="6" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" />
+      <jump line="54" column="26" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="384" column="32" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="374" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="375" column="74" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="377" column="75" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRSZXF1ZXN0Um93XD4=</text>
+        <text encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>intval(</text>
+        <text encoding="base64">cXVhbGlmaWNhdGlvbk1hdGVyaWFsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW1hZ2UgcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSktPmdldCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmUoJ3F1YWxpZmljYXRpb25zLmlkJywgJHF1YWxpZmljYXRpb25JZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIF19JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJzID0gJHVzZXJzLT53aGVyZUhhcygncXVhbGlmaWNhdGlvbnMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRxdWFsaWZpY2F0aW9uSWQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHsiaWQiOjYsImNoZWNrYm94IjoiPGRpdiBjbGFzcz1cInRleHQtY2VudGVyIGhpZGRlbi14cyBoaWRkZW4tc21cIj48aW5wdXQgdHlwZT1cImNoZWNrYm94XCIgbmFtZT1cInVzZXJfaWRzW11cIiB2YWx1ZT1cIjZcIiBjbGFzcz1cIm9uZV9yZXF1aXJlZFwiPjxcL2Rpdj4iLCJuYW1lIjoiUFJJTkNFU1MgQkFDQU4iLCJuaWNrbmFtZSI6IlNoYW4iLCJ0dXRvcl9pZCI6IjQxMzM4NCIsImltYWdlIjoiPGltZyBzcmM9XCJodHRwczpcL1wvZDFhdGdpZXJ2OW9wMi5jbG91ZGZyb250Lm5ldFwvaW1hZ2VzXC9qcGdcL3R1dG9yXC90NDEzMzg0LmpwZ1wiIGhlaWdodD0zMCB3aWR0aD0zMCBjbGFzcz1cImF2YXRhciBpbWctY2lyY2xlXCI+In0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJzID0gJHVzZXJzLT5xdWFsaWZpY2F0aW9ucy0+d2hlcmUoJ3F1YWxpZmljYXRpb25zLmlkJywgJHF1YWxpZmljYXRpb25JZCktPmdldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHsiaWQiOjUsImNoZWNrYm94IjoiPGRpdiBjbGFzcz1cInRleHQtY2VudGVyIGhpZGRlbi14cyBoaWRkZW4tc21cIj48aW5wdXQgdHlwZT1cImNoZWNrYm94XCIgbmFtZT1cInVzZXJfaWRzW11cIiB2YWx1ZT1cIjVcIiBjbGFzcz1cIm9uZV9yZXF1aXJlZFwiPjxcL2Rpdj4iLCJuYW1lIjoiTkFPTUkgSkFORSBBTkdHT1QiLCJuaWNrbmFtZSI6Ik5hb21pIiwidHV0b3JfaWQiOiI0MTMzODIiLCJpbWFnZSI6IjxpbWcgc3JjPVwiaHR0cHM6XC9cL2QxYXRnaWVydjlvcDIuY2xvdWRmcm9udC5uZXRcL2ltYWdlc1wvanBnXC90dXRvclwvdDQxMzM4Mi5qcGdcIiBoZWlnaHQ9MzAgd2lkdGg9MzAgY2xhc3M9XCJhdmF0YXIgaW1nLWNpcmNsZVwiPiJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1YWxpZmljYXRpb25JZCA9ICRxdWFsaWZpY2F0aW9uTWF0ZXJpYWxMaXN0LT5xdWFsaWZpY2F0aW9uX2lkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>165</text>
+        <text>496</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRSZXF1ZXN0Um93XD4=</last-search>
+      <last-search encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRSZXF1ZXN0Um93XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -241,9 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
-        <entry encoding="base64">XDxnZXRDb25kaXRpb25CeVBhcmFtc1w+</entry>
-        <entry encoding="base64">XDxzZXRDb25kaXRpb25CeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRBc3NpZ25lZFVzZXJzXD4=</entry>
         <entry encoding="base64">XDxDbGllbnRSZXF1ZXN0TWFuYWdlXD4=</entry>
@@ -261,9 +276,11 @@
         <entry encoding="base64">XDxmcm9tQ2xpZW50UmVxdWVzdFBhcmFtc1w+</entry>
         <entry encoding="base64">XDxkYXRlVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxhZGRSZXF1ZXN0Um93XD4=</entry>
+        <entry encoding="base64">XDxqb2luXD4=</entry>
+        <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uTWF0ZXJpYWxMaXN0XD4=</entry>
+        <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>290</entry>
         <entry>640</entry>
         <entry>610</entry>
         <entry>600</entry>
@@ -283,6 +300,7 @@
         <entry>137</entry>
         <entry>950</entry>
         <entry>165</entry>
+        <entry>496</entry>
       </history-cmd>
       <history-expr />
       <history-input />
