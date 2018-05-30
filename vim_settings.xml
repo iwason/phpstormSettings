@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527646802830">
         <mark key="'" line="186" column="21" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527647129919">
+        <mark key="'" line="21" column="24" />
+      </file>
       <file name="/routes.php" timestamp="1527225076254" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ClientRequestWorkflowStatus.php" timestamp="1527482622073" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
@@ -49,7 +52,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1527592345957">
+      <file name="/dummy.sql" timestamp="1527647280694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527642686741">
@@ -73,6 +76,11 @@
         <mark key="." line="49" column="84" />
       </file>
       <file name="/ClientRequestsController.php" timestamp="1527144485321" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1527647159793">
+        <mark key="'" line="107" column="15" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Providers/AppServiceProvider.php" timestamp="1525777142570">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -84,8 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
-      <jump line="4" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" />
       <jump line="168" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="6" column="6" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="157" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -184,6 +190,8 @@
       <jump line="182" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="183" column="70" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="186" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
+      <jump line="21" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" />
+      <jump line="107" column="15" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
