@@ -20,28 +20,23 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527660106388">
-        <mark key="'" line="493" column="26" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527664465082">
+        <mark key="[" line="369" column="16" />
+        <mark key="]" line="369" column="16" />
+        <mark key="." line="369" column="16" />
+        <mark key="^" line="369" column="16" />
       </file>
       <file name="/create.js" timestamp="1526463579325">
         <mark key="'" line="213" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="64" />
-        <mark key="." line="101" column="64" />
-        <mark key="^" line="101" column="64" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/common_js/feasibility_check.blade.php" timestamp="1527581609632">
         <mark key="'" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527646802830">
-        <mark key="'" line="186" column="21" />
-      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1527664265443" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1527660202168">
+      <file name="/dummy.sql" timestamp="1527664256219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527642686741">
@@ -54,9 +49,6 @@
         <mark key="[" line="104" column="11" />
         <mark key="]" line="104" column="11" />
         <mark key="." line="104" column="11" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/client_requests/create.js" timestamp="1527662319421">
-        <mark key="'" line="137" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/tutor_schedules/bulk_create.blade.php" timestamp="1526908010986">
         <mark key="'" line="10" column="0" />
@@ -190,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRSZXF1ZXN0Um93XD4=</text>
