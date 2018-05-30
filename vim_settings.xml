@@ -20,12 +20,12 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527666439544">
-        <mark key="'" line="379" column="75" />
-        <mark key="[" line="374" column="142" />
-        <mark key="]" line="375" column="11" />
-        <mark key="^" line="375" column="11" />
-        <mark key="." line="375" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527672721652">
+        <mark key="'" line="393" column="18" />
+        <mark key="[" line="400" column="42" />
+        <mark key="]" line="400" column="44" />
+        <mark key="^" line="400" column="44" />
+        <mark key="." line="400" column="44" />
       </file>
       <file name="/create.js" timestamp="1526463579325">
         <mark key="'" line="213" column="0" />
@@ -38,6 +38,13 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/common_js/feasibility_check.blade.php" timestamp="1527581609632">
         <mark key="'" line="34" column="32" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527670762720">
+        <mark key="'" line="191" column="9" />
+        <mark key="[" line="191" column="79" />
+        <mark key="]" line="192" column="21" />
+        <mark key="." line="192" column="21" />
+        <mark key="^" line="192" column="21" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527664732455">
         <mark key="'" line="507" column="6" />
@@ -54,7 +61,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1527666576937">
+      <file name="/dummy.sql" timestamp="1527671829930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527642686741">
@@ -97,9 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="50" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="99" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="117" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="39" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="89" column="15" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="116" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -197,19 +201,22 @@
       <jump line="374" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="375" column="74" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="377" column="75" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="191" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
+      <jump line="382" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="393" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>か</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>か</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</text>
+        <text encoding="base64">XDx1c2Vyc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cXVhbGlmaWNhdGlvbk1hdGVyaWFsIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8g5aKD55WM5YCk44OG44K544OICiAgICAgICAgICAgICAgICAgICAgLy/lr77osaHjga7plovlp4vmmYLliLvjgojjgorliY3jgYvjgonntYLkuobmmYLliLvjgb7jgadPUEVO44Gn44GC44KL5LqI5a6a44GM5a2Y5Zyo44GZ44KL44GLCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -218,40 +225,40 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdjbG9zZWQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSktPmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3F1YWxpZmljYXRpb25zX3VzZXJzLnF1YWxpZmljYXRpb25faWQnLCAnPCcsICRxdWFsaWZpY2F0aW9uSWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmUoJ3F1YWxpZmljYXRpb25zLmlkJywgJHF1YWxpZmljYXRpb25JZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZihVc2VyU2hpZnRDbG9zaW5nOjp3aGVyZSgnZGF0ZScsJGNsaWVudFJlcXVlc3QtPnN0YXJ0X2F0KS0+ZXhpc3RzKCkpewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJzID0gJHVzZXJzLT53aGVyZUhhcygncXVhbGlmaWNhdGlvbnMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRxdWFsaWZpY2F0aW9uSWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSAkYnVpbGRlci0+Z2V0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJzID0gJHVzZXJzLT5xdWFsaWZpY2F0aW9ucy0+d2hlcmUoJ3F1YWxpZmljYXRpb25zLmlkJywgJHF1YWxpZmljYXRpb25JZCktPmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1YWxpZmljYXRpb25JZCA9ICRxdWFsaWZpY2F0aW9uTWF0ZXJpYWxMaXN0LT5xdWFsaWZpY2F0aW9uX2lkOwo=</text>
+        <text encoding="base64">cmV0dXJuICR1c2VyczsK</text>
       </register>
       <register name=":" type="4">
         <text>496</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</last-search>
+      <last-search encoding="base64">XDx1c2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2Vyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +266,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRBc3NpZ25lZFVzZXJzXD4=</entry>
         <entry encoding="base64">XDxDbGllbnRSZXF1ZXN0TWFuYWdlXD4=</entry>
         <entry encoding="base64">XDxhZGRTY2hlZHVsZVw+</entry>
@@ -279,6 +285,7 @@
         <entry encoding="base64">XDxqb2luXD4=</entry>
         <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uTWF0ZXJpYWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</entry>
+        <entry encoding="base64">XDx1c2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>640</entry>
