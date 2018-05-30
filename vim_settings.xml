@@ -13,27 +13,20 @@
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527642557555">
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="565" column="0" />
-        <mark key="." line="565" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_1.sql" timestamp="1527076328911">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="127" />
-        <mark key="^" line="4" column="71" />
-        <mark key="." line="4" column="71" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
+        <mark key="[" line="101" column="56" />
+        <mark key="]" line="101" column="64" />
+        <mark key="." line="101" column="64" />
+        <mark key="^" line="101" column="64" />
       </file>
       <file name="/routes.php" timestamp="1527225076254" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Domains/ClientRequestWorkflowStatus.php" timestamp="1527482622073" />
       <file name="/ClientRequestWorkflowStatus.php" timestamp="1527570977329" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527642649799">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="74" column="125" />
-        <mark key="]" line="74" column="125" />
-        <mark key="." line="74" column="125" />
-        <mark key="^" line="70" column="101" />
+        <mark key="[" line="89" column="125" />
+        <mark key="]" line="89" column="125" />
+        <mark key="." line="89" column="125" />
+        <mark key="^" line="85" column="101" />
       </file>
       <file name="/ResponseHelper.php" timestamp="1527581828080" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientsController.php" timestamp="1527076753359" />
@@ -43,13 +36,6 @@
       <file name="/User.php" timestamp="1527592616249" />
       <file name="/dummy.sql" timestamp="1527592345957">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/public/assets/js/app/tutor_schedules.js" timestamp="1526973075290">
-        <mark key="'" line="18" column="37" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="11" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1527642686741">
         <mark key="[" line="0" column="12" />
