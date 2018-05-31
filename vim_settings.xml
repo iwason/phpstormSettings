@@ -15,20 +15,30 @@
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/README.md" timestamp="1527751546674">
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="10" />
+        <mark key="." line="58" column="10" />
+        <mark key="^" line="58" column="10" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Modules/Admin/Validators/ReopenLessonSlotRequestValidator.php" timestamp="1526290293141">
         <mark key="[" line="14" column="130" />
         <mark key="]" line="14" column="130" />
         <mark key="." line="14" column="130" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527674644170">
-        <mark key="'" line="393" column="18" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="^" line="398" column="11" />
-        <mark key="." line="397" column="0" />
+      <file name="/a.dummy" timestamp="1527751001429">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/create.js" timestamp="1526463579325">
-        <mark key="'" line="213" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527750073388">
+        <mark key="'" line="393" column="18" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="^" line="398" column="11" />
+        <mark key="." line="396" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/UserTest.php" timestamp="1527751896405">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/index.blade.php" timestamp="1527138053665">
         <mark key="[" line="101" column="56" />
@@ -36,18 +46,24 @@
         <mark key="." line="101" column="64" />
         <mark key="^" line="101" column="64" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/common_js/feasibility_check.blade.php" timestamp="1527581609632">
-        <mark key="'" line="34" column="32" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/ClientRequestManageTest.php" timestamp="1527751963849">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527670762720">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527750126329">
         <mark key="'" line="191" column="9" />
-        <mark key="[" line="191" column="79" />
-        <mark key="]" line="192" column="21" />
-        <mark key="." line="192" column="21" />
-        <mark key="^" line="192" column="21" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527664732455">
-        <mark key="'" line="507" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/CategoryTest.php" timestamp="1527751845653">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" timestamp="1527750492686">
+        <mark key="'" line="579" column="27" />
         <mark key="[" line="556" column="0" />
         <mark key="]" line="560" column="14" />
       </file>
@@ -58,14 +74,18 @@
         <mark key="^" line="495" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1527664265443" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/MaterialLessonListTb.php" timestamp="1526629219098">
-        <mark key="'" line="7" column="7" />
-      </file>
-      <file name="/dummy.sql" timestamp="1527671829930">
+      <file name="$USER_HOME$/PhpstormProjects/lms/.env.testing" timestamp="1527751665495" />
+      <file name="/dummy.sql" timestamp="1527751763697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527642686741">
-        <mark key="[" line="0" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/tests/ClientRequestManageTest.php.php" timestamp="1527750984354">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527751438228">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -75,14 +95,12 @@
         <mark key="]" line="104" column="11" />
         <mark key="." line="104" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/tutor_schedules/bulk_create.blade.php" timestamp="1526908010986">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" timestamp="1527227980907">
         <mark key="[" line="49" column="84" />
         <mark key="]" line="49" column="84" />
         <mark key="." line="49" column="84" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1527751650525" />
       <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1527647159793">
         <mark key="'" line="107" column="15" />
         <mark key="[" line="19" column="6" />
@@ -93,18 +111,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1526637837775">
-        <mark key="'" line="963" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Qualification.php" timestamp="1527125552995">
-        <mark key="'" line="31" column="12" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="89" column="15" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="116" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
@@ -204,37 +212,44 @@
       <jump line="191" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="382" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="393" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="579" column="27" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>TestCase</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2Vyc1w+</text>
+        <text encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGF0ZSgnWS1tLWQgMDA6MDA6MDAnLCBzdHJ0b3RpbWUoJGNsaWVudFJlcXVlc3QtPnN0YXJ0X2F0KSk=</text>
+        <text>class UserTest extends \Codeception\TestCase\Test
+{
+    /**
+     * @var \UnitTester
+     */
+    protected $tester;
+    use DatabaseMigrations;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJzOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJ1aWxkZXItPmxlZnRKb2luKCd0dXRvcl9zY2hlZHVsZXMnLCBmdW5jdGlvbiAoJGpvaW4pIHVzZSAoJGNsaWVudFJlcXVlc3QpIHsKICAgICAgICAgICAgICAgICRqb2luLT5vbigndHV0b3Jfc2NoZWR1bGVzLnVzZXJfaWQnLCAnPScsICd1c2Vycy5pZCcpCiAgICAgICAgICAgICAgICAgICAgLy9UT0RPIOWig+eVjOWApOODhuOCueODiAogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3R1dG9yX3NjaGVkdWxlcy5zdGFydF9hdCcsICc+PScsICRjbGllbnRSZXF1ZXN0LT5zdGFydF9hdCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0dXRvcl9zY2hlZHVsZXMuZW5kX2F0JywgJzwnLCAkY2xpZW50UmVxdWVzdC0+ZW5kX2F0KQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmVOb3RCZXR3ZWVuKCd0dXRvcl9zY2hlZHVsZXMuc3RhcnRfYXQnLCAnPCcsICRjbGllbnRSZXF1ZXN0LT5zdGFydF9hdCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0dXRvcl9zY2hlZHVsZXMuZW5kX2F0JywgJz49JywgJGNsaWVudFJlcXVlc3QtPmVuZF9hdCk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAoc2hpZnQgY2xvc2XliY3jga90dXRvcl9zY2hlZHVsZeOBq+ODrOOCs+ODvOODieOBquOBlykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+WvvuixoeOBrumWi+Wni+aZguWIu+OBi+OCiee1guS6huaZguWIu+OBvuOBp+S6iOWumuOBjOWtmOWcqOOBl+OBquOBhAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -246,19 +261,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJ1aWxkZXItPmxlZnRKb2luKCd0dXRvcl9zY2hlZHVsZXMnLCBmdW5jdGlvbiAoJGpvaW4pIHVzZSAoJGNsaWVudFJlcXVlc3QpIHsKICAgICAgICAgICAgICAgICRqb2luLT5vbigndHV0b3Jfc2NoZWR1bGVzLnVzZXJfaWQnLCAnPScsICd1c2Vycy5pZCcpCiAgICAgICAgICAgICAgICAgICAgLy9UT0RPIOWig+eVjOWApOODhuOCueODiAogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3R1dG9yX3NjaGVkdWxlcy5zdGFydF9hdCcsICc+PScsICRjbGllbnRSZXF1ZXN0LT5zdGFydF9hdCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0dXRvcl9zY2hlZHVsZXMuZW5kX2F0JywgJzwnLCAkY2xpZW50UmVxdWVzdC0+ZW5kX2F0KQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmVOb3RCZXR3ZWVuKCd0dXRvcl9zY2hlZHVsZXMuc3RhcnRfYXQnLCAnPCcsICRjbGllbnRSZXF1ZXN0LT5zdGFydF9hdCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0dXRvcl9zY2hlZHVsZXMuZW5kX2F0JywgJz49JywgJGNsaWVudFJlcXVlc3QtPmVuZF9hdCk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdjbG9zZWQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+WvvuixoeOBrumWi+Wni+aZguWIu+OBi+OCiee1guS6huaZguWIu+OBvuOBp+S6iOWumuOBjOWtmOWcqOOBl+OBquOBhAo=</text>
       </register>
       <register name=":" type="4">
         <text>496</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2Vyc1w+</last-search>
+      <last-search encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2Vyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBc3NpZ25lZFVzZXJzXD4=</entry>
         <entry encoding="base64">XDxDbGllbnRSZXF1ZXN0TWFuYWdlXD4=</entry>
         <entry encoding="base64">XDxhZGRTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxkZWxldGVTY2hlZHVsZVw+</entry>
@@ -286,6 +300,7 @@
         <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uTWF0ZXJpYWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxxdWFsaWZpY2F0aW9uSWRcPg==</entry>
         <entry encoding="base64">XDx1c2Vyc1w+</entry>
+        <entry encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>640</entry>
