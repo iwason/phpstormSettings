@@ -61,20 +61,21 @@
         <mark key="." line="11" column="25" />
       </file>
       <file name="src:table:/c2d5abfa/a1ce3177-5720-4cc2-a693-0ad372b93bde/lms_test.client_request_logs" timestamp="1527754560937" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527829805660">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527832410562">
         <mark key="'" line="139" column="29" />
-        <mark key="[" line="162" column="53" />
-        <mark key="]" line="163" column="7" />
-        <mark key="." line="163" column="7" />
-        <mark key="^" line="163" column="7" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="162" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1527830004092">
-        <mark key="'" line="346" column="6" />
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="47" />
-        <mark key="." line="364" column="31" />
-        <mark key="^" line="364" column="30" />
+        <mark key="'" line="345" column="6" />
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="47" />
+        <mark key="." line="362" column="31" />
+        <mark key="^" line="362" column="30" />
       </file>
+      <file name="/Room.php" timestamp="1527832425978" />
       <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1527751650525" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Group.php" timestamp="1527065474821">
         <mark key="'" line="33" column="0" />
@@ -124,7 +125,7 @@
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527830713581">
         <mark key="'" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1527830373947">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1527832567782">
         <mark key="'" line="135" column="66" />
         <mark key="[" line="153" column="22" />
         <mark key="]" line="153" column="22" />
@@ -140,10 +141,10 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527816702022">
+      <file name="/Dummy.txt" timestamp="1527832753358">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1527756330817">
         <mark key="'" line="66" column="9" />
@@ -284,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text>var からletに変更</text>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text>var からletに変更</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjb25uZWN0ZWRcPg==</text>
@@ -302,31 +303,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiA+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5oyH5a6a44GV44KM44Gf5a2m5qCh44Gu5ZCEZGV2aWNl5oOF5aCx44KS5Y+W5b6X44GZ44KLCiAgICAgKiBtaWMsIGNhbWVyYSwgc2VuZF9hdAogICAgICogQHBhcmFtIFNjaG9vbCAkc2Nob29sCiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0QWxsTG9ncyhTY2hvb2wgJHNjaG9vbCkKICAgIHsKICAgICAgICAkZmlyZWJhc2UgPSBuZXcgRmlyZWJhc2UoKTsKLy8gICAgICAgICRzY2hvb2xJZCA9IFNjaG9vbDo6Z2V0U2Nob29sSWRPbkZpcmViYXNlKCRzY2hvb2wtPmlkKTsKICAgICAgICAkc2Nob29sSWQgPSAxOwogICAgICAgICR1cmkgPSAiL3NjaG9vbHMveyRzY2hvb2xJZH0vcm9vbXMvMS9sb2dzIjsKCiAgICAgICAgJHZhbHVlcyA9ICRmaXJlYmFzZS0+Z2V0UmVmZXJlbmNlQnlVcmkoJHVyaSk7CiAgICAgICAgJGxvZ3MgPSBbXTsKICAgICAgICBmb3JlYWNoICgkdmFsdWVzIGFzICRyb29tSWQgPT4gJGRhdGEpIHsKICAgICAgICAgICAgaWYgKGVtcHR5KCRkYXRhWydsb2dzJ10pID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgJGRhdGFbJ2xvZ3MnXVsnc3RhcnRfYXQnXSA9IG5ldyBDYXJib24oJ0AnIC4gc3Vic3RyKCRkYXRhWydsb2dzJ11bJ3NlbmRfYXQnXSwgMCwgMTApKTsKICAgICAgICAgICAgICAgICRsb2dzWyRyb29tSWRdID0gJGRhdGFbJ2xvZ3MnXTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJGxvZ3M7CgogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxhIGhyZWY9Ii9yb29tcy97eyRzY2hvb2wtPmlkfX0ve3skcm9vbS0+cm9vbV9pZH19L2xvZ3MiID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyRyb29tLT5yb29tX2lkfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkc2Nob29sSWQgPSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggdGl0bGU9InBlZXIgc3RhdHVzIiBjbGFzcz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlua3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiA+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggdGl0bGU9InBlZXIgc3RhdHVzIiBjbGFzcz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaW5rcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGg+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IDxhIGhyZWY9Ii9yb29tcy97eyRzY2hvb2wtPmlkfX0ve3skcm9vbS0+cm9vbV9pZH19L2xvZ3MiID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyRyb29tLT5yb29tX2lkfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZXllIj50ZXN0PC9pPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>496</text>
