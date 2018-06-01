@@ -42,10 +42,11 @@
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1527829772572">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1527838733923">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1527752529032">
         <mark key="'" line="191" column="9" />
