@@ -81,13 +81,6 @@
       </file>
       <file name="/Room.php" timestamp="1527832425978" />
       <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1527751650525" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1527659605234">
-        <mark key="'" line="58" column="37" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/seeds/DatabaseSeeder.php" timestamp="1527753240855">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="32" />
@@ -121,7 +114,7 @@
         <mark key="^" line="495" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1527664265443" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527842723986">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="32" />
@@ -135,7 +128,7 @@
         <mark key="." line="153" column="22" />
         <mark key="^" line="155" column="9" />
       </file>
-      <file name="/dummy.sql" timestamp="1527828789597">
+      <file name="/dummy.sql" timestamp="1527844446520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/tests/ClientRequestManageTest.php.php" timestamp="1527750984354">
@@ -144,7 +137,7 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527832753358">
+      <file name="/Dummy.txt" timestamp="1527844201404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -294,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>or</text>
+        <text>接続ログの表示</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>接続ログの表示</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3NcPg==</text>
