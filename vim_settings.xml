@@ -61,19 +61,19 @@
         <mark key="." line="11" column="25" />
       </file>
       <file name="src:table:/c2d5abfa/a1ce3177-5720-4cc2-a693-0ad372b93bde/lms_test.client_request_logs" timestamp="1527754560937" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527832410562">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527837411291">
         <mark key="'" line="139" column="29" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="31" />
+        <mark key="." line="133" column="31" />
         <mark key="^" line="162" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1527830004092">
-        <mark key="'" line="345" column="6" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="362" column="47" />
-        <mark key="." line="362" column="31" />
-        <mark key="^" line="362" column="30" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1527836926147">
+        <mark key="'" line="227" column="11" />
+        <mark key="[" line="94" column="27" />
+        <mark key="]" line="94" column="49" />
+        <mark key="." line="94" column="49" />
+        <mark key="^" line="94" column="49" />
       </file>
       <file name="/Room.php" timestamp="1527832425978" />
       <file name="$USER_HOME$/PhpstormProjects/lms/.env" timestamp="1527751650525" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1578" column="20" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="21" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="246" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="249" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
@@ -282,19 +281,20 @@
       <jump line="21" column="28" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
       <jump line="22" column="25" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
       <jump line="20" column="11" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
+      <jump line="227" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var からletに変更</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>var からletに変更</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNjb25uZWN0ZWRcPg==</text>
+        <text encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Disconnected</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkc2Nob29sSWQgPSBTY2hvb2w6OmdldFNjaG9vbElkT25GaXJlYmFzZSgkc2Nob29sLT5pZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -334,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNjb25uZWN0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNjb25uZWN0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -344,8 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNGZWFzaWJpbGl0eUltcGFjdFw+</entry>
-        <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0RGV0YWlsXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxvcHNVc2VySWRcPg==</entry>
         <entry encoding="base64">XDxnZXRGZWFzaWJpbGl0eVw+</entry>
@@ -364,6 +362,8 @@
         <entry encoding="base64">XDxzZW5kX2F0XD4=</entry>
         <entry encoding="base64">XDxzZW5kTGVzc29uTG9nc1w+</entry>
         <entry encoding="base64">XDxkaXNjb25uZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>640</entry>
