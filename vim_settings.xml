@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" timestamp="1527591199784">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" timestamp="1528106170587">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -131,11 +131,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1528077827932">
-        <mark key="'" line="66" column="9" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1528106683644">
+        <mark key="'" line="142" column="20" />
         <mark key="[" line="104" column="11" />
         <mark key="]" line="104" column="11" />
         <mark key="." line="104" column="11" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528105852664">
+        <mark key="'" line="45" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527842934323">
         <mark key="'" line="138" column="29" />
@@ -187,11 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="167" column="64" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="27" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
-      <jump line="182" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
-      <jump line="183" column="70" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="186" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" />
       <jump line="21" column="24" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/User.php" />
       <jump line="107" column="15" filename="$USER_HOME$/PhpstormProjects/lms/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
@@ -287,6 +285,11 @@
       <jump line="22" column="10" filename="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" />
       <jump line="56" column="53" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
       <jump line="59" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
+      <jump line="45" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
+      <jump line="167" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="138" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="141" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
+      <jump line="142" column="20" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +299,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZVw+</text>
+        <text encoding="base64">XDxwcmV2aW91c1R1dG9yU2NoZWR1bGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Minutes</text>
@@ -339,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZVw+</last-search>
+      <last-search encoding="base64">XDxwcmV2aW91c1R1dG9yU2NoZWR1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmV2aW91c1R1dG9yU2NoZWR1bGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</entry>
         <entry encoding="base64">XDx0dXRvcl9zY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxyZWZcPg==</entry>
@@ -369,6 +371,7 @@
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
+        <entry encoding="base64">XDxwcmV2aW91c1R1dG9yU2NoZWR1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>640</entry>
