@@ -87,6 +87,9 @@
         <mark key="." line="495" column="25" />
         <mark key="^" line="495" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1528104614540">
+        <mark key="'" line="59" column="28" />
+      </file>
       <file name="/firebase.js" timestamp="1528092837871">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="118" />
@@ -184,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="26" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="205" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="142" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="167" column="64" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="27" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" />
@@ -284,6 +285,8 @@
       <jump line="97" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="15" column="4" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="22" column="10" filename="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" />
+      <jump line="56" column="53" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
+      <jump line="59" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -293,7 +296,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnB1dFw+</text>
+        <text encoding="base64">XDxzY2hlZHVsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>Minutes</text>
@@ -336,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnB1dFw+</last-search>
+      <last-search encoding="base64">XDxzY2hlZHVsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnB1dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlZHVsZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -346,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2Vyc1w+</entry>
         <entry encoding="base64">XDxnZXRVc2VyQnlJZHNcPg==</entry>
         <entry encoding="base64">XDx0dXRvcl9zY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
@@ -366,6 +368,7 @@
         <entry encoding="base64">XDxzZW5kX2F0XD4=</entry>
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>640</entry>
