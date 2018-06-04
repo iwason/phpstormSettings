@@ -65,6 +65,7 @@
         <mark key="." line="11" column="25" />
       </file>
       <file name="src:table:/c2d5abfa/a1ce3177-5720-4cc2-a693-0ad372b93bde/lms_test.client_request_logs" timestamp="1527754560937" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/tests/unit/AccessoryTest.php" timestamp="1528098953968" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1527842934323">
         <mark key="'" line="138" column="29" />
         <mark key="[" line="133" column="0" />
@@ -93,12 +94,11 @@
         <mark key="." line="58" column="10" />
         <mark key="^" line="58" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1527754918017">
-        <mark key="'" line="254" column="55" />
-        <mark key="[" line="79" column="32" />
-        <mark key="]" line="79" column="52" />
-        <mark key="^" line="398" column="11" />
-        <mark key="." line="396" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528099587039">
+        <mark key="[" line="365" column="18" />
+        <mark key="]" line="365" column="31" />
+        <mark key="^" line="365" column="31" />
+        <mark key="." line="365" column="31" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/kreait/firebase-php/src/Firebase/Database/Snapshot.php" timestamp="1527820112412" />
       <file name="$USER_HOME$/PhpstormProjects/lms/database/seeds/ClientsSeeder.php" timestamp="1527754736149">
@@ -141,7 +141,7 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528095972827">
+      <file name="/Dummy.txt" timestamp="1528099611510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc2VuZF9hdCA9IGAke25vdy5nZXRGdWxsWWVhcigpfS8ke25vdy5nZXRNb250aCgpKzF9LyR7bm93LmdldERhdGUoKX0gJHtub3cuZ2V0SG91cnMoKX06JHtub3cuZ2V0TWludXRlcygpfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kX2F0XD4=</text>
@@ -303,37 +303,37 @@
         <text>Minutes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc2VuZF9hdCA9IGAke25vdy5nZXRGdWxsWWVhcigpfS8ke25vdy5nZXRNb250aCgpKzF9LyR7bm93LmdldERhdGUoKX0gJHtub3cuZ2V0SG91cnMoKX06JHtub3cuZ2V0TWludXRlcygpfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbmRfYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbmRfYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5hc3NpZ25lZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoID0gKCcwMCcgKyAoc2VuZEF0LmdldE1vbnRoKCkgKyAxKS50b1N0cmluZygpKS5zbGljZSgtMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc2VuZF9hdCA9IGAke25vdy5nZXRGdWxsWWVhcigpfS8ke25vdy5nZXRNb250aCgpKzF9LyR7bm93LmdldERhdGUoKX0gJHtub3cuZ2V0SG91cnMoKX06JHtub3cuZ2V0TWludXRlcygpfWA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbmRfYXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbmRfYXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGUgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1vbnRoID0gKCcwMCcgKyAoc2VuZEF0LmdldE1vbnRoKCkgKyAxKS50b1N0cmluZygpKS5zbGljZSgtMik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>496</text>
