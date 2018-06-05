@@ -306,7 +306,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEludCAkY2xpZW50UmVxdWVzdElkCiAgICAgKiBAcmV0dXJuIG1peGVkfHN0YXRpYwogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldChJbnQgJGNsaWVudFJlcXVlc3RJZCkKICAgIHsKICAgICAgICAkY2xpZW50UmVxdWVzdCA9IENsaWVudFJlcXVlc3Q6OmZpbmQoJGNsaWVudFJlcXVlc3RJZCk7CgogICAgICAgIHJldHVybiAkY2xpZW50UmVxdWVzdDsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>496</text>
+        <text>1200</text>
       </register>
     </registers>
     <search>
@@ -342,7 +342,6 @@
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>640</entry>
         <entry>610</entry>
         <entry>600</entry>
         <entry>104</entry>
@@ -362,6 +361,7 @@
         <entry>950</entry>
         <entry>165</entry>
         <entry>496</entry>
+        <entry>1200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
