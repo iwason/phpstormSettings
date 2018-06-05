@@ -29,12 +29,6 @@
       <file name="/a.dummy" timestamp="1527751001429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528173944790">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1527821295328">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="36" />
@@ -84,6 +78,18 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="118" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Commands/schedule/FeasibilityCheckCommand.php" timestamp="1528176525112">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Kernel.php" timestamp="1528176315959">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
         <mark key="[" line="45" column="30" />
@@ -116,10 +122,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528174020734">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1528176678410">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/TutorSchedule.php" timestamp="1528167578407">
         <mark key="'" line="157" column="21" />
@@ -275,17 +281,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>講師アサインの際に現状を確認するように変更
-不要なコメント、ソースを削除</text>
+        <text>refs #42448 不要なメソッドを削除</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>refs #42448 不要なメソッドを削除</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50UmVxdWVzdCA9IENsaWVudFJlcXVlc3Q6OmZpbmQoJGNsaWVudFJlcXVlc3RJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tYW5kc1xSYXJlam9iQmFzaWNPcGVyYXRpb25zT3ZlcnZpZXdTeW5jOjpjbGFzcywK</text>
       </register>
       <register name="1" type="4">
         <text>講師アサインの際に現状を確認するように変更
