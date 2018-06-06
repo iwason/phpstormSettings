@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528279652036">
-        <mark key="'" line="554" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528280492325">
+        <mark key="'" line="622" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/config/app.php" timestamp="1528178967039">
         <mark key="'" line="3" column="0" />
@@ -75,7 +75,6 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
     </filemarks>
     <jumps>
-      <jump line="227" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="53" column="34" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" />
       <jump line="46" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
       <jump line="35" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" />
@@ -175,6 +174,7 @@
       <jump line="75" column="21" filename="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" />
       <jump line="266" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" />
       <jump line="554" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
+      <jump line="622" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -184,7 +184,7 @@
         <text>drop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDbGllbnRSZXF1ZXN0QnlIb3VyQW5kTWludXRlc1w+</text>
+        <text encoding="base64">XDxnZXRSZXNlcnZlZFRocmVzaG9sZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0aXRsZScpOwogICAgICAgICAgICAkdGFibGUtPmRyb3BDb2x1bW4oJ2RldGFpbCcpOwogICAgICAgICAgICAkdGFibGUtPmRyb3BDb2x1bW4oJ2xvY2F0aW9uJyk7Cg==</text>
@@ -227,9 +227,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDbGllbnRSZXF1ZXN0QnlIb3VyQW5kTWludXRlc1w+</last-search>
+      <last-search encoding="base64">XDxnZXRSZXNlcnZlZFRocmVzaG9sZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDbGllbnRSZXF1ZXN0QnlIb3VyQW5kTWludXRlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZXNlcnZlZFRocmVzaG9sZHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -237,7 +237,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kX2F0XD4=</entry>
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
@@ -257,6 +256,7 @@
         <entry encoding="base64">XDxwb3N0X2ZsYWdcPg==</entry>
         <entry encoding="base64">XDxfc2NyYXBfbmV3c1w+</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRSZXF1ZXN0QnlIb3VyQW5kTWludXRlc1w+</entry>
+        <entry encoding="base64">XDxnZXRSZXNlcnZlZFRocmVzaG9sZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
