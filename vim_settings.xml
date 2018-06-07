@@ -94,12 +94,12 @@
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528357116400">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528359576410">
         <mark key="'" line="323" column="12" />
-        <mark key="[" line="629" column="54" />
-        <mark key="]" line="629" column="54" />
-        <mark key="^" line="629" column="18" />
-        <mark key="." line="629" column="54" />
+        <mark key="[" line="664" column="50" />
+        <mark key="]" line="664" column="50" />
+        <mark key="^" line="664" column="50" />
+        <mark key="." line="664" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -206,49 +206,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>convertTimeRangeToSlotList</text>
+        <text>nextSlotString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFmZmVjdGVkUmVxdWVzdHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNsaWVudFJlcXVlc3RzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRlbmRBdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZXhwb3J0KCRzdGFydEF0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT53aGVyZVJhdyhEQjo6cmF3KCJlbmRfYXQgQkVUV0VFTiAneyRzdGFydEF0fScgQU5EICd7JGVuZEF0fSciKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlQmV0d2Vlbignc3RhcnRfYXQnLCBbJHN0YXJ0QXQsICRlbmRBdF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5hZGRDdWxtbigndGl0bGUnKS0+bnVsbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgdGltZVswXSArICI6IiArIG1pbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5hZGRDb2x1bW4oJ2xvY2F0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIG1pbiA9IHBhcnNlSW50KGZyb21UaW1lWzFdKSA8IDMwID8gIjAwIiA6ICIzMCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5hZGRDb2x1bW4oJ2RldGFpbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
