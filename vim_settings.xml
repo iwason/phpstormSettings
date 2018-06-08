@@ -129,16 +129,15 @@
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528427304996">
-        <mark key="'" line="468" column="0" />
-        <mark key="[" line="751" column="0" />
-        <mark key="]" line="751" column="0" />
-        <mark key="^" line="748" column="21" />
-        <mark key="." line="751" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528434498162">
+        <mark key="'" line="1259" column="17" />
+        <mark key="[" line="746" column="47" />
+        <mark key="]" line="746" column="47" />
+        <mark key="^" line="746" column="47" />
+        <mark key="." line="746" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="77" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="94" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="84" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -238,19 +237,20 @@
       <jump line="166" column="30" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="318" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="468" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="1259" column="17" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkRhdGFNYXApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>= parseInt([data[i][4]])</text>
       </register>
       <register name="-" type="4">
-        <text>yearMonth</text>
+        <text>= parseInt([data[i][4]])</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudExlc3Nvblw+</text>
+        <text encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGVzc29uRGF0YSA=</text>
+        <text>totalClass</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkRhdGFNYXApOwo=</text>
@@ -290,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudExlc3Nvblw+</last-search>
+      <last-search encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudExlc3Nvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -317,9 +317,9 @@
         <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</entry>
         <entry encoding="base64">XDxsZXNzb25UeXBlXD4=</entry>
         <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
+        <entry encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
