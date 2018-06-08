@@ -58,9 +58,6 @@
         <mark key="]" line="303" column="0" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/IndividualSchedule.php" timestamp="1528104614540">
-        <mark key="'" line="59" column="28" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
         <mark key="[" line="45" column="30" />
@@ -117,9 +114,9 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ThresholdsController.php" timestamp="1528282544246">
         <mark key="'" line="3" column="61" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1527843584670">
         <mark key="'" line="53" column="34" />
