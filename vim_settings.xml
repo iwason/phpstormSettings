@@ -84,7 +84,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528284110630">
+      <file name="/Dummy.txt" timestamp="1528420230489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -241,7 +241,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>スペースの対処
+正規表現を修正</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -252,8 +253,9 @@
       <register name="0" type="4">
         <text>nextSlotString</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>スペースの対処
+正規表現を修正</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -277,13 +279,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGltZVswXSArICI6IiArIG1pbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1pbiA9IHBhcnNlSW50KGZyb21UaW1lWzFdKSA8IDMwID8gIjAwIiA6ICIzMCI7Cg==</text>
+        <text encoding="base64">ICAgICAgdGltZVswXSArICI6IiArIG1pbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIG1pbiA9IHBhcnNlSW50KGZyb21UaW1lWzFdKSA8IDMwID8gIjAwIiA6ICIzMCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
