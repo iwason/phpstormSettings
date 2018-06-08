@@ -129,23 +129,15 @@
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528359576410">
-        <mark key="'" line="323" column="12" />
-        <mark key="[" line="664" column="50" />
-        <mark key="]" line="664" column="50" />
-        <mark key="^" line="664" column="50" />
-        <mark key="." line="664" column="50" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528425073901">
+        <mark key="'" line="318" column="9" />
+        <mark key="[" line="728" column="63" />
+        <mark key="]" line="728" column="70" />
+        <mark key="^" line="728" column="70" />
+        <mark key="." line="728" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="136" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="205" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="261" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="275" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="304" column="2" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="325" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="65" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="77" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -235,36 +227,43 @@
       <jump line="190" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="22" column="49" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="108" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="318" column="21" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="323" column="12" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="34" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" />
+      <jump line="530" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="366" column="57" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="365" column="8" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="228" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="677" column="4" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="700" column="16" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="166" column="30" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="318" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>スペースの対処
-正規表現を修正</text>
+        <text>Demo</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Demo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lUmFuZ2VcPg==</text>
+        <text encoding="base64">XDxjb3VudExlc3Nvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>nextSlotString</text>
+        <text>Demo:0</text>
       </register>
-      <register name="1" type="4">
-        <text>スペースの対処
-正規表現を修正</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBSZWd1bGFyLCwsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBkYXRhW2ldWzBdCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>スペースの対処
+正規表現を修正</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,19 +281,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGltZVswXSArICI6IiArIG1pbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1pbiA9IHBhcnNlSW50KGZyb21UaW1lWzFdKSA8IDMwID8gIjAwIiA6ICIzMCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lUmFuZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxjb3VudExlc3Nvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lUmFuZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudExlc3Nvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -302,9 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2aW91c1R1dG9yU2NoZWR1bGVcPg==</entry>
-        <entry encoding="base64">XDxoYXNQcmV2aW91c09wZW5TY2hlZHVsZVw+</entry>
-        <entry encoding="base64">XDxoYXNGb2xsb3dpbmdPcGVuU2NoZWR1bGVcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxnZXRGZWFzaWJpbGl0eVw+</entry>
@@ -322,6 +318,9 @@
         <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</entry>
+        <entry encoding="base64">XDxsZXNzb25UeXBlXD4=</entry>
+        <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
