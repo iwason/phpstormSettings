@@ -129,16 +129,15 @@
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528425073901">
-        <mark key="'" line="318" column="9" />
-        <mark key="[" line="728" column="63" />
-        <mark key="]" line="728" column="70" />
-        <mark key="^" line="728" column="70" />
-        <mark key="." line="728" column="70" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528427304996">
+        <mark key="'" line="468" column="0" />
+        <mark key="[" line="751" column="0" />
+        <mark key="]" line="751" column="0" />
+        <mark key="^" line="748" column="21" />
+        <mark key="." line="751" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="65" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="77" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="94" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -238,53 +237,53 @@
       <jump line="700" column="16" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="166" column="30" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="318" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="468" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Demo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkRhdGFNYXApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Demo</text>
+        <text>yearMonth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudExlc3Nvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>Demo:0</text>
+        <text encoding="base64">bGVzc29uRGF0YSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWd1bGFyLCwsCg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkRhdGFNYXApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBkYXRhW2ldWzBdCg==</text>
+        <text encoding="base64">ICAgIGZvciAodmFyIHllYXJNb250aCBpbiBsZXNzb25EYXRhTWFwKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>スペースの対処
-正規表現を修正</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxlc3NvbkRhdGFNYXApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbGVzc29uRGF0YU1hcDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9CiAgcmV0dXJuIGxlc3NvbkRhdGFNYXA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50TGVzc29uKHRpbWVSYW5nZSwgbGVzc29uRGF0ZSwgbGVzc29uRGF0YU1hcCwgZGF0YVtpXVszXSwgZGF0YVtpXVs1XSwgcHJldik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vTG9nZ2VyLmxvZyhsZXNzb25EYXRlICsgIiByb29wIGxlc3NvbiBpcyAiICsgZGF0YVtpXVs2XSArICIgc2xvdHMgIiArIGRhdGFbaV1bNF0gKyAiPGJyPiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
