@@ -29,12 +29,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528705962264">
-        <mark key="'" line="71" column="9" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="34" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528708436115">
+        <mark key="'" line="16" column="44" />
+        <mark key="[" line="158" column="4" />
+        <mark key="]" line="158" column="33" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="157" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
@@ -164,12 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="57" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" />
-      <jump line="48" column="27" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" />
-      <jump line="55" column="116" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" />
-      <jump line="15" column="104" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" />
-      <jump line="25" column="53" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" />
-      <jump line="35" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="46" column="13" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="32" column="27" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="61" column="33" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
@@ -264,61 +258,69 @@
       <jump line="87" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="86" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="71" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="115" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="139" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="141" column="24" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="16" column="44" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1hcFtzaGVldC5nZXROYW1lKCldID0gdG90YWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1dpdGhpblJhbmdlXD4=</text>
+        <text encoding="base64">XDxnZXRWYWx1ZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vaG91cuOBjEZyb23jgajlkIzjgZjjgarjgoltaW7jga/lpKfjgY3jgYTlv4XopoHjgYzjgYLjgosK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bWFwIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcFtzaGVldC5nZXROYW1lKCldID0gdG90YWw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IgKHZhciBpID0gMDsgaSA8IHR1dG9yTGlzdC5sZW5ndGg7IGkrKykgewogICAgaWYgKHR1dG9yTGlzdFtpXVswXSAhPSAnJykgewogICAgICBpZiAodHV0b3JMaXN0W2ldWzVdIGluIGRhdGFNYXAgPT0gZmFsc2UpIHsKICAgICAgICBkYXRhTWFwW3R1dG9yTGlzdFtpXVs1XV0gPSB7dG90YWw6IDAsIHRpZExpc3Q6IFtdfTsKICAgICAgfQogICAgICBkYXRhTWFwW3R1dG9yTGlzdFtpXVs1XV1bJ3RvdGFsJ10rKzsKICAgICAgZGF0YU1hcFt0dXRvckxpc3RbaV1bNV1dWyd0aWRMaXN0J10ucHVzaChwYXJzZUludCh0dXRvckxpc3RbaV1bMF0pKTsKICAgIH0KCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgdG90YWwgKz0gbWFwLnRvdGFsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGlmIChpc1dpdGhpblJhbmdlKHRpbWUsIHJhbmdlKSkgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="6" type="4">
+        <text>function mergeMapByClarificationSheet(dataMap, sheetByName) {
+  
+}</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhU2hlZXRzLmdldFNoZWV0QnlOYW1lKCdBY3RpdmUgRGlzY3Vzc2lvbicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKHRpbWUgKyAiIGlzIGluICIgKyBmcm9tICsgJyBmcm9tICcgKyB0byk7Cg==</text>
+        <text encoding="base64">ICBtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0KGRhdGFNYXAsZGF0YVNoZWV0cy5nZXRTaGVldEJ5TmFtZSgnQWN0aXZlIERpc2N1c3Npb24nKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0KGRhdGFNYXAsZGF0YVNoZWV0cy5nZXRTaGVldEJ5TmFtZSgnQWN0aXZlIERpc2N1c3Npb24nKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1dpdGhpblJhbmdlXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRWYWx1ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1dpdGhpblJhbmdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYWx1ZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmRcPg==</entry>
-        <entry encoding="base64">XDxzZXRMYXlvdXRcPg==</entry>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxsZXNzb25UeXBlXD4=</entry>
         <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
@@ -340,12 +339,15 @@
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
         <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
-        <entry encoding="base64">XDxnZXREYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxzZXRUdXRvclZpZXdMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxnZXRMb29wQ291bnRcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0MTJIb3VyVG8yNEhvdXJcPg==</entry>
         <entry encoding="base64">XDxpc1dpdGhpblJhbmdlXD4=</entry>
+        <entry encoding="base64">XDxkYXRhU2hlZXRcPg==</entry>
+        <entry encoding="base64">XDxnZXREYXRhTWFwXD4=</entry>
+        <entry encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</entry>
+        <entry encoding="base64">XDxnZXRWYWx1ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
