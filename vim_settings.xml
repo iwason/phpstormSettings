@@ -22,12 +22,11 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528716360761">
-        <mark key="'" line="61" column="34" />
-        <mark key="[" line="42" column="89" />
-        <mark key="]" line="42" column="89" />
-        <mark key="^" line="42" column="89" />
-        <mark key="." line="42" column="89" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528717697070">
+        <mark key="'" line="41" column="92" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="4" />
+        <mark key="." line="65" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
@@ -170,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" />
       <jump line="559" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
       <jump line="28" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
       <jump line="47" column="61" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ThresholdsController.php" />
@@ -270,61 +268,62 @@
       <jump line="128" column="42" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="136" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="58" column="34" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="41" column="92" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clarificationSheetNameList</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>CLARIFICATION</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</text>
+        <text encoding="base64">XDxjbGFyaWZpY2F0aW9uQ291bnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>clarificationSheetNameList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YXIgaG91ciA9IDU7CiAgdmFyIG1pbiA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGogPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGkgPSA0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIubG9nKHRpbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFyaWZpY2F0aW9uU2hlZXROYW1lTGlzdCA9IFsKICAgICJBY3RpdmUgRGlzY3Vzc2lvbiIsCiAgICAiRWlrZW4iLAogICAgIkdvIEZvciBJdCAtIEFkYWNoaSEiLAogICAgJ0hpIEZyaWVuZHMtUHJvZHVjdGlvbicsCiAgICAnTWluZCBtYXBwaW5nJwogIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0dXRvckxpc3Quc2hpZnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIExvZ2dlci5sb2codGltZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBkYXRhTWFwID0gbWVyZ2VNYXBCeUNsYXJpZmljYXRpb25TaGVldChkYXRhTWFwLCBkYXRhU2hlZXRzLmdldFNoZWV0QnlOYW1lKCdBY3RpdmUgRGlzY3Vzc2lvbicpKTsKICAvLyBkYXRhTWFwID0gbWVyZ2VNYXBCeUNsYXJpZmljYXRpb25TaGVldChkYXRhTWFwLCBkYXRhU2hlZXRzLmdldFNoZWV0QnlOYW1lKCdFaWtlbicpKTsKICAvLyBkYXRhTWFwID0gbWVyZ2VNYXBCeUNsYXJpZmljYXRpb25TaGVldChkYXRhTWFwLCBkYXRhU2hlZXRzLmdldFNoZWV0QnlOYW1lKCdHbyBGb3IgSXQgLSBBZGFjaGkhJykpOwogIC8vIGRhdGFNYXAgPSBtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0KGRhdGFNYXAsIGRhdGFTaGVldHMuZ2V0U2hlZXRCeU5hbWUoJ0hpIEZyaWVuZHMtUHJvZHVjdGlvbicpKTsKICAvLyBkYXRhTWFwID0gbWVyZ2VNYXBCeUNsYXJpZmljYXRpb25TaGVldChkYXRhTWFwLCBkYXRhU2hlZXRzLmdldFNoZWV0QnlOYW1lKCdNaW5kIG1hcHBpbmcnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3IodmFyIG5hbWUgaW4gY2xhcmlmaWNhdGlvblNoZWV0TmFtZUxpc3Qpewo=</text>
+        <text encoding="base64">ICAgICAgICAgIExvZ2dlci5sb2cobWFwLmNsYXJpZmljYXRpb25bY2xhcmlmaWNhdGlvbkNvdW50IC0gMV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</last-search>
+      <last-search encoding="base64">XDxjbGFyaWZpY2F0aW9uQ291bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFyaWZpY2F0aW9uQ291bnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdGFydEluZGV4XD4=</entry>
         <entry encoding="base64">XDxnZXRUaHJlc2hvbGRMaXN0XD4=</entry>
         <entry encoding="base64">XDxob2xpZGF5c1w+</entry>
         <entry encoding="base64">XDxzZXRCYWNrZ3JvdW5kXD4=</entry>
@@ -352,6 +350,7 @@
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxwdXNoXD4=</entry>
         <entry encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</entry>
+        <entry encoding="base64">XDxjbGFyaWZpY2F0aW9uQ291bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
