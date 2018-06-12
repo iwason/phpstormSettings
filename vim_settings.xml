@@ -53,6 +53,12 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Attendances_model.php" timestamp="1528268535743">
         <mark key="'" line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/top/application/config/staging/config.php" timestamp="1528780272196">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="47" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
@@ -133,7 +139,7 @@
       <file name="/dummy.sql" timestamp="1528362062121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528720490242">
+      <file name="/Dummy.txt" timestamp="1528780302163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -158,7 +164,12 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528778788896" />
+      <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528780263193">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="47" />
+      </file>
       <file name="/index.html" timestamp="1528771902733" />
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1528715396431">
         <mark key="[" line="5" column="4" />
@@ -271,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+ 24</text>
+        <text>192.168.1.50</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>192.168.1.50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfcG9pbnRcPg==</text>
