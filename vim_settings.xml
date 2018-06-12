@@ -22,12 +22,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528767646058">
-        <mark key="'" line="139" column="9" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="5" />
-        <mark key="." line="90" column="5" />
-        <mark key="^" line="90" column="5" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528770102530">
+        <mark key="'" line="77" column="33" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
+        <mark key="^" line="256" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
@@ -89,10 +89,10 @@
         <mark key="." line="56" column="14" />
         <mark key="^" line="56" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1528704652780">
+      <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1528769011338">
         <mark key="'" line="40" column="9" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="34" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="59" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
         <mark key="'" line="7" column="0" />
@@ -171,14 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="42" filename="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" />
-      <jump line="141" column="42" filename="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" />
-      <jump line="75" column="21" filename="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" />
-      <jump line="266" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/TutorSchedulesController.php" />
-      <jump line="554" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="622" column="28" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" />
-      <jump line="0" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" />
-      <jump line="1" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" />
       <jump line="2" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" />
       <jump line="3" column="95" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" />
       <jump line="550" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
@@ -239,7 +231,6 @@
       <jump line="68" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="79" column="11" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="48" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="8" column="22" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="40" column="9" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="64" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
@@ -271,61 +262,70 @@
       <jump line="13" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="78" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="139" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="76" column="25" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="255" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="251" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="250" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="1" column="20" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="73" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
+      <jump line="77" column="33" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsKICB9IGVsc2UgaWYg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</text>
+        <text encoding="base64">XDxjbGVhclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>false</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsKICB9IGVsc2UgaWYg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vaG91cuOBjFRv44Go5ZCM44GY44Gq44KJbWlu44Gv5bCP44GV44GE5b+F6KaB44GM44GC44KLCg==</text>
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAocGFyc2VJbnQoYnJlYWtUaW1lRnJvbVswXSkgPT0gcGFyc2VJbnQoYmFzZVRpbWVbMF0pKXsKICAgIAogIH0KICAKICAKICAKICAgICgKICAgICAgJiYgcGFyc2VJbnQoYmFzZVRpbWVbMF0pIDwgcGFyc2VJbnQoYnJlYWtUaW1lVG9bMF0pCiAgICApCiAgICB8fAogICAgKAogICAgICBwYXJzZUludChicmVha1RpbWVGcm9tWzBdKSA8IHBhcnNlSW50KGJhc2VUaW1lWzBdKQogICAgICAmJiBwYXJzZUludChiYXNlVGltZVswXSkgPCBwYXJzZUludChicmVha1RpbWVUb1swXSkKICAgICkKCiAgKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQo=</text>
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFyc2VJbnQoYnJlYWtUaW1lRnJvbVswXSkgPT0gcGFyc2VJbnQoYmFzZVRpbWVbMF0pCg==</text>
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgdGFyZ2V0RGF0ZSA9IHRhcmdldFNoZWV0LmdldFJhbmdlKCJCMTpCMSIpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgYnJlYWtSYW5nZSA9IGJyZWFrVGltZVJhbmdlLnNwbGl0KCJ0byIpOwo=</text>
+        <text encoding="base64">ICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGogPSAwOwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBkYWlseURldGFpbCgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</last-search>
+      <last-search encoding="base64">XDxjbGVhclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -333,13 +333,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxob2xpZGF5c1w+</entry>
-        <entry encoding="base64">XDxzZXRCYWNrZ3JvdW5kXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0VGltZVJhbmdlVG9TbG90TGlzdFw+</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
         <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
-        <entry encoding="base64">XDxzZXRUdXRvclZpZXdMYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxnZXRMb29wQ291bnRcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0MTJIb3VyVG8yNEhvdXJcPg==</entry>
@@ -353,6 +350,9 @@
         <entry encoding="base64">XDxkYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxpc1dpdGhpblJhbmdlXD4=</entry>
         <entry encoding="base64">XDxtZXJnZU1hcEJ5Q2xhcmlmaWNhdGlvblNoZWV0XD4=</entry>
+        <entry encoding="base64">XDxzZXRUdXRvclZpZXdMYXlvdXRcPg==</entry>
+        <entry encoding="base64">XDxwbG90RGFpbHlEZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxjbGVhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
