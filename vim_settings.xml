@@ -82,13 +82,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/index.html" timestamp="1528452140067">
-        <mark key="'" line="36" column="24" />
-        <mark key="[" line="55" column="90" />
-        <mark key="]" line="56" column="14" />
-        <mark key="." line="56" column="14" />
-        <mark key="^" line="56" column="14" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1528769011338">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="4" column="0" />
@@ -163,6 +156,7 @@
         <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528277583084" />
+      <file name="/index.html" timestamp="1528771902733" />
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1528715396431">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
