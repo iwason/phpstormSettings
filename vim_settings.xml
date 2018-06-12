@@ -22,12 +22,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528770102530">
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528770921177">
         <mark key="'" line="77" column="33" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
-        <mark key="^" line="256" column="18" />
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="19" />
+        <mark key="." line="104" column="19" />
+        <mark key="^" line="104" column="19" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
@@ -273,8 +273,8 @@
       <jump line="77" column="33" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+ 24</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -282,8 +282,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+      <register name="0" type="4">
+        <text>+ 24</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
