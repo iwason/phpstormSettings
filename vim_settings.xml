@@ -15,6 +15,13 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1528334150866">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="161" column="11" />
+        <mark key="]" line="161" column="30" />
+        <mark key="^" line="161" column="30" />
+        <mark key="." line="161" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" timestamp="1528282265473">
         <mark key="'" line="8" column="95" />
         <mark key="[" line="10" column="35" />
@@ -22,10 +29,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528770921177">
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1528784702042">
         <mark key="'" line="77" column="33" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="19" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="61" />
         <mark key="." line="104" column="19" />
         <mark key="^" line="104" column="19" />
       </file>
@@ -35,11 +42,21 @@
       <file name="/a.dummy" timestamp="1527751001429">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528348187598">
+        <mark key="'" line="749" column="28" />
+        <mark key="[" line="662" column="20" />
+        <mark key="]" line="662" column="20" />
+        <mark key="^" line="700" column="16" />
+        <mark key="." line="662" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/config/app.php" timestamp="1528178967039">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
+        <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ClientRequestsController.php" timestamp="1528173962335">
         <mark key="'" line="310" column="13" />
@@ -47,11 +64,35 @@
         <mark key="]" line="303" column="0" />
         <mark key="." line="303" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1528785728087">
+        <mark key="'" line="3" column="44" />
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="45" column="32" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1528094526907">
+        <mark key="'" line="153" column="64" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="124" column="73" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Attendances_model.php" timestamp="1528268535743">
         <mark key="'" line="34" column="24" />
+      </file>
+      <file name="/dummy.sql" timestamp="1528362062121">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/staging/config.php" timestamp="1528780272196">
         <mark key="[" line="32" column="36" />
@@ -61,6 +102,11 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528784300057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1528442996989">
         <mark key="'" line="104" column="28" />
@@ -72,6 +118,12 @@
         <mark key="^" line="161" column="7" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" timestamp="1528173305058">
+        <mark key="'" line="25" column="53" />
+        <mark key="[" line="49" column="84" />
+        <mark key="]" line="49" column="84" />
+        <mark key="." line="49" column="84" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1528090704883">
         <mark key="'" line="120" column="6" />
         <mark key="[" line="254" column="0" />
@@ -79,8 +131,16 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="254" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
+        <mark key="'" line="37" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" timestamp="1528269028573">
         <mark key="'" line="141" column="42" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1528784555078">
+        <mark key="'" line="84" column="9" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="58" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/ThresholdsController.php" timestamp="1528282544246">
         <mark key="'" line="3" column="61" />
@@ -93,70 +153,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528700333017">
-        <mark key="'" line="542" column="2" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="84" />
-        <mark key="^" line="635" column="7" />
-        <mark key="." line="635" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/ResponseHelper.php" timestamp="1528334150866">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="161" column="11" />
-        <mark key="]" line="161" column="30" />
-        <mark key="^" line="161" column="30" />
-        <mark key="." line="161" column="30" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/ClientRequestManage.php" timestamp="1528348187598">
-        <mark key="'" line="749" column="28" />
-        <mark key="[" line="662" column="20" />
-        <mark key="]" line="662" column="20" />
-        <mark key="^" line="700" column="16" />
-        <mark key="." line="662" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
-        <mark key="'" line="34" column="18" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_03_040624_update_time_to_varchar_field.php" timestamp="1528279099984" />
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Logics/EnvizionSchedule.php" timestamp="1528694617941" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
-        <mark key="'" line="35" column="24" />
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="32" />
-        <mark key="." line="45" column="32" />
-        <mark key="^" line="45" column="32" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1528094526907">
-        <mark key="'" line="153" column="64" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="124" column="73" />
-      </file>
-      <file name="/dummy.sql" timestamp="1528362062121">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528780302163">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/client_requests/cancel.blade.php" timestamp="1528173305058">
-        <mark key="'" line="25" column="53" />
-        <mark key="[" line="49" column="84" />
-        <mark key="]" line="49" column="84" />
-        <mark key="." line="49" column="84" />
-      </file>
-      <file name="/schedule.js" timestamp="1528720462855" />
-      <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
-        <mark key="'" line="37" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/threshold.js" timestamp="1528695002214">
-        <mark key="'" line="84" column="9" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1527843584670">
         <mark key="'" line="53" column="34" />
         <mark key="[" line="20" column="35" />
@@ -164,29 +160,30 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/config/production/config.php" timestamp="1528780263193">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="32" column="47" />
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="/index.html" timestamp="1528771902733" />
       <file name="$USER_HOME$/PhpstormProjects/gas/sample.js" timestamp="1528715396431">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
         <mark key="^" line="11" column="5" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528785635943">
+        <mark key="'" line="249" column="9" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="203" column="4" />
+        <mark key="^" line="635" column="7" />
+        <mark key="." line="635" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="31" column="12" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="190" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" />
-      <jump line="22" column="49" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="323" column="12" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="34" column="18" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" />
-      <jump line="530" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="366" column="57" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="365" column="8" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="228" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
@@ -279,61 +276,69 @@
       <jump line="44" column="49" filename="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" />
       <jump line="119" column="8" filename="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" />
       <jump line="37" column="20" filename="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" />
+      <jump line="8" column="16" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="4" column="44" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="705" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="592" column="16" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="713" column="16" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="249" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>192.168.1.50</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY291bnRMZXNzb24odGltZVJhbmdlLCBsZXNzb25EYXRlLCBkYXRhTWFwLCAiUmVndWxhciIsIGxlc3Nvbkxpc3RbaV1bMF0sIHByZXYsIGxlc3Nvbkxpc3RbaV1bNV0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.1.50</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRfcG9pbnRcPg==</text>
+        <text encoding="base64">XDxnZXRMYXN0Um93XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>+ 24</text>
+        <text>baseValues[i][3]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgY291bnRMZXNzb24odGltZVJhbmdlLCBsZXNzb25EYXRlLCBkYXRhTWFwLCAiUmVndWxhciIsIGxlc3Nvbkxpc3RbaV1bMF0sIHByZXYsIGxlc3Nvbkxpc3RbaV1bNV0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgdGltZVJhbmdlID0gbGVzc29uTGlzdFtpXVszXS50cmltKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhTWFwW2xlc3NvbkRhdGVdID0ge2NvdW50OiAwfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgdGFyZ2V0RGF0ZSA9IHRhcmdldFNoZWV0LmdldFJhbmdlKCJCMTpCMSIpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGRhdGFNYXBbbGVzc29uRGF0ZV0gPT0gdW5kZWZpbmVkKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy/pgY7ljrvjg4fjg7zjgr/jgpLpmaTlpJYK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzcy5nZXRSYW5nZSgiQTM6QVQiKS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKHRhcmdldFNoZWV0LmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IAo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGJhc2VTaGVldC5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBkYWlseURldGFpbCgpIHsK</text>
+        <text encoding="base64">ICB2YXIgcnNsU2hlZXQgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmRfcG9pbnRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRMYXN0Um93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRfcG9pbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMYXN0Um93XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -341,11 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
-        <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
-        <entry encoding="base64">XDxnZXRMb29wQ291bnRcPg==</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxjb252ZXJ0MTJIb3VyVG8yNEhvdXJcPg==</entry>
         <entry encoding="base64">XDxkYXRhU2hlZXRcPg==</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxpbmRleE9mXD4=</entry>
@@ -361,6 +361,11 @@
         <entry encoding="base64">XDxjbGVhclw+</entry>
         <entry encoding="base64">XDxBUElfRU5EX1BPSU5UXD4=</entry>
         <entry encoding="base64">XDxlbmRfcG9pbnRcPg==</entry>
+        <entry encoding="base64">XDxDb25zdGFudHNcPg==</entry>
+        <entry encoding="base64">XDx0YXJnZXRTaGVldE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxBZ2dyaWdhdGVEYXRhXD4=</entry>
+        <entry encoding="base64">XDxnZXRMYXN0Um93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
