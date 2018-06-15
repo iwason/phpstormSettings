@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
         <mark key="'" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529027778823">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="150" column="2" />
-        <mark key="]" line="150" column="2" />
-        <mark key="." line="150" column="2" />
-        <mark key="^" line="104" column="41" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529029267535">
+        <mark key="'" line="90" column="9" />
+        <mark key="[" line="184" column="78" />
+        <mark key="]" line="184" column="78" />
+        <mark key="^" line="184" column="27" />
+        <mark key="." line="184" column="78" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
@@ -139,16 +139,15 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1528793911723">
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1529028819983">
         <mark key="'" line="186" column="6" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="290" column="39" />
+        <mark key="[" line="611" column="6" />
+        <mark key="]" line="611" column="16" />
         <mark key="^" line="635" column="7" />
         <mark key="." line="635" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="88" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="87" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="86" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
@@ -248,49 +247,50 @@
       <jump line="148" column="20" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="150" column="5" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="103" column="0" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="90" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGlzdEJhc2VbZGF0ZV0gPSA=</text>
+        <text encoding="base64">ID09IGZhbHNl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGlzdEJhc2VbZGF0ZV0gPSA=</text>
+        <text encoding="base64">ID09IGZhbHNl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0QmFzZVw+</text>
+        <text encoding="base64">XDxpc1NhbWVUaW1lUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>forEach</text>
+        <text>targetTimeAfter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoYXNSZWNvcmQgPT0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICB2YXIgdGltZSA9IHMuc3BsaXQoIjoiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoYXNSZWNvcmQgPT0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICB2YXIgdGltZVJhbmdlID0gcy5zcGxpdCgiLSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBoYXNSZWNvcmQgPT0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBoYXNSZWNvcmQgPT0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXRSb3cpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5sb2codGFyZ2V0Um93KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXRSb3cpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2codGFyZ2V0Um93KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -300,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0QmFzZVw+</last-search>
+      <last-search encoding="base64">XDxpc1NhbWVUaW1lUmFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0QmFzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc1NhbWVUaW1lUmFuZ2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -310,8 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb25zdGFudHNcPg==</entry>
-        <entry encoding="base64">XDx0YXJnZXRTaGVldE5hbWVcPg==</entry>
         <entry encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxBZ2dyaWdhdGVEYXRhXD4=</entry>
         <entry encoding="base64">XDxnZXRMYXN0Um93XD4=</entry>
@@ -330,6 +328,8 @@
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxjaGVja0RpZmZCXD4=</entry>
         <entry encoding="base64">XDxsaXN0QmFzZVw+</entry>
+        <entry encoding="base64">XDxpc0RpZmZlcmVudFRpbWVSYW5nZVw+</entry>
+        <entry encoding="base64">XDxpc1NhbWVUaW1lUmFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
