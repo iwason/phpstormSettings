@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
         <mark key="'" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529031215502">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="98" column="70" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529038464320">
+        <mark key="'" line="99" column="9" />
+        <mark key="[" line="102" column="70" />
+        <mark key="]" line="102" column="70" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="102" column="70" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
@@ -235,32 +235,32 @@
       <jump line="78" column="5" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="132" column="7" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="63" column="20" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="102" column="19" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="104" column="3" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="142" column="10" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="148" column="20" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="150" column="5" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="90" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="99" column="40" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="103" column="0" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="605" column="17" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="630" column="43" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="634" column="22" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="656" column="10" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="660" column="2" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="102" column="39" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="99" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZUludFw+</text>
       </register>
       <register name="0" type="4">
-        <text>,10</text>
+        <text>, 10</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
