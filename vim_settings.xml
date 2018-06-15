@@ -17,12 +17,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1529045676722">
+      <file name="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" timestamp="1529046503777">
         <mark key="'" line="128" column="7" />
-        <mark key="[" line="177" column="36" />
-        <mark key="]" line="177" column="36" />
-        <mark key="." line="177" column="36" />
-        <mark key="^" line="173" column="26" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="180" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
@@ -250,47 +250,47 @@
       <jump line="128" column="7" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text>attendanceList[i][targetColumnNo]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZUludFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb3IgKHZhciBpID0gMDsgaSA8IGF0dGVuZGFuY2VMaXN0WzBdLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoaXNEYXRlKGF0dGVuZGFuY2VMaXN0WzBdW2ldKSkgewogICAgICB2YXIgYXR0ZW5kYW5jZURhdGUgPSBVdGlsaXRpZXMuZm9ybWF0RGF0ZShhdHRlbmRhbmNlTGlzdFswXVtpXSwgJ0FzaWEvVG9reW8nLCAneXl5eS9NL2QnKTsKICAgICAgaWYgKGF0dGVuZGFuY2VEYXRlID09IHRhcmdldERhdGUpIHsKICAgICAgICB0YXJnZXRDb2x1bW5ObyA9IGk7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIubG9nKGF0dGVuZGFuY2VMaXN0WzBdW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIubG9nKCdGb3VuZCBhdCByb3cgJyArIGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXRDb2x1bW5ObyA9IGk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyh0YXJnZXREYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKGF0dGVuZGFuY2VEYXRlID09IHRhcmdldERhdGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGF0dGVuZGFuY2VEYXRlID0gVXRpbGl0aWVzLmZvcm1hdERhdGUoYXR0ZW5kYW5jZUxpc3RbMF1baV0sICdBc2lhL1Rva3lvJywgJ3l5eXkvTS9kJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTG9nZ2VyLmxvZyhhdHRlbmRhbmNlRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0RhdGUoYXR0ZW5kYW5jZUxpc3RbMF1baV0pKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoYXR0ZW5kYW5jZURhdGUgKQo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYoYXR0ZW5kYW5jZURhdGUgKQo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
