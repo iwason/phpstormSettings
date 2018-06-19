@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1529373812317">
-        <mark key="'" line="153" column="64" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1529375170303">
+        <mark key="'" line="34" column="2" />
         <mark key="[" line="160" column="14" />
         <mark key="]" line="160" column="14" />
         <mark key="." line="160" column="14" />
@@ -147,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="8" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="39" column="10" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="40" column="8" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="59" column="20" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
@@ -247,6 +246,7 @@
       <jump line="106" column="70" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="3" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="30" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -256,7 +256,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyc2xWYWx1ZXNcPg==</text>
+        <text encoding="base64">XDxsb2NhbFVzZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>&quot;2. Feasibility Confirmed&quot;</text>
@@ -299,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyc2xWYWx1ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxsb2NhbFVzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyc2xWYWx1ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbFVzZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdGVTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxleHRyYURhdGFMaXN0XD4=</entry>
         <entry encoding="base64">XDxjaGVja0RpZmZcPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
@@ -329,6 +328,7 @@
         <entry encoding="base64">XDx0YXJnZXREYXRlXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRTaGVldFw+</entry>
         <entry encoding="base64">XDxyc2xWYWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxsb2NhbFVzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
