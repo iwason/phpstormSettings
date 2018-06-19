@@ -27,6 +27,9 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
       </file>
+      <file name="/fragment.js" timestamp="1529373809674">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1527751001429">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,7 +60,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1529372955766">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1529373812317">
         <mark key="'" line="153" column="64" />
         <mark key="[" line="160" column="14" />
         <mark key="]" line="160" column="14" />
