@@ -97,6 +97,12 @@
         <mark key="^" line="161" column="7" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/formatForSchoolData.js" timestamp="1529629703826">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1529383988212">
         <mark key="'" line="282" column="0" />
         <mark key="[" line="29" column="2" />
@@ -109,6 +115,12 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" timestamp="1528269028573">
         <mark key="'" line="141" column="42" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" timestamp="1529629827406">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" timestamp="1528282265473">
         <mark key="'" line="8" column="95" />
@@ -261,11 +273,11 @@
       <jump line="48" column="13" filename="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWluaWZ55a6f6KGMIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIOOCueODl+ODrOODg+ODieOCt+ODvOODiOOBlOOBqOOBq+iomOi8ieOBl+OBquOBj+OBpuiJr+OBhOOCiOOBhuOBq+OBmeOCi+OAggo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluaWZ55a6f6KGMIA==</text>
+        <text>変換するメソッドを</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXNzb25EYXRlXD4=</text>
@@ -274,37 +286,37 @@
         <text>firebase</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOOCueODl+ODrOODg+ODieOCt+ODvOODiOOBlOOBqOOBq+iomOi8ieOBl+OBquOBj+OBpuiJr+OBhOOCiOOBhuOBq+OBmeOCi+OAggo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5L2/44GE5pa544CC44Gq44KL44G544GP5YW35L2T55qE44Gr5pu444GP44CC44K144Oz44OX44Or44KC5pu444GPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5Y+C6ICD44Gr44GX44Gf5oOF5aCx5rqQ77yI44K144Kk44OI44O76KuW5paH77yJ44Gq44Gp44Gu5oOF5aCx44CB44Oq44Oz44KvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5L2c6ICF44KS5piO56S644GZ44KL44CC54m544Gr44CB5LuW6ICF44GM5L2c5oiQ44GX44Gf44Kz44O844OJ44KS5Yip55So44GZ44KL5aC05ZCI44Gv44CB44Gd44Gu44Kz44O844OJ44Gu44Op44Kk44K744Oz44K544Gr5b6T44Gj44Gf5LiK44Gn44CB44Oq44Od44K444OI44Oq44Gu44Gd44KM44Ge44KM44Gu44Kz44O844OJ44Gu44Kq44Oq44K444OK44Or44Gu5L2c6ICF44GM6Kqw44GL5YiG44GL44KL44KI44GG44Gr5piO56S644GZ44KL77yI56eB44Gv44Gd44KM44GM6Imv44GE44Go5oCd44GE6Ieq5Li755qE44Gr44GX44Gm44GE44G+44GZ77yJ44CCCg==</text>
+        <text encoding="base64">5L2/44GE5pa544CC44Gq44KL44G544GP5YW35L2T55qE44Gr5pu444GP44CC44K144Oz44OX44Or44KC5pu444GPCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBdXRob3JzCg==</text>
+        <text encoding="base64">5Y+C6ICD44Gr44GX44Gf5oOF5aCx5rqQ77yI44K144Kk44OI44O76KuW5paH77yJ44Gq44Gp44Gu5oOF5aCx44CB44Oq44Oz44KvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhpcyBzb2Z0d2FyZSBpcyByZWxlYXNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UsIHNlZSBMSUNFTlNFLgo=</text>
+        <text encoding="base64">5L2c6ICF44KS5piO56S644GZ44KL44CC54m544Gr44CB5LuW6ICF44GM5L2c5oiQ44GX44Gf44Kz44O844OJ44KS5Yip55So44GZ44KL5aC05ZCI44Gv44CB44Gd44Gu44Kz44O844OJ44Gu44Op44Kk44K744Oz44K544Gr5b6T44Gj44Gf5LiK44Gn44CB44Oq44Od44K444OI44Oq44Gu44Gd44KM44Ge44KM44Gu44Kz44O844OJ44Gu44Kq44Oq44K444OK44Or44Gu5L2c6ICF44GM6Kqw44GL5YiG44GL44KL44KI44GG44Gr5piO56S644GZ44KL77yI56eB44Gv44Gd44KM44GM6Imv44GE44Go5oCd44GE6Ieq5Li755qE44Gr44GX44Gm44GE44G+44GZ77yJ44CCCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBMaWNlbmNlCg==</text>
+        <text encoding="base64">IyBBdXRob3JzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">55So5oSP44GZ44KL44OP44O844OJ44Km44Kn44Ki44Go44K944OV44OI44Km44Kn44Ki44KS44K744OD44OI44Ki44OD44OX44GZ44KL44Gf44KB44Gu44Kz44Oe44Oz44OJ44KS6KiY6LyJ44GZ44KLCg==</text>
+        <text encoding="base64">VGhpcyBzb2Z0d2FyZSBpcyByZWxlYXNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UsIHNlZSBMSUNFTlNFLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBMaWNlbmNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
