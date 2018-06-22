@@ -39,12 +39,11 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529370788265">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="37" column="25" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529662946792">
+        <mark key="'" line="200" column="4" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1529559267347">
         <mark key="[" line="19" column="44" />
@@ -115,6 +114,11 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="7" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1529662023946">
+        <mark key="'" line="110" column="9" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="2" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
       </file>
@@ -176,26 +180,15 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1529659624528">
-        <mark key="'" line="219" column="9" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1529662794063">
+        <mark key="'" line="264" column="10" />
+        <mark key="[" line="652" column="0" />
+        <mark key="]" line="652" column="62" />
         <mark key="." line="75" column="28" />
         <mark key="^" line="47" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="189" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="194" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="199" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="240" column="18" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="230" column="18" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="182" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="222" column="31" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="231" column="18" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="70" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="94" column="8" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="99" column="32" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="104" column="34" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="176" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
@@ -267,7 +260,6 @@
       <jump line="49" column="19" filename="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" />
       <jump line="42" column="0" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="76" column="9" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
-      <jump line="600" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="54" column="9" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="24" column="22" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
       <jump line="11" column="6" filename="$USER_HOME$/PhpstormProjects/gas/daily.js" />
@@ -285,22 +277,34 @@
       <jump line="323" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="184" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
       <jump line="219" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="88" column="1" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="626" column="45" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="506" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="110" column="9" filename="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" />
+      <jump line="283" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="200" column="4" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="600" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="658" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="661" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
+      <jump line="264" column="10" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sheet</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRDb2xvclw+</text>
+        <text encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGVzc29uTGlzdCA=</text>
+        <text>overviewSheet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVMaXN0LnB1c2goW2xlc3NvbkRhdGUsIGRheU9mV2VlayhuZXcgRGF0ZShsZXNzb25EYXRlKSldKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -312,34 +316,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkYXRlTGlzdC5wdXNoKFtsZXNzb25EYXRlLCBkYXlPZldlZWsobmV3IERhdGUobGVzc29uRGF0ZSkpXSk7Cg==</text>
+        <text encoding="base64">ICB2YXIgbGFzdFJvdyA9IGdldExhc3RSb3cob3ZlcnZpZXdTaGVldC5nZXRSYW5nZSgnSDpIJykuZ2V0VmFsdWVzKCkpOwoKICBmb3IgKHZhciBpID0gZ2V0U3RhcnRJbmRleChkYXRhKTsgaSA8IGxhc3RSb3c7IGkrKykgewogICAgaWYgKCFpc1RpbWVTdHJpbmcodGltZVJhbmdlID0gZGF0YVtpXVs2XS50cmltKCkpCiAgICAgIHx8IGRhdGFbaV1bOV0gPT0gJ0NhbmNlbGxlZCcKICAgICAgfHwgZGF0YVtpXVs5XSA9PSAnTk9UIEZlYXNpYmxlJykgewogICAgICBjb250aW51ZTsKICAgIH0KCiAgICAvL+aXpeS7mOOBjOOBguOCi+WgtOWQiOOBr+e1kOWQiOWIl+OBqOOBv+OBquOBl+OAgeWQjOOBmOaXpeeoi+OBq+aKleWFpeOBmeOCiwogICAgaWYgKGlzRGF0ZShkYXRhW2ldWzBdKSkgewogICAgICBsZXNzb25EYXRlID0gVXRpbGl0aWVzLmZvcm1hdERhdGUoZGF0YVtpXVswXSwgJ0FzaWEvVG9reW8nLCAneXl5eS9NL2QnKTsKICAgICAgaWYgKGxlc3NvbkRhdGFNYXBbbGVzc29uRGF0ZV0gPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgbGVzc29uRGF0YU1hcFtsZXNzb25EYXRlXSA9IHtjb3VudDogMH0KICAgICAgfQogICAgfQoKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5zLmdldFJhbmdlKHJvdywgMSkuc2V0VmFsdWUobGVzc29uRGF0ZSk7CiAgICBucy5nZXRSYW5nZShyb3csIDIpLnNldFZhbHVlKGRheU9mV2VlayhuZXcgRGF0ZShsZXNzb25EYXRlKSkpOwo=</text>
+        <text encoding="base64">ICBucy5nZXRSYW5nZSgiQTI6RiIpLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgbnMgPSBzcy5nZXRTaGVldEJ5TmFtZSgnYXV0b1ByZWZpbGUnKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNzLmdldFJhbmdlKDMsIGkpLnNldFZhbHVlKGhvdXIgKyAiOiIgKyBtaW4pOwo=</text>
+        <text encoding="base64">ICB2YXIgc3MgPSBTcHJlYWRzaGVldEFwcC5nZXRBY3RpdmVTcHJlYWRzaGVldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNzLnNldENvbHVtbldpZHRoKGksIHdpZHRoKTsK</text>
+        <text encoding="base64">ICB2YXIgcHJlRmlsZUxpc3QgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzcy5zZXRDb2x1bW5XaWR0aCgyLCB3aWR0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50TGVzc29uKHRpbWVSYW5nZSwgbGVzc29uRGF0ZSwgbGVzc29uRGF0YU1hcCwgZGF0YVtpXVszXSwgZGF0YVtpXVs1XSwgcHJldik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRDb2xvclw+</last-search>
+      <last-search encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRDb2xvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -347,10 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhTWFwXD4=</entry>
-        <entry encoding="base64">XDxjbGVhclw+</entry>
-        <entry encoding="base64">XDx0dXRvckxpc3RcPg==</entry>
-        <entry encoding="base64">XDxnZXREYXRhTWFwXD4=</entry>
         <entry encoding="base64">XDxnZXRBdHRlbmRhbmNlSW5mb1w+</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxhdHRlbmRhbmNlSW5mb1w+</entry>
@@ -367,6 +367,10 @@
         <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
         <entry encoding="base64">XDxhZGRQcmVGaWxlXD4=</entry>
         <entry encoding="base64">XDxzZXRDb2xvclw+</entry>
+        <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
+        <entry encoding="base64">XDxnZXRQcmVGaWxlU2hlZXRzXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVEYXRhTWFwXD4=</entry>
+        <entry encoding="base64">XDxpc1RpbWVTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
