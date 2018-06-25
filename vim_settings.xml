@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529893170069">
+      <file name="/Dummy.txt" timestamp="1529926692449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -292,8 +292,9 @@
       <jump line="285" column="63" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>再アサインされない変数をconstに変更
+tutorの入力ミスを変更</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bGVzc29uVGltZVN0YW1wIA==</text>
@@ -304,23 +305,24 @@
       <register name="0" type="4">
         <text>overviewData[i][0]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+      <register name="1" type="4">
+        <text>再アサインされない変数をconstに変更
+tutorの入力ミスを変更</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgc2Nob29sTmFtZSA9IHJzbFNoZWV0LmdldFJhbmdlKCdFMicpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7CiAgTG9nZ2VyLmxvZygoZW5kLXN0YXJ0KSkgKyAiIG1zIGZvciBleGVjdXRlIjsK</text>
+        <text encoding="base64">ICB2YXIgc2Nob29sTmFtZSA9IHJzbFNoZWV0LmdldFJhbmdlKCdFMicpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgc3RhcnQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsK</text>
+        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7CiAgTG9nZ2VyLmxvZygoZW5kLXN0YXJ0KSkgKyAiIG1zIGZvciBleGVjdXRlIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc3RhcnQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,13 +331,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhzdHVkZW50Q291bnQgPT0gcGFyc2VJbnQob3ZlcnZpZXdEYXRhW2ldWzRdLCAxMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhyc2xUaW1lUmFuZ2UgPT0gdGltZVJhbmdlKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhzdHVkZW50Q291bnQgPT0gcGFyc2VJbnQob3ZlcnZpZXdEYXRhW2ldWzRdLCAxMCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhsZXNzb25EYXRlID09IHJzbERhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhyc2xUaW1lUmFuZ2UgPT0gdGltZVJhbmdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
