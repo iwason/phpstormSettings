@@ -39,12 +39,12 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529924099806">
-        <mark key="'" line="285" column="63" />
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="^" line="305" column="45" />
-        <mark key="." line="298" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529979009517">
+        <mark key="'" line="268" column="37" />
+        <mark key="[" line="299" column="29" />
+        <mark key="]" line="299" column="37" />
+        <mark key="^" line="298" column="10" />
+        <mark key="." line="299" column="29" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1529559267347">
         <mark key="[" line="19" column="44" />
@@ -190,15 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="12" column="2" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="15" column="27" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="221" column="10" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="16" column="16" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="228" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="163" column="9" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="232" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="20" column="24" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="26" column="33" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
       <jump line="227" column="31" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
@@ -259,7 +250,6 @@
       <jump line="229" column="54" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="270" column="15" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="216" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="267" column="21" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="100" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="192" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="196" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -268,7 +258,6 @@
       <jump line="310" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="323" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="333" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="268" column="63" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="271" column="22" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="272" column="36" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="278" column="15" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
@@ -289,64 +278,74 @@
       <jump line="118" column="0" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="101" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="237" column="40" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="285" column="63" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="242" column="17" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="250" column="22" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="252" column="68" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="5" column="46" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="289" column="25" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="288" column="21" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="285" column="26" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="287" column="25" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="265" column="10" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="267" column="28" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="280" column="10" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="268" column="37" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>再アサインされない変数をconstに変更
-tutorの入力ミスを変更</text>
+        <text encoding="base64">cnNsVGltZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGVzc29uVGltZVN0YW1wIA==</text>
+        <text encoding="base64">cnNsVGltZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdmVydmlld0RhdGFcPg==</text>
+        <text encoding="base64">XDxyc2xEYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>overviewData[i][0]</text>
+        <text>overviewData[i]</text>
       </register>
-      <register name="1" type="4">
-        <text>再アサインされない変数をconstに変更
-tutorの入力ミスを変更</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgc2Nob29sTmFtZSA9IHJzbFNoZWV0LmdldFJhbmdlKCdFMicpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0RhdGUob3ZlcnZpZXdEYXRhW2ldWzBdKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7CiAgTG9nZ2VyLmxvZygoZW5kLXN0YXJ0KSkgKyAiIG1zIGZvciBleGVjdXRlIjsK</text>
+        <text encoding="base64">ICB2YXIgcnNsVGltZVN0YW1wID0gcnNsVGltZS5nZXRUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgc3RhcnQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKTsK</text>
+        <text encoding="base64">ICB2YXIgbmV4dERheU9mUnNsVGltZSA9IHJzbFRpbWUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>再アサインされない変数をconstに変更
+tutorの入力ミスを変更</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhzdHVkZW50Q291bnQgPT0gcGFyc2VJbnQob3ZlcnZpZXdEYXRhW2ldWzRdLCAxMCkpOwo=</text>
+        <text encoding="base64">ICB2YXIgc2Nob29sTmFtZSA9IHJzbFNoZWV0LmdldFJhbmdlKCdFMicpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhyc2xUaW1lUmFuZ2UgPT0gdGltZVJhbmdlKTsK</text>
+        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7CiAgTG9nZ2VyLmxvZygoZW5kLXN0YXJ0KSkgKyAiIG1zIGZvciBleGVjdXRlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdmVydmlld0RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxyc2xEYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdmVydmlld0RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyc2xEYXRlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -354,10 +353,6 @@ tutorの入力ミスを変更</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFJvd1w+</entry>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
-        <entry encoding="base64">XDxzaG93U2NoZWR1bGVcPg==</entry>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDxjb3VudExlc3Nvblw+</entry>
         <entry encoding="base64">XDxhZGRQcmVGaWxlXD4=</entry>
         <entry encoding="base64">XDxzZXRDb2xvclw+</entry>
@@ -374,6 +369,10 @@ tutorの入力ミスを変更</text>
         <entry encoding="base64">XDxjaGVja0RpZmZCZXR3ZWVuUlNMQW5kT3ZlcnZpZXdcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxvdmVydmlld0RhdGFcPg==</entry>
+        <entry encoding="base64">XDxyc2xTaGVldFw+</entry>
+        <entry encoding="base64">XDxnZXRWYWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxyc2xUaW1lXD4=</entry>
+        <entry encoding="base64">XDxyc2xEYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
