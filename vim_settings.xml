@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529989185855">
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529993310544">
         <mark key="'" line="242" column="9" />
-        <mark key="[" line="211" column="38" />
-        <mark key="]" line="211" column="54" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
         <mark key="^" line="210" column="1" />
-        <mark key="." line="211" column="38" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1529992396136">
         <mark key="[" line="14" column="0" />
@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529992472926">
+      <file name="/Dummy.txt" timestamp="1529993388109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -301,8 +301,8 @@
       <jump line="39" column="30" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//開発環境の場合</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhsZXNzb25EYXRlICsgJyAnICsgdGltZVJhbmdlICsgJ3Bhc3MnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>//開発環境の場合</text>
@@ -314,22 +314,22 @@
         <text encoding="base64">cGhwIGFydGlzYW4gc2VydmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhsZXNzb25EYXRlICsgJyAnICsgdGltZVJhbmdlICsgJ3Bhc3MnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJy9wb3N0cycsICdQb3N0Q29udHJvbGxlckBzdG9yZScpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gTG9nZ2VyLmxvZyhsZXNzb25EYXRlICsgJ3Bhc3MnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Bvc3RzL2NyZWF0ZScsICdQb3N0Q29udHJvbGxlckBjcmVhdGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Bvc3RzL3twb3N0fScsICdQb3N0Q29udHJvbGxlckBzaG93JyktPndoZXJlKCdwb3N0JywgJ1swLTldKycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly9Sb3V0ZTo6Z2V0KCcvJywgJ1Bvc3RDb250cm9sbGVyQGluZGV4Jyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8v44OH44OQ44OD44Kw55SoCiAgICAvL2lmIChvdmVydmlld0RhdGFbaV1bMF0gPj0gcnNsVGltZSkgewogICAgLy8gIExvZ2dlci5sb2cocnNsVGltZSArICcgQjpMICcgKyBvdmVydmlld0RhdGFbaV0pOwogICAgLy8gfQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -338,13 +338,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Rhc2tzL3t0YXNrfScsICdUYXNrc0NvbnRyb2xsZXJAc2hvdycpOwo=</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy9wb3N0cycsICdQb3N0Q29udHJvbGxlckBzdG9yZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Rhc2tzJywgJ1Rhc2tzQ29udHJvbGxlckBpbmRleCcpOwo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL3Bvc3RzL2NyZWF0ZScsICdQb3N0Q29udHJvbGxlckBjcmVhdGUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2hvbWUnLCAnSG9tZUNvbnRyb2xsZXJAaW5kZXgnKS0+bmFtZSgnaG9tZScpOwo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL3Bvc3RzL3twb3N0fScsICdQb3N0Q29udHJvbGxlckBzaG93JyktPndoZXJlKCdwb3N0JywgJ1swLTldKycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
