@@ -33,24 +33,30 @@
         <mark key="^" line="700" column="16" />
         <mark key="." line="662" column="20" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1529989927020">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
         <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529980581990">
-        <mark key="'" line="237" column="9" />
-        <mark key="[" line="299" column="29" />
-        <mark key="]" line="299" column="37" />
-        <mark key="^" line="298" column="10" />
-        <mark key="." line="299" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1529989185855">
+        <mark key="'" line="242" column="9" />
+        <mark key="[" line="211" column="38" />
+        <mark key="]" line="211" column="54" />
+        <mark key="^" line="210" column="1" />
+        <mark key="." line="211" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1529559267347">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1529989890111">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="43" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" timestamp="1529558006060">
         <mark key="[" line="9" column="16" />
@@ -87,7 +93,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529926692449">
+      <file name="/Dummy.txt" timestamp="1529989624203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,6 +125,11 @@
         <mark key="'" line="67" column="9" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="81" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1529989910448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="31" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
@@ -190,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="17" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="191" column="6" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="178" column="8" filename="$USER_HOME$/PhpstormProjects/gas/tutorCount.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" />
-      <jump line="668" column="9" filename="$USER_HOME$/PhpstormProjects/gas/schedule.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" />
       <jump line="10" column="4" filename="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" />
       <jump line="44" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" />
       <jump line="66" column="0" filename="$USER_HOME$/PhpstormProjects/gas/schoolUtil.js" />
@@ -273,7 +278,6 @@
       <jump line="224" column="66" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="118" column="0" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="101" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="242" column="17" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="250" column="22" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="252" column="68" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="5" column="46" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
@@ -290,53 +294,59 @@
       <jump line="287" column="16" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="285" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="237" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="79" column="14" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="242" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" />
+      <jump line="35" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" />
+      <jump line="19" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cnNsVGltZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cnNsVGltZSA=</text>
+        <text>Readme更新</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0RpZmZCZXR3ZWVuUlNMQW5kT3ZlcnZpZXdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>overviewData[i]</text>
+      <register name="0" type="2">
+        <text encoding="base64">QVBQX05BTUU9Q2xhc3NSb29tQWRtaW4KQVBQX0VOVj1sb2NhbApBUFBfS0VZPWJhc2U2NDpnbkMrT0F3Y2FlcHVyeDBHekdVMlVyZmdZRmtycm4rVWN6MkprYytiQjdJPQpBUFBfREVCVUc9dHJ1ZQpBUFBfVVJMPWh0dHA6Ly9sb2NhbGhvc3QKCkxPR19DSEFOTkVMPXN0YWNrCgpEQl9DT05ORUNUSU9OPXNxbGl0ZQpEQl9IT1NUPTEyNy4wLjAuMQpEQl9QT1JUPTMzMDYKREJfVVNFUk5BTUU9cm9vdApEQl9QQVNTV09SRD10ZXN0CgpCUk9BRENBU1RfRFJJVkVSPWxvZwpDQUNIRV9EUklWRVI9ZmlsZQpTRVNTSU9OX0RSSVZFUj1maWxlClNFU1NJT05fTElGRVRJTUU9MTIwClFVRVVFX0RSSVZFUj1zeW5jCgpSRURJU19IT1NUPTEyNy4wLjAuMQpSRURJU19QQVNTV09SRD1udWxsClJFRElTX1BPUlQ9NjM3OQoKTUFJTF9EUklWRVI9bG9nCk1BSUxfSE9TVD1zbXRwLm1haWx0cmFwLmlvCk1BSUxfUE9SVD0yNTI1Ck1BSUxfVVNFUk5BTUU9bnVsbApNQUlMX1BBU1NXT1JEPW51bGwKTUFJTF9FTkNSWVBUSU9OPW51bGwKClBVU0hFUl9BUFBfSUQ9ClBVU0hFUl9BUFBfS0VZPQpQVVNIRVJfQVBQX1NFQ1JFVD0KUFVTSEVSX0FQUF9DTFVTVEVSPW10MQoKTUlYX1BVU0hFUl9BUFBfS0VZPSIke1BVU0hFUl9BUFBfS0VZfSIKTUlYX1BVU0hFUl9BUFBfQ0xVU1RFUj0iJHtQVVNIRVJfQVBQX0NMVVNURVJ9IgoKCkFQSV9LRVk9QUl6YVN5QmsxUkRzeDYtLVNYenoxckt3YnNBNXZfWUZlc1hTM0tNCkFVVEhfRE9NQUlOPWNsYXNzcm9vbS03OThhNy5maXJlYmFzZWFwcC5jb20KREFUQUJBU0VfVVJMPWh0dHBzOi8vY2xhc3Nyb29tLTc5OGE3LmZpcmViYXNlaW8uY29tClBST0pFQ1RfSUQ9Y2xhc3Nyb29tLTc5OGE3ClNUT1JBR0VfQlVDS0VUPWNsYXNzcm9vbS03OThhNy5hcHBzcG90LmNvbQpNRVNTQUdJTkdfU0VOREVSX0lEPTkwMjMyMTE2NTE3OAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QVBQX05BTUU9TGFyYXZlbApBUFBfRU5WPWxvY2FsCkFQUF9LRVk9CkFQUF9ERUJVRz10cnVlCkFQUF9VUkw9aHR0cDovL2xvY2FsaG9zdAoKTE9HX0NIQU5ORUw9c3RhY2sKCkRCX0NPTk5FQ1RJT049c3FsaXRlCkRCX0hPU1Q9MTI3LjAuMC4xCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1jbGFzc3Jvb20KREJfVVNFUk5BTUU9cm9vdApEQl9QQVNTV09SRD10ZXN0CgpCUk9BRENBU1RfRFJJVkVSPWxvZwpDQUNIRV9EUklWRVI9ZmlsZQpTRVNTSU9OX0RSSVZFUj1maWxlClNFU1NJT05fTElGRVRJTUU9MTIwClFVRVVFX0RSSVZFUj1zeW5jCgpSRURJU19IT1NUPTEyNy4wLjAuMQpSRURJU19QQVNTV09SRD1udWxsClJFRElTX1BPUlQ9NjM3OQoKTUFJTF9EUklWRVI9c210cApNQUlMX0hPU1Q9c210cC5tYWlsdHJhcC5pbwpNQUlMX1BPUlQ9MjUyNQpNQUlMX1VTRVJOQU1FPW51bGwKTUFJTF9QQVNTV09SRD1udWxsCk1BSUxfRU5DUllQVElPTj1udWxsCgpQVVNIRVJfQVBQX0lEPQpQVVNIRVJfQVBQX0tFWT0KUFVTSEVSX0FQUF9TRUNSRVQ9ClBVU0hFUl9BUFBfQ0xVU1RFUj1tdDEKCk1JWF9QVVNIRVJfQVBQX0tFWT0iJHtQVVNIRVJfQVBQX0tFWX0iCk1JWF9QVVNIRVJfQVBQX0NMVVNURVI9IiR7UFVTSEVSX0FQUF9DTFVTVEVSfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0RhdGUob3ZlcnZpZXdEYXRhW2ldWzBdKSkgewo=</text>
+        <text encoding="base64">ICBwYXJhbXNTaGVldC5nZXRSYW5nZSgnQjEnKS5zZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgcnNsVGltZVN0YW1wID0gcnNsVGltZS5nZXRUaW1lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgbmV4dERheU9mUnNsVGltZSA9IHJzbFRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>再アサインされない変数をconstに変更
-tutorの入力ミスを変更</text>
+      <register name="6" type="2">
+        <text encoding="base64">KiovCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGZyb21Ub1sxXVswXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgc2Nob29sTmFtZSA9IHJzbFNoZWV0LmdldFJhbmdlKCdFMicpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGZyb21Ub1swXVswXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7CiAgTG9nZ2VyLmxvZygoZW5kLXN0YXJ0KSkgKyAiIG1zIGZvciBleGVjdXRlIjsK</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
