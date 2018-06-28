@@ -75,12 +75,12 @@
         <mark key="." line="133" column="0" />
       </file>
       <file name="/lessonRoom.js" timestamp="1530157104646" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1530157107468">
-        <mark key="'" line="183" column="3" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="100" column="25" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1530165937673">
+        <mark key="'" line="361" column="0" />
+        <mark key="[" line="279" column="6" />
+        <mark key="]" line="279" column="22" />
+        <mark key="^" line="279" column="5" />
+        <mark key="." line="279" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1529666714327">
         <mark key="'" line="67" column="9" />
@@ -240,24 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="100" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="192" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="196" column="17" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="221" column="40" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="222" column="40" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="310" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="323" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="333" column="19" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="271" column="22" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="272" column="36" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="278" column="15" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="279" column="44" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="266" column="10" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="63" column="3" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="155" column="6" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="302" column="0" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
-      <jump line="293" column="8" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="290" column="8" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="286" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
       <jump line="284" column="9" filename="$USER_HOME$/PhpstormProjects/gas/checkData.js" />
@@ -335,68 +317,84 @@
       <jump line="106" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="109" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="114" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="123" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="131" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="253" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="311" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="180" column="3" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="161" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="255" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="270" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="211" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="214" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="274" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="256" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="200" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="14" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="249" column="30" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="133" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="324" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="351" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="132" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="131" column="20" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="123" column="37" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="277" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="361" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>不要ファイル削除
-README.md更新</text>
+        <text>audioVolume = 0;</text>
       </register>
       <register name="-" type="4">
-        <text>ログを保存</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDxpbnRlcnZhbE51bWJlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>nl2br(msg)</text>
+        <text>audioVolume = 0;</text>
       </register>
-      <register name="1" type="4">
-        <text>不要ファイル削除
-README.md更新</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgbGV0IGF1ZGlvVm9sdW1lID0gMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdvbiBlcnJvcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdvbiBlcnJvcicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5pbmZvKCdsZXQgcyBjYWxsIG5vdycpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gPT4gWyJ5TnRRa055akFvakpOR3J0IiwgIkV6QW1nRmhDS0JRTXpLdzkiXQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGNvdW50ICUgMTAwMCA9PT0gMCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5pbmZvKHBlZXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgY291bnQ9MDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmluZm8oYGludGVydmFsIG51bWJlciAke2ludGVydmFsTnVtYmVyfWApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKCdjYWxsIGV4aXN0aW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmluZm8oJ3NldCBpbnRlcnZhbCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKGBTdHJlYW0gc3RhdHVzIGlzICR7c3RyZWFtfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1200</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxpbnRlcnZhbE51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcnZhbE51bWJlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -404,13 +402,6 @@ README.md更新</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxvdmVydmlld0RhdGFcPg==</entry>
-        <entry encoding="base64">XDxyc2xTaGVldFw+</entry>
-        <entry encoding="base64">XDxnZXRWYWx1ZXNcPg==</entry>
-        <entry encoding="base64">XDxleGlzdHNJbk92ZXJWaWV3XD4=</entry>
-        <entry encoding="base64">XDxIb21lQ29udHJvbGxlclw+</entry>
-        <entry encoding="base64">XDxyc2xUaW1lXD4=</entry>
         <entry encoding="base64">XDxyc2xEYXRlXD4=</entry>
         <entry encoding="base64">XDxzaGVldE5hbWVcPg==</entry>
         <entry encoding="base64">XDx0aW1lUmFuZ2VcPg==</entry>
@@ -424,6 +415,13 @@ README.md更新</text>
         <entry encoding="base64">XDxzZW5kRXJyb3JMZXNzb25Mb2dzXD4=</entry>
         <entry encoding="base64">XDxzZW5kTGVzc29uTG9nc1w+</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxhdWRpb1NlbGVjdFw+</entry>
+        <entry encoding="base64">XDxhdWRpb1ZvbHVtZVw+</entry>
+        <entry encoding="base64">XDxhdWRpb1NvdXJjZVw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0QW5pbWF0aW9uRnJhbWVcPg==</entry>
+        <entry encoding="base64">XDx2aXN1YWxpemVcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0SWRcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcnZhbE51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>610</entry>
