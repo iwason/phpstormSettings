@@ -151,6 +151,7 @@
         <mark key="^" line="41" column="32" />
         <mark key="." line="41" column="39" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Kernel.php" timestamp="1530260053020" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/skyway.js" timestamp="1527844429060">
         <mark key="'" line="35" column="24" />
         <mark key="[" line="45" column="30" />
@@ -194,11 +195,6 @@
         <mark key="." line="71" column="57" />
         <mark key="^" line="71" column="57" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1530091311456">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="/lessons_of_a_day.R" timestamp="1530257093528" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1529989910448">
         <mark key="'" line="0" column="0" />
@@ -216,11 +212,6 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_device.blade.php" timestamp="1530091657009">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="50" column="35" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1530153174100">
         <mark key="'" line="62" column="34" />
@@ -403,7 +394,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>180</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -451,7 +442,6 @@
         <entry>615</entry>
         <entry>2000</entry>
         <entry>2990</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>137</entry>
         <entry>950</entry>
@@ -459,6 +449,7 @@
         <entry>496</entry>
         <entry>1200</entry>
         <entry>180</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
