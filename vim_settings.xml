@@ -165,6 +165,9 @@
         <mark key="." line="190" column="30" />
         <mark key="^" line="172" column="69" />
       </file>
+      <file name="/dummy.sql" timestamp="1530258087287">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" timestamp="1530240016844">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="15" column="20" />
@@ -175,13 +178,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/rarejob_lesson_of_a_day [SchedulingSystem@172.16.110.107]" timestamp="1530258074454">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/formatForSchoolData.js" timestamp="1529629703826">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1530257118004">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1530258037468">
         <mark key="'" line="27" column="9" />
         <mark key="[" line="71" column="50" />
         <mark key="]" line="71" column="57" />
