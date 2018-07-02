@@ -69,10 +69,6 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1530156080594">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="45" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a1ce3177-5720-4cc2-a693-0ad372b93bde/console_2.sql" timestamp="1528282265473">
         <mark key="'" line="8" column="95" />
         <mark key="[" line="10" column="35" />
@@ -112,10 +108,6 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" timestamp="1529558006060">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/firebase.js" timestamp="1530157376905">
         <mark key="'" line="22" column="30" />
@@ -207,6 +199,7 @@
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Commands/RarejobBasicOperationsOverviewSync.php" timestamp="1530495250748" />
       <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1529632400019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
