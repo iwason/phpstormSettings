@@ -13,12 +13,12 @@
       <file name="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" timestamp="1530493770173">
         <mark key="'" line="76" column="76" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1530768796276">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="29" column="55" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="58" />
-        <mark key="^" line="29" column="58" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1530769843179">
+        <mark key="'" line="35" column="30" />
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1530768854963">
         <mark key="'" line="30" column="4" />
