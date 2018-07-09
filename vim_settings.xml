@@ -61,9 +61,9 @@
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1531101704810">
+      <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1531102420359">
         <mark key="'" line="85" column="6" />
-        <mark key="[" line="13" column="34" />
+        <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2dnZXJcPg==</text>
