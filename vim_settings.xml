@@ -209,7 +209,7 @@
         <mark key="." line="39" column="45" />
         <mark key="^" line="39" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530784291301">
+      <file name="/Dummy.txt" timestamp="1531104688921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>パフォーマンス向上のためにリファクタ</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>パフォーマンス向上のためにリファクタ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2dnZXJcPg==</text>
