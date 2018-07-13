@@ -38,10 +38,6 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1530777936602">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="86" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
@@ -84,10 +80,6 @@
         <mark key="'" line="103" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="121" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1530515043474">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="98" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" timestamp="1528269028573">
         <mark key="'" line="141" column="42" />
@@ -136,10 +128,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1530783509245">
         <mark key="'" line="1085" column="15" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/build/html/room/index.html" timestamp="1530772834213">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="69" column="9" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ReservedThreshold.php" timestamp="1528362026875">
         <mark key="'" line="34" column="18" />
