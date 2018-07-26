@@ -44,6 +44,7 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
+      <file name="/CopyToOverView.js" timestamp="1532585820829" />
       <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1531991459523">
         <mark key="[" line="300" column="16" />
         <mark key="]" line="300" column="24" />
@@ -105,12 +106,12 @@
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1528442996989">
         <mark key="'" line="104" column="28" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1532573382851">
+      <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1532585839254">
         <mark key="'" line="114" column="15" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="36" />
         <mark key="^" line="125" column="26" />
-        <mark key="." line="108" column="0" />
+        <mark key="." line="47" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1530784181987">
         <mark key="'" line="22" column="0" />
@@ -336,11 +337,11 @@
       <jump line="118" column="15" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0ZXJTaGVldFw+</text>
