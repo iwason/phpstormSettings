@@ -44,7 +44,6 @@
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1529565779372">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="/CopyToOverView.js" timestamp="1532585820829" />
       <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1531991459523">
         <mark key="[" line="300" column="16" />
         <mark key="]" line="300" column="24" />
@@ -103,8 +102,8 @@
       <file name="/rarejob_lesson_of_a_day [SchedulingSystem@172.16.110.107]" timestamp="1530258074454">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1532666648384">
-        <mark key="'" line="104" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1532930286157">
+        <mark key="'" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1532598566633">
         <mark key="'" line="49" column="10" />
@@ -235,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
       <jump line="111" column="0" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" />
       <jump line="13" column="10" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
       <jump line="14" column="15" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
@@ -335,6 +333,7 @@
       <jump line="44" column="24" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
       <jump line="45" column="13" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
       <jump line="49" column="10" filename="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -344,7 +343,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdFRvXD4=</text>
+        <text encoding="base64">XDxuc1w+</text>
       </register>
       <register name="0" type="4">
         <text>dtFrom[i - 1][5]</text>
@@ -387,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdFRvXD4=</last-search>
+      <last-search encoding="base64">XDxuc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdFRvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDxkYXRldGltZV90b1w+</entry>
         <entry encoding="base64">XDxkYXRlcmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxkYXRlX2Zyb21cPg==</entry>
@@ -417,6 +415,7 @@
         <entry encoding="base64">XDxtYXN0ZXJUaWRMaXN0XD4=</entry>
         <entry encoding="base64">XDxtYXN0ZXJTaGVldFw+</entry>
         <entry encoding="base64">XDxkdFRvXD4=</entry>
+        <entry encoding="base64">XDxuc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
