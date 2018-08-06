@@ -66,12 +66,12 @@
         <mark key="." line="167" column="7" />
       </file>
       <file name="/lessonRoom.js" timestamp="1533537392511" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1533541391846">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1533543796315">
         <mark key="'" line="147" column="8" />
-        <mark key="[" line="264" column="21" />
-        <mark key="]" line="264" column="21" />
-        <mark key="^" line="264" column="5" />
-        <mark key="." line="264" column="21" />
+        <mark key="[" line="227" column="31" />
+        <mark key="]" line="227" column="33" />
+        <mark key="^" line="227" column="33" />
+        <mark key="." line="227" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1531096846685">
         <mark key="'" line="103" column="0" />
@@ -341,16 +341,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text>640</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>640</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwMVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VuZE1lc3NhZ2UoZXJyb3IubWVzc2FnZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>, max:640</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
