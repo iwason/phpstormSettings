@@ -66,12 +66,12 @@
         <mark key="." line="167" column="7" />
       </file>
       <file name="/lessonRoom.js" timestamp="1533537392511" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1533537251237">
-        <mark key="'" line="330" column="9" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="233" column="18" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1533541391846">
+        <mark key="'" line="147" column="8" />
+        <mark key="[" line="264" column="21" />
+        <mark key="]" line="264" column="21" />
+        <mark key="^" line="264" column="5" />
+        <mark key="." line="264" column="21" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1531096846685">
         <mark key="'" line="103" column="0" />
@@ -238,12 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="23" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
-      <jump line="46" column="11" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
-      <jump line="47" column="17" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
-      <jump line="43" column="1" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
-      <jump line="76" column="76" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/api.php" />
-      <jump line="69" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="72" column="13" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="74" column="16" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="75" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
@@ -338,61 +332,67 @@
       <jump line="220" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="222" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="331" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="232" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="158" column="5" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="264" column="7" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="263" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="146" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="147" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kRGV2aWNlSW5mb1w+</text>
+        <text encoding="base64">XDxzdGVwMVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bXlWaWRlbyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2VuZE1lc3NhZ2UoZXJyb3IubWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGRldmljZUluZm8ua2luZCA9PT0gJ2F1ZGlvb3V0cHV0Jyl7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuaW5mbyhkZXZpY2VJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1MYXRvCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGRldmljZUluZm8ua2luZCA9PT0gJ2F1ZGlvb3V0cHV0Jyl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJCgnI215LXZpZGVvJykuZ2V0KDApLnNyY09iamVjdCA9IHN0cmVhbTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuaW5mbyhkZXZpY2VJbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAg44OT44OH44KqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1MYXRvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKGRldmljZUluZm9zKTsK</text>
+        <text encoding="base64">ICAgICAgJCgnI215LXZpZGVvJykuZ2V0KDApLnNyY09iamVjdCA9IHN0cmVhbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY2xlYXJBbGwoKXsKICB2YXIgc3MgPSBTcHJlYWRzaGVldEFwcC5nZXRBY3RpdmVTcHJlYWRzaGVldCgpOwogIHZhciBzaGVldCA9IHNzLmdldFNoZWV0QnlOYW1lKCdKUFQgYW5kIFBIVCBjb25maXJtJyk7CiAgc2hlZXQuZ2V0UmFuZ2UoIkE6QiIpLmNsZWFyKCk7Cgp9CgpmdW5jdGlvbiBqcEFuZFBodENvbmZpcm0oKSB7CiAgdmFyIHNzID0gU3ByZWFkc2hlZXRBcHAuZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKTsKICB2YXIgc2hlZXQgPSBzcy5nZXRTaGVldEJ5TmFtZSgnSlBUIGFuZCBQSFQgY29uZmlybScpOwoKICAvL0HliJfjgYvjgonmloflrZfliJfjgpLlj5blvpcKICB2YXIganB0TGlzdCA9IHNoZWV0LmdldFJhbmdlKCdBOkEnKS5nZXRWYWx1ZXMoKTsKICB2YXIgcGh0TGlzdCA9IHNoZWV0LmdldFJhbmdlKCdCOkInKS5nZXRWYWx1ZXMoKTsKCiAgLy9C5YiX44GrUEhU44Gn5YWl5YqbCiAgZm9yICh2YXIgaSA9IDA7IGkgPCBqcHRMaXN0Lmxlbmd0aDsgaSsrKSB7CiAgICBpZihqcHRMaXN0W2ldWzBdLmxlbmd0aCA+IDApewogICAgICAvL0LliJfjga7mg4XloLHjgajmnKzmnaXjga5QSFTjgYzpgZXjgaPjgZ/jgonoibLjgpLlpInjgYjjgosKICAgICAgaWYocGh0TGlzdFtpXVswXSAhPSBjaGFuZ2VKUFRSYW5nZVRvUGhUaW1lUmFuZ2UoanB0TGlzdFtpXVswXSkpewogICAgICAgIHNoZWV0LmdldFJhbmdlKGkrMSwyKS5zZXRCYWNrZ3JvdW5kKCcjRkZGRkEyJyk7CiAgICAgIH0KICAgIH0KICB9Cn0K</text>
+        <text encoding="base64">ICAgICAg44OT44OH44KqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5pbmZvKGRldmljZUluZm9zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kRGV2aWNlSW5mb1w+</last-search>
+      <last-search encoding="base64">XDxzdGVwMVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kRGV2aWNlSW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGVwMVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlX2Zyb21cPg==</entry>
-        <entry encoding="base64">XDxfR0VUXD4=</entry>
         <entry encoding="base64">XDxjZW50ZXJCYXNlZFR1dG9yc1N0clw+</entry>
         <entry encoding="base64">XDxyZWZzXD4=</entry>
         <entry encoding="base64">XDxmaXJlYmFzZVw+</entry>
@@ -420,6 +418,8 @@
         <entry encoding="base64">XDxuc1w+</entry>
         <entry encoding="base64">XDxhdWRpb0N0eFw+</entry>
         <entry encoding="base64">XDxzZW5kRGV2aWNlSW5mb1w+</entry>
+        <entry encoding="base64">XDxtZWRpYURldmljZXNcPg==</entry>
+        <entry encoding="base64">XDxzdGVwMVw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
