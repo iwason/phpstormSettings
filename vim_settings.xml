@@ -10,13 +10,6 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
         <mark key="'" line="75" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/routes/web.php" timestamp="1530783373495">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="31" column="12" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1529989927020">
         <mark key="'" line="19" column="0" />
       </file>
@@ -24,13 +17,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1530782386480">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="99" column="45" />
-        <mark key="]" line="99" column="45" />
-        <mark key="." line="99" column="45" />
-        <mark key="^" line="100" column="68" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/CorporateController.php" timestamp="1531450305472">
         <mark key="'" line="849" column="21" />
@@ -44,13 +30,6 @@
       <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1533517282500" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1530784181987">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="166" column="61" />
-        <mark key="]" line="167" column="7" />
-        <mark key="^" line="167" column="7" />
-        <mark key="." line="167" column="7" />
       </file>
       <file name="/lessonRoom.js" timestamp="1533537392511" />
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1533548709576">
@@ -66,30 +45,10 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/controllers/Attendance.php" timestamp="1528269028573">
         <mark key="'" line="141" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" timestamp="1531131363879">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="15" column="111" />
-        <mark key="]" line="15" column="112" />
-        <mark key="." line="15" column="112" />
-        <mark key="^" line="15" column="112" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_data.blade.php" timestamp="1530780981568">
-        <mark key="'" line="79" column="1" />
-        <mark key="[" line="80" column="67" />
-        <mark key="]" line="80" column="73" />
-        <mark key="." line="80" column="73" />
-        <mark key="^" line="80" column="73" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1533016351856">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="47" column="20" />
-      </file>
+      <file name="/index.php" timestamp="1533712403256" />
       <file name="$USER_HOME$/PhpstormProjects/gas/jptopht.js" timestamp="1533021016733">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -137,38 +96,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/constants/RJ_MemberCurrentPaymentTbConstants.php" timestamp="1533696101292" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1532598566633">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="49" column="47" />
-        <mark key="^" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1530258037468">
-        <mark key="'" line="27" column="9" />
-        <mark key="[" line="71" column="50" />
-        <mark key="]" line="71" column="57" />
-        <mark key="." line="71" column="57" />
-        <mark key="^" line="71" column="57" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/README.md" timestamp="1531187545860">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" timestamp="1533707553678" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1530768976788">
-        <mark key="'" line="69" column="34" />
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="38" />
-        <mark key="^" line="63" column="38" />
-        <mark key="." line="63" column="38" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Commands/RarejobLessonOfADaySync.php" timestamp="1533711265033" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Commands/RarejobBasicOperationsOverviewSync.php" timestamp="1533711448536" />
     </filemarks>
