@@ -73,11 +73,6 @@
         <mark key="^" line="228" column="18" />
         <mark key="." line="228" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/collectPrefile.js" timestamp="1531096846685">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="121" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_CorporateCampaignCode.php" timestamp="1531450198911">
         <mark key="'" line="30" column="27" />
       </file>
@@ -151,6 +146,9 @@
       <file name="/rarejob_basic_operations_overviews [SchedulingSystem@172.16.110.107]" timestamp="1530492544234">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
+        <mark key="'" line="1924" column="6" />
+      </file>
       <file name="/dummy.sql" timestamp="1530782325226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,6 +167,7 @@
       <file name="/rarejob_lesson_of_a_day [SchedulingSystem@172.16.110.107]" timestamp="1530258074454">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/constants/RJ_MemberCurrentPaymentTbConstants.php" timestamp="1533696101292" />
       <file name="$USER_HOME$/PhpstormProjects/gas/CopyToOverView.js" timestamp="1532598566633">
         <mark key="'" line="49" column="10" />
         <mark key="[" line="49" column="31" />
@@ -238,13 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="13" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="74" column="16" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="75" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="129" column="50" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="131" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="30" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
-      <jump line="75" column="38" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_data.blade.php" />
       <jump line="48" column="41" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_data.blade.php" />
       <jump line="79" column="1" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_data.blade.php" />
       <jump line="56" column="27" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
@@ -338,6 +330,13 @@
       <jump line="263" column="10" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="146" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="147" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="49" column="15" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="1316" column="25" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="252" column="19" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="772" column="63" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="1575" column="31" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="1579" column="28" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
+      <jump line="1924" column="6" filename="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,7 +346,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGVwMVw+</text>
+        <text encoding="base64">XDxfcGF5bWVudFR5cGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>min:320,</text>
@@ -390,9 +389,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGVwMVw+</last-search>
+      <last-search encoding="base64">XDxfcGF5bWVudFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGVwMVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcGF5bWVudFR5cGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZW50ZXJCYXNlZFR1dG9yc1N0clw+</entry>
-        <entry encoding="base64">XDxyZWZzXD4=</entry>
         <entry encoding="base64">XDxmaXJlYmFzZVw+</entry>
         <entry encoding="base64">XDxzc1w+</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
@@ -420,6 +417,8 @@
         <entry encoding="base64">XDxzZW5kRGV2aWNlSW5mb1w+</entry>
         <entry encoding="base64">XDxtZWRpYURldmljZXNcPg==</entry>
         <entry encoding="base64">XDxzdGVwMVw+</entry>
+        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
+        <entry encoding="base64">XDxfcGF5bWVudFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
