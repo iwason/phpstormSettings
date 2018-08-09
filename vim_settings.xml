@@ -102,6 +102,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/components/constants/RJ_MemberCurrentPaymentTbConstants.php" timestamp="1533696101292" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1533715786095">
+        <mark key="'" line="27" column="9" />
+        <mark key="[" line="71" column="87" />
+        <mark key="]" line="73" column="44" />
+        <mark key="." line="73" column="44" />
+        <mark key="^" line="73" column="44" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
       </file>
@@ -212,17 +219,17 @@
       <jump line="953" column="12" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/tutor_basic_operation.R" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly5pZGVhL3BocC54bWwK</text>
+      <register name="&quot;" type="4">
+        <text>tutor_contract_type</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>tutor_contract_type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bml0X21vZGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>min:320,</text>
+        <text>$lesson['tutor_contract_type']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly5pZGVhL3BocC54bWwK</text>
