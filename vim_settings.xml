@@ -103,11 +103,11 @@
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
         <mark key="'" line="1924" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" timestamp="1533863654404">
-        <mark key="'" line="32" column="108" />
-        <mark key="[" line="32" column="84" />
-        <mark key="]" line="32" column="84" />
-        <mark key="." line="32" column="84" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" timestamp="1533868338966">
+        <mark key="'" line="33" column="108" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="309" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1533864644765">
@@ -134,8 +134,6 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Console/Commands/RarejobBasicOperationsOverviewSync.php" timestamp="1533866563754" />
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" />
-      <jump line="106" column="6" filename="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" />
       <jump line="22" column="47" filename="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" />
       <jump line="104" column="11" filename="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" />
       <jump line="12" column="9" filename="$USER_HOME$/Desktop/英会話Aクラス のコピー.html" />
@@ -233,11 +231,13 @@
       <jump line="634" column="20" filename="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/CorporateController.php" />
       <jump line="15" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
       <jump line="39" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
+      <jump line="40" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
       <jump line="32" column="108" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
+      <jump line="33" column="108" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2FtcGxlOiBodHRwczovL2RhdGEtbWluaW5nLnJhcmVqb2IuY29tL3Rvb2xzL2xlc3NvbnNfb2ZfYV9kYXkvYXBpLnBocD9wZXJpb2Q9ZGF0ZSZkYXRlPTIwMTctMDMtMjAmZGF0ZV9mcm9tPTIwMTctMDMtMjAmZGF0ZV90bz0yMDE3LTAzLTIwJnR1dG9yX2NvbnRyYWN0X3R5cGUlNUIlNUQ9Q0JUCg==</text>
+        <text encoding="base64">CSAgICAgICAgLy8gc2FtcGxlOiBwZXJpb2Q9bW9udGgmZGF0ZT0yMDE4LTAzLTAxJmRhdGVfZnJvbT0yMDE4LTAzLTAxJmRhdGVfdG89MjAxOC0wMy0zMSZ1bml0X21vZGU9dHV0b3ImdHV0b3JfY29udHJhY3RfdHlwZSU1QiU1RD1DQlQmdHV0b3JfcmF0ZV9zeXN0ZW0lNUIlNUQ9MCZ0dXRvcl90eXBlJTVCJTVEPUdFTkVSQUwmdHV0b3JfdHlwZSU1QiU1RD1GVEwmdHV0b3JfdHlwZSU1QiU1RD1CVVNJTkVTUyZ0dXRvcl90eXBlJTVCJTVEPVlPVU5HX0xFQVJORVImY29tbW9uX3RleHRfYXJlYT0mc3R1ZGVudF90eXBlJTVCJTVEPVRPVEFMCg==</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -245,8 +245,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0dXRvcl9jb250cmFjdF90eXBlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>// sample: https://data-mining.rarejob.com/tools/lessons_of_a_day/api.php?</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAgICAgICAgLy8gc2FtcGxlOiBwZXJpb2Q9bW9udGgmZGF0ZT0yMDE4LTAzLTAxJmRhdGVfZnJvbT0yMDE4LTAzLTAxJmRhdGVfdG89MjAxOC0wMy0zMSZ1bml0X21vZGU9dHV0b3ImdHV0b3JfY29udHJhY3RfdHlwZSU1QiU1RD1DQlQmdHV0b3JfcmF0ZV9zeXN0ZW0lNUIlNUQ9MCZ0dXRvcl90eXBlJTVCJTVEPUdFTkVSQUwmdHV0b3JfdHlwZSU1QiU1RD1GVEwmdHV0b3JfdHlwZSU1QiU1RD1CVVNJTkVTUyZ0dXRvcl90eXBlJTVCJTVEPVlPVU5HX0xFQVJORVImY29tbW9uX3RleHRfYXJlYT0mc3R1ZGVudF90eXBlJTVCJTVEPVRPVEFMCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gc2FtcGxlOiBodHRwczovL2RhdGEtbWluaW5nLnJhcmVqb2IuY29tL3Rvb2xzL2xlc3NvbnNfb2ZfYV9kYXkvYXBpLnBocD9wZXJpb2Q9ZGF0ZSZkYXRlPTIwMTctMDMtMjAmZGF0ZV9mcm9tPTIwMTctMDMtMjAmZGF0ZV90bz0yMDE3LTAzLTIwJnR1dG9yX2NvbnRyYWN0X3R5cGUlNUIlNUQ9Q0JUCg==</text>
