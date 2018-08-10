@@ -99,6 +99,7 @@
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="169" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/data_tools/web/tools/lessons_of_a_day/api.php" timestamp="1533864452258" />
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
         <mark key="'" line="1924" column="6" />
       </file>
@@ -109,7 +110,7 @@
         <mark key="." line="32" column="84" />
         <mark key="^" line="32" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533707618302">
+      <file name="/Dummy.txt" timestamp="1533864644765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,12 +119,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/RarejobController.php" timestamp="1533775941145">
         <mark key="'" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1533863611616">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1533864574252">
         <mark key="'" line="27" column="9" />
-        <mark key="[" line="39" column="180" />
-        <mark key="]" line="45" column="46" />
-        <mark key="." line="45" column="46" />
-        <mark key="^" line="45" column="46" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="40" column="109" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
@@ -235,50 +236,50 @@
       <jump line="32" column="108" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2FtcGxlOiBodHRwczovL2RhdGEtbWluaW5nLnJhcmVqb2IuY29tL3Rvb2xzL2xlc3NvbnNfb2ZfYV9kYXkvYXBpLnBocD9wZXJpb2Q9ZGF0ZSZkYXRlPTIwMTctMDMtMjAmZGF0ZV9mcm9tPTIwMTctMDMtMjAmZGF0ZV90bz0yMDE3LTAzLTIwJnR1dG9yX2NvbnRyYWN0X3R5cGUlNUIlNUQ9Q0JUCg==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0dXRvcl9jb250cmFjdF90eXBlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>R-RODBC</text>
+        <text>// sample: https://data-mining.rarejob.com/tools/lessons_of_a_day/api.php?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRhdGVGcm9tLCAkZGF0ZVRvLCAkdW5pdE1vZGUsICR0dXRvclJhdGVTeXN0ZW1zU3RyLCAkdHV0b3JDb250cmFjdFR5cGVzU3RyLCAkdHV0b3JUeXBlc1N0ciwgJG5ld1R1dG9yT25seSwgJHR1dG9ySURzU3RyLCAkaXNMZXNzb25Sb29tc1N0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2FtcGxlOiBodHRwczovL2RhdGEtbWluaW5nLnJhcmVqb2IuY29tL3Rvb2xzL2xlc3NvbnNfb2ZfYV9kYXkvYXBpLnBocD9wZXJpb2Q9ZGF0ZSZkYXRlPTIwMTctMDMtMjAmZGF0ZV9mcm9tPTIwMTctMDMtMjAmZGF0ZV90bz0yMDE3LTAzLTIwJnR1dG9yX2NvbnRyYWN0X3R5cGUlNUIlNUQ9Q0JUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRhdGVGcm9tLCAkZGF0ZVRvLCAkdW5pdE1vZGUsICR0dXRvclJhdGVTeXN0ZW1zU3RyLCAkdHV0b3JDb250cmFjdFR5cGVzU3RyLCAkdHV0b3JUeXBlc1N0ciwgJG5ld1R1dG9yT25seSwgJHR1dG9ySURzU3RyLCAkaXNMZXNzb25Sb29tc1N0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQltYWluKCckZGF0ZUZyb20nLCAnJGRhdGVUbycsICckdW5pdE1vZGUnLCAnJHR1dG9yUmF0ZVN5c3RlbXNTdHInLCAnJGNlbnRlckJhc2VkVHV0b3JzU3RyJywgJyR0dXRvclR5cGVzU3RyJywgJG5ld1R1dG9yT25seSwgJyR0dXRvcklEc1N0cicpCg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQltYWluKCckZGF0ZUZyb20nLCAnJGRhdGVUbycsICckdW5pdE1vZGUnLCAnJHR1dG9yUmF0ZVN5c3RlbXNTdHInLCAnJGNlbnRlckJhc2VkVHV0b3JzU3RyJywgJyR0dXRvclR5cGVzU3RyJywgJG5ld1R1dG9yT25seSwgJyR0dXRvcklEc1N0cicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly5pZGVhL3BocC54bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGxheSgp44GM44Gq44GE44Goc2FmYXJp44Gn5YaN55Sf44GV44KM44Gq44GE5ZWP6aGM44Gr5a++5YemCg==</text>
+        <text encoding="base64">Ly5pZGVhL3BocC54bWwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cGxheSgp44GM44Gq44GE44Goc2FmYXJp44Gn5YaN55Sf44GV44KM44Gq44GE5ZWP6aGM44Gr5a++5YemCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
