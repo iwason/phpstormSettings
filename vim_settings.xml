@@ -60,6 +60,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1534237188668">
+        <mark key="'" line="1506" column="21" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
@@ -75,10 +78,7 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" timestamp="1534141458859">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="84" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/vue/partials/lessonRoom/Video.vue" timestamp="1534214004459" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
@@ -123,10 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="943" column="5" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/tutor_basic_operation.R" />
-      <jump line="953" column="12" filename="$USER_HOME$/PhpstormProjects/data_tools/web/tools/tutor_basic_operation/tutor_basic_operation.R" />
-      <jump line="136" column="33" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/RarejobController.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/PhpstormProjects/gibson/protected/views/corporate/bundle.php" />
       <jump line="634" column="20" filename="$USER_HOME$/PhpstormProjects/gibson/protected/controllers/CorporateController.php" />
       <jump line="15" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
       <jump line="39" column="17" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobBasicOperationsOverviews.php" />
@@ -223,6 +219,10 @@
       <jump line="237" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="89" column="30" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="181" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="66" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" />
+      <jump line="1249" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="1251" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" />
+      <jump line="253" column="23" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -232,7 +232,7 @@
         <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXNlclw+</text>
+        <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>stream</text>
@@ -275,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmFseXNlclw+</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0b3JcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -285,9 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGVwM1w+</entry>
-        <entry encoding="base64">XDxzZXRVcENhbGxcPg==</entry>
-        <entry encoding="base64">XDxzZW5kTGVzc29uRXJyb3JMb2dzXD4=</entry>
         <entry encoding="base64">XDx2aWRlb0JhbmR3aWR0aFw+</entry>
         <entry encoding="base64">XDxjYWxsT3B0aW9uXD4=</entry>
         <entry encoding="base64">XDxiYW5hbmFcPg==</entry>
@@ -305,6 +302,9 @@
         <entry encoding="base64">XDxkaXN0b3J0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxhbmFseXNlclw+</entry>
+        <entry encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</entry>
+        <entry encoding="base64">XDxsb2dpblw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
