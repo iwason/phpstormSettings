@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534227213260">
+      <file name="/Dummy.txt" timestamp="1534409586424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -109,12 +109,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="40" column="109" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" timestamp="1534401384126">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" timestamp="1534409181373">
         <mark key="'" line="22" column="9" />
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="37" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1534227044058">
         <mark key="'" line="181" column="4" />
@@ -142,11 +142,11 @@
         <mark key="^" line="279" column="33" />
         <mark key="." line="279" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/Helper.php" timestamp="1534400850159">
-        <mark key="[" line="250" column="29" />
-        <mark key="]" line="250" column="31" />
-        <mark key="^" line="250" column="31" />
-        <mark key="." line="250" column="31" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Helpers/Helper.php" timestamp="1534409361921">
+        <mark key="[" line="252" column="28" />
+        <mark key="]" line="252" column="28" />
+        <mark key="^" line="251" column="21" />
+        <mark key="." line="252" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
         <mark key="'" line="7" column="0" />
@@ -266,16 +266,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>refs #43181 APIレスポンス仕様変更対応</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>refs #43181 APIレスポンス仕様変更対応</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZWF2ZUNyZWRpdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bGVhdmVXaXRob3V0UGF5IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKyBhcnJheSgnMycgPT4gJzIwNCBBZGp1c3RtZW50JykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBdKTsK</text>
