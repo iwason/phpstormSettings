@@ -35,7 +35,8 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" timestamp="1534318041351">
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" timestamp="1534913006854">
+        <mark key="'" line="73" column="21" />
         <mark key="[" line="152" column="42" />
         <mark key="]" line="152" column="46" />
         <mark key="^" line="152" column="46" />
@@ -88,6 +89,13 @@
         <mark key="]" line="62" column="23" />
         <mark key="." line="62" column="23" />
         <mark key="^" line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1534227044058">
+        <mark key="'" line="181" column="4" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="174" column="28" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_CorporateCampaignCode.php" timestamp="1531450198911">
         <mark key="'" line="30" column="27" />
@@ -160,6 +168,13 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/RarejobController.php" timestamp="1533775941145">
         <mark key="'" line="136" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1533864574252">
+        <mark key="'" line="27" column="9" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="40" column="109" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1534907262048">
         <mark key="[" line="68" column="131" />
         <mark key="]" line="68" column="131" />
@@ -189,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="43" column="20" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="247" column="15" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="248" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -289,6 +303,7 @@
       <jump line="27" column="15" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/Auth/ResetPasswordController.php" />
       <jump line="63" column="19" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" />
       <jump line="76" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" />
+      <jump line="73" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,7 +313,7 @@
         <text>page</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aHR0cHM6Ly9jbGFzc3Jvb20ucmFyZWpvYi5jb20vMXt7c3ByaW50ZignJTA0ZCcsJHNjaG9vbC0+aWQpfX0ve3skcm9vbS0+cm9vbV9pZH19L3R1dG9y</text>
@@ -341,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -354,7 +369,6 @@
         <entry encoding="base64">XDxkaXN0b3J0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxhbmFseXNlclw+</entry>
-        <entry encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDxwYXJzZUludFw+</entry>
@@ -371,6 +385,7 @@
         <entry encoding="base64">XDxyZWRpcmVjdFRvXD4=</entry>
         <entry encoding="base64">XDxHaWFub3R0b1w+</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
