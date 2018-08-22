@@ -197,12 +197,12 @@
         <mark key="^" line="279" column="33" />
         <mark key="." line="279" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" timestamp="1534917050827">
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" timestamp="1534917816025">
         <mark key="'" line="85" column="50" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="42" />
-        <mark key="^" line="111" column="29" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="111" column="4" />
+        <mark key="]" line="111" column="53" />
+        <mark key="^" line="111" column="3" />
+        <mark key="." line="111" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -308,8 +308,8 @@
       <jump line="85" column="50" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>selected = $(&quot;#attendance_type option:selected&quot;);</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -318,7 +318,7 @@
         <text encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>selected.val() != 3</text>
+        <text>selected = $(&quot;#attendance_type option:selected&quot;);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
