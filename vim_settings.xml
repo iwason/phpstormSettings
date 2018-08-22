@@ -62,11 +62,6 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/routes.php" timestamp="1534321287964">
         <mark key="'" line="181" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php.bk" timestamp="1534317659341">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="268" column="8" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/auth/login.blade.php" timestamp="1534317041623" />
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
@@ -83,8 +78,8 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/ClientRequest.php" timestamp="1528348409363">
         <mark key="'" line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" timestamp="1534409181373">
-        <mark key="'" line="22" column="9" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" timestamp="1534916207355">
+        <mark key="'" line="55" column="31" />
         <mark key="[" line="62" column="20" />
         <mark key="]" line="62" column="23" />
         <mark key="." line="62" column="23" />
@@ -112,6 +107,13 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/layouts/basic.blade.php" timestamp="1528179070664">
         <mark key="'" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/AttendanceController.php" timestamp="1534916944263">
+        <mark key="'" line="42" column="40" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="41" />
+        <mark key="^" line="59" column="45" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1534499008582">
         <mark key="'" line="33" column="22" />
         <mark key="[" line="22" column="30" />
@@ -131,11 +133,6 @@
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/views/corporate/bundle.php" timestamp="1533799567114">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/cosmo/src/sass/modules/_video.scss" timestamp="1534214000691">
-        <mark key="'" line="324" column="1" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="199" column="13" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1534215722862">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="11" />
@@ -154,6 +151,7 @@
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/views/corporate/register.php" timestamp="1531450356631">
         <mark key="'" line="23" column="47" />
       </file>
+      <file name="/Attendance.php" timestamp="1534916128080" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" timestamp="1534912187732">
         <mark key="'" line="76" column="9" />
       </file>
@@ -192,26 +190,22 @@
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Api_model.php" timestamp="1528778983809">
         <mark key="'" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" timestamp="1534400831433">
-        <mark key="'" line="250" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" timestamp="1534916173748">
+        <mark key="'" line="156" column="51" />
         <mark key="[" line="279" column="23" />
         <mark key="]" line="279" column="33" />
         <mark key="^" line="279" column="33" />
         <mark key="." line="279" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" timestamp="1534322547485">
-        <mark key="'" line="57" column="21" />
+      <file name="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" timestamp="1534917050827">
+        <mark key="'" line="85" column="50" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="42" />
+        <mark key="^" line="111" column="29" />
+        <mark key="." line="112" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="20" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="247" column="15" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="248" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="225" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="246" column="15" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="252" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="105" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="115" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="158" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="55" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -304,61 +298,69 @@
       <jump line="63" column="19" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" />
       <jump line="76" column="9" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" />
       <jump line="73" column="21" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/Auth/AuthController.php" />
+      <jump line="261" column="98" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" />
+      <jump line="263" column="101" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" />
+      <jump line="156" column="51" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/DashboardController.php" />
+      <jump line="30" column="10" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" />
+      <jump line="55" column="31" filename="$USER_HOME$/PhpstormProjects/lms/app/Models/Attendance.php" />
+      <jump line="42" column="40" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/AttendanceController.php" />
+      <jump line="74" column="24" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" />
+      <jump line="85" column="50" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</text>
+        <text encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aHR0cHM6Ly9jbGFzc3Jvb20ucmFyZWpvYi5jb20vMXt7c3ByaW50ZignJTA0ZCcsJHNjaG9vbC0+aWQpfX0ve3skcm9vbS0+cm9vbV9pZH19L3R1dG9y</text>
+        <text>selected.val() != 3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHbyB0byBsZXNzb24gcGFnZQo=</text>
+        <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNob2ljZXNbaV0gPSBpdGVtLmNyZWF0ZUNob2ljZSgi5qSc6Ki8IE5vICIgKyBpKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgYWJzZW5jZSwgdGFyZGluZXNzLCB1bmRlcnRpbWUsIE5DIGFjY2VwdCBvbmx5ICcxJyBhcyBjb3VudC4KICAgICAgJCgiI3NlbGVjdDItY291bnQtY29udGFpbmVyIikudGV4dCgiMSIpOwogICAgICAkKCIjY291bnQiKS5wcm9wKCJkaXNhYmxlZCIsIHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdGVtLnNldENob2ljZXMoY2hvaWNlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgdmFyIGNob2ljZXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gSW5wdXQ6OmdldCgnY291bnQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgaXRlbTIgPSBmb3JtLmFkZExpc3RJdGVtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgaXRlbTIgPSBmb3JtLmFkZExpc3RJdGVtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHbyB0byBsZXNzb24gcGFnZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdGVtLnNldENob2ljZXMoY2hvaWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNob2ljZXNbaV0gPSBpdGVtLmNyZWF0ZUNob2ljZSgi5qSc6Ki8IE5vICIgKyBpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdGVtLnNldENob2ljZXMoY2hvaWNlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdmFyIGNob2ljZXMgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</last-search>
+      <last-search encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXN0b3J0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxhbmFseXNlclw+</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
@@ -386,6 +387,7 @@
         <entry encoding="base64">XDxHaWFub3R0b1w+</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</entry>
+        <entry encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
