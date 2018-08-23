@@ -82,12 +82,12 @@
         <mark key="." line="62" column="23" />
         <mark key="^" line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1534227044058">
-        <mark key="'" line="181" column="4" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="174" column="28" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1535010668294">
+        <mark key="'" line="239" column="11" />
+        <mark key="[" line="270" column="67" />
+        <mark key="]" line="270" column="67" />
+        <mark key="^" line="270" column="62" />
+        <mark key="." line="270" column="67" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_CorporateCampaignCode.php" timestamp="1531450198911">
         <mark key="'" line="30" column="27" />
@@ -204,10 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="55" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="57" column="21" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="143" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="297" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -304,61 +300,65 @@
       <jump line="42" column="40" filename="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/AttendanceController.php" />
       <jump line="74" column="24" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" />
       <jump line="85" column="50" filename="$USER_HOME$/PhpstormProjects/lms/resources/views/attendances/edit.blade.php" />
+      <jump line="236" column="2" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="120" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="239" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>selected = $(&quot;#attendance_type option:selected&quot;);</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</text>
+        <text encoding="base64">XDxzZXRVcENhbGxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>selected = $(&quot;#attendance_type option:selected&quot;);</text>
+        <text encoding="base64">bGVzc29uVGltZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGVzc29uVGltZSA9IERhdGUubm93KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgYWJzZW5jZSwgdGFyZGluZXNzLCB1bmRlcnRpbWUsIE5DIGFjY2VwdCBvbmx5ICcxJyBhcyBjb3VudC4KICAgICAgJCgiI3NlbGVjdDItY291bnQtY29udGFpbmVyIikudGV4dCgiMSIpOwogICAgICAkKCIjY291bnQiKS5wcm9wKCJkaXNhYmxlZCIsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgJCgiI2NvdW50IikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgYWJzZW5jZSwgdGFyZGluZXNzLCB1bmRlcnRpbWUsIE5DIGFjY2VwdCBvbmx5ICcxJyBhcyBjb3VudC4KICAgICAgJCgiI3NlbGVjdDItY291bnQtY29udGFpbmVyIikudGV4dCgiMSIpOwogICAgICAkKCIjY291bnQiKS5wcm9wKCJkaXNhYmxlZCIsIHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gSW5wdXQ6OmdldCgnY291bnQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gSW5wdXQ6OmdldCgnY291bnQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHbyB0byBsZXNzb24gcGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gMTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNob2ljZXNbaV0gPSBpdGVtLmNyZWF0ZUNob2ljZSgi5qSc6Ki8IE5vICIgKyBpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHbyB0byBsZXNzb24gcGFnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdGVtLnNldENob2ljZXMoY2hvaWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNob2ljZXNbaV0gPSBpdGVtLmNyZWF0ZUNob2ljZSgi5qSc6Ki8IE5vICIgKyBpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgdmFyIGNob2ljZXMgPSBbXTsK</text>
+        <text encoding="base64">ICBpdGVtLnNldENob2ljZXMoY2hvaWNlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRVcENhbGxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVcENhbGxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +366,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxhbmFseXNlclw+</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
@@ -386,6 +385,7 @@
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxsb2dpbl92aWFfbGRhcFw+</entry>
         <entry encoding="base64">XDxUWVBFXzIwNF9BREpVU1RNRU5UXD4=</entry>
+        <entry encoding="base64">XDxzZXRVcENhbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
