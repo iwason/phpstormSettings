@@ -134,15 +134,18 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" timestamp="1534912187732">
         <mark key="'" line="76" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1537964865170">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1537967560387">
         <mark key="'" line="77" column="29" />
-        <mark key="[" line="153" column="85" />
-        <mark key="]" line="153" column="85" />
-        <mark key="." line="153" column="85" />
-        <mark key="^" line="153" column="75" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="75" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
         <mark key="'" line="1924" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537967978107">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/RarejobController.php" timestamp="1533775941145">
         <mark key="'" line="136" column="33" />
@@ -172,6 +175,12 @@
         <mark key="]" line="279" column="33" />
         <mark key="^" line="279" column="33" />
         <mark key="." line="279" column="33" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_device.blade.php" timestamp="1537967367856">
+        <mark key="[" line="83" column="84" />
+        <mark key="]" line="83" column="84" />
+        <mark key="." line="83" column="84" />
+        <mark key="^" line="81" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1537965562330" />
       <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1537928077670" />
@@ -290,16 +299,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>send_at</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>send_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dXNlckFnZW50IA==</text>
+        <text>userAgent</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -314,25 +323,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChsZXNzb25JbmZvWyd1c2VyJ10gPT0gJ3N1cHBvcnQnKXsgCiAgICAkKCcjdmlkZW8tY29udHJvbCcpLnN0eWxlLnZpc2liaWxpdHkgPSAndmlzaWJsZSc7CiAgICAkKCcjYXVkaW8tY29udHJvbCcpLnN0eWxlLnZpc2liaWxpdHkgPSAndmlzaWJsZSc7CiAgICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IGVsc2UgCg==</text>
+        <text encoding="base64">ICAgIGlmIChsZXNzb25JbmZvWyd1c2VyJ10gPT0gJ3N1cHBvcnQnKXsgCiAgICAkKCcjdmlkZW8tY29udHJvbCcpLnN0eWxlLnZpc2liaWxpdHkgPSAndmlzaWJsZSc7CiAgICAkKCcjYXVkaW8tY29udHJvbCcpLnN0eWxlLnZpc2liaWxpdHkgPSAndmlzaWJsZSc7CiAgICB9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGVsc2UgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvb21JbmZvLmxhbmcgPSAnZW4nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb21JbmZvLmxvY2FsVXNlciA9ICd0dXRvcic7Cg==</text>
+        <text encoding="base64">ICAgIHJvb21JbmZvLmxhbmcgPSAnZW4nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvb21JbmZvLnJlbW90ZVVzZXIgPSAnc3R1ZGVudCc7Cg==</text>
+        <text encoding="base64">ICAgIHJvb21JbmZvLmxvY2FsVXNlciA9ICd0dXRvcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
