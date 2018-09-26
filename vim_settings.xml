@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/views/corporate/bundle.php" timestamp="1533799567114">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1536816415803">
-        <mark key="[" line="22" column="60" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1537929440610">
+        <mark key="[" line="22" column="54" />
         <mark key="]" line="22" column="67" />
         <mark key="^" line="22" column="67" />
         <mark key="." line="22" column="67" />
@@ -82,12 +82,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/database/migrations/2018_06_01_215851_remove_title_location_detail_from_clietn_request_details_table.php" timestamp="1528100715870">
         <mark key="'" line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1536816533290">
-        <mark key="'" line="76" column="29" />
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="75" column="57" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1537929260860">
+        <mark key="'" line="77" column="29" />
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
         <mark key="'" line="1924" column="6" />
@@ -294,16 +294,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.active</text>
+        <text>lessonInfo['user']</text>
       </register>
       <register name="-" type="4">
-        <text>.active</text>
+        <text>lessonInfo['user']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>.css(&quot;visibility&quot;, &quot;visible&quot;);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByb29tSW5mby5sb2NhbFVzZXIgPSBsZXNzb25JbmZvWyd1c2VyJ107Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
