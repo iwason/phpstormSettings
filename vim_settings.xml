@@ -76,8 +76,8 @@
         <mark key="." line="62" column="23" />
         <mark key="^" line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1537952358845">
-        <mark key="'" line="179" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1537964391215">
+        <mark key="'" line="173" column="0" />
         <mark key="[" line="89" column="20" />
         <mark key="]" line="89" column="20" />
         <mark key="^" line="89" column="33" />
@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/Ldap.php" timestamp="1534912187732">
         <mark key="'" line="76" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1537929260860">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1537964865170">
         <mark key="'" line="77" column="29" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="32" />
-        <mark key="." line="72" column="32" />
-        <mark key="^" line="72" column="32" />
+        <mark key="[" line="153" column="85" />
+        <mark key="]" line="153" column="85" />
+        <mark key="." line="153" column="85" />
+        <mark key="^" line="153" column="75" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gibson/protected/models/RJ_Member.php" timestamp="1533696323501">
         <mark key="'" line="1924" column="6" />
@@ -289,16 +289,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVcExvY2FsTWVkaWFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByb29tSW5mby5sb2NhbFVzZXIgPSBsZXNzb25JbmZvWyd1c2VyJ107Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dXNlckFnZW50IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
