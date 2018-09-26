@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/rooms [database.sqlite]" timestamp="1536557070621">
+      <file name="/rooms [database.sqlite]" timestamp="1537965074033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/top/application/models/Cepalco_model.php" timestamp="1528270959340">
@@ -173,6 +173,7 @@
         <mark key="^" line="279" column="33" />
         <mark key="." line="279" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show.blade.php" timestamp="1537965562330" />
       <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1537928077670" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1536806562990">
         <mark key="'" line="7" column="37" />
