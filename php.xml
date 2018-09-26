@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/bin/php" id="23ffbe31-7172-415b-bc7d-d6ebdd4a61df" name="PHP7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.5_17/bin/php" id="23ffbe31-7172-415b-bc7d-d6ebdd4a61df" name="PHP7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php" id="81263b2e-ba08-40b0-842c-81315dc16bd3" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -290,7 +290,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.5_17/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.5_17/bin/php" path_separator=":" remote_host="127.0.0.1" version="7.1.5">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.5_17/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.5_17/bin/php" path_separator=":" version="7.1.5">
           <additional_php_ini />
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
