@@ -108,6 +108,7 @@
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Http/Controllers/RarejobController.php" timestamp="1533775941145">
         <mark key="'" line="136" column="33" />
       </file>
+      <file name="/lessonRoom.js" timestamp="1537926648762" />
       <file name="$USER_HOME$/PhpstormProjects/lms/app/Models/RarejobLessonOfADay.php" timestamp="1533864574252">
         <mark key="'" line="27" column="9" />
         <mark key="[" line="39" column="0" />
@@ -170,6 +171,7 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/qrCode.js" timestamp="1537926756907" />
       <file name="$USER_HOME$/PhpstormProjects/cosmo/src/js/store/modules/lessonRoom.ts" timestamp="1536806562990">
         <mark key="'" line="7" column="37" />
       </file>
