@@ -69,14 +69,19 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="/firebase.js" timestamp="1538486032006" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b23de9fb-eb88-457c-aa60-074113a32c2a/console.sql" timestamp="1538023484081">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1538464982469">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1538486022295">
         <mark key="'" line="37" column="6" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="14" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1538464281259">
         <mark key="'" line="36" column="22" />
@@ -86,9 +91,6 @@
         <mark key="^" line="36" column="61" />
       </file>
       <file name="/dummy.sql" timestamp="1538024906122">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1538465194685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1538117069938">
@@ -105,7 +107,7 @@
         <mark key="." line="68" column="131" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1538474851535">
-        <mark key="'" line="306" column="6" />
+        <mark key="'" line="293" column="6" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -260,50 +262,50 @@
       <jump line="306" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXNzb25UaW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>URLが正しくありません。確認し、再接続してください。</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vICQoImJvZHkiKS5zZXRBdHRyaWJ1dGUoJ3N0eWxlJywgJ2JhY2tncm91bmQtY29sb3I6I0NDRkZDQycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxlc3NvbnMiOiB7CiAgICAgICAgICAgICAgIi5yZWFkIjogdHJ1ZSwKICAgICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC8vICQoImJvZHkiKS5zZXRBdHRyaWJ1dGUoJ3N0eWxlJywgJ2JhY2tncm91bmQtY29sb3I6I0NDRkZDQycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJsZXNzb25zIjogewogICAgICAgICAgICAiLnJlYWQiOiB0cnVlLAogICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxlc3NvbnMiOiB7CiAgICAgICAgICAgICAgIi5yZWFkIjogdHJ1ZSwKICAgICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibGVzc29ucyI6IHsKICAgICAgICAgICIucmVhZCI6IHRydWUsCiAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICJsZXNzb25zIjogewogICAgICAgICAgICAiLnJlYWQiOiB0cnVlLAogICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxlc3NvbnMiOiB7CiAgICAgICAgICAgICAgIi5yZWFkIjogdHJ1ZSwKICAgICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAibGVzc29ucyI6IHsKICAgICAgICAgICIucmVhZCI6IHRydWUsCiAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZ2V0VXNlck1lZGlh44Gn44Kr44Oh44Op44CB44Oe44Kk44Kv44Gr44Ki44Kv44K744K5CmFzeW5jIGZ1bmN0aW9uIHN0YXJ0VmlkZW8oKSB7CiAgdHJ5ewogICAgbG9jYWxTdHJlYW0gPSBhd2FpdCBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzLmdldFVzZXJNZWRpYSh7dmlkZW86IHRydWUsIGF1ZGlvOiBmYWxzZX0pOwogICAgcGxheVZpZGVvKGxvY2FsVmlkZW8sbG9jYWxTdHJlYW0pOwogIH0gY2F0Y2goZXJyKXsKICAgIGNvbnNvbGUuZXJyb3IoJ21lZGlhRGV2aWNlLmdldFVzZXJNZWRpYSgpIGVycm9yOicsIGVycik7CiAgfQp9CgovLyBWaWRlb+OBruWGjeeUn+OCkumWi+Wni+OBmeOCiwphc3luYyBmdW5jdGlvbiBwbGF5VmlkZW8oZWxlbWVudCwgc3RyZWFtKSB7CiAgZWxlbWVudC5zcmNPYmplY3QgPSBzdHJlYW07CiAgYXdhaXQgZWxlbWVudC5wbGF5KCk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBnZXRVc2VyTWVkaWHjgafjgqvjg6Hjg6njgIHjg57jgqTjgq/jgavjgqLjgq/jgrvjgrkKICBhc3luYyBmdW5jdGlvbiBzdGFydFZpZGVvKCkgewogICAgdHJ5ewogICAgICBsb2NhbFN0cmVhbSA9IGF3YWl0IG5hdmlnYXRvci5tZWRpYURldmljZXMuZ2V0VXNlck1lZGlhKHt2aWRlbzogdHJ1ZSwgYXVkaW86IGZhbHNlfSk7CiAgICAgIHBsYXlWaWRlbyhsb2NhbFZpZGVvLGxvY2FsU3RyZWFtKTsKICAgIH0gY2F0Y2goZXJyKXsKICAgICAgY29uc29sZS5lcnJvcignbWVkaWFEZXZpY2UuZ2V0VXNlck1lZGlhKCkgZXJyb3I6JywgZXJyKTsKICAgIH0KICB9CgovLyBWaWRlb+OBruWGjeeUn+OCkumWi+Wni+OBmeOCiwogIGFzeW5jIGZ1bmN0aW9uIHBsYXlWaWRlbyhlbGVtZW50LCBzdHJlYW0pIHsKICAgIGVsZW1lbnQuc3JjT2JqZWN0ID0gc3RyZWFtOwogICAgYXdhaXQgZWxlbWVudC5wbGF5KCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxlc3NvbnMiOiB7CiAgICAgICAgICAgICAgIi5yZWFkIjogdHJ1ZSwKICAgICAgICAgICAgICAiLndyaXRlIjogdHJ1ZQogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aW5kb3cuc2V0VXBQZWVyID0gZnVuY3Rpb24oKXt9Owo=</text>
+        <text encoding="base64">Ly8gZ2V0VXNlck1lZGlh44Gn44Kr44Oh44Op44CB44Oe44Kk44Kv44Gr44Ki44Kv44K744K5CmFzeW5jIGZ1bmN0aW9uIHN0YXJ0VmlkZW8oKSB7CiAgdHJ5ewogICAgbG9jYWxTdHJlYW0gPSBhd2FpdCBuYXZpZ2F0b3IubWVkaWFEZXZpY2VzLmdldFVzZXJNZWRpYSh7dmlkZW86IHRydWUsIGF1ZGlvOiBmYWxzZX0pOwogICAgcGxheVZpZGVvKGxvY2FsVmlkZW8sbG9jYWxTdHJlYW0pOwogIH0gY2F0Y2goZXJyKXsKICAgIGNvbnNvbGUuZXJyb3IoJ21lZGlhRGV2aWNlLmdldFVzZXJNZWRpYSgpIGVycm9yOicsIGVycik7CiAgfQp9CgovLyBWaWRlb+OBruWGjeeUn+OCkumWi+Wni+OBmeOCiwphc3luYyBmdW5jdGlvbiBwbGF5VmlkZW8oZWxlbWVudCwgc3RyZWFtKSB7CiAgZWxlbWVudC5zcmNPYmplY3QgPSBzdHJlYW07CiAgYXdhaXQgZWxlbWVudC5wbGF5KCk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
