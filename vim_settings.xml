@@ -77,10 +77,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1538464982469">
         <mark key="'" line="37" column="6" />
-        <mark key="[" line="218" column="60" />
-        <mark key="]" line="218" column="72" />
-        <mark key="." line="218" column="72" />
-        <mark key="^" line="218" column="72" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1538464281259">
         <mark key="'" line="36" column="22" />
@@ -109,10 +105,7 @@
         <mark key="." line="68" column="131" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1538464253638">
-        <mark key="'" line="302" column="21" />
-        <mark key="[" line="83" column="6" />
-        <mark key="]" line="83" column="6" />
-        <mark key="." line="83" column="6" />
+        <mark key="'" line="316" column="21" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1538027261257">
         <mark key="'" line="25" column="4" />
