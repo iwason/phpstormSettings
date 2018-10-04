@@ -75,12 +75,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1538617883478">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1538619312185">
         <mark key="'" line="103" column="2" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="176" column="26" />
-        <mark key="." line="176" column="0" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="151" column="13" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1538464281259">
         <mark key="'" line="36" column="22" />
@@ -263,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGVzc29uVGltZSArPSBkdXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5pbmZvKGAke2F1ZGlvfSBhLHYgJHt2aWRlb31gKTsK</text>
       </register>
       <register name="-" type="4">
         <text>lessonTime</text>
@@ -275,19 +275,19 @@
         <text encoding="base64">c3RhcnRBdCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGVzc29uVGltZSArPSBkdXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5pbmZvKGAke2F1ZGlvfSBhLHYgJHt2aWRlb31gKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGVzc29uVGltZSA9IERhdGUubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5pbmZvKCdzZW5kIGRldmljZSBpbmZvJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGVzc29uVGltZSArPSBkdXJhdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGVzc29uVGltZSA9IERhdGUubm93KCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -302,7 +302,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzY2hvb2xSZWZlcmVuY2UgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
