@@ -92,6 +92,9 @@
       <file name="/dummy.sql" timestamp="1538024906122">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1538738865572">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1538117069938">
         <mark key="'" line="119" column="26" />
         <mark key="[" line="177" column="0" />
@@ -99,11 +102,11 @@
         <mark key="^" line="164" column="35" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1534907262048">
-        <mark key="[" line="68" column="131" />
-        <mark key="]" line="68" column="131" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1538738775016">
+        <mark key="[" line="65" column="121" />
+        <mark key="]" line="65" column="121" />
         <mark key="^" line="69" column="39" />
-        <mark key="." line="68" column="131" />
+        <mark key="." line="65" column="121" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1538719465403">
         <mark key="'" line="117" column="0" />
@@ -262,11 +265,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy/jg5/jg6rnp5IgLT4g56eSIC0+IOWIhgogICAgICBpZihjb25uZWN0aW5nVGltZSA+IDEyMCl7CiAgICAgICAgbGV0IG5vdyA9IERhdGUubm93KCk7CiAgICAgICAgaWYoIChub3cgLSBjbGFzc1N0YXJ0QXQpIC8xMDAwIC8gNjAgPiA1KXsKICAgICAgICAgIGxlc3NvblRpbWUgPSBNYXRoLnJvdW5kKChEYXRlLm5vdygpIC0gc3RhcnRBdCkgLyAxMDAwIC8gNjApOwogICAgICAgICAgc2VuZExlc3NvblRpbWVJbmZvKGNvbm5lY3RpbmdUaW1lIC8gNjAsIGNsYXNzU3RhcnRBdCk7CiAgICAgICAgfQoKICAgICAgfQogICAgICAvLyBzZW5kTGVzc29uTG9ncyhg44Oq44Oi44O844OI44OT44OH44Kq57WC5LqGIOaOpee2muaZgumWkyAke2xlc3NvblRpbWV9IOWIhmAgLCdlbmQgTGVzc29uJyk7CiAgICAgIGNvbnNvbGUubG9nKCdpbnRlcnZhbCBubyBpcyAnICsgc3RyZWFtSW50ZXJ2YWxOdW1iZXIgKTsKICAgICAgaWYgKHN0cmVhbUludGVydmFsTnVtYmVyID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChzdHJlYW1JbnRlcnZhbE51bWJlcik7CiAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>student</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>student</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGlzdGluZ0NhbGxcPg==</text>
