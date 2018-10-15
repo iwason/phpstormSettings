@@ -57,17 +57,17 @@
       <file name="/schools [database.sqlite]" timestamp="1538015993441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" timestamp="1538025075567">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="61" column="48" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1539604742300">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="101" column="20" />
         <mark key="]" line="101" column="20" />
         <mark key="." line="101" column="20" />
         <mark key="^" line="101" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/.eslintrc.js" timestamp="1539605112637">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1538025205766">
         <mark key="'" line="33" column="92" />
@@ -115,12 +115,12 @@
         <mark key="^" line="69" column="39" />
         <mark key="." line="65" column="121" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1539593799179">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1539604907061">
         <mark key="'" line="117" column="0" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="347" column="7" />
-        <mark key="^" line="281" column="5" />
-        <mark key="." line="334" column="0" />
+        <mark key="[" line="223" column="2" />
+        <mark key="]" line="223" column="2" />
+        <mark key="^" line="230" column="2" />
+        <mark key="." line="223" column="2" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1538027261257">
         <mark key="'" line="25" column="4" />
@@ -272,11 +272,11 @@
       <jump line="5" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRyYWN0U3R5bGVzXD4=</text>
@@ -291,31 +291,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy/jg5/jg6rnp5IgLT4g56eSIC0+IOWIhgogICAgICBpZihjb25uZWN0aW5nVGltZSA+IDEyMCl7CiAgICAgICAgbGV0IG5vdyA9IERhdGUubm93KCk7CiAgICAgICAgaWYoIChub3cgLSBjbGFzc1N0YXJ0QXQpIC8xMDAwIC8gNjAgPiA1KXsKICAgICAgICAgIGxlc3NvblRpbWUgPSBNYXRoLnJvdW5kKChEYXRlLm5vdygpIC0gc3RhcnRBdCkgLyAxMDAwIC8gNjApOwogICAgICAgICAgc2VuZExlc3NvblRpbWVJbmZvKGNvbm5lY3RpbmdUaW1lIC8gNjAsIGNsYXNzU3RhcnRBdCk7CiAgICAgICAgfQoKICAgICAgfQogICAgICAvLyBzZW5kTGVzc29uTG9ncyhg44Oq44Oi44O844OI44OT44OH44Kq57WC5LqGIOaOpee2muaZgumWkyAke2xlc3NvblRpbWV9IOWIhmAgLCdlbmQgTGVzc29uJyk7CiAgICAgIGNvbnNvbGUubG9nKCdpbnRlcnZhbCBubyBpcyAnICsgc3RyZWFtSW50ZXJ2YWxOdW1iZXIgKTsKICAgICAgaWYgKHN0cmVhbUludGVydmFsTnVtYmVyID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChzdHJlYW1JbnRlcnZhbE51bWJlcik7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGVzc29uVGltZScpOwo=</text>
+        <text encoding="base64">ICAgICAgLy/jg5/jg6rnp5IgLT4g56eSIC0+IOWIhgogICAgICBpZihjb25uZWN0aW5nVGltZSA+IDEyMCl7CiAgICAgICAgbGV0IG5vdyA9IERhdGUubm93KCk7CiAgICAgICAgaWYoIChub3cgLSBjbGFzc1N0YXJ0QXQpIC8xMDAwIC8gNjAgPiA1KXsKICAgICAgICAgIGxlc3NvblRpbWUgPSBNYXRoLnJvdW5kKChEYXRlLm5vdygpIC0gc3RhcnRBdCkgLyAxMDAwIC8gNjApOwogICAgICAgICAgc2VuZExlc3NvblRpbWVJbmZvKGNvbm5lY3RpbmdUaW1lIC8gNjAsIGNsYXNzU3RhcnRBdCk7CiAgICAgICAgfQoKICAgICAgfQogICAgICAvLyBzZW5kTGVzc29uTG9ncyhg44Oq44Oi44O844OI44OT44OH44Kq57WC5LqGIOaOpee2muaZgumWkyAke2xlc3NvblRpbWV9IOWIhmAgLCdlbmQgTGVzc29uJyk7CiAgICAgIGNvbnNvbGUubG9nKCdpbnRlcnZhbCBubyBpcyAnICsgc3RyZWFtSW50ZXJ2YWxOdW1iZXIgKTsKICAgICAgaWYgKHN0cmVhbUludGVydmFsTnVtYmVyID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChzdHJlYW1JbnRlcnZhbE51bWJlcik7CiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnRBdCA9IERhdGUubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGVzc29uVGltZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xhc3Mgc3RhcnQgYXQnKTsK</text>
+        <text encoding="base64">ICAgICAgc3RhcnRBdCA9IERhdGUubm93KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLnN0YXJ0QXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xhc3Mgc3RhcnQgYXQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLnN0YXJ0QXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy/jg5/jg6rnp5IgLT4g56eSIC0+IOWIhgogICAgICBpZihjb25uZWN0aW5nVGltZSA+IDEyMCl7CiAgICAgICAgbGV0IG5vdyA9IERhdGUubm93KCk7CiAgICAgICAgaWYoIChub3cgLSBjbGFzc1N0YXJ0QXQpIC8xMDAwIC8gNjAgPiA1KXsKICAgICAgICAgIGxlc3NvblRpbWUgPSBNYXRoLnJvdW5kKChEYXRlLm5vdygpIC0gc3RhcnRBdCkgLyAxMDAwIC8gNjApOwogICAgICAgICAgc2VuZExlc3NvblRpbWVJbmZvKGNvbm5lY3RpbmdUaW1lIC8gNjAsIGNsYXNzU3RhcnRBdCk7CiAgICAgICAgfQoKICAgICAgfQogICAgICAvLyBzZW5kTGVzc29uTG9ncyhg44Oq44Oi44O844OI44OT44OH44Kq57WC5LqGIOaOpee2muaZgumWkyAke2xlc3NvblRpbWV9IOWIhmAgLCdlbmQgTGVzc29uJyk7CiAgICAgIGlmIChzdHJlYW1JbnRlcnZhbE51bWJlciA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoc3RyZWFtSW50ZXJ2YWxOdW1iZXIpOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
