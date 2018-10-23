@@ -112,8 +112,8 @@
         <mark key="^" line="69" column="39" />
         <mark key="." line="65" column="121" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1539610220572">
-        <mark key="'" line="259" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1540278450335">
+        <mark key="'" line="264" column="28" />
         <mark key="[" line="278" column="70" />
         <mark key="]" line="278" column="73" />
         <mark key="." line="278" column="73" />
@@ -167,9 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
-      <jump line="23" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="170" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="296" column="18" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="165" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="244" column="32" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
@@ -267,6 +264,9 @@
       <jump line="259" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="40" column="33" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" />
       <jump line="13" column="40" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" />
+      <jump line="266" column="25" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="79" column="24" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="264" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -276,7 +276,7 @@
         <text encoding="base64">bmFtZW5hbWUg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1iZXJcPg==</text>
+        <text encoding="base64">XDxBY3RpdmVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>number</text>
@@ -319,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1iZXJcPg==</last-search>
+      <last-search encoding="base64">XDxBY3RpdmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1iZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBY3RpdmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxsZXNzb25UaW1lUmVmXD4=</entry>
         <entry encoding="base64">XDxsZXNzb25zXD4=</entry>
@@ -349,6 +348,7 @@
         <entry encoding="base64">XDxyZW1vdGVTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxzZXRVcENhbGxcPg==</entry>
         <entry encoding="base64">XDxudW1iZXJcPg==</entry>
+        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
