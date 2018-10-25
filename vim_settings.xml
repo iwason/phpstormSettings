@@ -123,11 +123,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1540436348015">
-        <mark key="'" line="270" column="28" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1540448204514">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1538027261257">
         <mark key="'" line="25" column="4" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="68" column="4" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="105" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="158" column="13" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
@@ -282,13 +281,14 @@
       <jump line="38" column="0" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
       <jump line="172" column="15" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
       <jump line="143" column="15" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
+      <jump line="29" column="24" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>number</text>
+        <text>const audioCtx = new (window.AudioContext || window.webkitAudioContext)();</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>const audioCtx = new (window.AudioContext || window.webkitAudioContext)();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY3RpdmVcPg==</text>
