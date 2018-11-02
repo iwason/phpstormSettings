@@ -93,11 +93,11 @@
         <mark key="." line="43" column="24" />
         <mark key="^" line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1541139889904">
-        <mark key="[" line="62" column="91" />
-        <mark key="]" line="62" column="91" />
-        <mark key="^" line="54" column="88" />
-        <mark key="." line="62" column="91" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1541141121908">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="^" line="62" column="31" />
+        <mark key="." line="62" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1541139861523">
         <mark key="'" line="36" column="22" />
@@ -135,12 +135,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1541139931359">
-        <mark key="'" line="253" column="12" />
-        <mark key="[" line="262" column="11" />
-        <mark key="]" line="262" column="11" />
-        <mark key="^" line="262" column="11" />
-        <mark key="." line="262" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1541141307090">
+        <mark key="'" line="255" column="36" />
+        <mark key="[" line="255" column="33" />
+        <mark key="]" line="255" column="33" />
+        <mark key="^" line="255" column="33" />
+        <mark key="." line="255" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1540457367562">
         <mark key="'" line="22" column="64" />
@@ -299,16 +299,16 @@
       <jump line="249" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="80" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="258" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="255" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="254" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="253" column="12" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="255" column="36" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE1pY1N0YXR1c1w+</text>
