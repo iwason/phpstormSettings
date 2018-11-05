@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/rooms [database.sqlite]" timestamp="1537965074033">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/toolBox/createHtml.js" timestamp="1534739827428">
         <mark key="[" line="105" column="19" />
         <mark key="]" line="106" column="17" />
@@ -63,9 +60,6 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/schools [database.sqlite]" timestamp="1538015993441">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1539604742300">
         <mark key="'" line="5" column="4" />
       </file>
@@ -101,16 +95,13 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1541403140179">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1541414749288">
         <mark key="'" line="51" column="6" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1538024906122">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540518959390">
+      <file name="/Dummy.txt" timestamp="1541414638587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/皇學館中学レッスン表.html" timestamp="1540379373804">
