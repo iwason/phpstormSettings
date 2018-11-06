@@ -63,6 +63,12 @@
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1539604742300">
         <mark key="'" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1541471130753">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="15" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/.eslintrc.js" timestamp="1539605762804">
         <mark key="[" line="41" column="6" />
         <mark key="]" line="41" column="6" />
@@ -101,7 +107,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541414638587">
+      <file name="/Dummy.txt" timestamp="1541471159470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/皇學館中学レッスン表.html" timestamp="1540379373804">
@@ -298,49 +304,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICQoImJvZHkiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0NDRkZDQycpOwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>接続元、接続先peerId確認</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50Um9vbUluZm9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDIuNXB4Owo=</text>
+        <text encoding="base64">RC0+PkM6IOaOpee2muWFg+OAgeaOpee2muWFiHBlZXJJZOeiuuiqjQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQoImJvZHkiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0NDRkZDQycpOwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0ZXN0IGludGVydmFsJyk7Cg==</text>
+        <text encoding="base64">ICAgIEIgLS0+PiBBOiA0MDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbHNlIGlk44GM55m76Yyy44GV44KM44Gm44GE44Gq44GECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDJweDsK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQiAtLT4+IEE6IDQwMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQoJyNzb3VuZC10ZXN0JykuY3NzKCJ2aXNpYmlsaXR5IiwgInZpc2libGUiKTsK</text>
+        <text encoding="base64">ICAgIGVsc2UgaWTjgahwYXNz44Gu57WE44G/5ZCI44KP44Gb44GM5q2j44GX44GP44Gq44GECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQiAtLT4+IEE6MjAwICYg44OI44O844Kv44OzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLXNtI21ha2Utc291bmQgUGxheQo=</text>
+        <text encoding="base64">ICAgICAgQiAtLT4+IEI644OI44O844Kv44Oz55m66KGMCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Bhbi5nbHlwaGljb24uZ2x5cGhpY29uLXBsYXktY2lyY2xlIFBsYXkK</text>
+        <text encoding="base64">ICAgICAgQyAtLT4+IEI6MjAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
