@@ -9,11 +9,14 @@
         <mark key="^" line="106" column="17" />
         <mark key="." line="106" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_080827_create_schools_table.php" timestamp="1543219817316">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_080827_create_schools_table.php" timestamp="1543220278608">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1543220465243">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1538129584636">
         <mark key="[" line="22" column="47" />
@@ -107,6 +110,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_080827_create_new_schools_table.php" timestamp="1543220313491">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" timestamp="1542090234754">
         <mark key="'" line="14" column="40" />
         <mark key="[" line="43" column="37" />
@@ -119,6 +128,11 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_080830_rename_from_school_id_to_class_id_on_rooms.php" timestamp="1543220912202">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1541414749288">
         <mark key="'" line="51" column="6" />
@@ -231,11 +245,11 @@
         <mark key="." line="7" column="138" />
         <mark key="^" line="7" column="138" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_075301_rename_from_school_id_to_class_id_on_rooms.php" timestamp="1543218859133">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="43" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_075301_rename_from_school_id_to_class_id_on_rooms.php" timestamp="1543220203202">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="11" />
         <mark key="^" line="16" column="54" />
-        <mark key="." line="28" column="33" />
+        <mark key="." line="22" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -341,35 +355,35 @@
       <jump line="12" column="8" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>location</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2JhbmR3aWR0aCcpOwo=</text>
+      <register name="0" type="4">
+        <text>school_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb29vb28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiZG9jdHJpbmUvZGJhbCIgOiAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NjaG9vbF9pZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb29vb28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnJlbmFtZSgkZnJvbSwgJHRvKTsK</text>
+        <text encoding="base64">ICAgICAgICAiZG9jdHJpbmUvZGJhbCIgOiAiIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
@@ -381,10 +395,10 @@
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnJlbmFtZSgkZnJvbSwgJHRvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q28K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
