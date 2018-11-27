@@ -34,12 +34,12 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1543288801149">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1543298253586">
+        <mark key="'" line="78" column="30" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="88" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/sass/modules/_video.scss" timestamp="1541381698605">
         <mark key="[" line="88" column="0" />
@@ -101,12 +101,12 @@
         <mark key="^" line="19" column="66" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1543288532256">
-        <mark key="'" line="181" column="34" />
-        <mark key="[" line="194" column="59" />
-        <mark key="]" line="194" column="59" />
-        <mark key="^" line="70" column="37" />
-        <mark key="." line="194" column="59" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1543298395917">
+        <mark key="'" line="47" column="31" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/config/database.php" timestamp="1543222857617">
         <mark key="[" line="52" column="24" />
@@ -292,15 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="16" column="0" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="179" column="11" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="17" column="0" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="186" column="22" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="38" column="0" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="172" column="15" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="143" column="15" filename="$USER_HOME$/Downloads/皇學館中学レッスン表.html" />
-      <jump line="29" column="24" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" />
       <jump line="16" column="6" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" />
       <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/FixDataCommand.php" />
@@ -384,7 +375,6 @@
       <jump line="83" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="66" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="98" column="27" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
-      <jump line="23" column="19" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="96" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
       <jump line="13" column="19" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
@@ -392,19 +382,29 @@
       <jump line="39" column="19" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/index.blade.php" />
       <jump line="13" column="4" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" />
       <jump line="281" column="39" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" />
+      <jump line="23" column="17" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
+      <jump line="39" column="24" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
+      <jump line="51" column="30" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
+      <jump line="67" column="25" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
+      <jump line="78" column="30" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" />
+      <jump line="168" column="30" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="207" column="38" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="15" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="35" column="33" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="47" column="31" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>School</text>
+        <text>school_id</text>
       </register>
       <register name="-" type="4">
-        <text>School</text>
+        <text>school_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JlaWduS2V5XD4=</text>
+        <text encoding="base64">XDxzY2hvb2xfaWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SchoolClass</text>
+        <text>class_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -444,9 +444,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JlaWduS2V5XD4=</last-search>
+      <last-search encoding="base64">XDxzY2hvb2xfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JlaWduS2V5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hvb2xfaWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -454,8 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
-        <entry encoding="base64">XDxzZW5kRXJyb3JNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzZW5kTGVzc29uRXJyb3JMb2dzXD4=</entry>
         <entry encoding="base64">XDxfbmVnb3RpYXRvclw+</entry>
         <entry encoding="base64">XDxsb2NhbE1pY1N0YXR1c1w+</entry>
@@ -474,6 +472,8 @@
         <entry encoding="base64">XDxnZXRTY2hvb2xJZE9uRmlyZWJhc2VcPg==</entry>
         <entry encoding="base64">XDxTY2hvb2xcPg==</entry>
         <entry encoding="base64">XDxmb3JlaWduS2V5XD4=</entry>
+        <entry encoding="base64">XDxSb29tXD4=</entry>
+        <entry encoding="base64">XDxzY2hvb2xfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
