@@ -213,7 +213,7 @@
       <file name="/dummy.sql" timestamp="1543285677730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543222785123">
+      <file name="/Dummy.txt" timestamp="1543287644635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1538738775016">
@@ -249,6 +249,12 @@
         <mark key="]" line="23" column="13" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Class.php" timestamp="1543287818817">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_03_22_020942_create_schools_table.php" timestamp="1543219740119">
         <mark key="[" line="17" column="0" />
@@ -373,11 +379,11 @@
       <jump line="12" column="8" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WklumDqOOCreODvOOCkuiyvOOCi+OBn+OCgQogICAgICAgIERCOjp0YWJsZSgnc2Nob29scycpLT5pbnNlcnQoWyduYW1lJyA9PiAn5pyq6YG45oqeJywgJ2xlc3Nvbl9wZXJpb2QnID0+IDI1XSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2Nob29sIA==</text>
       </register>
       <register name="-" type="4">
-        <text>め</text>
+        <text encoding="base64">U2Nob29sIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
