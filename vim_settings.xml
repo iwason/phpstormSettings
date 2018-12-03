@@ -29,11 +29,10 @@
         <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1543818912068" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1543820096655">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1543822303197">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -90,6 +89,11 @@
         <mark key="." line="46" column="9" />
         <mark key="^" line="46" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543284538958">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/classroom.schools [classroom]" timestamp="1543285462438">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,6 +103,11 @@
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1543287862132">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
         <mark key="[" line="0" column="0" />
@@ -120,14 +129,29 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="36" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/database/migrations/2018_11_26_080830_rename_from_school_id_to_class_id_on_rooms.php" timestamp="1543285643523">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1543285677730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543803007417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/classroom-798a7-errors-export.json" timestamp="1540289037172">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/.eslintrc.json" timestamp="1543819239669">
         <mark key="[" line="2" column="1" />
+      </file>
+      <file name="/Volumes/rarejob-ads/Department/Sales/School_Sales/個社別フォルダ/★顧客や/yub_夕張市教育委員会/01_プログラム別/2018年度_夕張市教育委員会/09_その他/classroom-798a7-errors-export.json" timestamp="1540288936100">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1543802766145">
         <mark key="[" line="13" column="15" />
@@ -242,8 +266,8 @@
       <jump line="5" column="14" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -252,40 +276,40 @@
         <text encoding="base64">XDxTY2hvb2xcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text encoding="base64">cmVzdWx0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5sb2coJ3JvdyA6JyArIGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgdW5pcXVpZWNvbHVtID0gc2hlZXQuZ2V0UmFuZ2UoJ0I6QicpLmdldFZhbHVlcygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5sb2coJ3JvdyA6JyArIGkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB2YXIgdW5pcXVpZWNvbHVtID0gc2hlZXQuZ2V0UmFuZ2UoJ0I6QicpLmdldFZhbHVlcygpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjZWxsLnNldERhdGFWYWxpZGF0aW9uKHJ1bGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICBjZWxsLnNldERhdGFWYWxpZGF0aW9uKHJ1bGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5yZXF1aXJlVmFsdWVJbkxpc3QobmFtZUxpc3QsIHRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
