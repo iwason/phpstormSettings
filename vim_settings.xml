@@ -40,8 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544013675080">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544076739462">
+        <mark key="'" line="88" column="35" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -135,8 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="23" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
-      <jump line="366" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="43" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="249" column="28" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="80" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
@@ -235,52 +237,60 @@
       <jump line="12" column="21" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="44" column="7" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="90" column="18" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="84" column="35" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Object.keys(materials).forEach(function(key) {
+    var val = this[key]; // this は obj
+    console.log(key, val);
+  }, obj);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parseMaterialInfo(materialList[i][4])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY2hvb2xcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVzdWx0IA==</text>
+        <text>materialIdList</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Object.keys(materials).forEach(function(key) {
+    var val = this[key]; // this は obj
+    console.log(key, val);
+  }, obj);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHIuc3BsaXQoLywvZykuZm9yRWFjaChmdW5jdGlvbiAodmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2cobWF0ZXJpYWxzKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgcmVzdWx0ID0gc3RyLnJlcGxhY2UoL15cWy9nLCAnJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyB2YXIgbWF0Y2ggPSAnJwogIC8vIHZhciBzdHIgPSAnMDpORVcgVFJFQVNVUkUgU3RhZ2UxWzQyOlN0YWdlMSBMZXNzb24gMTQtNF0sMTpORVcgVFJFQVNVUkUgU3RhZ2UyWzI4OlN0YWdlMiBMZXNzb24gMTAtM10sOTrml6XluLjkvJroqbHvvIjliJ3ntJrvvZzjg6zjg5njg6s144O7Nu+8iVtdJwogIC8vIHZhciByZXN1bHQgPSBzdHIucmVwbGFjZSgvKFxkezEsM30pOiguKilcWy4qXF0vZywgbWF0Y2gpCiAgLy8gcHJpbnQocmVzdWx0KQogIC8vIHByaW50KG1hdGNoKQogIC8vIHJldHVybiBtYXRjaAogIC8vCiAgLy8KICAvLyB2YXIgc3RyID0gJzA6TkVXIFRSRUFTVVJFIFN0YWdlMVs0MjpTdGFnZTEgTGVzc29uIDE0LTRdLDE6TkVXIFRSRUFTVVJFIFN0YWdlMlsyODpTdGFnZTIgTGVzc29uIDEwLTNdLDk65pel5bi45Lya6Kmx77yI5Yid57Sa772c44Os44OZ44OrNeODuzbvvIlbXScKICAvLyBsYXJnZUNhdGVnb3J5Q291bnQoc3RyKQogIC8vIHZhciByZXN1bHQgPSBzdHIucmVwbGFjZSgvXFsoXGR7MSwzfSk6KC4qPyldL2csICJbJDFdIikKICAvLwogIC8vIHByaW50KHJlc3VsdCk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5sb2cobWF0ZXJpYWxzLmxlbmd0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIubG9nKGxpc3QpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGxpc3QucHVzaChjb252ZXJ0UmVzZXJ2YXRpb25Dc3ZUb0pzb24odmFsdWUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMb2dnZXIubG9nKGxpc3RbMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
