@@ -40,12 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544598721244">
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544600484085">
         <mark key="'" line="116" column="24" />
-        <mark key="[" line="155" column="17" />
-        <mark key="]" line="155" column="14" />
-        <mark key="." line="155" column="14" />
-        <mark key="^" line="155" column="14" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="5" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -254,8 +254,8 @@
       <jump line="116" column="24" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>なければ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>なければ</text>
@@ -263,43 +263,43 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRlcmlhbEpzb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>hourDiff</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1hdGVyaWFsSW5mbyArPSAiXG4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gSlNPTi5zdHJpbmdpZnkocGFyc2VNYXRlcmlhbEluZm8oZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5NQVRFUklBTF0pKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGFydEF0ID0gY29udmVydFRvU3RhcnRBdChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLlNUQVJUX0FUXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gSlNPTi5zdHJpbmdpZnkocGFyc2VNYXRlcmlhbEluZm8oZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5NQVRFUklBTF0pKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzdGFydEF0ID0gY29udmVydFRvU3RhcnRBdChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLlNUQVJUX0FUXSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>= dataSet[i][BASE_COLUMN.START_AT].getHours() - 1
       + &quot;:&quot;
       + (&quot;00&quot; + dataSet[i][BASE_COLUMN.START_AT].getMinutes()).slice(-2)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
