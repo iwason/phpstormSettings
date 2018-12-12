@@ -40,12 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544600484085">
-        <mark key="'" line="116" column="24" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="157" column="5" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1544602934690">
+        <mark key="'" line="127" column="74" />
+        <mark key="[" line="130" column="39" />
+        <mark key="]" line="130" column="48" />
+        <mark key="." line="130" column="48" />
+        <mark key="^" line="130" column="48" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -87,7 +87,7 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544597001869">
+      <file name="/Dummy.txt" timestamp="1544602193521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1544593129883">
@@ -152,13 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="30" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="207" column="38" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="15" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="35" column="33" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="47" column="31" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="152" column="41" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
-      <jump line="164" column="34" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="94" column="44" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="91" column="14" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
       <jump line="125" column="19" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
@@ -209,7 +202,6 @@
       <jump line="224" column="10" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="13" column="1" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="226" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="168" column="12" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="41" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="3" column="47" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -252,40 +244,48 @@
       <jump line="100" column="8" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="137" column="27" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="116" column="24" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="205" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="200" column="24" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="188" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="226" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="271" column="6" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="349" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="127" column="74" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciByb3cgPSBbCiAgICAgIGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uTEVTU09OX05PXSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5VUERBVEVEX0FUXSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5MRVNTT05fREFURV0sCiAgICAgIFdlZWtDaGFyc1tuZXcgRGF0ZShkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLkxFU1NPTl9EQVRFXSkuZ2V0RGF5KCldLAogICAgICBjb252ZXJ0RnJvbVNjaG9vbElkVG9Qcm9qZWN0SWQoZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5TQ0hPT0xfSURdKSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5TVFVERU5UX0NPVU5UXSwKICAgICAgbnVsbCwKICAgICAgbnVsbCwKICAgICAgY29udmVydFRvTGVzc29uVGltZVJhbmdlKGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uU1RBUlRfQVRdLCBsZXNzb25UaW1lKSwKICAgICAgY29udmVydFRvU3RhcnRBdChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLlNUQVJUX0FUXSksCiAgICAgIGlzQ2FuY2VsU3RhdHVzU3RyaW5nKGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uUkVTRVJWRV9TVEFUVVNdKSA/ICdDYW5jZWxsZWQnIDogJ0FjdGl2ZScsCiAgICAgIHBhcnNlTGVzc29uVG9vbChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLkxFU1NPTl9UT09MXSksCiAgICAgIG51bGwsCiAgICAgIGJ1aWxkTWF0ZXJpYWxJbmZvKG1hdGVyaWFsSnNvbiwgbGVzc29uVGltZSksCiAgICAgIGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uTk9URVNdCiAgICBdCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>なければ</text>
+        <text>material</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRlcmlhbEpzb25cPg==</text>
+        <text encoding="base64">XDxTVEFSVF9BVFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGVyaWFsSW5mbyArPSAiXG4iCg==</text>
+      <register name="0" type="4">
+        <text>dataSet[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciByb3cgPSBbCiAgICAgIGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uTEVTU09OX05PXSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5VUERBVEVEX0FUXSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5MRVNTT05fREFURV0sCiAgICAgIFdlZWtDaGFyc1tuZXcgRGF0ZShkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLkxFU1NPTl9EQVRFXSkuZ2V0RGF5KCldLAogICAgICBjb252ZXJ0RnJvbVNjaG9vbElkVG9Qcm9qZWN0SWQoZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5TQ0hPT0xfSURdKSwKICAgICAgZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5TVFVERU5UX0NPVU5UXSwKICAgICAgbnVsbCwKICAgICAgbnVsbCwKICAgICAgY29udmVydFRvTGVzc29uVGltZVJhbmdlKGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uU1RBUlRfQVRdLCBsZXNzb25UaW1lKSwKICAgICAgY29udmVydFRvU3RhcnRBdChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLlNUQVJUX0FUXSksCiAgICAgIGlzQ2FuY2VsU3RhdHVzU3RyaW5nKGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uUkVTRVJWRV9TVEFUVVNdKSA/ICdDYW5jZWxsZWQnIDogJ0FjdGl2ZScsCiAgICAgIHBhcnNlTGVzc29uVG9vbChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLkxFU1NPTl9UT09MXSksCiAgICAgIG51bGwsCiAgICAgIGJ1aWxkTWF0ZXJpYWxJbmZvKG1hdGVyaWFsSnNvbiwgbGVzc29uVGltZSksCiAgICAgIGRhdGFTZXRbaV1bQkFTRV9DT0xVTU4uTk9URVNdCiAgICBdCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gSlNPTi5zdHJpbmdpZnkocGFyc2VNYXRlcmlhbEluZm8oZGF0YVNldFtpXVtCQVNFX0NPTFVNTi5NQVRFUklBTF0pKSwK</text>
+        <text encoding="base64">ICByZXR1cm4gcm93Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGFydEF0ID0gY29udmVydFRvU3RhcnRBdChkYXRhU2V0W2ldW0JBU0VfQ09MVU1OLlNUQVJUX0FUXSk7Cg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgcm93ID0gWwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAvL+aZguW3ruKIku+8keaZgumWkwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -293,22 +293,20 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>= dataSet[i][BASE_COLUMN.START_AT].getHours() - 1
-      + &quot;:&quot;
-      + (&quot;00&quot; + dataSet[i][BASE_COLUMN.START_AT].getMinutes()).slice(-2)</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAqICBMaXN0W2ldWzRdIG1hdGVyaWFscwogKgogKiAgICAwOk5FVyBUUkVBU1VSRSBTdGFnZTFbMjpTdGFnZTEgTGVzc29uIDEtM10KICogQHBhcmFtIGRhdGEKICovCmZ1bmN0aW9uIGdldE1hdGVyaWFsSW5mbyhkYXRhKSB7CiAgdmFyIHNwcmVhZHNoZWV0ID0gZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKQogIHZhciBzaGVldCA9IHNwcmVhZHNoZWV0LmdldFNoZWV0QnlOYW1lKCdCYXNlIGRhdGEnKQoKICAvLyB2YXIgY2VsbCA9IHNoZWV0LmdldFJhbmdlKCdCMTA6VycpCiAgdmFyIG1hdGVyaWFsTGlzdCA9IHNoZWV0LmdldFJhbmdlKCdCMTA6RicpLmdldFZhbHVlcygpLmZpbHRlcigKICAgIGZ1bmN0aW9uICh2YWx1ZSkgewogICAgICByZXR1cm4gdmFsdWVbMF0gIT0gJycKICAgIH0KICApCiAgdmFyIG1hdGVyaWFsSWRMaXN0ID0gW10KICBmb3IgKHZhciBpID0gMDsgaSA8IG1hdGVyaWFsTGlzdC5sZW5ndGg7IGkrKykgewogICAgbWF0ZXJpYWxJZExpc3QucHVzaChwYXJzZU1hdGVyaWFsSW5mbyhtYXRlcmlhbExpc3RbaV1bM10pKQogIH0KfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqICBMaXN0W2ldWzRdIG1hdGVyaWFscwogKgogKiAgICAwOk5FVyBUUkVBU1VSRSBTdGFnZTFbMjpTdGFnZTEgTGVzc29uIDEtM10KICogQHBhcmFtIGRhdGEKICovCmZ1bmN0aW9uIGdldE1hdGVyaWFsSW5mbyhkYXRhKSB7CiAgdmFyIHNwcmVhZHNoZWV0ID0gZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKQogIHZhciBzaGVldCA9IHNwcmVhZHNoZWV0LmdldFNoZWV0QnlOYW1lKCdCYXNlIGRhdGEnKQoKICAvLyB2YXIgY2VsbCA9IHNoZWV0LmdldFJhbmdlKCdCMTA6VycpCiAgdmFyIG1hdGVyaWFsTGlzdCA9IHNoZWV0LmdldFJhbmdlKCdCMTA6RicpLmdldFZhbHVlcygpLmZpbHRlcigKICAgIGZ1bmN0aW9uICh2YWx1ZSkgewogICAgICByZXR1cm4gdmFsdWVbMF0gIT0gJycKICAgIH0KICApCiAgdmFyIG1hdGVyaWFsSWRMaXN0ID0gW10KICBmb3IgKHZhciBpID0gMDsgaSA8IG1hdGVyaWFsTGlzdC5sZW5ndGg7IGkrKykgewogICAgbWF0ZXJpYWxJZExpc3QucHVzaChwYXJzZU1hdGVyaWFsSW5mbyhtYXRlcmlhbExpc3RbaV1bM10pKQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRlcmlhbEpzb25cPg==</last-search>
+      <last-search encoding="base64">XDxTVEFSVF9BVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRlcmlhbEpzb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTVEFSVF9BVFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -316,10 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNYXRlcmlhbFBhdGhcPg==</entry>
-        <entry encoding="base64">XDxwYXJzZU1hdGVyaWFsSnNvblw+</entry>
-        <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
-        <entry encoding="base64">XDxjb252ZXJ0RnJvbVNjaG9vbElkVG9Qcm9qZWN0SWRcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0VG9PdmVyVmlld0Zyb21CYXNlRGF0YVw+</entry>
         <entry encoding="base64">XDxtYXRlcmlhbEluZm9cPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0VG9MZXNzb25UaW1lUmFuZ2VcPg==</entry>
@@ -327,7 +321,6 @@
         <entry encoding="base64">XDxjaGFuZ2VIb3Vyc1w+</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0VG9TdGFydEF0XD4=</entry>
-        <entry encoding="base64">XDxTVEFSVF9BVFw+</entry>
         <entry encoding="base64">XDxXZWVrQ2hhcnNcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0RGF0YVNldFw+</entry>
         <entry encoding="base64">XDxnZXRBY3RpdmVTcHJlYWRzaGVldFw+</entry>
@@ -336,6 +329,11 @@
         <entry encoding="base64">XDxzdGFydEF0XD4=</entry>
         <entry encoding="base64">XDxsZXNzb25UaW1lXD4=</entry>
         <entry encoding="base64">XDxtYXRlcmlhbEpzb25cPg==</entry>
+        <entry encoding="base64">XDxwYXJzZU1hdGVyaWFsSW5mb1w+</entry>
+        <entry encoding="base64">XDxnZXRNYXRlcmlhbEluZm9cPg==</entry>
+        <entry encoding="base64">XDxjb252ZXJ0UmVzZXJ2YXRpb25Dc3ZUb0pzb25cPg==</entry>
+        <entry encoding="base64">XDxob3VyXD4=</entry>
+        <entry encoding="base64">XDxTVEFSVF9BVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
