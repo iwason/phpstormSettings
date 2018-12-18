@@ -40,12 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545113515507">
-        <mark key="'" line="112" column="9" />
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="81" column="39" />
-        <mark key="^" line="75" column="10" />
-        <mark key="." line="81" column="39" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545114513589">
+        <mark key="'" line="115" column="9" />
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="83" column="38" />
+        <mark key="^" line="83" column="38" />
+        <mark key="." line="83" column="38" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -254,17 +254,17 @@
       <jump line="109" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBMb2dnZXIubG9nKCItLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>newDataRow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRMZXNzb25Ob0xpc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29udmVydGVkRGF0YVNldCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBMb2dnZXIubG9nKCItLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
