@@ -40,12 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545983992112">
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545985411102">
         <mark key="'" line="191" column="9" />
-        <mark key="[" line="127" column="73" />
-        <mark key="]" line="127" column="73" />
-        <mark key="^" line="115" column="3" />
-        <mark key="." line="127" column="73" />
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="24" />
+        <mark key="^" line="106" column="7" />
+        <mark key="." line="106" column="24" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -263,16 +263,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>convertedDataSet[0].length</text>
+        <text>result['history']</text>
       </register>
       <register name="-" type="4">
-        <text>convertedDataSet[0].length</text>
+        <text>result['history']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGlmZlJhbmdlLnNldEJhY2tncm91bmQoJ29yYW5nZScpCg==</text>
+      <register name="0" type="4">
+        <text>newDataRow</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRpZmZSYW5nZS5zZXRWYWx1ZShyb3dbJ2RhdGEnXVtUQVJHRVRfQ09MVU1OX0lOREVYLlVQREFURURfQVRdKQo=</text>
