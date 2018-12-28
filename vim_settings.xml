@@ -40,12 +40,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545896949667">
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545961281947">
         <mark key="'" line="76" column="75" />
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="100" column="19" />
-        <mark key="^" line="100" column="19" />
-        <mark key="." line="100" column="19" />
+        <mark key="[" line="119" column="1" />
+        <mark key="]" line="105" column="26" />
+        <mark key="^" line="91" column="14" />
+        <mark key="." line="105" column="26" />
       </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
@@ -259,20 +259,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVcGRhdGVEYXRhXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.filter(
-    function (value) {
-      return value[0] != ''
-    }
-  )</text>
+        <text encoding="base64">Y3VycmVudFZhbHVlcyA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBMb2dnZXIubG9nKCItLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
