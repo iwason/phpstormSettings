@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1543288159342">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1546929794760" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/FixDataCommand.php" timestamp="1540518922233">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="41" column="37" />
@@ -77,6 +78,7 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="36" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1546930120118" />
       <file name="/dummy.sql" timestamp="1543285677730">
         <mark key="[" line="0" column="0" />
       </file>
