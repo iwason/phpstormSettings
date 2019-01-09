@@ -25,6 +25,12 @@
         <mark key="^" line="319" column="36" />
         <mark key="." line="319" column="36" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1547002217191">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="26" column="73" />
+        <mark key="." line="26" column="73" />
+      </file>
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,7 +51,7 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547001313580">
+      <file name="/Dummy.txt" timestamp="1547002245375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1544593129883">
@@ -77,6 +83,12 @@
       <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1545215892520">
         <mark key="[" line="184" column="15" />
         <mark key="]" line="184" column="70" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1543802766145">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="/classroom.rooms [classroom]" timestamp="1543283795182">
         <mark key="[" line="0" column="0" />
