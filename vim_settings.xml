@@ -18,6 +18,11 @@
       <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1547027493306">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545987338433">
         <mark key="'" line="73" column="6" />
         <mark key="[" line="319" column="36" />
@@ -40,7 +45,12 @@
       <file name="/classroom.users [classroom]" timestamp="1543283790291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1546930120118" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1547027418358">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
       <file name="/dummy.sql" timestamp="1543285677730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +67,13 @@
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1544593129883">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/_entry.js" timestamp="1547027239032">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/.eslintrc.json" timestamp="1543819239669">
         <mark key="[" line="2" column="1" />
@@ -87,6 +104,12 @@
         <mark key="." line="46" column="9" />
         <mark key="^" line="46" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/setUp.js" timestamp="1547027407329">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1545215892520">
         <mark key="[" line="184" column="15" />
         <mark key="]" line="184" column="70" />
@@ -112,8 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="51" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="52" column="25" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="47" column="39" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="45" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -212,61 +233,63 @@
       <jump line="77" column="37" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="73" column="6" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="12" column="47" filename="$USER_HOME$/PhpstormProjects/gas/README.md" />
+      <jump line="7" column="1" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/_entry.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">57Wx6KiI44OE44O844OrCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>updateStatus</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRTaGVldFw+</text>
+        <text encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">57Wx6KiI44OE44O844OrCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RkJfQVBJX0tFWSA9IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIGRhdGFDaGVjay5qcwo=</text>
+        <text encoding="base64">ICBGQl9BUElfS0VZID0gImxtbm9wcXJzdHV2d3h5ejEyMzQ1Njc4OTBBQkNERUZHSElKS0xNTiI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">54m55a6a44Gu5pmC6ZaT5biv44Gr5L2V5Lq644Gp44Gu5pWZ5p2Q44KS5pWZ44GI44KJ44KM44KL44GL44KS6KaL44Gq44GM44KJ56K66KqN44GZ44KLCg==</text>
+        <text encoding="base64">ZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChmYkNvbmZpZyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICoKICoKICoKICoKICoKICoKICoKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIGZiQ29uZmlnID0gcmVxdWlyZSgnZmlyZWJhc2UuanMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5LqI57SE54q25rOB44Go44GX44GN44GE5YCk44KS6KiI566X44GX44CBCg==</text>
+        <text encoding="base64">ZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChmYkNvbmZpZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBhcGlLZXk6ICJBSXphU3lDOEtPQzBJanM4QWZjUG4zLTF6Z1hISDZIM0hmUmpBVkUiLAogIGF1dGhEb21haW46ICJzdGctY2xhc3Nyb29tLmZpcmViYXNlYXBwLmNvbSIsCiAgZGF0YWJhc2VVUkw6ICJodHRwczovL3N0Zy1jbGFzc3Jvb20uZmlyZWJhc2Vpby5jb20iLAogIHByb2plY3RJZDogInN0Zy1jbGFzc3Jvb20iLAogIHN0b3JhZ2VCdWNrZXQ6ICJzdGctY2xhc3Nyb29tLmFwcHNwb3QuY29tIiwKICBtZXNzYWdpbmdTZW5kZXJJZDogIjk4Njc5OTc3MjU1NyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5LiA44Gk44Gr44G+44Go44KB44KL5a++44GX44GmCg==</text>
+        <text encoding="base64">IyMjIGRhdGFDaGVjay5qcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlNM44K344O844OI44Gr6KiY6LyJ44GV44KM44Gm44GE44KL5om/6KqN5YmN44Gu44OH44O844K/44KS5Y+O6ZuG44GX44CBCg==</text>
+        <text encoding="base64">54m55a6a44Gu5pmC6ZaT5biv44Gr5L2V5Lq644Gp44Gu5pWZ5p2Q44KS5pWZ44GI44KJ44KM44KL44GL44KS6KaL44Gq44GM44KJ56K66KqN44GZ44KLCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICoKICoKICoKICoKICoKICoKICoKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIC5ncwo=</text>
+        <text encoding="base64">5LqI57SE54q25rOB44Go44GX44GN44GE5YCk44KS6KiI566X44GX44CBCg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRTaGVldFw+</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRTaGVldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -274,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXJnZXRSYW5nZVw+</entry>
         <entry encoding="base64">XDxmaW5kTWF0ZXJpYWxQYXRoXD4=</entry>
         <entry encoding="base64">XDxnZXRNYXRlcmlhbFBhdGhcPg==</entry>
         <entry encoding="base64">XDxidWlsZE1hdGVyaWFsSW5mb1w+</entry>
@@ -294,6 +316,7 @@
         <entry encoding="base64">XDxSRVNFUlZFX1NUQVRVU1w+</entry>
         <entry encoding="base64">XDxzZXRDb2xvcnNcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRTaGVldFw+</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
