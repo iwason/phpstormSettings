@@ -15,36 +15,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1546929794760" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/FixDataCommand.php" timestamp="1540518922233">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1541381213276">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/RoomController.php" timestamp="1543298253586">
-        <mark key="'" line="78" column="30" />
-        <mark key="[" line="88" column="30" />
-        <mark key="]" line="88" column="37" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="88" column="38" />
-      </file>
       <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/schools/show.blade.php" timestamp="1538023840506">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="62" />
-        <mark key="^" line="7" column="62" />
-        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1545987338433">
         <mark key="'" line="73" column="6" />
@@ -59,29 +31,8 @@
       <file name="/a.sql" timestamp="1543285440772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" timestamp="1543577203817">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="/classroom.users [classroom]" timestamp="1543283790291">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1543288738629">
-        <mark key="'" line="46" column="53" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" timestamp="1542090234754">
-        <mark key="'" line="14" column="40" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1546930120118" />
       <file name="/dummy.sql" timestamp="1543285677730">
@@ -94,26 +45,12 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546999312163">
+      <file name="/Dummy.txt" timestamp="1547001313580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/dataForZkai.js" timestamp="1544593129883">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1543576381381">
-        <mark key="'" line="125" column="19" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="92" column="19" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1541382056253">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="255" column="14" />
-        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/.eslintrc.json" timestamp="1543819239669">
         <mark key="[" line="2" column="1" />
@@ -129,13 +66,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1540457367562">
-        <mark key="'" line="22" column="64" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="28" column="86" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="/schedule.js" timestamp="1546923461544" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" timestamp="1546930849597">
         <mark key="'" line="13" column="4" />
@@ -144,22 +74,9 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1541997938635">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="9" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1545215892520">
         <mark key="[" line="184" column="15" />
         <mark key="]" line="184" column="70" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1543802766145">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
       </file>
       <file name="/classroom.rooms [classroom]" timestamp="1543283795182">
         <mark key="[" line="0" column="0" />
