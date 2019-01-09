@@ -80,6 +80,13 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="51" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1547016534451">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/daily.js" timestamp="1545215892520">
         <mark key="[" line="184" column="15" />
         <mark key="]" line="184" column="70" />
