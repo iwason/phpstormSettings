@@ -15,32 +15,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1546929794760" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/FixDataCommand.php" timestamp="1540518922233">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/main.js" timestamp="1541381213276">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-      </file>
       <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1547539831321">
         <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/schools/show.blade.php" timestamp="1538023840506">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="62" />
-        <mark key="^" line="7" column="62" />
-        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1547027493306">
         <mark key="[" line="19" column="19" />
@@ -52,12 +31,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="313" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547688898350">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547692812611">
+        <mark key="'" line="16" column="55" />
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="16" column="73" />
+        <mark key="^" line="16" column="73" />
+        <mark key="." line="16" column="73" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1547688781622">
         <mark key="'" line="312" column="9" />
@@ -78,25 +57,11 @@
       <file name="/a.sql" timestamp="1543285440772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/composer.json" timestamp="1543577203817">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="/classroom.users [classroom]" timestamp="1543283790291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1543288738629">
         <mark key="'" line="48" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" timestamp="1542090234754">
-        <mark key="'" line="14" column="40" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="36" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1547027418358">
         <mark key="[" line="1" column="22" />
@@ -124,13 +89,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1541382056253">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="255" column="14" />
-        <mark key="." line="252" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/.eslintrc.json" timestamp="1543819239669">
         <mark key="[" line="2" column="1" />
       </file>
@@ -140,13 +98,6 @@
         <mark key="]" line="91" column="5" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="9" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/School.php" timestamp="1540457367562">
-        <mark key="'" line="22" column="64" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="28" column="86" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="/schedule.js" timestamp="1546923461544" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" timestamp="1546930849597">
@@ -190,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="207" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="364" column="51" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="396" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -290,52 +240,53 @@
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
       <jump line="5" column="3" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
       <jump line="14" column="6" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
+      <jump line="16" column="55" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>schoolDataList[i]</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text encoding="base64">RVhQRUNURUQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyIEJBU0VfQ09MVU1OID0gewogICdMRVNTT05fTk8nOiAwLAogICdSRVNFUlZFX1NUQVRVUyc6IDMsCiAgJ01BVEVSSUFMJzogNCwKICAnTEVTU09OX0RBVEUnOiA2LAogICdTVEFSVF9BVCc6IDcsCiAgJ0xFU1NPTl9QRVJJT0QnOiA5LAogICdTVFVERU5UX0NPVU5UJzogMTAsCiAgJ0xFU1NPTl9UT09MJzogMTIsCiAgJ05PVEVTJzogMTMsCiAgJ1NDSE9PTF9JRCc6IDE1LAogICdMT0dJTl9JRCc6IDE4LAogICdDUkVBVEVEX0FUJzogMjEsCiAgJ1VQREFURURfQVQnOiAyMgp9Owo=</text>
+      <register name="0" type="4">
+        <text>schoolDataList[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnVVBEQVRFRF9BVCc6IDIyCg==</text>
+        <text encoding="base64">ICAgICAgc2Nob29sRGF0YUxpc3RbaV1bU0NIT09MX01BU1RFUl9DT0xVTU4uRVhQRUNURUQgIT0gc2Nob29sRGF0YUxpc3RbaV1bU0NIT09MX01BU1RFUl9DT0xVTU4uVE9UQUwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnQ1JFQVRFRF9BVCc6IDIxLAo=</text>
+        <text encoding="base64">ICAnVVBEQVRFRF9BVCc6IDIyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnTE9HSU5fSUQnOiAxOCwK</text>
+        <text encoding="base64">ICAnQ1JFQVRFRF9BVCc6IDIxLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnU0NIT09MX0lEJzogMTUsCg==</text>
+        <text encoding="base64">ICAnTE9HSU5fSUQnOiAxOCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnTk9URVMnOiAxMywK</text>
+        <text encoding="base64">ICAnU0NIT09MX0lEJzogMTUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnTEVTU09OX1RPT0wnOiAxMiwK</text>
+        <text encoding="base64">ICAnTk9URVMnOiAxMywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnU1RVREVOVF9DT1VOVCc6IDEwLAo=</text>
+        <text encoding="base64">ICAnTEVTU09OX1RPT0wnOiAxMiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAnTEVTU09OX1BFUklPRCc6IDksCg==</text>
+        <text encoding="base64">ICAnU1RVREVOVF9DT1VOVCc6IDEwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnU1RBUlRfQVQnOiA3LAo=</text>
+        <text encoding="base64">ICAnTEVTU09OX1BFUklPRCc6IDksCg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
