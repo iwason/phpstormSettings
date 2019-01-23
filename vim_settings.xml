@@ -50,6 +50,13 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1548230456130">
+        <mark key="'" line="154" column="9" />
+        <mark key="[" line="190" column="27" />
+        <mark key="]" line="190" column="29" />
+        <mark key="." line="190" column="29" />
+        <mark key="^" line="190" column="29" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" timestamp="1546930849597">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="14" column="51" />
@@ -137,15 +144,14 @@
       <file name="/classroom.rooms [classroom]" timestamp="1543283795182">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1548230393559">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="51" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="396" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="366" column="24" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="402" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="254" column="14" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="81" column="13" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="83" column="13" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="110" column="13" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="116" column="28" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -239,19 +245,26 @@
       <jump line="14" column="6" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
       <jump line="16" column="55" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
       <jump line="39" column="73" filename="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" />
+      <jump line="180" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="166" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="164" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="159" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="158" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="157" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
+      <jump line="154" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TOTAL</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>TOTAL</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lXD4=</text>
+        <text encoding="base64">XDxmaXJlYmFzZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>EXPECTED</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5oyH5a6a44GX44Gf5a2m5qCh44Gu44Ko44Op44O844Ot44Kw44KS5YmK6ZmkCiAgICAgKiBAcGFyYW0gJHNjaG9vbElkCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGVsZXRlRXJyb3JMb2dzKCRzY2hvb2xJZCkKICAgIHsKICAgICAgICAkZmlyZWJhc2UgPSBuZXcgRmlyZWJhc2UoKTsKICAgICAgICAkc2Nob29sSWQgPSBTY2hvb2w6OmdldFNjaG9vbElkT25GaXJlYmFzZSgkc2Nob29sSWQpOwogICAgICAgICRmaXJlYmFzZS0+ZGVsZXRlRGF0YSgiL3NjaG9vbHMveyRzY2hvb2xJZH0vZXJyb3JzIik7CgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -291,9 +304,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lXD4=</last-search>
+      <last-search encoding="base64">XDxmaXJlYmFzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaXJlYmFzZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVcGRhdGVEYXRhXD4=</entry>
         <entry encoding="base64">XDxMRVNTT05fREFURVw+</entry>
         <entry encoding="base64">XDxTVEFSVF9BVFw+</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
@@ -321,6 +333,7 @@
         <entry encoding="base64">XDxpc0ZvclNhbGVzXD4=</entry>
         <entry encoding="base64">XDxzZXRDb2xvcnNcPg==</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry encoding="base64">XDxmaXJlYmFzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
