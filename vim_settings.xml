@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/classroom.schools [classroom]" timestamp="1543285462438">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/toolBox/createHtml.js" timestamp="1546995860133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -10,6 +13,17 @@
       </file>
       <file name="/a.dummy" timestamp="1543288159342">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1548641813233">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1547539831321">
+        <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1547027493306">
         <mark key="[" line="19" column="19" />
@@ -20,6 +34,9 @@
         <mark key="'" line="41" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="313" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
+        <mark key="'" line="39" column="73" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1547688781622">
         <mark key="'" line="312" column="9" />
@@ -37,68 +54,24 @@
       <file name="/classroom.classes [classroom]" timestamp="1543285677580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/classroom.users [classroom]" timestamp="1543283790291">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1543288738629">
-        <mark key="'" line="48" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1546916384748">
-        <mark key="'" line="228" column="9" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="69" column="7" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1548230456130">
-        <mark key="'" line="154" column="9" />
-        <mark key="[" line="190" column="27" />
-        <mark key="]" line="190" column="29" />
-        <mark key="." line="190" column="29" />
-        <mark key="^" line="190" column="29" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" timestamp="1546930849597">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1547016534451">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="46" column="9" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
-        <mark key="'" line="16" column="40" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1547171250570">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="608" column="81" />
-        <mark key="]" line="608" column="81" />
-        <mark key="." line="608" column="81" />
-        <mark key="^" line="610" column="2" />
-      </file>
-      <file name="/classroom.schools [classroom]" timestamp="1543285462438">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/main.rooms [database.sqlite]" timestamp="1541997210579">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1547539831321">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
-        <mark key="'" line="39" column="73" />
-      </file>
       <file name="/a.sql" timestamp="1543285440772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1547693969388">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="194" column="2" />
+      </file>
+      <file name="/classroom.users [classroom]" timestamp="1543283790291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1543288738629">
+        <mark key="'" line="48" column="53" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_errors.blade.php" timestamp="1548641949706">
+        <mark key="[" line="94" column="24" />
+        <mark key="]" line="94" column="35" />
+        <mark key="." line="94" column="35" />
+        <mark key="^" line="94" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1547027418358">
         <mark key="[" line="1" column="22" />
@@ -108,6 +81,13 @@
       </file>
       <file name="/dummy.sql" timestamp="1543285677730">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1546916384748">
+        <mark key="'" line="228" column="9" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547687010324">
         <mark key="[" line="0" column="0" />
@@ -119,6 +99,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1548230456130">
+        <mark key="'" line="154" column="9" />
+        <mark key="[" line="190" column="27" />
+        <mark key="]" line="190" column="29" />
+        <mark key="." line="190" column="29" />
+        <mark key="^" line="190" column="29" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/.eslintrc.json" timestamp="1543819239669">
         <mark key="[" line="2" column="1" />
       </file>
@@ -129,11 +116,33 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/setUp.js" timestamp="1547027407329">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/SchoolClass.php" timestamp="1546930849597">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1548641816949">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1547016534451">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/setUp.js" timestamp="1548642003552">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
+        <mark key="'" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1543802766145">
         <mark key="[" line="13" column="15" />
@@ -149,6 +158,13 @@
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1547171250570">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="608" column="81" />
+        <mark key="]" line="608" column="81" />
+        <mark key="." line="608" column="81" />
+        <mark key="^" line="610" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -254,47 +270,47 @@
       <jump line="154" column="9" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>delete</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REJfQ09OTkVDVElPTj1zcWxpdGUKREJfSE9TVD0xMjcuMC4wLjEKREJfUE9SVD0zMzA2CkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9dGVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>902321165178</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJlYmFzZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5oyH5a6a44GX44Gf5a2m5qCh44Gu44Ko44Op44O844Ot44Kw44KS5YmK6ZmkCiAgICAgKiBAcGFyYW0gJHNjaG9vbElkCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGVsZXRlRXJyb3JMb2dzKCRzY2hvb2xJZCkKICAgIHsKICAgICAgICAkZmlyZWJhc2UgPSBuZXcgRmlyZWJhc2UoKTsKICAgICAgICAkc2Nob29sSWQgPSBTY2hvb2w6OmdldFNjaG9vbElkT25GaXJlYmFzZSgkc2Nob29sSWQpOwogICAgICAgICRmaXJlYmFzZS0+ZGVsZXRlRGF0YSgiL3NjaG9vbHMveyRzY2hvb2xJZH0vZXJyb3JzIik7CgogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>stg-classroom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">REJfQ09OTkVDVElPTj1zcWxpdGUKREJfSE9TVD0xMjcuMC4wLjEKREJfUE9SVD0zMzA2CkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9dGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFpbENvbnRlbnRzICs9ICdcblxu5LiH44GM5LiA44CB44Os44OD44K544Oz5pel5pmC44O75Lq65pWw44O75pWZ5p2Q44Gr6Zai44GX44G+44GX44Gm5aSJ5pu0562J44GM44GU44GW44GE44G+44GZ5aC05ZCI44Gr44Gv44CBXG7jg6zjg4Pjgrnjg7PjgZTmj5Dkvpvml6Xjga435Za25qWt5pel5YmN44G+44Gn44Gr44CB5LiL6KiY44Oh44O844Or44Ki44OJ44Os44K55a6b44Gm44Gr44GK55+l44KJ44Gb6aCC44GN44G+44GZ44KI44GG44GK6aGY44GE6Ie044GX44G+44GZ44CCXG5cbicgKyBsaW5lICsgJ1xu4pag44Os44Ki44K444On44OW44CA44K544Kv44O844Or44K144Od44O844OIXG5zY2gtc3VwcG9ydEByYXJlam9iLmNvLmpwXG4nICsgbGluZSArICdcblxu4oC76LK05qCh5LqL5oOF44Gr44KI44KK44Os44OD44K544Oz44GM5oCl6YG944Kt44Oj44Oz44K744Or44Go44Gq44Gj44Gf5aC05ZCI44CB6L+U6YeR44Gv6Ie044GX44GL44Gt44G+44GZ44CC5LqI44KB44GU5LqG5om/44GP44Gg44GV44GE44CCXG7igLvmjK/mm7/jga7jgZTopoHmnJvjgavplqLjgZfjgb7jgZfjgabjga/jgZTluIzmnJvjga7ml6XmmYLjgavjgabjgZTmj5DkvpvjgYzlh7rmnaXjgYvjga3jgovloLTlkIjjgYzjgZTjgZbjgYTjgb7jgZnjgIJcbuaMr+abv+aXpeaZguOBruaxuuWumuOBq+mWouOBl+OBvuOBl+OBpuOBr+iytOagoeODu+W8iuekvumWk+OBq+OBpuiqv+aVtOOBruS4iumAsuOCgeOBleOBm+OBpumgguOBjeOBvuOBmeOAglxuXG7kuIvoqJjjg6zjg4Pjgrnjg7PlvZPml6Xjga7jgZTmoYjlhoXjgajjgarjgorjgb7jgZnjga7jgafjgYrnm67pgJrjgZfkuIvjgZXjgYTjgIJcblxuJyArIG1haWxDb250ZW50c1N1cHBvcnQgKyBtYWlsQ29udGVudHNJZlRyb3VibGUK</text>
+        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTEyNy4wLjAuMQpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y2xhc3Nyb29tCkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9bXlzcWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8g44Oh44O844Or5YaF5a6544KS5aSJ5pWw44Gr5YWl44KM44Gm44GK44GPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6ICdcblxu77yI5YaN5p2l6YCx77yJXG7lho3mnaXpgLHjga/jg6zjg4Pjgrnjg7PjgYzjgYLjgorjgb7jgZvjgpPjgIJcbicgKyBsaW5lCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA/ICdcblxu77yI5YaN5p2l6YCx77yJXG7jg6zjg4Pjgrnjg7Pml6Xku5hcdFx05pmC6ZaTXHRc55Sf5b6S5pWwXHRcdOaVmeadkFxuJyArIHR3b1dlZWtzQWZ0ZXJMZXNzb25EZXRhaWxMaXN0LmpvaW4oJycpICsgJ1xuJyArIGxpbmUK</text>
+        <text encoding="base64">ICAgICAgbWFpbENvbnRlbnRzICs9ICdcblxu5LiH44GM5LiA44CB44Os44OD44K544Oz5pel5pmC44O75Lq65pWw44O75pWZ5p2Q44Gr6Zai44GX44G+44GX44Gm5aSJ5pu0562J44GM44GU44GW44GE44G+44GZ5aC05ZCI44Gr44Gv44CBXG7jg6zjg4Pjgrnjg7PjgZTmj5Dkvpvml6Xjga435Za25qWt5pel5YmN44G+44Gn44Gr44CB5LiL6KiY44Oh44O844Or44Ki44OJ44Os44K55a6b44Gm44Gr44GK55+l44KJ44Gb6aCC44GN44G+44GZ44KI44GG44GK6aGY44GE6Ie044GX44G+44GZ44CCXG5cbicgKyBsaW5lICsgJ1xu4pag44Os44Ki44K444On44OW44CA44K544Kv44O844Or44K144Od44O844OIXG5zY2gtc3VwcG9ydEByYXJlam9iLmNvLmpwXG4nICsgbGluZSArICdcblxu4oC76LK05qCh5LqL5oOF44Gr44KI44KK44Os44OD44K544Oz44GM5oCl6YG944Kt44Oj44Oz44K744Or44Go44Gq44Gj44Gf5aC05ZCI44CB6L+U6YeR44Gv6Ie044GX44GL44Gt44G+44GZ44CC5LqI44KB44GU5LqG5om/44GP44Gg44GV44GE44CCXG7igLvmjK/mm7/jga7jgZTopoHmnJvjgavplqLjgZfjgb7jgZfjgabjga/jgZTluIzmnJvjga7ml6XmmYLjgavjgabjgZTmj5DkvpvjgYzlh7rmnaXjgYvjga3jgovloLTlkIjjgYzjgZTjgZbjgYTjgb7jgZnjgIJcbuaMr+abv+aXpeaZguOBruaxuuWumuOBq+mWouOBl+OBvuOBl+OBpuOBr+iytOagoeODu+W8iuekvumWk+OBq+OBpuiqv+aVtOOBruS4iumAsuOCgeOBleOBm+OBpumgguOBjeOBvuOBmeOAglxuXG7kuIvoqJjjg6zjg4Pjgrnjg7PlvZPml6Xjga7jgZTmoYjlhoXjgajjgarjgorjgb7jgZnjga7jgafjgYrnm67pgJrjgZfkuIvjgZXjgYTjgIJcblxuJyArIG1haWxDb250ZW50c1N1cHBvcnQgKyBtYWlsQ29udGVudHNJZlRyb3VibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFpbENvbnRlbnRzICs9IHR3b1dlZWtzQWZ0ZXJMZXNzb25EZXRhaWxMaXN0Lmxlbmd0aCA+IDAK</text>
+        <text encoding="base64">ICAgICAgLy8g44Oh44O844Or5YaF5a6544KS5aSJ5pWw44Gr5YWl44KM44Gm44GK44GPCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
