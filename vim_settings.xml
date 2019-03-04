@@ -19,16 +19,6 @@
         <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/dev-classroom-firebase-adminsdk-vvm3v-e72df54a83.json" timestamp="1551335767482" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1547027493306">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/checkData.js" timestamp="1547687237082">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="313" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
         <mark key="'" line="39" column="73" />
       </file>
@@ -56,11 +46,11 @@
         <mark key="'" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1551336318782">
-        <mark key="'" line="86" column="2" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
+        <mark key="'" line="85" column="2" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/ScheduleViewer/convertData.js" timestamp="1546916384748">
         <mark key="'" line="228" column="9" />
