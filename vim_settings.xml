@@ -3,22 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/gas/toolBox/createHtml.js" timestamp="1546995860133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1551336466200" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1548641813233">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1551856940350">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/assets/js/include/firebase/config_development.js" timestamp="1551336059387" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1547539831321">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/dev-classroom-firebase-adminsdk-vvm3v-e72df54a83.json" timestamp="1551335767482" />
       <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
         <mark key="'" line="39" column="73" />
       </file>
@@ -45,13 +37,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/classroom-firebase-adminsdk.json" timestamp="1551334975499" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1551335259581">
         <mark key="'" line="154" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/stg-classroom-firebase-adminsdk.json" timestamp="1551334974278" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1551407915935" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1548641816949">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/config/database.php" timestamp="1551856950819" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="8" column="0" />
@@ -62,8 +52,6 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Firebase.php" timestamp="1551336372894" />
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/database.rules.json" timestamp="1551334745856" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
         <mark key="'" line="16" column="40" />
       </file>
