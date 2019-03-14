@@ -20,12 +20,12 @@
         <mark key="^" line="26" column="73" />
         <mark key="." line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1552468791247">
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1552547893134">
         <mark key="'" line="384" column="9" />
-        <mark key="[" line="350" column="0" />
-        <mark key="]" line="350" column="0" />
-        <mark key="^" line="358" column="4" />
-        <mark key="." line="350" column="0" />
+        <mark key="[" line="138" column="72" />
+        <mark key="]" line="138" column="73" />
+        <mark key="^" line="138" column="73" />
+        <mark key="." line="138" column="73" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/mail.js" timestamp="1547693969388">
         <mark key="[" line="174" column="0" />
@@ -185,11 +185,11 @@
       <jump line="377" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVwYXJlRGF0YVNldEZvclNhbGVzXD4=</text>
