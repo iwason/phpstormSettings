@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1551335259581">
         <mark key="'" line="154" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/firebase.json" timestamp="1553584739250" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1551856940350">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -51,7 +52,6 @@
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_errors.blade.php" timestamp="1551335371414">
         <mark key="'" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/compareBox/before/Before.csv" timestamp="1552879832575" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
         <mark key="'" line="16" column="40" />
       </file>
