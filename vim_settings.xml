@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
         <mark key="'" line="39" column="73" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/README.md" timestamp="1547002217191">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="26" column="73" />
-        <mark key="^" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1554367112155">
         <mark key="'" line="205" column="9" />
         <mark key="[" line="228" column="46" />
@@ -41,6 +35,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" timestamp="1554881608836">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="44" column="8" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554712195864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -60,27 +60,16 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/setUp.js" timestamp="1548642003552">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="7" column="2" />
-        <mark key="^" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.gitignore" timestamp="1554712062981" />
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
         <mark key="'" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/package.json" timestamp="1543802766145">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1548230393559">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1554881537231">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1551683902406">
         <mark key="'" line="5" column="7" />
@@ -91,8 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="34" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="134" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="157" column="2" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="138" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="137" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -191,22 +178,24 @@
       <jump line="337" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="30" column="18" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="205" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>レッスン時間集計用テーブル作成</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8kbnVtYmVyID0gJHRoaXMtPmFyZ3VtZW50KCJudW1iZXIiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>レッスン時間集計用テーブル作成</text>
+        <text encoding="base64">JHRoaXMtPmFyZ3VtZW50KCJudW1iZXIiKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludENvbHVtbnMucHVzaChUQVJHRVRfQ09MVU1OX0lOREVYLlNUQVJUX0FUKQo=</text>
+        <text encoding="base64">ICAgICAgICBSb29tOjpkZWxldGVFcnJvckxvZ3MoJG51bWJlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kbnVtYmVyID0gJHRoaXMtPmFyZ3VtZW50KCJudW1iZXIiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -215,28 +204,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgc2hlZXQgPSBzcHJlYWRzaGVldC5nZXRTaGVldEJ5TmFtZSgnU2Nob29sTGlzdEluUmVzZXJ2YXRpb25FbmdpbmUnKQogIHZhciByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj1zcWxpdGUKREJfSE9TVD0xMjcuMC4wLjEKREJfUE9SVD0zMzA2CkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBSb29tOjpkZWxldGVFcnJvckxvZ3MoJG51bWJlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTEyNy4wLjAuMQpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y2xhc3Nyb29tCkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9bXlzcWwK</text>
+        <text encoding="base64">ICAgICAgICAkbnVtYmVyPSAkdGhpcy0+YXJndW1lbnQoIm51bWJlciIpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9vbTo6ZGVsZXRlRXJyb3JMb2dzKCRudW1iZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oImRlbGV0ZSBlcnJvciBsb2cgZm9yIHNjaG9vbCBubyAkbnVtYmVyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygiZGVsZXRlIGVycm9yIGxvZyBmb3Igc2Nob29sIG5vICRudW1iZXIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
