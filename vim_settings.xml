@@ -9,12 +9,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Console/Commands/LessonSlotDistribution.php" timestamp="1547539831321">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1547699861021">
-        <mark key="'" line="39" column="73" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1554367112155">
         <mark key="'" line="205" column="9" />
         <mark key="[" line="228" column="46" />
@@ -22,14 +16,8 @@
         <mark key="." line="228" column="56" />
         <mark key="^" line="228" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Http/Controllers/SchoolController.php" timestamp="1543288738629">
-        <mark key="'" line="48" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_errors.blade.php" timestamp="1551335371414">
-        <mark key="'" line="66" column="25" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1551336318782">
-        <mark key="'" line="85" column="2" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1554959812845">
+        <mark key="'" line="167" column="33" />
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -41,13 +29,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1551335259581">
-        <mark key="'" line="154" column="9" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1554710576471">
         <mark key="[" line="65" column="57" />
         <mark key="]" line="65" column="57" />
         <mark key="." line="65" column="57" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1554959835473">
+        <mark key="u" line="175" column="55" />
+        <mark key="[" line="200" column="29" />
+        <mark key="]" line="200" column="29" />
+        <mark key="." line="200" column="29" />
       </file>
       <file name="/exportFromReservationSystem.js" timestamp="1554258245323" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
@@ -62,9 +53,6 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.gitignore" timestamp="1554712062981" />
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Domain/DateTime.php" timestamp="1547539864632">
-        <mark key="'" line="16" column="40" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1554881537231">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="44" column="22" />
@@ -81,7 +69,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="2" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="138" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="137" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="136" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -181,19 +168,20 @@
       <jump line="205" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
+      <jump line="167" column="33" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Nob29sSWQgPSAkdGhpcy0+YXJndW1lbnQoInNjaG9vbElkIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.message</text>
       </register>
       <register name="-" type="4">
-        <text>schoolId</text>
+        <text>.message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</text>
+        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSb29tOjpkZWxldGVFcnJvckxvZ3MoJG51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VuZExlc3NvbkVycm9yTG9ncyhlcnIubWVzc2FnZSwgJ2dldFVzZXJNZWRpYSBlcnJvcicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkc2Nob29sSWQgPSAkdGhpcy0+YXJndW1lbnQoInNjaG9vbElkIik7Cg==</text>
@@ -233,9 +221,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -243,7 +231,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVNFUlZFX1NUQVRVU1w+</entry>
         <entry encoding="base64">XDx0YXJnZXRTaGVldFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</entry>
         <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
@@ -263,6 +250,7 @@
         <entry encoding="base64">XDxwYXJzZUxlc3NvblRpbWVcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0RGF0YVNldFw+</entry>
         <entry encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
