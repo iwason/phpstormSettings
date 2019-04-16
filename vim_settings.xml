@@ -3,27 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/package.json" timestamp="1554710778126" />
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1551856940350">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1554367112155">
-        <mark key="'" line="205" column="9" />
-        <mark key="[" line="228" column="46" />
-        <mark key="]" line="228" column="56" />
-        <mark key="." line="228" column="56" />
-        <mark key="^" line="228" column="56" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1554959812845">
-        <mark key="'" line="167" column="33" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteCommand.php" timestamp="1554882414606" />
       <file name="/Dummy.txt" timestamp="1554712195864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -34,14 +13,19 @@
         <mark key="]" line="65" column="57" />
         <mark key="." line="65" column="57" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1554960564382">
-        <mark key="u" line="175" column="55" />
-        <mark key="[" line="235" column="36" />
-        <mark key="]" line="235" column="36" />
-        <mark key="." line="235" column="36" />
-        <mark key="^" line="235" column="36" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env.example" timestamp="1551856940350">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="/exportFromReservationSystem.js" timestamp="1554258245323" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1555402109675">
+        <mark key="u" line="175" column="55" />
+        <mark key="'" line="214" column="11" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="128" column="19" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="16" />
@@ -53,13 +37,33 @@
         <mark key="^" line="50" column="42" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.gitignore" timestamp="1554712062981" />
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1555400273394" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1554367112155">
+        <mark key="'" line="205" column="9" />
+        <mark key="[" line="228" column="46" />
+        <mark key="]" line="228" column="56" />
+        <mark key="." line="228" column="56" />
+        <mark key="^" line="228" column="56" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1555401187731">
+        <mark key="'" line="167" column="33" />
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="25" />
+        <mark key="." line="98" column="25" />
+        <mark key="^" line="98" column="25" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1554881537231">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="23" />
         <mark key="." line="44" column="23" />
         <mark key="^" line="44" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/pug/pages/room/room.pug" timestamp="1555400715864">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/schedule.js" timestamp="1551683902406">
         <mark key="'" line="5" column="7" />
@@ -70,7 +74,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="137" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="136" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="28" column="3" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -170,37 +173,38 @@
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
       <jump line="167" column="33" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
+      <jump line="214" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z2Fpbk5vZGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbnNlcnZhbE51bWJlcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.message</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Z2Fpbk5vZGUg</text>
+        <text>intervalNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvQ3R4LmNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbnNlcnZhbE51bWJlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Nob29sSWQgPSAkdGhpcy0+YXJndW1lbnQoInNjaG9vbElkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gU2Nob29sOjp3aXRoKCdyb29tcycpLT5maW5kKCRzY2hvb2xJZCk7CgogICAgICAgIGlmIChlbXB0eSgkc2Nob29sKSkgewogICAgICAgICAgICAkdGhpcy0+aW5mbygiZGVsZXRlIGNoYXQgbG9nIGZhaWxlZC4iKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkcm9vbUNvdW50ID0gJHNjaG9vbC0+cm9vbXMtPmNvdW50KCk7CiAgICAgICAgICAgIGZvciAoJGkgPSAxOyAkaSA8PSAkcm9vbUNvdW50OyAkaSsrKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygiZGVsZXRlIGNoYXQgbG9nIGZvciBzY2hvb2wgbm8gJHNjaG9vbElkIik7CiAgICAgICAgICAgICAgICBSb29tOjpkZWxldGVDaGF0TG9ncygkc2Nob29sSWQsICRpKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kbnVtYmVyID0gJHRoaXMtPmFyZ3VtZW50KCJudW1iZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -209,22 +213,22 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">6ZaT6YGV44Gj44Gm44GE44Gf44KJ44CB44GV44GN44G744Gp44Gu55S76Z2i44Gr5oi744KK44CB5oyH5a6a44GV44KM44Gf44Os44OD44K544Oz44Or44O844OgTm8u44KS44Kv44Oq44OD44Kv44GX44Gq44GK44GX44Gm44GP44Gg44GV44GE44CCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44Os44OD44K544Oz44Or44O844OgTm8u44CH44G444Gu5YWl5a6k44Gn6ZaT6YGV44GE44Gq44GE44Gn44GZ44GL77yfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSb29tOjpkZWxldGVFcnJvckxvZ3MoJG51bWJlcik7Cg==</text>
+        <text encoding="base64">4oC75b+F44Ga56K66KqN44GX44G+44GX44KH44GG4oC7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -232,7 +236,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXJnZXRTaGVldFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</entry>
         <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
         <entry encoding="base64">XDx3aGl0ZVw+</entry>
@@ -252,6 +255,7 @@
         <entry encoding="base64">XDxjb252ZXJ0RGF0YVNldFw+</entry>
         <entry encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
