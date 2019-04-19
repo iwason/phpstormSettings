@@ -3,10 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554712195864">
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1554957423017">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="50" column="42" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555641780651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1555642943721">
+        <mark key="'" line="358" column="9" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1554710576471">
         <mark key="[" line="65" column="57" />
@@ -30,20 +43,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1554957423017">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="50" column="42" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1555400273394" />
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1554367112155">
-        <mark key="'" line="205" column="9" />
-        <mark key="[" line="228" column="46" />
-        <mark key="]" line="228" column="56" />
-        <mark key="." line="228" column="56" />
-        <mark key="^" line="228" column="56" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1555401187731">
         <mark key="'" line="167" column="33" />
@@ -74,14 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="136" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="28" column="3" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="112" column="36" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="160" column="41" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="178" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="113" column="36" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="114" column="36" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="115" column="0" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="135" column="2" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -114,7 +105,6 @@
       <jump line="311" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="74" column="5" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="77" column="37" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="73" column="6" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="12" column="47" filename="$USER_HOME$/PhpstormProjects/gas/README.md" />
       <jump line="7" column="1" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/_entry.js" />
       <jump line="2" column="9" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
@@ -174,37 +164,46 @@
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" />
       <jump line="167" column="33" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" />
       <jump line="214" column="11" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="72" column="6" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="108" column="37" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="73" column="2" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="87" column="37" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="107" column="20" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="125" column="39" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="265" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
+      <jump line="358" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbnNlcnZhbE51bWJlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</text>
+        <text encoding="base64">XDxwcmVwYXJlRGF0YVNldFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>intervalNumber</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG51bGwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbnNlcnZhbE51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnR1JBREUnOiA1LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhpbnNlcnZhbE51bWJlcik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -213,22 +212,22 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">6ZaT6YGV44Gj44Gm44GE44Gf44KJ44CB44GV44GN44G744Gp44Gu55S76Z2i44Gr5oi744KK44CB5oyH5a6a44GV44KM44Gf44Os44OD44K544Oz44Or44O844OgTm8u44KS44Kv44Oq44OD44Kv44GX44Gq44GK44GX44Gm44GP44Gg44GV44GE44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44Os44OD44K544Oz44Or44O844OgTm8u44CH44G444Gu5YWl5a6k44Gn6ZaT6YGV44GE44Gq44GE44Gn44GZ44GL77yfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">4oC75b+F44Ga56K66KqN44GX44G+44GX44KH44GG4oC7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxwcmVwYXJlRGF0YVNldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVwYXJlRGF0YVNldFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -236,11 +235,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplQXBwXD4=</entry>
-        <entry encoding="base64">XDxSU0xfU0hFRVRfSURcPg==</entry>
-        <entry encoding="base64">XDx3aGl0ZVw+</entry>
-        <entry encoding="base64">XDxnZXRNYXRlcmlhbFBhdGhcPg==</entry>
-        <entry encoding="base64">XDxidWlsZE1hdGVyaWFsSW5mb1w+</entry>
         <entry encoding="base64">XDxpc0ZvclNhbGVzXD4=</entry>
         <entry encoding="base64">XDxzZXRDb2xvcnNcPg==</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
@@ -256,6 +250,11 @@
         <entry encoding="base64">XDxjb21wYXJlRXhpc3RpbmdTbG90c1w+</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzZXRVcEF1ZGlvQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDx0YXJnZXRSYW5nZVw+</entry>
+        <entry encoding="base64">XDx0YXJnZXRTaGVldFw+</entry>
+        <entry encoding="base64">XDxUQVJHRVRfQ09MVU1OX0lOREVYXD4=</entry>
+        <entry encoding="base64">XDxnZXRMZXNzb25Ob0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxwcmVwYXJlRGF0YVNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
