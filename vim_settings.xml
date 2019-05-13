@@ -9,10 +9,16 @@
         <mark key="^" line="50" column="42" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556005958158">
+      <file name="/Dummy.txt" timestamp="1557721014318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1557720888817">
+        <mark key="[" line="46" column="72" />
+        <mark key="]" line="46" column="72" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="46" column="72" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1555659048724">
         <mark key="[" line="61" column="0" />
@@ -173,17 +179,17 @@
       <jump line="392" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\t</text>
       </register>
       <register name="-" type="4">
-        <text>est').on('click', function() {</text>
+        <text>\t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheTFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">dG9MaXN0IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
