@@ -3,28 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1556013944807">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="50" column="42" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1557721014318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1557720888817">
-        <mark key="[" line="46" column="72" />
-        <mark key="]" line="46" column="72" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="46" column="72" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1555659048724">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1554710576471">
         <mark key="[" line="65" column="57" />
@@ -47,6 +29,28 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteChatsCommand.php" timestamp="1556013944807">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="50" column="42" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1557720888817">
+        <mark key="[" line="46" column="72" />
+        <mark key="]" line="46" column="72" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="46" column="72" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1557797839372" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1555659048724">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1557797732989">
+        <mark key="'" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1556168276325">
         <mark key="'" line="167" column="33" />
@@ -77,8 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="21" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
-      <jump line="140" column="69" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="141" column="31" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="127" column="10" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
       <jump line="149" column="9" filename="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" />
@@ -177,6 +179,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="33" column="8" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
       <jump line="392" column="6" filename="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" />
+      <jump line="57" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/package.json" />
+      <jump line="43" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -186,7 +190,7 @@
         <text>\t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnJheTFcPg==</text>
+        <text encoding="base64">XDxmdW5jdGlvbnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dG9MaXN0IA==</text>
@@ -230,9 +234,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnJheTFcPg==</last-search>
+      <last-search encoding="base64">XDxmdW5jdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnJheTFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmdW5jdGlvbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZWZlcnJlbmNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -240,7 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRDb2xvcnNcPg==</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxmaXJlYmFzZVw+</entry>
         <entry encoding="base64">XDxzY2hvb2xVcmlcPg==</entry>
@@ -260,6 +263,7 @@
         <entry encoding="base64">XDxnZXRMZXNzb25Ob0xpc3RcPg==</entry>
         <entry encoding="base64">XDxwcmVwYXJlRGF0YVNldFw+</entry>
         <entry encoding="base64">XDxhcnJheTFcPg==</entry>
+        <entry encoding="base64">XDxmdW5jdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
