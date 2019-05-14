@@ -18,11 +18,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1557212386163">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1557811327264">
         <mark key="u" line="175" column="55" />
         <mark key="'" line="392" column="6" />
         <mark key="[" line="398" column="0" />
-        <mark key="]" line="406" column="5" />
+        <mark key="]" line="407" column="0" />
         <mark key="." line="398" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
@@ -51,13 +51,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1557797732989">
         <mark key="'" line="43" column="14" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/firebase.js" timestamp="1556168276325">
-        <mark key="'" line="167" column="33" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="7" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="64" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1554881537231">
         <mark key="'" line="12" column="0" />
@@ -183,8 +176,8 @@
       <jump line="43" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAkKCcjc291bmQtdGVzdCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgYXVkaW9DdHgucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogICAgfSkuY2F0Y2goCiAgICAgIChlcnJvcikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICAgIH0KICAgICk7CiAgfSk7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>\t</text>
@@ -192,8 +185,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dG9MaXN0IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAkKCcjc291bmQtdGVzdCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgYXVkaW9DdHgucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogICAgfSkuY2F0Y2goCiAgICAgIChlcnJvcikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICAgIH0KICAgICk7CiAgfSk7Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
