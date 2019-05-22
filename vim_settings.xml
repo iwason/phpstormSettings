@@ -18,11 +18,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1557811327264">
+      <file name="$USER_HOME$/PhpstormProjects/front-end-base/src/js/lessonRoom.js" timestamp="1558509938914">
         <mark key="u" line="175" column="55" />
         <mark key="'" line="392" column="6" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="407" column="0" />
+        <mark key="[" line="150" column="6" />
+        <mark key="]" line="150" column="18" />
         <mark key="." line="398" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
@@ -42,7 +42,6 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="46" column="72" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/front-end-base/webpack.config.js" timestamp="1557797839372" />
       <file name="$USER_HOME$/PhpstormProjects/gas/exportFromReservationSystem.js" timestamp="1555659048724">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -176,8 +175,8 @@
       <jump line="43" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkKCcjc291bmQtdGVzdCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgYXVkaW9DdHgucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogICAgfSkuY2F0Y2goCiAgICAgIChlcnJvcikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICAgIH0KICAgICk7CiAgfSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>clearInterval</text>
       </register>
       <register name="-" type="4">
         <text>\t</text>
@@ -185,8 +184,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAkKCcjc291bmQtdGVzdCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgYXVkaW9DdHgucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogICAgfSkuY2F0Y2goCiAgICAgIChlcnJvcikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICAgIH0KICAgICk7CiAgfSk7Cgo=</text>
+      <register name="0" type="4">
+        <text>clearInterval</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
