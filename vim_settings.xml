@@ -3,10 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557721014318">
+      <file name="/Dummy.txt" timestamp="1560239322887">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1560239245496">
+        <mark key="[" line="213" column="68" />
+        <mark key="]" line="213" column="71" />
+        <mark key="." line="213" column="71" />
+        <mark key="^" line="213" column="71" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/resources/views/rooms/show_urls.blade.php" timestamp="1554710576471">
         <mark key="[" line="65" column="57" />
@@ -50,6 +54,12 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1557797732989">
         <mark key="'" line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteAllLogsCommand.php" timestamp="1560239302027">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/GetErrorLogCommand.php" timestamp="1554881537231">
         <mark key="'" line="12" column="0" />
@@ -175,51 +185,51 @@
       <jump line="43" column="14" filename="$USER_HOME$/PhpstormProjects/front-end-base/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clearInterval</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSb29tOjpkZWxldGVDaGF0TG9ncygkaSwgJGopOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\t</text>
+        <text>chats</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>clearInterval</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5oyH5a6a44GX44Gf5a2m5qCh44Gu6YOo5bGL44Gu44OB44Oj44OD44OI44Ot44Kw44KS5YmK6ZmkCiAgICAgKiBAcGFyYW0gJHNjaG9vbElkCiAgICAgKiBAcGFyYW0gJHJvb21JZAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGRlbGV0ZUNoYXRMb2dzKCRzY2hvb2xJZCwgJHJvb21JZCkKICAgIHsKICAgICAgICAkZmlyZWJhc2UgPSBuZXcgRmlyZWJhc2UoKTsKICAgICAgICAkc2Nob29sSWQgPSBTY2hvb2w6OmdldFNjaG9vbElkT25GaXJlYmFzZSgkc2Nob29sSWQpOwogICAgICAgICRmaXJlYmFzZS0+ZGVsZXRlRGF0YSgiL3NjaG9vbHMveyRzY2hvb2xJZH0vcm9vbXMveyRyb29tSWR9L2NoYXRzIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSb29tOjpkZWxldGVDaGF0TG9ncygkaSwgJGopOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2VuZExlc3NvbkVycm9yTG9ncygnZW51bWVyYXRlIGRldmljZSBlcnJvcicsZXJyb3IubWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygiZGVsZXRlIGNoYXQgbG9nIGZvciBzY2hvb2wgbm8gJGkiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uKCkgewogIGNvbnRleHQucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnUGxheWJhY2sgcmVzdW1lZCBzdWNjZXNzZnVsbHknKTsKICB9KTsKfSk7Cg==</text>
+        <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICBhdWRpb0N0eC5yZXN1bWUoKS50aGVuKCgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIHN1Y2Nlc3NmdWxseScpOwogIH0pLmNhdGNoKAogICAgKGVycm9yKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdQbGF5YmFjayByZXN1bWVkIGVycm9yJyk7CiAgICB9CiAgKTsKfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoJyNzb3VuZC10ZXN0JykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgICAgc2VuZExlc3NvbkVycm9yTG9ncygnZW51bWVyYXRlIGRldmljZSBlcnJvcicsZXJyb3IubWVzc2FnZSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>css(&quot;visibility&quot;, &quot;visible&quot;);
-    document.querySelector('button')</text>
+      <register name="5" type="2">
+        <text encoding="base64">JCgnI3NvdW5kLXRlc3QnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uKCkgewogIGNvbnRleHQucmVzdW1lKCkudGhlbigoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnUGxheWJhY2sgcmVzdW1lZCBzdWNjZXNzZnVsbHknKTsKICB9KTsKfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQoJyNzb3VuZC10ZXN0JykuY3NzKCJ2aXNpYmlsaXR5IiwgInZpc2libGUiKTsKICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ2J1dHRvbicpLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICQoJyNzb3VuZC10ZXN0JykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>css(&quot;visibility&quot;, &quot;visible&quot;);
+    document.querySelector('button')</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICQoJyNzb3VuZC10ZXN0JykuY3NzKCJ2aXNpYmlsaXR5IiwgInZpc2libGUiKTsKICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ2J1dHRvbicpLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KS5sZW5ndGggPT0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
