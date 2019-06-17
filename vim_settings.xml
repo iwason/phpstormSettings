@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1560762957891">
+      <file name="/Dummy.txt" timestamp="1560770308135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Models/Room.php" timestamp="1560239245496">
@@ -29,11 +29,11 @@
         <mark key="]" line="150" column="18" />
         <mark key="." line="398" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/gas/README.md" timestamp="1560763975757">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/gas/README.md" timestamp="1560770125994">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="27" column="34" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/.env" timestamp="1551856916473">
         <mark key="[" line="8" column="0" />
@@ -200,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ToolBox</text>
+        <text>。</text>
       </register>
       <register name="-" type="4">
-        <text>ToolBox</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMRVNTT05fREFZXD4=</text>
