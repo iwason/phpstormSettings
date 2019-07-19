@@ -61,6 +61,12 @@
         <mark key="'" line="39" column="48" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/OyasumiModel.php" timestamp="1563420795897" />
+      <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteAllLogsCommand.php" timestamp="1563500686498">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="35" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/cardchange/card_regist.php" timestamp="1563331453716">
         <mark key="'" line="92" column="8" />
       </file>
