@@ -3,20 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/lessonTuutiMail_Every30min.php" timestamp="1563416665218">
+        <mark key="'" line="83" column="1" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/lessonTuutiMail.php" timestamp="1563415776940">
+        <mark key="'" line="79" column="5" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/LessonManagementModel.php" timestamp="1563421094432">
         <mark key="'" line="270" column="13" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/mail/MemberMailEditMailModel.php" timestamp="1563329754904" />
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/ticket_purchase.php" timestamp="1563332044604">
         <mark key="'" line="434" column="83" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/RyugakuModel.php" timestamp="1563420481038" />
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/conf/const.php" timestamp="1563423020102">
+        <mark key="'" line="499" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/Repository/AmsRepository.php" timestamp="1562637555355">
         <mark key="'" line="96" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/mail/PasswordForgetMailModel.php" timestamp="1563329592388" />
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/dao/MemberDAO.php" timestamp="1563345541384">
+        <mark key="'" line="862" column="59" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/teacher/model/TopModel.php" timestamp="1563422540150">
+        <mark key="'" line="124" column="25" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/TeacherDetailModel.php" timestamp="1563420312905">
         <mark key="'" line="265" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/CurlManager.php" timestamp="1562637345733">
+        <mark key="'" line="39" column="48" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/gas/detectDataDefect.js" timestamp="1564103708943">
+        <mark key="[" line="22" column="110" />
+        <mark key="]" line="22" column="110" />
+        <mark key="." line="22" column="110" />
+        <mark key="^" line="22" column="109" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/controllers/batch.php" timestamp="1563421596913">
         <mark key="[" line="27" column="23" />
@@ -25,42 +46,6 @@
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/keizokuSaisokuMail.php" timestamp="1563331146337">
         <mark key="'" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/mail/BankTransferYokokuMailModel.php" timestamp="1563329905327" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/tools/utils/SendMail.php" timestamp="1563413789935">
-        <mark key="'" line="205" column="19" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/english/payment_of_designated_amount.php" timestamp="1563420129683">
-        <mark key="'" line="221" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/MemberRegistModel.php" timestamp="1563420675834" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/controllers/management.php" timestamp="1563421879480">
-        <mark key="'" line="333" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/fixOverlapBatch.php" timestamp="1563414498350" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/birthdayLetterBatch.php" timestamp="1563415891506" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/MyPageModel.php" timestamp="1563413177047">
-        <mark key="'" line="356" column="16" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/lessonTuutiMail_Every30min.php" timestamp="1563416665218">
-        <mark key="'" line="83" column="1" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/mail/password_forget.tpl" timestamp="1563329558977" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/lessonTuutiMail.php" timestamp="1563415776940">
-        <mark key="'" line="79" column="5" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/conf/const.php" timestamp="1563423020102">
-        <mark key="'" line="499" column="7" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/dao/MemberDAO.php" timestamp="1563345541384">
-        <mark key="'" line="862" column="59" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/teacher/model/TopModel.php" timestamp="1563422540150">
-        <mark key="'" line="124" column="25" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/zebra/app/Infrastructure/CurlManager.php" timestamp="1562637345733">
-        <mark key="'" line="39" column="48" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/english/model/OyasumiModel.php" timestamp="1563420795897" />
       <file name="$USER_HOME$/PhpstormProjects/clasroomAdmin/app/Console/Commands/DeleteAllLogsCommand.php" timestamp="1563500686498">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -79,16 +64,21 @@
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/_YoyakuModel.php" timestamp="1563350789361">
         <mark key="'" line="1182" column="12" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/tools/utils/SendMail.php" timestamp="1563413789935">
+        <mark key="'" line="205" column="19" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/MemberRegistFinishModel.php" timestamp="1563350207828">
         <mark key="'" line="68" column="35" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/english/payment_of_designated_amount.php" timestamp="1563420129683">
+        <mark key="'" line="221" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/EsRecurringPaymentClass.php" timestamp="1563416043826">
         <mark key="'" line="295" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/rankUpdateBatch.php" timestamp="1563419988236" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/dao/ContractDAO.php" timestamp="1563414869975" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/keizokuSaisokuMail.php" timestamp="1563414896196" />
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/notificationOfClassBatch.php5" timestamp="1563414625954" />
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/controllers/management.php" timestamp="1563421879480">
+        <mark key="'" line="333" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/RyugakuModel.php" timestamp="1563350154920">
         <mark key="'" line="114" column="20" />
       </file>
@@ -98,16 +88,16 @@
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/MemberModel.php" timestamp="1563413569474">
         <mark key="'" line="736" column="36" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/mail/MemberRegistModel.php" timestamp="1563329627730" />
       <file name="$USER_HOME$/PhpstormProjects/front-end-base/package.json" timestamp="1557797732989">
         <mark key="'" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/plan_cancel.php" timestamp="1563413688463" />
+      <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/MyPageModel.php" timestamp="1563413177047">
+        <mark key="'" line="356" column="16" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/kidspark/common/conf/constEnv.prod.php" timestamp="1563426946729">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/kidspark/common/common/checkTeacherArrivalBatch.php" timestamp="1563415029255" />
       <file name="$USER_HOME$/PhpstormProjects/kidspark/user/login/model/BankTransferYokokuModel.php" timestamp="1563332222639">
         <mark key="'" line="117" column="16" />
       </file>
@@ -216,16 +206,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://www.ripple-kidspark.com/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjX3N1cHBvcnRfbWFpbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>https://www.ripple-kidspark.com/</text>
+        <text>schoolDataList[i][SCHOOL_MASTER_COLUMN.EXPECTED]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
